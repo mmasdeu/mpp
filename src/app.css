@@ -1,0 +1,13 @@
+:root { --fg:#222; --muted:#5a5a5a; --bg:#fbfaf7; --accent:#8a3b12; --line:#ddd6c8; font-family: system-ui, sans-serif; }
+* { box-sizing: border-box; }
+body { margin:0; color:var(--fg); background:var(--bg); line-height:1.5; }
+header { display:flex; flex-wrap:wrap; gap:1rem; align-items:center; justify-content:space-between; padding:.75rem 1rem; border-bottom:1px solid var(--line); }
+header nav { display:flex; gap:1rem; }
+a { color:var(--accent); } a:focus-visible { outline:3px solid #0a5; outline-offset:2px; }
+.brand { font-weight:700; text-decoration:none; font-size:1.1rem; }
+main { max-width:60rem; margin:0 auto; padding:1rem; }
+footer { max-width:60rem; margin:2rem auto 1rem; padding:0 1rem; color:var(--muted); font-size:.85rem; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.35rem 0; border-bottom:1px solid var(--line); }
+.badge { font-size:.75rem; background:#f1e3b8; color:#5a4300; padding:.1rem .4rem; border-radius:.3rem; }
+.map { width:100%; height:70vh; min-height:320px; border:1px solid var(--line); }
+dl dt { font-weight:600; margin-top:.75rem; } dl dd { margin:0; }

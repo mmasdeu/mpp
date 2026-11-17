@@ -1,0 +1,93 @@
+[
+ {
+  "id": "r01",
+  "name": "Agulles",
+  "slug": "agulles",
+  "sectionIds": [
+   "s01",
+   "s02",
+   "s03",
+   "s04"
+  ],
+  "bookReference": {
+   "pageStart": 8
+  }
+ },
+ {
+  "id": "r02",
+  "name": "Frares Encantats",
+  "slug": "frares-encantats",
+  "sectionIds": [
+   "s05",
+   "s06",
+   "s07"
+  ],
+  "bookReference": {
+   "pageStart": 81
+  }
+ },
+ {
+  "id": "r03",
+  "name": "Ecos",
+  "slug": "ecos",
+  "sectionIds": [
+   "s08",
+   "s09",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s14"
+  ],
+  "bookReference": {
+   "pageStart": 131
+  }
+ },
+ {
+  "id": "r04",
+  "name": "Sant Jeroni o el Tabor",
+  "slug": "sant-jeroni",
+  "sectionIds": [
+   "s15",
+   "s16",
+   "s17",
+   "s18",
+   "s19"
+  ],
+  "bookReference": {
+   "pageStart": 189
+  }
+ },
+ {
+  "id": "r05",
+  "name": "Magdalenes o Tebes",
+  "slug": "magdalenes",
+  "sectionIds": [
+   "s20",
+   "s21",
+   "s22",
+   "s23",
+   "s24",
+   "s25",
+   "s26",
+   "s27",
+   "s28",
+   "s29"
+  ],
+  "bookReference": {}
+ },
+ {
+  "id": "r06",
+  "name": "Tebaida",
+  "slug": "tebaida",
+  "sectionIds": [
+   "s30",
+   "s31",
+   "s32",
+   "s33",
+   "s34",
+   "s35"
+  ],
+  "bookReference": {}
+ }
+]

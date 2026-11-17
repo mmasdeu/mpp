@@ -1,0 +1,12 @@
+import { readFileSync } from 'node:fs';
+import { validate } from '../src/lib/data/validation';
+const rd = (f: string) => JSON.parse(readFileSync(new URL(`../data/${f}.json`, import.meta.url), 'utf8'));
+const issues = validate({ regions: rd('regions'), sections: rd('sections'), needles: rd('needles') });
+const errors = issues.filter((i) => i.level === 'error');
+const warnings = issues.filter((i) => i.level === 'warning');
+for (const e of errors) console.error('ERROR  ', e.message);
+const shown = warnings.slice(0, 5);
+for (const w of shown) console.warn('WARNING', w.message);
+if (warnings.length > shown.length) console.warn(`... and ${warnings.length - shown.length} more warnings`);
+console.log(`${errors.length} errors, ${warnings.length} warnings`);
+process.exit(errors.length ? 1 : 0);

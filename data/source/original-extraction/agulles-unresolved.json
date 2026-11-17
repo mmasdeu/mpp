@@ -1,0 +1,112 @@
+[
+ {
+  "candidate": {
+   "line": 593,
+   "pdfPage": 18,
+   "rawHeading": "LA    PORTELLA -17",
+   "name": "LA PORTELLA",
+   "semirRef": "17",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 692,
+   "pdfPage": 21,
+   "rawHeading": "ROCA DE LES VUIT -14-",
+   "name": "ROCA DE LES VUIT",
+   "semirRef": "14",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 693,
+   "pdfPage": 21,
+   "rawHeading": "MIRANDA DE LA PORTELLA -15-",
+   "name": "MIRANDA DE LA PORTELLA",
+   "semirRef": "15",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 1004,
+   "pdfPage": 28,
+   "rawHeading": "EL DAUET D'AGULLES -16-",
+   "name": "EL DAUET D'AGULLES",
+   "semirRef": "16",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 1091,
+   "pdfPage": 30,
+   "rawHeading": "LA    PELADA 19-20",
+   "name": "LA PELADA 19",
+   "semirRef": "20",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 1476,
+   "pdfPage": 40,
+   "rawHeading": "LA   BANDERETA   -37-",
+   "name": "LA BANDERETA",
+   "semirRef": "37",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 2375,
+   "pdfPage": 60,
+   "rawHeading": "LA ROCA DE            LA   PARTIÓ -61-",
+   "name": "LA ROCA DE LA PARTIÓ",
+   "semirRef": "61",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 2722,
+   "pdfPage": 69,
+   "rawHeading": "L'OU     DE    COLOM   -93",
+   "name": "L'OU DE COLOM",
+   "semirRef": "93",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 2931,
+   "pdfPage": 74,
+   "rawHeading": "ROCA DE L'ESCORPI' -66-",
+   "name": "ROCA DE L'ESCORPI'",
+   "semirRef": "66",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 3143,
+   "pdfPage": 79,
+   "rawHeading": "LA CADIRETA         -70-",
+   "name": "LA CADIRETA",
+   "semirRef": "70",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ }
+]

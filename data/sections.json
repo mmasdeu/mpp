@@ -1,0 +1,500 @@
+[
+ {
+  "id": "s01",
+  "regionId": "r01",
+  "name": "Sant Pau Vell",
+  "order": 1,
+  "description": null,
+  "needleIds": [
+   "n0001"
+  ],
+  "bookReference": {
+   "pageStart": 10,
+   "pageEnd": 16
+  }
+ },
+ {
+  "id": "s02",
+  "regionId": "r01",
+  "name": "Pallers",
+  "order": 2,
+  "description": null,
+  "needleIds": [
+   "n0002",
+   "n0003",
+   "n0004",
+   "n0005",
+   "n0006",
+   "n0007",
+   "n0008",
+   "n0009",
+   "n0010",
+   "n0011",
+   "n0012",
+   "n0013",
+   "n0014",
+   "n0015"
+  ],
+  "bookReference": {
+   "pageStart": 17,
+   "pageEnd": 28
+  }
+ },
+ {
+  "id": "s03",
+  "regionId": "r01",
+  "name": "Saques",
+  "order": 3,
+  "description": null,
+  "needleIds": [
+   "n0016",
+   "n0017",
+   "n0018",
+   "n0019",
+   "n0020",
+   "n0021",
+   "n0022",
+   "n0023",
+   "n0024",
+   "n0025",
+   "n0026",
+   "n0027",
+   "n0028",
+   "n0029",
+   "n0030",
+   "n0031",
+   "n0032",
+   "n0033",
+   "n0034",
+   "n0035",
+   "n0036",
+   "n0037",
+   "n0038",
+   "n0039",
+   "n0040",
+   "n0041",
+   "n0042",
+   "n0043",
+   "n0044",
+   "n0045",
+   "n0046",
+   "n0047"
+  ],
+  "bookReference": {
+   "pageStart": 29,
+   "pageEnd": 58
+  }
+ },
+ {
+  "id": "s04",
+  "regionId": "r01",
+  "name": "Bola",
+  "order": 4,
+  "description": null,
+  "needleIds": [
+   "n0048",
+   "n0049",
+   "n0050",
+   "n0051",
+   "n0052",
+   "n0053",
+   "n0054",
+   "n0055",
+   "n0056",
+   "n0057",
+   "n0058",
+   "n0059",
+   "n0060",
+   "n0061",
+   "n0062",
+   "n0063",
+   "n0064",
+   "n0065",
+   "n0066",
+   "n0067",
+   "n0068",
+   "n0069",
+   "n0070",
+   "n0071",
+   "n0072",
+   "n0073",
+   "n0074"
+  ],
+  "bookReference": {
+   "pageStart": 59,
+   "pageEnd": 82
+  }
+ },
+ {
+  "id": "s05",
+  "regionId": "r02",
+  "name": "Centenar",
+  "order": 5,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 83,
+   "pageEnd": 100
+  }
+ },
+ {
+  "id": "s06",
+  "regionId": "r02",
+  "name": "Frares",
+  "order": 6,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 101,
+   "pageEnd": 124
+  }
+ },
+ {
+  "id": "s07",
+  "regionId": "r02",
+  "name": "Miranda del Príncep",
+  "order": 7,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 125,
+   "pageEnd": 132
+  }
+ },
+ {
+  "id": "s08",
+  "regionId": "r03",
+  "name": "Comes",
+  "order": 8,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 133,
+   "pageEnd": 144
+  }
+ },
+ {
+  "id": "s09",
+  "regionId": "r03",
+  "name": "Naps",
+  "order": 9,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 145,
+   "pageEnd": 152
+  }
+ },
+ {
+  "id": "s10",
+  "regionId": "r03",
+  "name": "Roca roja",
+  "order": 10,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 153,
+   "pageEnd": 158
+  }
+ },
+ {
+  "id": "s11",
+  "regionId": "r03",
+  "name": "Palomera",
+  "order": 11,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 159,
+   "pageEnd": 166
+  }
+ },
+ {
+  "id": "s12",
+  "regionId": "r03",
+  "name": "Faraó",
+  "order": 12,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 167,
+   "pageEnd": 172
+  }
+ },
+ {
+  "id": "s13",
+  "regionId": "r03",
+  "name": "Montgrós",
+  "order": 13,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 173,
+   "pageEnd": 180
+  }
+ },
+ {
+  "id": "s14",
+  "regionId": "r03",
+  "name": "Ecos",
+  "order": 14,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 181,
+   "pageEnd": 190
+  }
+ },
+ {
+  "id": "s15",
+  "regionId": "r04",
+  "name": "Sant Jeroni",
+  "order": 15,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 191,
+   "pageEnd": 210
+  }
+ },
+ {
+  "id": "s16",
+  "regionId": "r04",
+  "name": "Serrat del Moro",
+  "order": 16,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 211,
+   "pageEnd": 224
+  }
+ },
+ {
+  "id": "s17",
+  "regionId": "r04",
+  "name": "Sant Antoni",
+  "order": 17,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 225,
+   "pageEnd": 236
+  }
+ },
+ {
+  "id": "s18",
+  "regionId": "r04",
+  "name": "Albarda",
+  "order": 18,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 237,
+   "pageEnd": 242
+  }
+ },
+ {
+  "id": "s19",
+  "regionId": "r04",
+  "name": "Coll de Muset",
+  "order": 19,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 243,
+   "pageEnd": 258
+  }
+ },
+ {
+  "id": "s20",
+  "regionId": "r05",
+  "name": "Pollegons",
+  "order": 20,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 259,
+   "pageEnd": 266
+  }
+ },
+ {
+  "id": "s21",
+  "regionId": "r05",
+  "name": "Bellavista",
+  "order": 21,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 267,
+   "pageEnd": 272
+  }
+ },
+ {
+  "id": "s22",
+  "regionId": "r05",
+  "name": "La Plantació",
+  "order": 22,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 273,
+   "pageEnd": 286
+  }
+ },
+ {
+  "id": "s23",
+  "regionId": "r05",
+  "name": "Sant Pere",
+  "order": 23,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 287,
+   "pageEnd": 292
+  }
+ },
+ {
+  "id": "s24",
+  "regionId": "r05",
+  "name": "Les Gorres",
+  "order": 24,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 293,
+   "pageEnd": 304
+  }
+ },
+ {
+  "id": "s25",
+  "regionId": "r05",
+  "name": "Sant Joan",
+  "order": 25,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 305,
+   "pageEnd": 308
+  }
+ },
+ {
+  "id": "s26",
+  "regionId": "r05",
+  "name": "Boirafua",
+  "order": 26,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 309,
+   "pageEnd": 314
+  }
+ },
+ {
+  "id": "s27",
+  "regionId": "r05",
+  "name": "Serrat dels Monjos",
+  "order": 27,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 315,
+   "pageEnd": 318
+  }
+ },
+ {
+  "id": "s28",
+  "regionId": "r05",
+  "name": "Serra Llarga",
+  "order": 28,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 319,
+   "pageEnd": 322
+  }
+ },
+ {
+  "id": "s29",
+  "regionId": "r05",
+  "name": "Sant Miquel",
+  "order": 29,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 323,
+   "pageEnd": 326
+  }
+ },
+ {
+  "id": "s30",
+  "regionId": "r06",
+  "name": "Santa Cova",
+  "order": 30,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 327,
+   "pageEnd": 336
+  }
+ },
+ {
+  "id": "s31",
+  "regionId": "r06",
+  "name": "Monestir",
+  "order": 31,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 337,
+   "pageEnd": 358
+  }
+ },
+ {
+  "id": "s32",
+  "regionId": "r06",
+  "name": "Mullapans",
+  "order": 32,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 359,
+   "pageEnd": 362
+  }
+ },
+ {
+  "id": "s33",
+  "regionId": "r06",
+  "name": "Torrent Escuder",
+  "order": 33,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 363,
+   "pageEnd": 366
+  }
+ },
+ {
+  "id": "s34",
+  "regionId": "r06",
+  "name": "Flautats",
+  "order": 34,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 367,
+   "pageEnd": 378
+  }
+ },
+ {
+  "id": "s35",
+  "regionId": "r06",
+  "name": "Cavall Bernat",
+  "order": 35,
+  "description": null,
+  "needleIds": [],
+  "bookReference": {
+   "pageStart": 379,
+   "pageEnd": 391
+  }
+ }
+]
