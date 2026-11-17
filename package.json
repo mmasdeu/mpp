@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "generate": "tsx scripts/generate-geojson.ts",
     "validate": "tsx scripts/validate-data.ts",
+    "review": "tsx scripts/review.ts",
     "test": "vitest run",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json"
   },

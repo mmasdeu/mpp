@@ -1,13 +1,11 @@
-import { applyLocations } from '../src/lib/data/merge';
-import { readFileSync } from 'node:fs';
 import { validate } from '../src/lib/data/validation';
-const rd = (f: string) => JSON.parse(readFileSync(new URL(`../data/${f}.json`, import.meta.url), 'utf8'));
-const issues = validate(applyLocations({ regions: rd('regions'), sections: rd('sections'), needles: rd('needles') }, rd('locations')));
+import { validateDecisions } from '../src/lib/data/review';
+import { loadDataset, rawDataset, rd } from './_load';
+const issues = [...validate(loadDataset()), ...validateDecisions(rd('review/decisions.json'), new Set(rawDataset().needles.map((n) => n.id)))];
 const errors = issues.filter((i) => i.level === 'error');
 const warnings = issues.filter((i) => i.level === 'warning');
 for (const e of errors) console.error('ERROR  ', e.message);
-const shown = warnings.slice(0, 5);
-for (const w of shown) console.warn('WARNING', w.message);
-if (warnings.length > shown.length) console.warn(`... and ${warnings.length - shown.length} more warnings`);
+for (const w of warnings.slice(0, 5)) console.warn('WARNING', w.message);
+if (warnings.length > 5) console.warn(`... and ${warnings.length - 5} more warnings`);
 console.log(`${errors.length} errors, ${warnings.length} warnings`);
 process.exit(errors.length ? 1 : 0);
