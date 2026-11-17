@@ -1,0 +1,17 @@
+{
+  "name": "Montserrat Pam a Pam",
+  "short_name": "Pam a Pam",
+  "description": "Atles interactiu de les agulles de Montserrat, basat en el llibre de Josep Barberà.",
+  "lang": "ca",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#8a3b12",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
