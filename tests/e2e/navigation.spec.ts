@@ -45,3 +45,8 @@ test('map page honours ?section= URL parameter', async ({ page }) => {
 	await expect(page.getByLabel('Secció')).toHaveValue('s26');
 	await expect(page.getByRole('heading', { name: /^Llista/ })).toContainText('(10 agulles)');
 });
+
+test('panoramas index renders (empty state until panoramas are published)', async ({ page }) => {
+	await page.goto('/panoramas/');
+	await expect(page.getByRole('heading', { level: 1 })).toHaveText('Panorames anotats');
+});

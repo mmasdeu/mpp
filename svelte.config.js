@@ -7,6 +7,8 @@ export default {
 	kit: {
 		adapter: adapter({ fallback: '404.html' }),
 		paths: { base: process.env.BASE_PATH ?? '' },
-		alias: { $data: 'data' }
+		alias: { $data: 'data' },
+		// panoramas/[id] has no entries until panoramas are published
+		prerender: { handleUnseenRoutes: 'ignore' }
 	}
 };

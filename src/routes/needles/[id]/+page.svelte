@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	import { dataset, getSection, needlesOf } from '$lib/data/loader';
+	import { dataset, getSection, needlesOf, panoramasFor } from '$lib/data/loader';
 	let { data } = $props();
 	const n = $derived(data.needle);
 	const section = $derived(getSection(n.sectionId)!);
@@ -9,6 +9,7 @@
 	const idx = $derived(siblings.findIndex((x) => x.id === n.id));
 	const prev = $derived(idx > 0 ? siblings[idx - 1] : null);
 	const next = $derived(idx >= 0 && idx < siblings.length - 1 ? siblings[idx + 1] : null);
+	const panos = $derived(panoramasFor(n.id));
 	const related = $derived(siblings.filter((x) => x.id !== n.id).slice(0, 8));
 </script>
 
@@ -53,6 +54,13 @@
 	</dl>
 	{#if n.historicalNotes?.length}<h3>Notes històriques</h3><ul>{#each n.historicalNotes as h}<li>{h}</li>{/each}</ul>{/if}
 </section>
+
+{#if panos.length}
+	<section aria-labelledby="h-pano">
+		<h2 id="h-pano">Apareix als panorames</h2>
+		<ul class="plain">{#each panos as p (p.id)}<li><a href="{base}/panoramas/{p.id}/">{p.title}</a></li>{/each}</ul>
+	</section>
+{/if}
 
 {#if related.length}
 	<section aria-labelledby="h-rel">

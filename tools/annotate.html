@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anotador de panoràmiques</title>
+<style>
+:root{--bg:#f4f1ea;--ink:#1d1d1b;--muted:#5f5847;--accent:#8a3b12;--line:#d8d2c4;--focus:#0a5bd3;--sel:#1f7a3a;--err:#a11b1b}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;font:15px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--bg)}
+header{padding:10px 14px;background:#2d2a24;color:#fff;display:flex;flex-wrap:wrap;gap:12px 18px;align-items:flex-end}
+header h1{font-size:18px;margin:0 8px 0 0;align-self:center}
+header label{display:flex;flex-direction:column;font-size:13px;gap:3px}
+header input[type=file]{color:#fff;max-width:260px}
+#needlesInfo{font-size:13px;align-self:center}
+main{display:flex;flex-wrap:wrap;gap:14px;padding:14px;align-items:flex-start}
+.viewer-wrap{flex:1 1 480px;min-width:0;background:#fff;border:1px solid var(--line);border-radius:8px}
+.toolbar{display:flex;gap:8px;align-items:center;padding:8px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.viewer{overflow:auto;height:min(70vh,720px);background:#2b2b2b;position:relative;border-radius:0 0 8px 8px}
+.placeholder{color:#ddd;padding:24px;margin:0}
+.stage{position:relative;display:inline-block;vertical-align:top;margin:12px;outline:none}
+.stage img{display:block;max-width:none;user-select:none;-webkit-user-drag:none;cursor:crosshair;touch-action:manipulation}
+.stage:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+.markers{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none}
+.mk{position:absolute;transform:translate(-50%,-50%);pointer-events:auto;width:32px;height:32px;min-width:32px;min-height:32px;padding:0;border-radius:50%;border:2px solid #fff;background:var(--accent);color:#fff;font-weight:700;font-size:13px;display:grid;place-items:center;box-shadow:0 1px 4px rgba(0,0,0,.6);cursor:pointer}
+.mk.sel{background:var(--sel);box-shadow:0 0 0 3px #fff,0 0 0 5px var(--sel)}
+.mk.reloc{outline:3px dashed #ffd23f;outline-offset:3px}
+.mk.pending{background:#fff;color:var(--accent);border:2px dashed var(--accent);cursor:default}
+.kcur{position:absolute;width:26px;height:26px;transform:translate(-50%,-50%);pointer-events:none;border:2px solid #ffd23f;border-radius:50%;box-shadow:0 0 0 1px #000}
+aside{flex:1 1 340px;max-width:440px;min-width:280px;display:flex;flex-direction:column;gap:14px}
+section.card{background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px}
+section.card h2{font-size:16px;margin:0 0 10px}
+.fields{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.fields label,.field{display:flex;flex-direction:column;font-size:13px;color:var(--muted);gap:3px}
+.fields .full{grid-column:1/-1}
+input,textarea,button{font:inherit}
+input[type=text],input[type=search],input:not([type]),input[type=number],textarea{padding:6px 8px;border:1px solid #8c8475;border-radius:5px;width:100%;color:var(--ink);background:#fff}
+input[readonly]{background:#f0ede6}
+textarea{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;resize:vertical}
+button{padding:6px 12px;min-height:40px;min-width:40px;border:1px solid #8c8475;border-radius:6px;background:#fff;color:var(--ink);cursor:pointer}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button:disabled{opacity:.45;cursor:not-allowed}
+a#dlLink{align-self:center;padding:6px 4px;min-height:40px;display:inline-flex;align-items:center}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:8px}
+.msg{font-size:13px;color:var(--muted);margin:6px 0}
+.err{color:var(--err);font-size:13px;margin:6px 0 0;min-height:1em}
+.matches{list-style:none;margin:6px 0 10px;padding:0;max-height:200px;overflow:auto}
+.matches li{margin-bottom:4px}
+.match{width:100%;text-align:left;font-size:14px;padding:6px 10px}
+.match[aria-pressed=true]{background:#e4efe6;border-color:var(--sel)}
+.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.item{width:100%;text-align:left;font-size:14px;padding:6px 10px}
+.item[aria-pressed=true]{background:#e4efe6;border-color:var(--sel)}
+.stack{display:flex;flex-direction:column;gap:8px}
+.stack label{display:flex;flex-direction:column;font-size:13px;color:var(--muted);gap:3px}
+@media (max-width:640px){
+  .viewer{height:55vh}
+  aside{max-width:none;min-width:0;flex-basis:100%}
+  header{align-items:stretch}
+  header label{width:100%}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Anotador de panoràmiques</h1>
+  <label>Imatge de la panoràmica
+    <input type="file" id="imgFile" accept="image/*">
+  </label>
+  <label>Fitxer d'agulles (needles.json)
+    <input type="file" id="needlesFile" accept="application/json,.json">
+  </label>
+  <span id="needlesInfo" role="status"></span>
+</header>
+
+<main>
+  <section class="viewer-wrap" aria-labelledby="viewerTitle">
+    <div class="toolbar">
+      <span id="viewerTitle">Imatge</span>
+      <button type="button" id="zoomOut" aria-label="Redueix el zoom">&minus;</button>
+      <span id="zoomLevel" aria-live="polite">100 %</span>
+      <button type="button" id="zoomIn" aria-label="Amplia el zoom">+</button>
+      <span id="modeMsg" class="msg" role="status"></span>
+    </div>
+    <div class="viewer" id="viewer">
+      <p id="placeholder" class="placeholder">Tria una imatge per començar.</p>
+      <div class="stage" id="stage" tabindex="0" hidden
+           aria-label="Imatge. Fes clic per marcar un punt, o usa les fletxes per moure el cursor i Retorn per marcar.">
+        <img id="pano" alt="Panoràmica">
+        <div class="markers" id="markers"></div>
+        <div class="kcur" id="kcur" hidden></div>
+      </div>
+    </div>
+  </section>
+
+  <aside>
+    <section class="card" aria-labelledby="metaTitle">
+      <h2 id="metaTitle">Metadades</h2>
+      <div class="fields">
+        <label>Identificador (id)<input type="text" id="fId" value="p01"></label>
+        <label class="full">Títol<input type="text" id="fTitle"></label>
+        <label class="full">Nom del fitxer<input type="text" id="fFilename"></label>
+        <label>Amplada (px)<input type="text" id="fWidth" readonly></label>
+        <label>Alçada (px)<input type="text" id="fHeight" readonly></label>
+        <label>Autor<input type="text" id="fAuthor"></label>
+        <label>Font<input type="text" id="fSource"></label>
+        <label>Llicència<input type="text" id="fLicense"></label>
+        <label>Data<input type="text" id="fDate" placeholder="AAAA-MM-DD"></label>
+        <label class="full">ID del punt d'observació<input type="text" id="fObs"></label>
+        <label class="full">Direcció de visualització (0–360°, opcional)<input type="number" id="fView" min="0" max="360" step="any"></label>
+      </div>
+    </section>
+
+    <section class="card" id="formSec" hidden aria-labelledby="formTitle">
+      <h2 id="formTitle">Nova anotació</h2>
+      <p class="msg">Posició: <span id="posTxt"></span></p>
+      <div class="stack">
+        <label>Agulla (cerca per id o nom)
+          <input type="search" id="needleSearch" list="needleList" autocomplete="off">
+        </label>
+        <datalist id="needleList"></datalist>
+        <ul id="matches" class="matches" aria-label="Resultats de la cerca"></ul>
+        <label>Etiqueta (opcional)
+          <input type="text" id="annLabel">
+        </label>
+      </div>
+      <div class="row">
+        <button type="button" class="primary" id="confirmAnn">Confirma</button>
+        <button type="button" id="cancelAnn">Cancel·la</button>
+      </div>
+      <p id="formMsg" class="err" role="alert"></p>
+    </section>
+
+    <section class="card" aria-labelledby="annTitle">
+      <h2 id="annTitle">Anotacions</h2>
+      <ul id="annList" class="list" aria-label="Llista d'anotacions"></ul>
+      <p id="annEmpty" class="msg">Cap anotació encara. Fes clic a la imatge per afegir-ne una.</p>
+      <div class="row">
+        <button type="button" id="relocBtn" disabled>Recol·loca</button>
+        <button type="button" id="delBtn" disabled>Esborra</button>
+      </div>
+    </section>
+
+    <section class="card" aria-labelledby="ioTitle">
+      <h2 id="ioTitle">Exportació i importació</h2>
+      <div class="row">
+        <button type="button" class="primary" id="exportBtn">Exporta JSON</button>
+        <button type="button" id="importBtn">Importa JSON</button>
+        <a id="dlLink" hidden download="panorama.json" href="#">Descarrega panorama.json</a>
+      </div>
+      <input type="file" id="importFile" accept="application/json,.json" hidden>
+      <label class="stack" style="margin-top:10px;font-size:13px;color:var(--muted)">Previsualització
+        <textarea id="preview" rows="10" readonly spellcheck="false"></textarea>
+      </label>
+      <p id="ioMsg" class="msg" role="status"></p>
+    </section>
+  </aside>
+</main>
+
+<script>
+(() => {
+  'use strict';
+  const $ = s => document.querySelector(s);
+  const state = {
+    needles: [], needlesById: new Map(),
+    imgUrl: null, blobUrl: null, imgLoaded: false, zoom: 1,
+    annotations: [], selected: -1, relocating: -1, pending: null, selNeedle: null,
+    kx: 0.5, ky: 0.5
+  };
+
+  const norm = s => String(s == null ? '' : s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+  const r4 = v => Math.round(v * 10000) / 10000;
+  const clamp01 = v => Math.min(1, Math.max(0, v));
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === 'on') { for (const [ev, fn] of Object.entries(v)) n.addEventListener(ev, fn); }
+      else if (k === 'text') n.textContent = v;
+      else if (v === true) n.setAttribute(k, '');
+      else if (v !== false && v != null) n.setAttribute(k, v);
+    }
+    for (const c of kids) if (c != null) n.append(c);
+    return n;
+  };
+  const needleName = id => (state.needlesById.get(id) || {}).name || id;
+  const setModeMsg = t => { $('#modeMsg').textContent = t; };
+  const setIoMsg = (t, isErr) => { const p = $('#ioMsg'); p.textContent = t; p.style.color = isErr ? 'var(--err)' : ''; };
+  const showForm = show => { $('#formSec').hidden = !show; };
+
+  // ---- needles ----
+  function searchNeedles(q) {
+    const n = norm(q);
+    const out = [];
+    if (!n) return out;
+    for (const x of state.needles) {
+      const hit = norm(x.id).includes(n) || norm(x.name).includes(n) ||
+        (Array.isArray(x.alternativeNames) && x.alternativeNames.some(a => norm(a).includes(n)));
+      if (hit) { out.push(x); if (out.length >= 8) break; }
+    }
+    return out;
+  }
+  function findExact(q) {
+    const n = norm(q);
+    if (!n) return null;
+    return state.needles.find(x => norm(x.id) === n || norm(x.name) === n) || null;
+  }
+  function refreshMatches() {
+    const list = $('#matches');
+    list.replaceChildren();
+    for (const h of searchNeedles($('#needleSearch').value)) {
+      const on = !!state.selNeedle && state.selNeedle.id === h.id;
+      list.append(el('li', {}, el('button', {
+        type: 'button', class: 'match', 'aria-pressed': String(on), 'data-id': h.id,
+        on: { click: () => { state.selNeedle = h; $('#formMsg').textContent = ''; refreshMatches(); } }
+      }, `${h.id} — ${h.name || ''}`)));
+    }
+  }
+
+  $('#needlesFile').addEventListener('change', async e => {
+    const f = e.target.files[0];
+    if (!f) return;
+    try {
+      const data = JSON.parse(await f.text());
+      if (!Array.isArray(data)) throw new Error('el fitxer ha de contenir un array.');
+      const valid = data.filter(n => n && typeof n.id === 'string');
+      state.needles = valid;
+      state.needlesById = new Map(valid.map(n => [n.id, n]));
+      $('#needleList').replaceChildren(...valid.map(n => el('option', { value: n.id, label: n.name || '' })));
+      $('#needlesInfo').textContent = `${valid.length} agulles carregades`;
+      refreshMatches();
+      render();
+    } catch (err) {
+      state.needles = []; state.needlesById = new Map();
+      $('#needleList').replaceChildren();
+      $('#needlesInfo').textContent = 'Error en carregar les agulles: ' + err.message;
+    }
+  });
+
+  // ---- image and zoom ----
+  $('#imgFile').addEventListener('change', e => {
+    const f = e.target.files[0];
+    if (!f) return;
+    if (state.imgUrl) URL.revokeObjectURL(state.imgUrl);
+    state.imgUrl = URL.createObjectURL(f);
+    state.imgLoaded = false;
+    $('#fFilename').value = f.name;
+    $('#placeholder').hidden = true;
+    $('#stage').hidden = false;
+    $('#pano').src = state.imgUrl;
+  });
+  $('#pano').addEventListener('load', () => {
+    const img = $('#pano');
+    if (!img.naturalWidth) return;
+    state.imgLoaded = true;
+    $('#fWidth').value = img.naturalWidth;
+    $('#fHeight').value = img.naturalHeight;
+    applyZoom();
+    render();
+  });
+  $('#pano').addEventListener('error', () => {
+    state.imgLoaded = false;
+    setModeMsg('No es pot carregar la imatge.');
+  });
+  function applyZoom() {
+    const img = $('#pano');
+    if (!state.imgLoaded) return;
+    img.style.width = Math.round(img.naturalWidth * state.zoom) + 'px';
+    $('#zoomLevel').textContent = Math.round(state.zoom * 100) + ' %';
+  }
+  function setZoom(z) {
+    state.zoom = Math.min(4, Math.max(0.1, z));
+    applyZoom();
+  }
+  $('#zoomIn').addEventListener('click', () => setZoom(state.zoom * 1.25));
+  $('#zoomOut').addEventListener('click', () => setZoom(state.zoom / 1.25));
+
+  // ---- placing and editing ----
+  function placeAt(x, y) {
+    if (!state.imgLoaded) return;
+    x = r4(clamp01(x)); y = r4(clamp01(y));
+    if (state.relocating >= 0) {
+      const a = state.annotations[state.relocating];
+      a.x = x; a.y = y;
+      setModeMsg(`Anotació ${state.relocating + 1} recol·locada.`);
+      state.relocating = -1;
+      render();
+      return;
+    }
+    state.pending = { x, y };
+    state.selNeedle = null;
+    $('#posTxt').textContent = `x ${x}, y ${y}`;
+    $('#needleSearch').value = '';
+    $('#annLabel').value = '';
+    $('#formMsg').textContent = '';
+    showForm(true);
+    refreshMatches();
+    render();
+    $('#needleSearch').focus();
+  }
+  function cancelEdit() {
+    state.pending = null;
+    state.relocating = -1;
+    showForm(false);
+    setModeMsg('');
+    render();
+  }
+  function confirmAnn() {
+    if (!state.pending) return;
+    const err = t => { $('#formMsg').textContent = t; };
+    if (!state.needles.length) return err("Carrega primer el fitxer d'agulles.");
+    const needle = state.selNeedle || findExact($('#needleSearch').value);
+    if (!needle) return err("Tria una agulla de la llista (per id o nom).");
+    const ann = { needleId: needle.id, x: state.pending.x, y: state.pending.y };
+    const label = $('#annLabel').value.trim();
+    if (label) ann.label = label;
+    state.annotations.push(ann);
+    state.selected = state.annotations.length - 1;
+    state.pending = null;
+    showForm(false);
+    setModeMsg(`Afegida anotació ${state.annotations.length} (${needle.id}).`);
+    render();
+  }
+  function selectAnn(i) {
+    state.selected = i;
+    if (state.relocating >= 0 && state.relocating !== i) state.relocating = -1;
+    render();
+  }
+
+  $('#pano').addEventListener('click', e => {
+    if (!state.imgLoaded) return;
+    const r = e.currentTarget.getBoundingClientRect();
+    placeAt((e.clientX - r.left) / r.width, (e.clientY - r.top) / r.height);
+  });
+
+  // keyboard: arrows move a cursor over the image, Enter/Space places a point
+  const stage = $('#stage');
+  function moveKcur() {
+    const k = $('#kcur');
+    k.hidden = false;
+    k.style.left = (state.kx * 100) + '%';
+    k.style.top = (state.ky * 100) + '%';
+  }
+  stage.addEventListener('keydown', e => {
+    if (!state.imgLoaded) return;
+    const step = e.shiftKey ? 0.05 : 0.01;
+    const moves = { ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step] };
+    if (moves[e.key]) {
+      e.preventDefault();
+      state.kx = clamp01(state.kx + moves[e.key][0]);
+      state.ky = clamp01(state.ky + moves[e.key][1]);
+      moveKcur();
+    } else if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      placeAt(state.kx, state.ky);
+    }
+  });
+  stage.addEventListener('blur', () => { $('#kcur').hidden = true; });
+
+  $('#needleSearch').addEventListener('input', () => { state.selNeedle = null; refreshMatches(); });
+  for (const id of ['#needleSearch', '#annLabel']) {
+    $(id).addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); confirmAnn(); } });
+  }
+  $('#confirmAnn').addEventListener('click', confirmAnn);
+  $('#cancelAnn').addEventListener('click', cancelEdit);
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && (state.pending || state.relocating >= 0)) cancelEdit();
+  });
+
+  $('#relocBtn').addEventListener('click', () => {
+    if (state.relocating >= 0) {
+      state.relocating = -1;
+      setModeMsg('');
+    } else if (state.selected >= 0) {
+      state.relocating = state.selected;
+      setModeMsg("Fes clic a la imatge per recol·locar l'anotació seleccionada (Esc per cancel·lar).");
+    }
+    render();
+  });
+  $('#delBtn').addEventListener('click', () => {
+    if (state.selected < 0) return;
+    state.annotations.splice(state.selected, 1);
+    state.selected = Math.min(state.selected, state.annotations.length - 1);
+    state.relocating = -1;
+    setModeMsg('Anotació esborrada.');
+    render();
+  });
+
+  function render() {
+    const mk = $('#markers');
+    mk.replaceChildren();
+    state.annotations.forEach((a, i) => {
+      const cls = ['mk'];
+      if (i === state.selected) cls.push('sel');
+      if (i === state.relocating) cls.push('reloc');
+      mk.append(el('button', {
+        type: 'button', class: cls.join(' '),
+        style: `left:${a.x * 100}%;top:${a.y * 100}%`,
+        title: `${i + 1}. ${needleName(a.needleId)}`,
+        'aria-label': `Anotació ${i + 1}: ${needleName(a.needleId)}`,
+        'aria-pressed': String(i === state.selected),
+        on: { click: e => { e.stopPropagation(); selectAnn(i); } }
+      }, String(i + 1)));
+    });
+    if (state.pending) {
+      mk.append(el('span', {
+        class: 'mk pending', 'aria-hidden': 'true',
+        style: `left:${state.pending.x * 100}%;top:${state.pending.y * 100}%`
+      }, '+'));
+    }
+
+    const list = $('#annList');
+    list.replaceChildren();
+    state.annotations.forEach((a, i) => {
+      const txt = `${i + 1}. ${needleName(a.needleId)} (${a.needleId}) · x ${a.x}, y ${a.y}` + (a.label ? ` · ${a.label}` : '');
+      list.append(el('li', {}, el('button', {
+        type: 'button', class: 'item', 'aria-pressed': String(i === state.selected),
+        on: { click: () => selectAnn(i) }
+      }, txt)));
+    });
+    $('#annEmpty').hidden = state.annotations.length > 0;
+    const hasSel = state.selected >= 0 && state.selected < state.annotations.length;
+    $('#delBtn').disabled = !hasSel;
+    $('#relocBtn').disabled = !hasSel;
+    $('#relocBtn').textContent = state.relocating >= 0 ? 'Cancel·la recol·locació' : 'Recol·loca';
+  }
+
+  // ---- export / import ----
+  function buildPanorama() {
+    const v = sel => $(sel).value.trim();
+    if (!state.imgLoaded) throw new Error('Tria primer una imatge.');
+    const id = v('#fId');
+    if (!id) throw new Error("Cal un identificador de panoràmica (p. ex. p01).");
+    const filename = v('#fFilename');
+    if (!filename) throw new Error('Cal el nom del fitxer.');
+    const out = { id };
+    const title = v('#fTitle');
+    if (title) out.title = title;
+    out.filename = filename;
+    out.width = Number($('#fWidth').value);
+    out.height = Number($('#fHeight').value);
+    for (const [key, sel] of [['author', '#fAuthor'], ['source', '#fSource'], ['license', '#fLicense'], ['date', '#fDate'], ['observationPointId', '#fObs']]) {
+      const t = v(sel);
+      if (t) out[key] = t;
+    }
+    const vd = v('#fView');
+    if (vd !== '') {
+      const n = Number(vd);
+      if (!Number.isFinite(n) || n < 0 || n > 360) throw new Error("La direcció de visualització ha d'estar entre 0 i 360.");
+      out.viewingDirection = n;
+    }
+    out.status = 'unreviewed';
+    out.annotations = state.annotations.map(a => {
+      const o = { needleId: a.needleId, x: a.x, y: a.y };
+      if (a.label) o.label = a.label;
+      return o;
+    });
+    return out;
+  }
+
+  $('#exportBtn').addEventListener('click', () => {
+    try {
+      const obj = buildPanorama();
+      const text = JSON.stringify(obj, null, 2);
+      $('#preview').value = text;
+      if (state.blobUrl) URL.revokeObjectURL(state.blobUrl);
+      state.blobUrl = URL.createObjectURL(new Blob([text + '\n'], { type: 'application/json' }));
+      const a = $('#dlLink');
+      a.href = state.blobUrl;
+      a.hidden = false;
+      setIoMsg(`Exportat: ${obj.annotations.length} anotacions.`, false);
+    } catch (err) {
+      setIoMsg(err.message, true);
+    }
+  });
+
+  $('#importBtn').addEventListener('click', () => $('#importFile').click());
+  $('#importFile').addEventListener('change', async e => {
+    const f = e.target.files[0];
+    e.target.value = '';
+    if (!f) return;
+    try {
+      const data = JSON.parse(await f.text());
+      if (!data || typeof data !== 'object' || Array.isArray(data)) throw new Error("el JSON no és un objecte de panoràmica.");
+      const setV = (sel, val) => { $(sel).value = val == null ? '' : String(val); };
+      setV('#fId', data.id);
+      setV('#fTitle', data.title);
+      setV('#fFilename', data.filename);
+      setV('#fAuthor', data.author);
+      setV('#fSource', data.source);
+      setV('#fLicense', data.license);
+      setV('#fDate', data.date);
+      setV('#fObs', data.observationPointId);
+      setV('#fView', data.viewingDirection);
+      if (!state.imgLoaded) { setV('#fWidth', data.width); setV('#fHeight', data.height); }
+
+      const anns = [];
+      let skipped = 0;
+      const raw = Array.isArray(data.annotations) ? data.annotations : [];
+      for (const a of raw) {
+        const ok = a && typeof a.needleId === 'string' && typeof a.x === 'number' && typeof a.y === 'number' &&
+          a.x >= 0 && a.x <= 1 && a.y >= 0 && a.y <= 1;
+        if (!ok) { skipped++; continue; }
+        const o = { needleId: a.needleId, x: r4(a.x), y: r4(a.y) };
+        if (typeof a.label === 'string' && a.label) o.label = a.label;
+        anns.push(o);
+      }
+      const unknown = state.needlesById.size ? anns.filter(a => !state.needlesById.has(a.needleId)).length : 0;
+      state.annotations = anns;
+      state.selected = -1;
+      state.relocating = -1;
+      state.pending = null;
+      showForm(false);
+      render();
+      let msg = `Importades ${anns.length} anotacions.`;
+      if (skipped) msg += ` ${skipped} descartades per format invàlid.`;
+      if (unknown) msg += ` ${unknown} amb agulla desconeguda.`;
+      setIoMsg(msg, skipped > 0 || unknown > 0);
+    } catch (err) {
+      setIoMsg('Error en importar: ' + err.message, true);
+    }
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

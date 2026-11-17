@@ -13,3 +13,20 @@ export interface Needle {
 	metadata: { extractionStatus: 'verified' | 'reviewed' | 'unreviewed'; extractionNote?: string; lastUpdated?: string };
 }
 export interface Dataset { regions: Region[]; sections: Section[]; needles: Needle[] }
+
+export interface ObservationPoint {
+	id: string; name: string;
+	location: { latitude: number; longitude: number; elevation?: number; accuracy: 'verified' | 'approximate' | 'unknown'; source: string };
+	notes?: string;
+}
+/** Annotation position is a fraction of the image (0–1), so it survives resizing and zoom. */
+export interface PanoramaAnnotation { needleId: string; x: number; y: number; label?: string }
+export interface Panorama {
+	id: string; title: string; filename: string; width: number; height: number;
+	observationPointId?: string;
+	/** Compass bearing (degrees, 0–360) of the image centre, when known. */
+	viewingDirection?: number;
+	author?: string; source?: string; license?: string; date?: string;
+	status: 'verified' | 'reviewed' | 'unreviewed';
+	annotations: PanoramaAnnotation[];
+}
