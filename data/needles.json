@@ -20,6 +20,114 @@
  },
  {
   "id": "n0002",
+  "name": "Agulla de la Venta",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 12,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0003",
+  "name": "Roca de L'Arc de Guirló",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 13,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0004",
+  "name": "El Sabre O el Bodu",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 13,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0005",
+  "name": "Roca del Contrafort",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 14,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0006",
+  "name": "Les Tres Marees",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 15,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0007",
+  "name": "El Sabre",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 15,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0008",
   "name": "Roca Gran de la Portella",
   "alternativeNames": [],
   "regionId": "r01",
@@ -38,7 +146,7 @@
   }
  },
  {
-  "id": "n0003",
+  "id": "n0009",
   "name": "Roca de les Vuit O Llastra del Dau",
   "alternativeNames": [],
   "regionId": "r01",
@@ -57,7 +165,25 @@
   }
  },
  {
-  "id": "n0004",
+  "id": "n0010",
+  "name": "Llastra Punxeguda",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s02",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 20,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0011",
   "name": "El Dau",
   "alternativeNames": [],
   "regionId": "r01",
@@ -76,7 +202,7 @@
   }
  },
  {
-  "id": "n0005",
+  "id": "n0012",
   "name": "Miranda de la Portella",
   "alternativeNames": [],
   "regionId": "r01",
@@ -95,7 +221,25 @@
   }
  },
  {
-  "id": "n0006",
+  "id": "n0013",
+  "name": "Agulla Dels Tres",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s02",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 23,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0014",
   "name": "La Tretze",
   "alternativeNames": [],
   "regionId": "r01",
@@ -114,7 +258,7 @@
   }
  },
  {
-  "id": "n0007",
+  "id": "n0015",
   "name": "Roca de L'Era Deis Pallers",
   "alternativeNames": [],
   "regionId": "r01",
@@ -133,7 +277,7 @@
   }
  },
  {
-  "id": "n0008",
+  "id": "n0016",
   "name": "Agulles de L'Era Deis Pallers",
   "alternativeNames": [],
   "regionId": "r01",
@@ -152,7 +296,7 @@
   }
  },
  {
-  "id": "n0009",
+  "id": "n0017",
   "name": "Agulla del Giravolt",
   "alternativeNames": [],
   "regionId": "r01",
@@ -171,7 +315,7 @@
   }
  },
  {
-  "id": "n0010",
+  "id": "n0018",
   "name": "Pallers del Mal Any",
   "alternativeNames": [],
   "regionId": "r01",
@@ -190,7 +334,7 @@
   }
  },
  {
-  "id": "n0011",
+  "id": "n0019",
   "name": "La Tisora",
   "alternativeNames": [],
   "regionId": "r01",
@@ -209,7 +353,25 @@
   }
  },
  {
-  "id": "n0012",
+  "id": "n0020",
+  "name": "La Tisoreta",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s02",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 26,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0021",
   "name": "El Cerro",
   "alternativeNames": [],
   "regionId": "r01",
@@ -228,7 +390,25 @@
   }
  },
  {
-  "id": "n0013",
+  "id": "n0022",
+  "name": "Roca Dels Cartutxos",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s02",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 27,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0023",
   "name": "El Timbaler del Bruc",
   "alternativeNames": [],
   "regionId": "r01",
@@ -247,7 +427,7 @@
   }
  },
  {
-  "id": "n0014",
+  "id": "n0024",
   "name": "Serrat de les Arnes",
   "alternativeNames": [],
   "regionId": "r01",
@@ -266,7 +446,7 @@
   }
  },
  {
-  "id": "n0015",
+  "id": "n0025",
   "name": "Turó",
   "alternativeNames": [],
   "regionId": "r01",
@@ -285,7 +465,7 @@
   }
  },
  {
-  "id": "n0016",
+  "id": "n0026",
   "name": "Les Momietes",
   "alternativeNames": [],
   "regionId": "r01",
@@ -304,7 +484,7 @@
   }
  },
  {
-  "id": "n0017",
+  "id": "n0027",
   "name": "L'Aglá",
   "alternativeNames": [],
   "regionId": "r01",
@@ -323,7 +503,7 @@
   }
  },
  {
-  "id": "n0018",
+  "id": "n0028",
   "name": "Agulla Mare",
   "alternativeNames": [],
   "regionId": "r01",
@@ -342,7 +522,7 @@
   }
  },
  {
-  "id": "n0019",
+  "id": "n0029",
   "name": "Portella Petita",
   "alternativeNames": [],
   "regionId": "r01",
@@ -361,7 +541,7 @@
   }
  },
  {
-  "id": "n0020",
+  "id": "n0030",
   "name": "Agulla Pelada",
   "alternativeNames": [],
   "regionId": "r01",
@@ -380,7 +560,7 @@
   }
  },
  {
-  "id": "n0021",
+  "id": "n0031",
   "name": "Les Savines",
   "alternativeNames": [],
   "regionId": "r01",
@@ -399,7 +579,7 @@
   }
  },
  {
-  "id": "n0022",
+  "id": "n0032",
   "name": "Agulla del Sol Ponent",
   "alternativeNames": [],
   "regionId": "r01",
@@ -418,7 +598,7 @@
   }
  },
  {
-  "id": "n0023",
+  "id": "n0033",
   "name": "Els Merlets",
   "alternativeNames": [],
   "regionId": "r01",
@@ -437,7 +617,7 @@
   }
  },
  {
-  "id": "n0024",
+  "id": "n0034",
   "name": "El Gep Llarg",
   "alternativeNames": [],
   "regionId": "r01",
@@ -456,7 +636,7 @@
   }
  },
  {
-  "id": "n0025",
+  "id": "n0035",
   "name": "La Boteruda",
   "alternativeNames": [],
   "regionId": "r01",
@@ -475,7 +655,25 @@
   }
  },
  {
-  "id": "n0026",
+  "id": "n0036",
+  "name": "Mirador de la Miranda de les Migues",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 37,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0037",
   "name": "Miranda de les Boigues",
   "alternativeNames": [],
   "regionId": "r01",
@@ -494,7 +692,7 @@
   }
  },
  {
-  "id": "n0027",
+  "id": "n0038",
   "name": "Agulla Peluda",
   "alternativeNames": [],
   "regionId": "r01",
@@ -513,7 +711,25 @@
   }
  },
  {
-  "id": "n0028",
+  "id": "n0039",
+  "name": "El Punyalet",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 38,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0040",
   "name": "Agulla del Capdamunt",
   "alternativeNames": [],
   "regionId": "r01",
@@ -532,7 +748,7 @@
   }
  },
  {
-  "id": "n0029",
+  "id": "n0041",
   "name": "El Senatxo",
   "alternativeNames": [],
   "regionId": "r01",
@@ -551,7 +767,7 @@
   }
  },
  {
-  "id": "n0030",
+  "id": "n0042",
   "name": "L'Agulla de la Canal de la Figuera",
   "alternativeNames": [],
   "regionId": "r01",
@@ -570,7 +786,25 @@
   }
  },
  {
-  "id": "n0031",
+  "id": "n0043",
+  "name": "Ven-Suri-Ven, Via Cerda-Riera",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 41,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0044",
   "name": "La Palangana",
   "alternativeNames": [],
   "regionId": "r01",
@@ -589,7 +823,7 @@
   }
  },
  {
-  "id": "n0032",
+  "id": "n0045",
   "name": "Agulla Deis Espeledlegs",
   "alternativeNames": [],
   "regionId": "r01",
@@ -608,7 +842,7 @@
   }
  },
  {
-  "id": "n0033",
+  "id": "n0046",
   "name": "La Saca Gran, Agulla D'En Dionis O el Triptic",
   "alternativeNames": [],
   "regionId": "r01",
@@ -627,7 +861,25 @@
   }
  },
  {
-  "id": "n0034",
+  "id": "n0047",
+  "name": "Saca Gran, Aresta Brucs",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 43,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0048",
   "name": "Pedestal del Martell",
   "alternativeNames": [],
   "regionId": "r01",
@@ -646,7 +898,7 @@
   }
  },
  {
-  "id": "n0035",
+  "id": "n0049",
   "name": "El Martell",
   "alternativeNames": [],
   "regionId": "r01",
@@ -665,7 +917,25 @@
   }
  },
  {
-  "id": "n0036",
+  "id": "n0050",
+  "name": "El Ninet",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 45,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0051",
   "name": "Roca de les Heures",
   "alternativeNames": [],
   "regionId": "r01",
@@ -684,7 +954,7 @@
   }
  },
  {
-  "id": "n0037",
+  "id": "n0052",
   "name": "El Datil",
   "alternativeNames": [],
   "regionId": "r01",
@@ -703,7 +973,7 @@
   }
  },
  {
-  "id": "n0038",
+  "id": "n0053",
   "name": "Agulla Podrida",
   "alternativeNames": [],
   "regionId": "r01",
@@ -722,7 +992,7 @@
   }
  },
  {
-  "id": "n0039",
+  "id": "n0054",
   "name": "Agulla de L'Arbret",
   "alternativeNames": [],
   "regionId": "r01",
@@ -741,7 +1011,25 @@
   }
  },
  {
-  "id": "n0040",
+  "id": "n0055",
+  "name": "Agulla de L'Arbret, Aresta Brucs",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 47,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0056",
   "name": "La Miranda Dels Ossos",
   "alternativeNames": [],
   "regionId": "r01",
@@ -760,7 +1048,7 @@
   }
  },
  {
-  "id": "n0041",
+  "id": "n0057",
   "name": "Agulla Dels Ossos",
   "alternativeNames": [],
   "regionId": "r01",
@@ -779,7 +1067,7 @@
   }
  },
  {
-  "id": "n0042",
+  "id": "n0058",
   "name": "La Filigrana O Faluga",
   "alternativeNames": [],
   "regionId": "r01",
@@ -798,7 +1086,7 @@
   }
  },
  {
-  "id": "n0043",
+  "id": "n0059",
   "name": "La Bessona Superior",
   "alternativeNames": [],
   "regionId": "r01",
@@ -817,7 +1105,7 @@
   }
  },
  {
-  "id": "n0044",
+  "id": "n0060",
   "name": "La Bessona Inferior",
   "alternativeNames": [],
   "regionId": "r01",
@@ -836,7 +1124,25 @@
   }
  },
  {
-  "id": "n0045",
+  "id": "n0061",
+  "name": "Bessona Inferior, Aresta Brucs",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 53,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0062",
   "name": "Agulla de L'Esquelet",
   "alternativeNames": [],
   "regionId": "r01",
@@ -855,7 +1161,7 @@
   }
  },
  {
-  "id": "n0046",
+  "id": "n0063",
   "name": "La Vespa",
   "alternativeNames": [],
   "regionId": "r01",
@@ -874,7 +1180,7 @@
   }
  },
  {
-  "id": "n0047",
+  "id": "n0064",
   "name": "Roca Dels Pouetons",
   "alternativeNames": [],
   "regionId": "r01",
@@ -893,7 +1199,7 @@
   }
  },
  {
-  "id": "n0048",
+  "id": "n0065",
   "name": "Roca de la Partió",
   "alternativeNames": [],
   "regionId": "r01",
@@ -912,7 +1218,7 @@
   }
  },
  {
-  "id": "n0049",
+  "id": "n0066",
   "name": "La Bitlla",
   "alternativeNames": [],
   "regionId": "r01",
@@ -931,7 +1237,7 @@
   }
  },
  {
-  "id": "n0050",
+  "id": "n0067",
   "name": "La Bola de la Partió",
   "alternativeNames": [],
   "regionId": "r01",
@@ -950,7 +1256,7 @@
   }
  },
  {
-  "id": "n0051",
+  "id": "n0068",
   "name": "Agulla de la Carnavalada O Agulla Dels Set",
   "alternativeNames": [],
   "regionId": "r01",
@@ -969,7 +1275,7 @@
   }
  },
  {
-  "id": "n0052",
+  "id": "n0069",
   "name": "La Reina",
   "alternativeNames": [],
   "regionId": "r01",
@@ -988,7 +1294,7 @@
   }
  },
  {
-  "id": "n0053",
+  "id": "n0070",
   "name": "Agulla de la Corona de Reina",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1007,7 +1313,7 @@
   }
  },
  {
-  "id": "n0054",
+  "id": "n0071",
   "name": "La Petitona",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1026,7 +1332,7 @@
   }
  },
  {
-  "id": "n0055",
+  "id": "n0072",
   "name": "La Panxeta",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1045,7 +1351,7 @@
   }
  },
  {
-  "id": "n0056",
+  "id": "n0073",
   "name": "La Boteruda del Gra",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1064,7 +1370,7 @@
   }
  },
  {
-  "id": "n0057",
+  "id": "n0074",
   "name": "Les Dues Puntes",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1083,7 +1389,7 @@
   }
  },
  {
-  "id": "n0058",
+  "id": "n0075",
   "name": "La Maquina de Tren",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1102,7 +1408,7 @@
   }
  },
  {
-  "id": "n0059",
+  "id": "n0076",
   "name": "El Broc Petit O Broc del Setrill",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1121,7 +1427,7 @@
   }
  },
  {
-  "id": "n0060",
+  "id": "n0077",
   "name": "El Setrill",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1140,7 +1446,7 @@
   }
  },
  {
-  "id": "n0061",
+  "id": "n0078",
   "name": "L'Ou de Colom",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1159,7 +1465,7 @@
   }
  },
  {
-  "id": "n0062",
+  "id": "n0079",
   "name": "Roca del Dumbo",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1178,7 +1484,7 @@
   }
  },
  {
-  "id": "n0063",
+  "id": "n0080",
   "name": "El Merlet de la Torta",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1197,7 +1503,7 @@
   }
  },
  {
-  "id": "n0064",
+  "id": "n0081",
   "name": "La Torta O la Ma",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1216,7 +1522,7 @@
   }
  },
  {
-  "id": "n0065",
+  "id": "n0082",
   "name": "Roca de la Maranya",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1235,7 +1541,7 @@
   }
  },
  {
-  "id": "n0066",
+  "id": "n0083",
   "name": "La Tri-Roca",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1254,7 +1560,7 @@
   }
  },
  {
-  "id": "n0067",
+  "id": "n0084",
   "name": "Agulla Xica de la Miranda",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1273,7 +1579,7 @@
   }
  },
  {
-  "id": "n0068",
+  "id": "n0085",
   "name": "Agulla Alta de la Miranda",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1292,7 +1598,25 @@
   }
  },
  {
-  "id": "n0069",
+  "id": "n0086",
+  "name": "Roca del Corpus Christi",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 73,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0087",
   "name": "L'Escorm",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1311,7 +1635,7 @@
   }
  },
  {
-  "id": "n0070",
+  "id": "n0088",
   "name": "El Gallaret",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1330,7 +1654,7 @@
   }
  },
  {
-  "id": "n0071",
+  "id": "n0089",
   "name": "Agulla «Ignasi Capeta»",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1349,7 +1673,25 @@
   }
  },
  {
-  "id": "n0072",
+  "id": "n0090",
+  "name": "Serrat de la Foradada",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 77,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0091",
   "name": "La Cadireta O Roca del Centellar",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1368,7 +1710,7 @@
   }
  },
  {
-  "id": "n0073",
+  "id": "n0092",
   "name": "L'Enclusa D'Agulles",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1387,7 +1729,7 @@
   }
  },
  {
-  "id": "n0074",
+  "id": "n0093",
   "name": "Agulleta 1 Serrat D'En Pujadé",
   "alternativeNames": [],
   "regionId": "r01",
@@ -1403,6 +1745,7270 @@
   "metadata": {
    "extractionStatus": "unreviewed",
    "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0094",
+  "name": "La Boleta del Portell Estret",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 83,
+    "type": "description"
+   }
+  ],
+  "semirRef": "123",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0095",
+  "name": "Agulla de la Boleta O la Desconeguda",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 84,
+    "type": "description"
+   }
+  ],
+  "semirRef": "122",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0096",
+  "name": "L'Anec",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 84,
+    "type": "description"
+   }
+  ],
+  "semirRef": "121",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0097",
+  "name": "Agulla D'En Passola",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 84,
+    "type": "description"
+   }
+  ],
+  "semirRef": "124",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0098",
+  "name": "Agulla Sens Nom",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 86,
+    "type": "description"
+   }
+  ],
+  "semirRef": "120",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0099",
+  "name": "El Gendarme",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 86,
+    "type": "description"
+   }
+  ],
+  "semirRef": "125",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0100",
+  "name": "Agulla del Cingle",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 87,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0101",
+  "name": "El Oueixal",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 87,
+    "type": "description"
+   }
+  ],
+  "semirRef": "131",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0102",
+  "name": "El Carouinyoli",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 87,
+    "type": "description"
+   }
+  ],
+  "semirRef": "192",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0103",
+  "name": "L'Elefant Petit O Agulla de les Tramperes",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 88,
+    "type": "description"
+   }
+  ],
+  "semirRef": "130",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0104",
+  "name": "Serrat del Centenar",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 88,
+    "type": "description"
+   }
+  ],
+  "semirRef": "103-104-100-102",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0105",
+  "name": "Roca del Serrat del Centenar",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 89,
+    "type": "description"
+   }
+  ],
+  "semirRef": "101",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0106",
+  "name": "La Boleta Foradada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 89,
+    "type": "description"
+   }
+  ],
+  "semirRef": "105",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0107",
+  "name": "Aresta Nord",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 90,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0108",
+  "name": "El Melindro",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 92,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0109",
+  "name": "La Nina",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 92,
+    "type": "description"
+   }
+  ],
+  "semirRef": "106",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0110",
+  "name": "Roca de Nadal",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 93,
+    "type": "description"
+   }
+  ],
+  "semirRef": "110",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0111",
+  "name": "El Morro Pla",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 93,
+    "type": "description"
+   }
+  ],
+  "semirRef": "129-112",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0112",
+  "name": "Punta D'En Campanilles",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 95,
+    "type": "description"
+   }
+  ],
+  "semirRef": "116",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0113",
+  "name": "Roca Sota la Punta D'En Campanilles",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 95,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0114",
+  "name": "Roca Separada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 96,
+    "type": "description"
+   }
+  ],
+  "semirRef": "169",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0115",
+  "name": "Cresta Plana",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 97,
+    "type": "description"
+   }
+  ],
+  "semirRef": "177-176",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0116",
+  "name": "Cap D'En Calventus",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 97,
+    "type": "description"
+   }
+  ],
+  "semirRef": "166",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0117",
+  "name": "L'Amagada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 98,
+    "type": "description"
+   }
+  ],
+  "semirRef": "127",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0118",
+  "name": "La Mamelluda",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 98,
+    "type": "description"
+   }
+  ],
+  "semirRef": "117",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0119",
+  "name": "La Nana",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 100,
+    "type": "description"
+   }
+  ],
+  "semirRef": "115",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0120",
+  "name": "La Caputxa O Agulla Vicenc Barbé",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 100,
+    "type": "description"
+   }
+  ],
+  "semirRef": "132",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0121",
+  "name": "El Bisbe",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 101,
+    "type": "description"
+   }
+  ],
+  "semirRef": "136",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0122",
+  "name": "Aresta Nord, Via G.A.M.",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 101,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0123",
+  "name": "La Monja",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 105,
+    "type": "description"
+   }
+  ],
+  "semirRef": "138",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0124",
+  "name": "El Lloro",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 107,
+    "type": "description"
+   }
+  ],
+  "semirRef": "139",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0125",
+  "name": "La Patata",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 108,
+    "type": "description"
+   }
+  ],
+  "semirRef": "172",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0126",
+  "name": "El Talp",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 109,
+    "type": "description"
+   }
+  ],
+  "semirRef": "170",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0127",
+  "name": "El Dit",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 111,
+    "type": "description"
+   }
+  ],
+  "semirRef": "140",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0128",
+  "name": "El Dit Xic",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 111,
+    "type": "description"
+   }
+  ],
+  "semirRef": "141",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0129",
+  "name": "El Ditet",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 112,
+    "type": "description"
+   }
+  ],
+  "semirRef": "179",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0130",
+  "name": "Agulla Facil",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 113,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0131",
+  "name": "El Barret",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 113,
+    "type": "description"
+   }
+  ],
+  "semirRef": "143",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0132",
+  "name": "L'Asiática",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 116,
+    "type": "description"
+   }
+  ],
+  "semirRef": "185",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0133",
+  "name": "El Frare Gros",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 116,
+    "type": "description"
+   }
+  ],
+  "semirRef": "146",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0134",
+  "name": "Paret Nord",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 116,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0135",
+  "name": "Els Frares Encantats",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 118,
+    "type": "description"
+   }
+  ],
+  "semirRef": "147-148-149-150",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0136",
+  "name": "El Novici",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 118,
+    "type": "description"
+   }
+  ],
+  "semirRef": "183",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0137",
+  "name": "Roca de Coll de Porc",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 118,
+    "type": "description"
+   }
+  ],
+  "semirRef": "189",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0138",
+  "name": "L'Enclusa Deis Frares O el Bacalla",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 119,
+    "type": "description"
+   }
+  ],
+  "semirRef": "156",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0139",
+  "name": "Turó del Pou de L'Enclusa",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 119,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0140",
+  "name": "Agulla Dels Caporals",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 120,
+    "type": "description"
+   }
+  ],
+  "semirRef": "186",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0141",
+  "name": "El Nas",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 120,
+    "type": "description"
+   }
+  ],
+  "semirRef": "184",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0142",
+  "name": "La Cija del Bacalla",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 120,
+    "type": "description"
+   }
+  ],
+  "semirRef": "190",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0143",
+  "name": "El «Pepino»",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 120,
+    "type": "description"
+   }
+  ],
+  "semirRef": "171",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0144",
+  "name": "Agulla de la Princesa",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 122,
+    "type": "description"
+   }
+  ],
+  "semirRef": "153-154",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0145",
+  "name": "Agulla Gran de Pas de Príncep",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 122,
+    "type": "description"
+   }
+  ],
+  "semirRef": "159",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0146",
+  "name": "Agulla del Rei",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 123,
+    "type": "description"
+   }
+  ],
+  "semirRef": "158",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0147",
+  "name": "Roca Petita O Inferior de Pas de Príncep",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 125,
+    "type": "description"
+   }
+  ],
+  "semirRef": "160",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0148",
+  "name": "El Bitllot",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 127,
+    "type": "description"
+   }
+  ],
+  "semirRef": "162",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0149",
+  "name": "Miranda del Princep",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 127,
+    "type": "description"
+   }
+  ],
+  "semirRef": "163",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0150",
+  "name": "Roca de la Nevada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 127,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0151",
+  "name": "Miranda D'Agulles",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 128,
+    "type": "description"
+   }
+  ],
+  "semirRef": "187",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0152",
+  "name": "Punta de la Desdentegada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 128,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0153",
+  "name": "La Desdentegada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 129,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0154",
+  "name": "Miranda de L'Arcada",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 129,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0155",
+  "name": "Agulla Vista",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 133,
+    "type": "description"
+   }
+  ],
+  "semirRef": "235",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0156",
+  "name": "El Cor de Be",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 135,
+    "type": "description"
+   }
+  ],
+  "semirRef": "267",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0157",
+  "name": "Agulla del Miracle",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 135,
+    "type": "description"
+   }
+  ],
+  "semirRef": "234",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0158",
+  "name": "Roca D'En Guillot",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 135,
+    "type": "description"
+   }
+  ],
+  "semirRef": "231",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0159",
+  "name": "Roca Dels Aurons",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 137,
+    "type": "description"
+   }
+  ],
+  "semirRef": "230",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0160",
+  "name": "Miranda Dels Aurons",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 138,
+    "type": "description"
+   }
+  ],
+  "semirRef": "224",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0161",
+  "name": "L'Enganxada",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 138,
+    "type": "description"
+   }
+  ],
+  "semirRef": "225",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0162",
+  "name": "L'Esfinx Dels Ecos",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 139,
+    "type": "description"
+   }
+  ],
+  "semirRef": "227",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0163",
+  "name": "Roca de la Taula D'En Bernat",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 139,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0164",
+  "name": "Roca del Bassal Deis Ferros",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 140,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0165",
+  "name": "La Vella",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 140,
+    "type": "description"
+   }
+  ],
+  "semirRef": "233",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0166",
+  "name": "El Cabrit O el Cilindre",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 142,
+    "type": "description"
+   }
+  ],
+  "semirRef": "239",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0167",
+  "name": "Miranda del Cabrit O del Cilindre",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 142,
+    "type": "description"
+   }
+  ],
+  "semirRef": "240",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0168",
+  "name": "Agulla Alta de la Coma Deis Naps de Baix",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 143,
+    "type": "description"
+   }
+  ],
+  "semirRef": "243",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0169",
+  "name": "Roca Deis Nuvis",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 143,
+    "type": "description"
+   }
+  ],
+  "semirRef": "241",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0170",
+  "name": "Agulla de L'Estrep",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 143,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0171",
+  "name": "Agulla Severi Ventós",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 144,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0172",
+  "name": "Roca Dels Esperantistes",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 144,
+    "type": "description"
+   }
+  ],
+  "semirRef": "242",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0173",
+  "name": "El Taxi",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 145,
+    "type": "description"
+   }
+  ],
+  "semirRef": "268",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0174",
+  "name": "Roca Rodona",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 147,
+    "type": "description"
+   }
+  ],
+  "semirRef": "269",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0175",
+  "name": "Bonys Deis Naps",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 147,
+    "type": "description"
+   }
+  ],
+  "semirRef": "283-284-282-281-280",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0176",
+  "name": "Roca Inferior de L'Alzina",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 147,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0177",
+  "name": "Roca de L'Alzina",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 148,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0178",
+  "name": "Roca de la Vorera",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 148,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0179",
+  "name": "Agulla Dels Naps de Dalt",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 148,
+    "type": "description"
+   }
+  ],
+  "semirRef": "271",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0180",
+  "name": "Agulla del Pas del Nap",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 149,
+    "type": "description"
+   }
+  ],
+  "semirRef": "285",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0181",
+  "name": "Roca de la Foca",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 149,
+    "type": "description"
+   }
+  ],
+  "semirRef": "291",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0182",
+  "name": "El Boletet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 153,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0183",
+  "name": "El Musclet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 153,
+    "type": "description"
+   }
+  ],
+  "semirRef": "274",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0184",
+  "name": "La Gorra",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 154,
+    "type": "description"
+   }
+  ],
+  "semirRef": "275",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0185",
+  "name": "Roca Vella",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 154,
+    "type": "description"
+   }
+  ],
+  "semirRef": "261",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0186",
+  "name": "Agulla Fina Dels Naps de Baix",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 155,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0187",
+  "name": "Merlet de la Roca Vella",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 156,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0188",
+  "name": "Vena de la Roca Roja",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 156,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0189",
+  "name": "Roca Roja",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 156,
+    "type": "description"
+   }
+  ],
+  "semirRef": "286",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0190",
+  "name": "La Geperuda",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 157,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0191",
+  "name": "Roca del Dissabte",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 157,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0192",
+  "name": "Agulla del Castell",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 158,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0193",
+  "name": "Roca del Tambor",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 158,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0194",
+  "name": "Mirador de L'Oliverar",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 159,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0195",
+  "name": "Roca de la Castanyada",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 159,
+    "type": "description"
+   }
+  ],
+  "semirRef": "262",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0196",
+  "name": "Les Esouerdades",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 161,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0197",
+  "name": "Roca del Joanet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 161,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0198",
+  "name": "Agulla Zanini",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 162,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0199",
+  "name": "Agulla de la Benedicció",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 163,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0200",
+  "name": "Agulla Albert Zanini",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 163,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0201",
+  "name": "Serrat del Farao Occidental",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 164,
+    "type": "description"
+   }
+  ],
+  "semirRef": "260",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0202",
+  "name": "Serrat de la Palomera",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 164,
+    "type": "description"
+   }
+  ],
+  "semirRef": "263-264",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0203",
+  "name": "Roca Mur",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 164,
+    "type": "description"
+   }
+  ],
+  "semirRef": "265",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0204",
+  "name": "Roca del David",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 167,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0205",
+  "name": "El Faraonet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 167,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0206",
+  "name": "Agulla del Mal Pas",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 168,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0207",
+  "name": "Agulla de la Verge de Lourdes",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 169,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0208",
+  "name": "Agulla de la Tempestat",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 169,
+    "type": "description"
+   }
+  ],
+  "semirRef": "257",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0209",
+  "name": "Serrat del Faraci Occidental",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 170,
+    "type": "description"
+   }
+  ],
+  "semirRef": "259",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0210",
+  "name": "Serrat del Fara05",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 170,
+    "type": "description"
+   }
+  ],
+  "semirRef": "254-255-256",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0211",
+  "name": "La Rampa de L'Esfinx",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 173,
+    "type": "description"
+   }
+  ],
+  "semirRef": "252",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0212",
+  "name": "L'Esfinx del Montgros",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 174,
+    "type": "description"
+   }
+  ],
+  "semirRef": "248",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0213",
+  "name": "Roques Deis Plecs de Llibre",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 174,
+    "type": "description"
+   }
+  ],
+  "semirRef": "218-219-220-221-222",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0214",
+  "name": "Plec de Llibre Superior",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 174,
+    "type": "description"
+   }
+  ],
+  "semirRef": "223",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0215",
+  "name": "Plec de Llibre Inferior",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 175,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0216",
+  "name": "Boleta Dels Plecs",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 175,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0217",
+  "name": "Roca de la Cajoleta",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 176,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0218",
+  "name": "Plec del Pi",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 176,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0219",
+  "name": "Agulla de la Font de la Cadireta",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 177,
+    "type": "description"
+   }
+  ],
+  "semirRef": "237",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0220",
+  "name": "Roca Vena de la Dreta de la Salamandra",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 177,
+    "type": "description"
+   }
+  ],
+  "semirRef": "236",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0221",
+  "name": "La Salamandra",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 177,
+    "type": "description"
+   }
+  ],
+  "semirRef": "214",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0222",
+  "name": "Roca Vena de L'Esouerra de la Salamandra",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 178,
+    "type": "description"
+   }
+  ],
+  "semirRef": "213",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0223",
+  "name": "El Patufet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 179,
+    "type": "description"
+   }
+  ],
+  "semirRef": "215",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0224",
+  "name": "Serrat del Patufet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 181,
+    "type": "description"
+   }
+  ],
+  "semirRef": "249-212",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0225",
+  "name": "Agulla de Lluis Estasen",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 182,
+    "type": "description"
+   }
+  ],
+  "semirRef": "207",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0226",
+  "name": "Roques del Salt de la Nina",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 182,
+    "type": "description"
+   }
+  ],
+  "semirRef": "208-209",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0227",
+  "name": "Salt de la Nina",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 182,
+    "type": "description"
+   }
+  ],
+  "semirRef": "210",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0228",
+  "name": "Els Ecos",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 183,
+    "type": "description"
+   }
+  ],
+  "semirRef": "202-203-204-245-246",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0229",
+  "name": "L'Eco Petit",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 184,
+    "type": "description"
+   }
+  ],
+  "semirRef": "244",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0230",
+  "name": "L'Eco Superior",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 184,
+    "type": "description"
+   }
+  ],
+  "semirRef": "201",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0231",
+  "name": "Paret Deis Ecos, Cara N.",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 184,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0232",
+  "name": "Roca del Recontrapatufet",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 184,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0233",
+  "name": "Camell Deis Ecos",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 185,
+    "type": "description"
+   }
+  ],
+  "semirRef": "206-205",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0234",
+  "name": "Gepa del Camell",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 185,
+    "type": "description"
+   }
+  ],
+  "semirRef": "205",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0235",
+  "name": "Cap del Camell",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 185,
+    "type": "description"
+   }
+  ],
+  "semirRef": "206",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0236",
+  "name": "Agulla del Pas Dels Micos",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 185,
+    "type": "description"
+   }
+  ],
+  "semirRef": "288-287",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0237",
+  "name": "L'Alfil",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 186,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0238",
+  "name": "L'Alfil Dret",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 186,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0239",
+  "name": "Roca de la Font del Llum",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 187,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0240",
+  "name": "Paret No. de la Miranda de Sant Jeroni",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 193,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0241",
+  "name": "Canal de la Barana",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 194,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0242",
+  "name": "Xemeneia T. I. M.",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 195,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0243",
+  "name": "Xemeneia Torras-Nubiola",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 195,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0244",
+  "name": "Xemeneia Nubiola-Torras",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 196,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0245",
+  "name": "El Petit Gegant",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 197,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0246",
+  "name": "El Gegant Encantat",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 199,
+    "type": "description"
+   }
+  ],
+  "semirRef": "303",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0247",
+  "name": "Roca Veina del Gegant",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 199,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0248",
+  "name": "Roca de la Popa",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 199,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0249",
+  "name": "Agulleta D'En Pany",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 200,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0250",
+  "name": "Roca de la Miranda del Camell",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 200,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0251",
+  "name": "Roca de L'Ampolla",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 200,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0252",
+  "name": "El Sentinelleta",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 201,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0253",
+  "name": "Roques del Camell",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 201,
+    "type": "description"
+   }
+  ],
+  "semirRef": "315-316-317-318",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0254",
+  "name": "Les Gepes del Camell",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 201,
+    "type": "description"
+   }
+  ],
+  "semirRef": "315-316",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0255",
+  "name": "Cap del Camell",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 201,
+    "type": "description"
+   }
+  ],
+  "semirRef": "317-318",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0256",
+  "name": "Roca D'En Millet",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 202,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0257",
+  "name": "Roca de la Pitrada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 202,
+    "type": "description"
+   }
+  ],
+  "semirRef": "394",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0258",
+  "name": "Roca de la Sang",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 203,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0259",
+  "name": "Roca Deis Coloms",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 203,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0260",
+  "name": "La Pilota",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 203,
+    "type": "description"
+   }
+  ],
+  "semirRef": "390",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0261",
+  "name": "Roca Trobada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 204,
+    "type": "description"
+   }
+  ],
+  "semirRef": "389",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0262",
+  "name": "Agulla Predilecta",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 204,
+    "type": "description"
+   }
+  ],
+  "semirRef": "388",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0263",
+  "name": "Les Talaies",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 206,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0264",
+  "name": "Serrat de Sant Jeroni",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 211,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0265",
+  "name": "Agulla de Santa Cecilia",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 213,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0266",
+  "name": "Roca del Pont Natural",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 214,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0267",
+  "name": "Roca de la Confluencia",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 214,
+    "type": "description"
+   }
+  ],
+  "semirRef": "327",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0268",
+  "name": "Agulla de la Roser",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 215,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0269",
+  "name": "La Pera",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 215,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0270",
+  "name": "Roques de les Foradades",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 216,
+    "type": "description"
+   }
+  ],
+  "semirRef": "325",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0271",
+  "name": "Serrat del Moro I Mirador",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 218,
+    "type": "description"
+   }
+  ],
+  "semirRef": "330",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0272",
+  "name": "Roca de la Paret de L'Aeri",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 225,
+    "type": "description"
+   }
+  ],
+  "semirRef": "378",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0273",
+  "name": "El Montcau",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 226,
+    "type": "description"
+   }
+  ],
+  "semirRef": "331",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0274",
+  "name": "Roques del Patriarca",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 227,
+    "type": "description"
+   }
+  ],
+  "semirRef": "354-353-352-358-355",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0275",
+  "name": "La Barretina del Patriarca",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 227,
+    "type": "description"
+   }
+  ],
+  "semirRef": "356",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0276",
+  "name": "Paret N. del Serrat del Patriarca",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 227,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0277",
+  "name": "Serrat del Patriarca",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 228,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0278",
+  "name": "Roca del Cap de Mort",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 230,
+    "type": "description"
+   }
+  ],
+  "semirRef": "350",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0279",
+  "name": "Roca de les Onze",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 232,
+    "type": "description"
+   }
+  ],
+  "semirRef": "351",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0280",
+  "name": "Paret Dels Diables",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 232,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0281",
+  "name": "El Ganivet Dels Diables",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 234,
+    "type": "description"
+   }
+  ],
+  "semirRef": "360",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0282",
+  "name": "Merlet de Sota L'Ermita de Sant Antoni",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 235,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0283",
+  "name": "Agulla Migpartida",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 235,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0284",
+  "name": "La Desgraciada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 237,
+    "type": "description"
+   }
+  ],
+  "semirRef": "337",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0285",
+  "name": "El Braguer",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 239,
+    "type": "description"
+   }
+  ],
+  "semirRef": "336",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0286",
+  "name": "El Cantir",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 239,
+    "type": "description"
+   }
+  ],
+  "semirRef": "335",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0287",
+  "name": "Carena I Puntal de L'Albarda",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 240,
+    "type": "description"
+   }
+  ],
+  "semirRef": "338-339-340-341-342",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0288",
+  "name": "Agulla Inclinada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 241,
+    "type": "description"
+   }
+  ],
+  "semirRef": "343",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0289",
+  "name": "El Cigronet",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 241,
+    "type": "description"
+   }
+  ],
+  "semirRef": "344",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0290",
+  "name": "Roca Déu-La-Féu",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 243,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0291",
+  "name": "Roca de Sant Esteve",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 245,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0292",
+  "name": "Roca del Truc O de la Vinya Nova",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 245,
+    "type": "description"
+   }
+  ],
+  "semirRef": "346",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0293",
+  "name": "Roca de la Guineu",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 245,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0294",
+  "name": "Roques Deis Bugaders",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 246,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0295",
+  "name": "Roca de la Fabiola",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 247,
+    "type": "description"
+   }
+  ],
+  "semirRef": "382",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0296",
+  "name": "Roca del Castellet",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 247,
+    "type": "description"
+   }
+  ],
+  "semirRef": "383",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0297",
+  "name": "Roca de la Trinxada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 247,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0298",
+  "name": "Serrat Dels Tudons",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 248,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0299",
+  "name": "Agulla de L'Alicia",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 249,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0300",
+  "name": "Agulla Dels Llops",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 249,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0301",
+  "name": "Serrat de la Socarrada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 251,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0302",
+  "name": "Agulla Ajaguda del Coll de Muset",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 251,
+    "type": "description"
+   }
+  ],
+  "semirRef": "319",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0303",
+  "name": "Agulla de L'Avenc",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 251,
+    "type": "description"
+   }
+  ],
+  "semirRef": "320",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0304",
+  "name": "Agulla del Jardi",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 252,
+    "type": "description"
+   }
+  ],
+  "semirRef": "321",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0305",
+  "name": "Roca de L'Ocell Mort",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 252,
+    "type": "description"
+   }
+  ],
+  "semirRef": "322",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0306",
+  "name": "Roca del Saltet",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 252,
+    "type": "description"
+   }
+  ],
+  "semirRef": "323",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0307",
+  "name": "Mirador Deis Plecs de Llibre",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 253,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0308",
+  "name": "Roca Atrinxerada",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 253,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0309",
+  "name": "Mirador de la Palla",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 253,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0310",
+  "name": "L'As de «Bastos»",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 253,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0311",
+  "name": "Avenc de L'Agulla O D'En Barbera",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 254,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0312",
+  "name": "Roca Dels Trullagons",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 260,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0313",
+  "name": "Agulla del Pessebre",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 260,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0314",
+  "name": "Roca Mala",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 260,
+    "type": "description"
+   }
+  ],
+  "semirRef": "480-481",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0315",
+  "name": "Agulla Dels Flamencs",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 261,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0316",
+  "name": "Roca del Pi",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 261,
+    "type": "description"
+   }
+  ],
+  "semirRef": "481A",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0317",
+  "name": "Roca Tormes",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 261,
+    "type": "description"
+   }
+  ],
+  "semirRef": "481B",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0318",
+  "name": "Conjunt Dels Pollegons",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 261,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0319",
+  "name": "Serrat Dels Pollegons A",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 263,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0320",
+  "name": "Serrat Dels Pollegons B",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 264,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0321",
+  "name": "Serrat de L'Artiga Alta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 265,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0322",
+  "name": "Miranda Dels Pollegons",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 267,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0323",
+  "name": "Serrat de Bellavista",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 267,
+    "type": "description"
+   }
+  ],
+  "semirRef": "457-458-459-460-461",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0324",
+  "name": "Cara de Mico",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 268,
+    "type": "description"
+   }
+  ],
+  "semirRef": "415",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0325",
+  "name": "Roca de la Paparra",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 268,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0326",
+  "name": "El Sentinella",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 269,
+    "type": "description"
+   }
+  ],
+  "semirRef": "437",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0327",
+  "name": "La Campana",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 269,
+    "type": "description"
+   }
+  ],
+  "semirRef": "438",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0328",
+  "name": "Roca Vena del Rave",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 270,
+    "type": "description"
+   }
+  ],
+  "semirRef": "440",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0329",
+  "name": "El Rave O la Baldufa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 270,
+    "type": "description"
+   }
+  ],
+  "semirRef": "439",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0330",
+  "name": "Roques de Sota el Rave",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 271,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0331",
+  "name": "Megu",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 272,
+    "type": "description"
+   }
+  ],
+  "semirRef": "4415",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0332",
+  "name": "Processo Deis Monjos",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 274,
+    "type": "description"
+   }
+  ],
+  "semirRef": "421-422",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0333",
+  "name": "La Doble",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 274,
+    "type": "description"
+   }
+  ],
+  "semirRef": "423-424",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0334",
+  "name": "La Mamella",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 275,
+    "type": "description"
+   }
+  ],
+  "semirRef": "425",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0335",
+  "name": "Agulla Jaume Mata",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 276,
+    "type": "description"
+   }
+  ],
+  "semirRef": "434",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0336",
+  "name": "Roca de Sant Cugat",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 276,
+    "type": "description"
+   }
+  ],
+  "semirRef": "435",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0337",
+  "name": "Roca Dels Colleccionistes",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 277,
+    "type": "description"
+   }
+  ],
+  "semirRef": "472-472A",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0338",
+  "name": "La Mamelleta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 278,
+    "type": "description"
+   }
+  ],
+  "semirRef": "426",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0339",
+  "name": "Miranda de la Mamella",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 278,
+    "type": "description"
+   }
+  ],
+  "semirRef": "427-428",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0340",
+  "name": "Agulla del Megui",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 279,
+    "type": "description"
+   }
+  ],
+  "semirRef": "448",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0341",
+  "name": "Agulla de la Plantació",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 279,
+    "type": "description"
+   }
+  ],
+  "semirRef": "452",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0342",
+  "name": "La Triple",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 280,
+    "type": "description"
+   }
+  ],
+  "semirRef": "432-431-430",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0343",
+  "name": "Agulla D'En Torras Homet",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 280,
+    "type": "description"
+   }
+  ],
+  "semirRef": "449",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0344",
+  "name": "El Barretet",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 281,
+    "type": "description"
+   }
+  ],
+  "semirRef": "456",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0345",
+  "name": "Roca del Divendres Sant",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 281,
+    "type": "description"
+   }
+  ],
+  "semirRef": "467",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0346",
+  "name": "Agulleta de L'Esglai",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 282,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0347",
+  "name": "L'Oblidada",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 283,
+    "type": "description"
+   }
+  ],
+  "semirRef": "473",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0348",
+  "name": "L'Ou de la Plantació",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 283,
+    "type": "description"
+   }
+  ],
+  "semirRef": "470",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0349",
+  "name": "Roca de la Cantelluda",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 284,
+    "type": "description"
+   }
+  ],
+  "semirRef": "477",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0350",
+  "name": "Roca de la Presidenta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 284,
+    "type": "description"
+   }
+  ],
+  "semirRef": "478",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0351",
+  "name": "Agulleta I Miranda de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 287,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0352",
+  "name": "Roca D'En Marcel",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 288,
+    "type": "description"
+   }
+  ],
+  "semirRef": "465",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0353",
+  "name": "Roca del Rellotge",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 288,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0354",
+  "name": "Roca de L'Esquerda",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 288,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0355",
+  "name": "Roques de Sota el Rellotge",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 288,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0356",
+  "name": "Roca de L'Artiga Baixa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 288,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0357",
+  "name": "El Frare Mix del Clot de la Mónica",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 289,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0358",
+  "name": "Roca del Frare de Baix del Clot de la Mónica",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 290,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0359",
+  "name": "Roca del Cami de L'Artiga Baixa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 290,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0360",
+  "name": "Agulla de la Pastereta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 291,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0361",
+  "name": "Serrat de la Pastereta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 291,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0362",
+  "name": "Miranda de Sant Pere",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 291,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0363",
+  "name": "Agulla de Sant Pere",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 291,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0364",
+  "name": "Serrat del Penitent",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 292,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0365",
+  "name": "Roca del Sostre de la Costa Dreta",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 292,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0366",
+  "name": "Agulla Baixa de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 293,
+    "type": "description"
+   }
+  ],
+  "semirRef": "491",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0367",
+  "name": "Agulla de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 293,
+    "type": "description"
+   }
+  ],
+  "semirRef": "490",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0368",
+  "name": "Roca Alta de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 295,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0369",
+  "name": "Roca de la Gorra Frígia",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 297,
+    "type": "description"
+   }
+  ],
+  "semirRef": "401",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0370",
+  "name": "Roca de la Magdalena Superior",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 299,
+    "type": "description"
+   }
+  ],
+  "semirRef": "402",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0371",
+  "name": "Ullal de les Magdalenes",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 301,
+    "type": "description"
+   }
+  ],
+  "semirRef": "404",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0372",
+  "name": "Roca de la Magdalena Inferior",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 301,
+    "type": "description"
+   }
+  ],
+  "semirRef": "405",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0373",
+  "name": "La Gorra Marinera",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 302,
+    "type": "description"
+   }
+  ],
+  "semirRef": "406",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0374",
+  "name": "Miranda de Santa Magdalena",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 303,
+    "type": "description"
+   }
+  ],
+  "semirRef": "403",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0375",
+  "name": "Roca de Sobre L'Estació Superior de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 303,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0376",
+  "name": "El Xampinyó",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 305,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0377",
+  "name": "Roca del Pas de la Drecera de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 305,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0378",
+  "name": "Serra de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 306,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0379",
+  "name": "Roca de la Llosa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 306,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0380",
+  "name": "Agulleta Dels Dos Forats",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 306,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0381",
+  "name": "Agulla de la Pulgui",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 307,
+    "type": "description"
+   }
+  ],
+  "semirRef": "474A",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0382",
+  "name": "Roca de la Joguina",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 307,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0383",
+  "name": "Roques del Triangle",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 307,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0384",
+  "name": "Roca del Triangle",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 308,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0385",
+  "name": "Serrat de la Guardia",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 309,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0386",
+  "name": "Agulla Llisa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 309,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0387",
+  "name": "Agulla de Sota la Llisa",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 311,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0388",
+  "name": "Contrafort de les Bateries",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 311,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0389",
+  "name": "Serra de les Garrigoses",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 311,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0390",
+  "name": "Roca del Burro Fort",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 312,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0391",
+  "name": "El Pinetell",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 312,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0392",
+  "name": "Agulla de L'Albert Iglésias",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 312,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0393",
+  "name": "Agulleta del Pont Natural de Collbato",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 313,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0394",
+  "name": "Sector Coves",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 313,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0395",
+  "name": "Serrat Dels Monjos",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s27",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 317,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0396",
+  "name": "Agulla de Serra Llarga",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s28",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 320,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0397",
+  "name": "Roca D'En Jamamoto",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s28",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 321,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0398",
+  "name": "Roca Alta de la Canal de Sant Miquel",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 323,
+    "type": "description"
+   }
+  ],
+  "semirRef": "498",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0399",
+  "name": "Roques del Cami de les Ermites",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 323,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0400",
+  "name": "Roques del Fascicle",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 324,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0401",
+  "name": "Roca del Cap de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 324,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0402",
+  "name": "Carena del Cap de Sant Joan",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 324,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0403",
+  "name": "La Granota",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 327,
+    "type": "description"
+   }
+  ],
+  "semirRef": "492",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0404",
+  "name": "Roca de Fra Gari",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 328,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0405",
+  "name": "Roca de L'Angel",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 328,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0406",
+  "name": "Roca de la Vomitada",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 329,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0407",
+  "name": "Roques de les Tres Torres",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 329,
+    "type": "description"
+   }
+  ],
+  "semirRef": "484-485-486",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0408",
+  "name": "Roca del Pallasso",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 330,
+    "type": "description"
+   }
+  ],
+  "semirRef": "487",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0409",
+  "name": "Roca de la Cova",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 332,
+    "type": "description"
+   }
+  ],
+  "semirRef": "496",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0410",
+  "name": "Roca de L'Avia",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 332,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0411",
+  "name": "El Gos",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 332,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0412",
+  "name": "Miranda del Monestir",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 333,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0413",
+  "name": "Roca del Tascó de la Vallmal",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 337,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0414",
+  "name": "Agulla Dels Retornats",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 337,
+    "type": "description"
+   }
+  ],
+  "semirRef": "581",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0415",
+  "name": "Roca del Pas Dels Francesos",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 338,
+    "type": "description"
+   }
+  ],
+  "semirRef": "582",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0416",
+  "name": "Roca de L'Elefantet",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 338,
+    "type": "description"
+   }
+  ],
+  "semirRef": "583",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0417",
+  "name": "Merlet de la Verge",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 339,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0418",
+  "name": "Roca de Sobre L'Agulla de 'La Verge",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 339,
+    "type": "description"
+   }
+  ],
+  "semirRef": "A",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0419",
+  "name": "Els Corns",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 340,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0420",
+  "name": "Roca de la Santa Creu",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 340,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0421",
+  "name": "Agulla de la Verge",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 340,
+    "type": "description"
+   }
+  ],
+  "semirRef": "584",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0422",
+  "name": "El Sostre del Monestir",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 341,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0423",
+  "name": "Sostre del Castell del Diable O del Monestir",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 342,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0424",
+  "name": "Agulla del Contrafort de Sant Dimes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 343,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0425",
+  "name": "Talaia de Sant Dimes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 343,
+    "type": "description"
+   }
+  ],
+  "semirRef": "577",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0426",
+  "name": "Esperó del Diable",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 343,
+    "type": "description"
+   }
+  ],
+  "semirRef": "594",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0427",
+  "name": "Merlet del Pla Dels Ocells",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 344,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0428",
+  "name": "Carena del Merlet del Pla Dels Ocells",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 344,
+    "type": "description"
+   }
+  ],
+  "semirRef": "521",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0429",
+  "name": "Agulla del Pla Dels Ocells",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 344,
+    "type": "description"
+   }
+  ],
+  "semirRef": "522",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0430",
+  "name": "Agulla de Sant Benet",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 347,
+    "type": "description"
+   }
+  ],
+  "semirRef": "516",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0431",
+  "name": "Agulla del Gat",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 348,
+    "type": "description"
+   }
+  ],
+  "semirRef": "525-526",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0432",
+  "name": "Roca de la Prenyada",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 348,
+    "type": "description"
+   }
+  ],
+  "semirRef": "512",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0433",
+  "name": "Contrafort de la Prenyada",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 350,
+    "type": "description"
+   }
+  ],
+  "semirRef": "513",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0434",
+  "name": "Roca D'En Barbera",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 351,
+    "type": "description"
+   }
+  ],
+  "semirRef": "592",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0435",
+  "name": "Agulla D'En Markus Kamen",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 351,
+    "type": "description"
+   }
+  ],
+  "semirRef": "591",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0436",
+  "name": "Roca de la Trumfa",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 353,
+    "type": "description"
+   }
+  ],
+  "semirRef": "528",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0437",
+  "name": "Roca de Sant Salvador",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 353,
+    "type": "description"
+   }
+  ],
+  "semirRef": "501",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0438",
+  "name": "L'Elefant",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 353,
+    "type": "description"
+   }
+  ],
+  "semirRef": "502",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0439",
+  "name": "La Momia",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 355,
+    "type": "description"
+   }
+  ],
+  "semirRef": "509",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0440",
+  "name": "La Momieta",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 357,
+    "type": "description"
+   }
+  ],
+  "semirRef": "510",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0441",
+  "name": "Agulla del Caivb",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 358,
+    "type": "description"
+   }
+  ],
+  "semirRef": "515",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0442",
+  "name": "Cavall Pinteta",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 359,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0443",
+  "name": "Roca Dels Corbs",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 361,
+    "type": "description"
+   }
+  ],
+  "semirRef": "585",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0444",
+  "name": "La Trona",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 361,
+    "type": "description"
+   }
+  ],
+  "semirRef": "586",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0445",
+  "name": "Tossal de Mullapans",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 362,
+    "type": "description"
+   }
+  ],
+  "semirRef": "587",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0446",
+  "name": "Roca Fantasma",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 363,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0447",
+  "name": "Boleta de la Fissura",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 363,
+    "type": "description"
+   }
+  ],
+  "semirRef": "588",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0448",
+  "name": "Ressalt Dels Pelegrins",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 365,
+    "type": "description"
+   }
+  ],
+  "semirRef": "589",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0449",
+  "name": "Roc Gros",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 365,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0450",
+  "name": "Roca del Capvespre",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 366,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0451",
+  "name": "El Fesolet",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 367,
+    "type": "description"
+   }
+  ],
+  "semirRef": "504",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0452",
+  "name": "Els Flautats",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 369,
+    "type": "description"
+   }
+  ],
+  "semirRef": "505-506-507",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0453",
+  "name": "El «Pito del Sereno»",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 369,
+    "type": "description"
+   }
+  ],
+  "semirRef": "535",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0454",
+  "name": "El «Sereno»",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 371,
+    "type": "description"
+   }
+  ],
+  "semirRef": "534",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0455",
+  "name": "El Pebrot",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 371,
+    "type": "description"
+   }
+  ],
+  "semirRef": "533",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0456",
+  "name": "La Carota",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 371,
+    "type": "description"
+   }
+  ],
+  "semirRef": "536",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0457",
+  "name": "La Nineta",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 372,
+    "type": "description"
+   }
+  ],
+  "semirRef": "537",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0458",
+  "name": "Boleta de Trinitats",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 372,
+    "type": "description"
+   }
+  ],
+  "semirRef": "538",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0459",
+  "name": "La Porra",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 374,
+    "type": "description"
+   }
+  ],
+  "semirRef": "530",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0460",
+  "name": "La Punxa",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 374,
+    "type": "description"
+   }
+  ],
+  "semirRef": "531",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0461",
+  "name": "Roca de la Cara de la Vella",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 375,
+    "type": "description"
+   }
+  ],
+  "semirRef": "532",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0462",
+  "name": "Agulla de la Mitra",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 376,
+    "type": "description"
+   }
+  ],
+  "semirRef": "560",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0463",
+  "name": "Roques de la Nansa",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 376,
+    "type": "description"
+   }
+  ],
+  "semirRef": "561-593",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0464",
+  "name": "Roques de Sota el Cami de L'Arrel",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 376,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0465",
+  "name": "Roca del Bosc",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 377,
+    "type": "description"
+   }
+  ],
+  "semirRef": "539",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0466",
+  "name": "Roca Alta de la Drecera de la Font del Gat",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 377,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0467",
+  "name": "Roca Baixa de la Drecera de la Font del Gat",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 377,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0468",
+  "name": "Agulla Dels Degotalls",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 377,
+    "type": "description"
+   }
+  ],
+  "semirRef": "543",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0469",
+  "name": "Roca Dels Angels",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 377,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0470",
+  "name": "Pedris Dels Bisbes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 378,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0471",
+  "name": "La Flama O el Didal",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 379,
+    "type": "description"
+   }
+  ],
+  "semirRef": "580",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0472",
+  "name": "Roca de L'Urbain",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 379,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0473",
+  "name": "Agulla de la Canal Plana",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 381,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0474",
+  "name": "Roca de les Lluernes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 381,
+    "type": "description"
+   }
+  ],
+  "semirRef": "564",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0475",
+  "name": "Serrat del Forat del Vent",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 382,
+    "type": "description"
+   }
+  ],
+  "semirRef": "573-557",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0476",
+  "name": "Roques del Forat del Vent",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 382,
+    "type": "description"
+   }
+  ],
+  "semirRef": "556-579-555",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0477",
+  "name": "Roques Baixes del Forat del Vent",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 382,
+    "type": "description"
+   }
+  ],
+  "semirRef": "578",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0478",
+  "name": "Agulla del Consol",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 383,
+    "type": "description"
+   }
+  ],
+  "semirRef": "550",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0479",
+  "name": "Roques Dels Falcons",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 383,
+    "type": "description"
+   }
+  ],
+  "semirRef": "551-552-553",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0480",
+  "name": "Serrat de les Barretines",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 384,
+    "type": "description"
+   }
+  ],
+  "semirRef": "554-565",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0481",
+  "name": "Agulla de la Perduda",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 384,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
+  }
+ },
+ {
+  "id": "n0482",
+  "name": "Agulla Despistada",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 386,
+    "type": "description"
+   }
+  ],
+  "semirRef": "569",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0483",
+  "name": "El Projectil",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 386,
+    "type": "description"
+   }
+  ],
+  "semirRef": "570",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic; name capitalisation and Semir ref unverified"
+  }
+ },
+ {
+  "id": "n0484",
+  "name": "Agulla de la Maria Lluisa",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 387,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"
   }
  }
 ]

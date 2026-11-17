@@ -1,0 +1,431 @@
+[
+ {
+  "candidate": {
+   "line": 593,
+   "pdfPage": 18,
+   "rawHeading": "LA    PORTELLA -17",
+   "name": "LA PORTELLA",
+   "semirRef": "17",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 692,
+   "pdfPage": 21,
+   "rawHeading": "ROCA DE LES VUIT -14-",
+   "name": "ROCA DE LES VUIT",
+   "semirRef": "14",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 693,
+   "pdfPage": 21,
+   "rawHeading": "MIRANDA DE LA PORTELLA -15-",
+   "name": "MIRANDA DE LA PORTELLA",
+   "semirRef": "15",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 1004,
+   "pdfPage": 28,
+   "rawHeading": "EL DAUET D'AGULLES -16-",
+   "name": "EL DAUET D'AGULLES",
+   "semirRef": "16",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 1091,
+   "pdfPage": 30,
+   "rawHeading": "LA    PELADA 19-20",
+   "name": "LA PELADA 19",
+   "semirRef": "20",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 1476,
+   "pdfPage": 40,
+   "rawHeading": "LA   BANDERETA   -37-",
+   "name": "LA BANDERETA",
+   "semirRef": "37",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 2375,
+   "pdfPage": 60,
+   "rawHeading": "LA ROCA DE            LA   PARTIÓ -61-",
+   "name": "LA ROCA DE LA PARTIÓ",
+   "semirRef": "61",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 2722,
+   "pdfPage": 69,
+   "rawHeading": "L'OU     DE    COLOM   -93",
+   "name": "L'OU DE COLOM",
+   "semirRef": "93",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 2931,
+   "pdfPage": 74,
+   "rawHeading": "ROCA DE L'ESCORPI' -66-",
+   "name": "ROCA DE L'ESCORPI'",
+   "semirRef": "66",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 3143,
+   "pdfPage": 79,
+   "rawHeading": "LA CADIRETA         -70-",
+   "name": "LA CADIRETA",
+   "semirRef": "70",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 3485,
+   "pdfPage": 85,
+   "rawHeading": "BOLETA DEL      PORTELL ESTRET -123-",
+   "name": "BOLETA DEL PORTELL ESTRET",
+   "semirRef": "123",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 3715,
+   "pdfPage": 91,
+   "rawHeading": "LA BOLETA FORADADA -105-",
+   "name": "LA BOLETA FORADADA",
+   "semirRef": "105",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 4071,
+   "pdfPage": 99,
+   "rawHeading": "LA   NANA -115-",
+   "name": "LA NANA",
+   "semirRef": "115",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 4216,
+   "pdfPage": 102,
+   "rawHeading": "4                                           ..-                                                                                   190",
+   "name": "4 ..",
+   "semirRef": "190",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 4297,
+   "pdfPage": 104,
+   "rawHeading": "EL BISBE    -136",
+   "name": "EL BISBE",
+   "semirRef": "136",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 4826,
+   "pdfPage": 117,
+   "rawHeading": "EL     FRARE -146-",
+   "name": "EL FRARE",
+   "semirRef": "146",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 5046,
+   "pdfPage": 121,
+   "rawHeading": "AGULLA DEL PAS   DEL PRÍNCEP -159-",
+   "name": "AGULLA DEL PAS DEL PRÍNCEP",
+   "semirRef": "159",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 5287,
+   "pdfPage": 126,
+   "rawHeading": "EL    BITLLOT       -162-",
+   "name": "EL BITLLOT",
+   "semirRef": "162",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 5572,
+   "pdfPage": 130,
+   "rawHeading": "1------------------1                                                                                                                     1",
+   "name": "1",
+   "semirRef": "1                                                                                                                     1",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 6562,
+   "pdfPage": 151,
+   "rawHeading": "CAVALL DELS BRUCS -279   -",
+   "name": "CAVALL DELS BRUCS",
+   "semirRef": "279",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 6787,
+   "pdfPage": 156,
+   "rawHeading": "AGULLA FINA DELS NAPS DE BAIX",
+   "name": "AGULLA FINA DELS NAPS DE BAIX",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 7421,
+   "pdfPage": 171,
+   "rawHeading": "EL         FARAÓ                -258   -",
+   "name": "EL FARAÓ",
+   "semirRef": "258",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 8785,
+   "pdfPage": 198,
+   "rawHeading": "EL    CAMELL -317-318",
+   "name": "EL CAMELL",
+   "semirRef": "317-318",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 9064,
+   "pdfPage": 205,
+   "rawHeading": "LA TALAIA      GRAN -304-",
+   "name": "LA TALAIA GRAN",
+   "semirRef": "304",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 10289,
+   "pdfPage": 236,
+   "rawHeading": "EL CAP        DE    MORT     -350    -",
+   "name": "EL CAP DE MORT",
+   "semirRef": "350",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 10651,
+   "pdfPage": 242,
+   "rawHeading": "EL PUNTAL DE L'ALBARDA -342-",
+   "name": "EL PUNTAL DE L'ALBARDA",
+   "semirRef": "342",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 11090,
+   "pdfPage": 250,
+   "rawHeading": "L'AJAGUDA DEL COLL DE MUSET -319-",
+   "name": "L'AJAGUDA DEL COLL DE MUSET",
+   "semirRef": "319",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 13120,
+   "pdfPage": 285,
+   "rawHeading": "LA MAMELLA -425-",
+   "name": "LA MAMELLA",
+   "semirRef": "425",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 13659,
+   "pdfPage": 296,
+   "rawHeading": "EL   TRENCABARRALS               -412-",
+   "name": "EL TRENCABARRALS",
+   "semirRef": "412",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 13707,
+   "pdfPage": 298,
+   "rawHeading": "LA   GORRA   FRÍGIA -401-",
+   "name": "LA GORRA FRÍGIA",
+   "semirRef": "401",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 13754,
+   "pdfPage": 300,
+   "rawHeading": "LA GORRA MARINERA -406",
+   "name": "LA GORRA MARINERA",
+   "semirRef": "406",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 15410,
+   "pdfPage": 333,
+   "rawHeading": "AGULLA DE LA CREU -488-489-",
+   "name": "AGULLA DE LA CREU",
+   "semirRef": "488-489",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 15968,
+   "pdfPage": 345,
+   "rawHeading": "LA     PANXA DEL BISBE -520-",
+   "name": "LA PANXA DEL BISBE",
+   "semirRef": "520",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 16288,
+   "pdfPage": 352,
+   "rawHeading": "LA TROMPA DE L'ELEFANT -502",
+   "name": "LA TROMPA DE L'ELEFANT",
+   "semirRef": "502",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 16335,
+   "pdfPage": 354,
+   "rawHeading": "LA    MOMIA      -509-",
+   "name": "LA MOMIA",
+   "semirRef": "509",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 16608,
+   "pdfPage": 362,
+   "rawHeading": "TOSSAL DE             MULLAPANS -587-",
+   "name": "TOSSAL DE MULLAPANS",
+   "semirRef": "587",
+   "confidence": "dash"
+  },
+  "reason": "duplicate of earlier entry"
+ },
+ {
+  "candidate": {
+   "line": 16940,
+   "pdfPage": 370,
+   "rawHeading": "EL    PEBROT -533-",
+   "name": "EL PEBROT",
+   "semirRef": "533",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 17036,
+   "pdfPage": 373,
+   "rawHeading": "LA   PORRA -530-",
+   "name": "LA PORRA",
+   "semirRef": "530",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ },
+ {
+  "candidate": {
+   "line": 17610,
+   "pdfPage": 385,
+   "rawHeading": "EL    PROJECTIL -570-",
+   "name": "EL PROJECTIL",
+   "semirRef": "570",
+   "confidence": "dash"
+  },
+  "reason": "dash-style heading (map label or secondary reference)"
+ }
+]

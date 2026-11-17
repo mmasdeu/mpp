@@ -1,0 +1,4194 @@
+{
+ "source": "Montserrat Pam a Pam.pdf (pdftotext -layout)",
+ "range": [
+  242,
+  17667
+ ],
+ "status": "unreviewed",
+ "candidates": [
+  {
+   "line": 273,
+   "pdfPage": 10,
+   "rawHeading": "SANT PAU VELL, RUNES 1 TURÓ (97)",
+   "name": "SANT PAU VELL, RUNES 1 TURÓ",
+   "semirRef": "97",
+   "confidence": "paren"
+  },
+  {
+   "line": 316,
+   "pdfPage": 12,
+   "rawHeading": "AGULLA DE LA VENTA",
+   "name": "AGULLA DE LA VENTA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 362,
+   "pdfPage": 13,
+   "rawHeading": "ROCA DE L'ARC DE GUIRLÓ",
+   "name": "ROCA DE L'ARC DE GUIRLÓ",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 377,
+   "pdfPage": 13,
+   "rawHeading": "EL SABRE O EL BODU",
+   "name": "EL SABRE O EL BODU",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 439,
+   "pdfPage": 14,
+   "rawHeading": "ROCA DEL CONTRAFORT",
+   "name": "ROCA DEL CONTRAFORT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 454,
+   "pdfPage": 15,
+   "rawHeading": "LES TRES MAREES",
+   "name": "LES TRES MAREES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 464,
+   "pdfPage": 15,
+   "rawHeading": "EL     SABRE",
+   "name": "EL SABRE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 580,
+   "pdfPage": 17,
+   "rawHeading": "ROCA GRAN DE LA PORTELLA (17)",
+   "name": "ROCA GRAN DE LA PORTELLA",
+   "semirRef": "17",
+   "confidence": "paren"
+  },
+  {
+   "line": 593,
+   "pdfPage": 18,
+   "rawHeading": "LA    PORTELLA -17",
+   "name": "LA PORTELLA",
+   "semirRef": "17",
+   "confidence": "dash"
+  },
+  {
+   "line": 639,
+   "pdfPage": 19,
+   "rawHeading": "ROCA DE LES VUIT O LLASTRA DEL DAU (14)",
+   "name": "ROCA DE LES VUIT O LLASTRA DEL DAU",
+   "semirRef": "14",
+   "confidence": "paren"
+  },
+  {
+   "line": 675,
+   "pdfPage": 20,
+   "rawHeading": "LLASTRA PUNXEGUDA",
+   "name": "LLASTRA PUNXEGUDA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 692,
+   "pdfPage": 21,
+   "rawHeading": "ROCA DE LES VUIT -14-",
+   "name": "ROCA DE LES VUIT",
+   "semirRef": "14",
+   "confidence": "dash"
+  },
+  {
+   "line": 693,
+   "pdfPage": 21,
+   "rawHeading": "MIRANDA DE LA PORTELLA -15-",
+   "name": "MIRANDA DE LA PORTELLA",
+   "semirRef": "15",
+   "confidence": "dash"
+  },
+  {
+   "line": 704,
+   "pdfPage": 22,
+   "rawHeading": "EL DAU (16)",
+   "name": "EL DAU",
+   "semirRef": "16",
+   "confidence": "paren"
+  },
+  {
+   "line": 727,
+   "pdfPage": 22,
+   "rawHeading": "MIRANDA DE LA PORTELLA (15)",
+   "name": "MIRANDA DE LA PORTELLA",
+   "semirRef": "15",
+   "confidence": "paren"
+  },
+  {
+   "line": 761,
+   "pdfPage": 23,
+   "rawHeading": "AGULLA DELS TRES",
+   "name": "AGULLA DELS TRES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 780,
+   "pdfPage": 23,
+   "rawHeading": "LA TRETZE (13)",
+   "name": "LA TRETZE",
+   "semirRef": "13",
+   "confidence": "paren"
+  },
+  {
+   "line": 800,
+   "pdfPage": 24,
+   "rawHeading": "ROCA DE L'ERA DEIS PALLERS (12)",
+   "name": "ROCA DE L'ERA DEIS PALLERS",
+   "semirRef": "12",
+   "confidence": "paren"
+  },
+  {
+   "line": 808,
+   "pdfPage": 24,
+   "rawHeading": "AGULLES DE L'ERA DEIS PALLERS (11-10-9-8)",
+   "name": "AGULLES DE L'ERA DEIS PALLERS",
+   "semirRef": "11-10-9-8",
+   "confidence": "paren"
+  },
+  {
+   "line": 828,
+   "pdfPage": 24,
+   "rawHeading": "AGULLA DEL GIRAVOLT (8)",
+   "name": "AGULLA DEL GIRAVOLT",
+   "semirRef": "8",
+   "confidence": "paren"
+  },
+  {
+   "line": 842,
+   "pdfPage": 25,
+   "rawHeading": "PALLERS DEL MAL ANY (7-6-5-4)",
+   "name": "PALLERS DEL MAL ANY",
+   "semirRef": "7-6-5-4",
+   "confidence": "paren"
+  },
+  {
+   "line": 865,
+   "pdfPage": 25,
+   "rawHeading": "LA TISORA (3)",
+   "name": "LA TISORA",
+   "semirRef": "3",
+   "confidence": "paren"
+  },
+  {
+   "line": 892,
+   "pdfPage": 26,
+   "rawHeading": "LA TISORETA",
+   "name": "LA TISORETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 911,
+   "pdfPage": 26,
+   "rawHeading": "EL CERRO (1)",
+   "name": "EL CERRO",
+   "semirRef": "1",
+   "confidence": "paren"
+  },
+  {
+   "line": 947,
+   "pdfPage": 27,
+   "rawHeading": "ROCA DELS CARTUTXOS",
+   "name": "ROCA DELS CARTUTXOS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 954,
+   "pdfPage": 27,
+   "rawHeading": "EL TIMBALER DEL BRUC (2)",
+   "name": "EL TIMBALER DEL BRUC",
+   "semirRef": "2",
+   "confidence": "paren"
+  },
+  {
+   "line": 973,
+   "pdfPage": 27,
+   "rawHeading": "SERRAT DE LES ARNES (98 A)",
+   "name": "SERRAT DE LES ARNES",
+   "semirRef": "98 A",
+   "confidence": "paren"
+  },
+  {
+   "line": 981,
+   "pdfPage": 27,
+   "rawHeading": "TURÓ (98 B)",
+   "name": "TURÓ",
+   "semirRef": "98 B",
+   "confidence": "paren"
+  },
+  {
+   "line": 1004,
+   "pdfPage": 28,
+   "rawHeading": "EL DAUET D'AGULLES -16-",
+   "name": "EL DAUET D'AGULLES",
+   "semirRef": "16",
+   "confidence": "dash"
+  },
+  {
+   "line": 1035,
+   "pdfPage": 29,
+   "rawHeading": "LES MOMIETES (31-32)",
+   "name": "LES MOMIETES",
+   "semirRef": "31-32",
+   "confidence": "paren"
+  },
+  {
+   "line": 1091,
+   "pdfPage": 30,
+   "rawHeading": "LA    PELADA 19-20",
+   "name": "LA PELADA 19",
+   "semirRef": "20",
+   "confidence": "dash"
+  },
+  {
+   "line": 1106,
+   "pdfPage": 31,
+   "rawHeading": "L'AGLÁ (31)",
+   "name": "L'AGLÁ",
+   "semirRef": "31",
+   "confidence": "paren"
+  },
+  {
+   "line": 1115,
+   "pdfPage": 31,
+   "rawHeading": "AGULLA MARE (32)",
+   "name": "AGULLA MARE",
+   "semirRef": "32",
+   "confidence": "paren"
+  },
+  {
+   "line": 1127,
+   "pdfPage": 31,
+   "rawHeading": "PORTELLA PETITA (18)",
+   "name": "PORTELLA PETITA",
+   "semirRef": "18",
+   "confidence": "paren"
+  },
+  {
+   "line": 1142,
+   "pdfPage": 31,
+   "rawHeading": "AGULLA PELADA (19-20)",
+   "name": "AGULLA PELADA",
+   "semirRef": "19-20",
+   "confidence": "paren"
+  },
+  {
+   "line": 1254,
+   "pdfPage": 34,
+   "rawHeading": "LES SAVINES (21-22)",
+   "name": "LES SAVINES",
+   "semirRef": "21-22",
+   "confidence": "paren"
+  },
+  {
+   "line": 1274,
+   "pdfPage": 34,
+   "rawHeading": "AGULLA DEL SOL PONENT (23)",
+   "name": "AGULLA DEL SOL PONENT",
+   "semirRef": "23",
+   "confidence": "paren"
+  },
+  {
+   "line": 1304,
+   "pdfPage": 36,
+   "rawHeading": "ELS MERLETS (24-25)",
+   "name": "ELS MERLETS",
+   "semirRef": "24-25",
+   "confidence": "paren"
+  },
+  {
+   "line": 1318,
+   "pdfPage": 36,
+   "rawHeading": "EL GEP LLARG (26)",
+   "name": "EL GEP LLARG",
+   "semirRef": "26",
+   "confidence": "paren"
+  },
+  {
+   "line": 1328,
+   "pdfPage": 36,
+   "rawHeading": "LA BOTERUDA (27)",
+   "name": "LA BOTERUDA",
+   "semirRef": "27",
+   "confidence": "paren"
+  },
+  {
+   "line": 1350,
+   "pdfPage": 37,
+   "rawHeading": "MIRADOR DE LA MIRANDA DE LES MIGUES",
+   "name": "MIRADOR DE LA MIRANDA DE LES MIGUES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1362,
+   "pdfPage": 37,
+   "rawHeading": "MIRANDA DE LES BOIGUES (30)",
+   "name": "MIRANDA DE LES BOIGUES",
+   "semirRef": "30",
+   "confidence": "paren"
+  },
+  {
+   "line": 1381,
+   "pdfPage": 37,
+   "rawHeading": "AGULLA PELUDA (28)",
+   "name": "AGULLA PELUDA",
+   "semirRef": "28",
+   "confidence": "paren"
+  },
+  {
+   "line": 1394,
+   "pdfPage": 38,
+   "rawHeading": "EL PUNYALET",
+   "name": "EL PUNYALET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1421,
+   "pdfPage": 38,
+   "rawHeading": "AGULLA DEL CAPDAMUNT (29)",
+   "name": "AGULLA DEL CAPDAMUNT",
+   "semirRef": "29",
+   "confidence": "paren"
+  },
+  {
+   "line": 1432,
+   "pdfPage": 39,
+   "rawHeading": "EL SENATXO (33)",
+   "name": "EL SENATXO",
+   "semirRef": "33",
+   "confidence": "paren"
+  },
+  {
+   "line": 1445,
+   "pdfPage": 39,
+   "rawHeading": "L'AGULLA DE LA CANAL DE LA FIGUERA (34)",
+   "name": "L'AGULLA DE LA CANAL DE LA FIGUERA",
+   "semirRef": "34",
+   "confidence": "paren"
+  },
+  {
+   "line": 1476,
+   "pdfPage": 40,
+   "rawHeading": "LA   BANDERETA   -37-",
+   "name": "LA BANDERETA",
+   "semirRef": "37",
+   "confidence": "dash"
+  },
+  {
+   "line": 1510,
+   "pdfPage": 41,
+   "rawHeading": "VEN-SURI-VEN, VIA CERDA-RIERA",
+   "name": "VEN-SURI-VEN, VIA CERDA-RIERA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1551,
+   "pdfPage": 42,
+   "rawHeading": "LA PALANGANA (38)",
+   "name": "LA PALANGANA",
+   "semirRef": "38",
+   "confidence": "paren"
+  },
+  {
+   "line": 1565,
+   "pdfPage": 42,
+   "rawHeading": "AGULLA DEIS ESPELEDLEGS (39)",
+   "name": "AGULLA DEIS ESPELEDLEGS",
+   "semirRef": "39",
+   "confidence": "paren"
+  },
+  {
+   "line": 1583,
+   "pdfPage": 43,
+   "rawHeading": "LA SACA GRAN, AGULLA D'EN DIONIS O EL TRIPTIC (40-41)",
+   "name": "LA SACA GRAN, AGULLA D'EN DIONIS O EL TRIPTIC",
+   "semirRef": "40-41",
+   "confidence": "paren"
+  },
+  {
+   "line": 1602,
+   "pdfPage": 43,
+   "rawHeading": "SACA GRAN, ARESTA BRUCS",
+   "name": "SACA GRAN, ARESTA BRUCS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1639,
+   "pdfPage": 44,
+   "rawHeading": "PEDESTAL DEL MARTELL (36)",
+   "name": "PEDESTAL DEL MARTELL",
+   "semirRef": "36",
+   "confidence": "paren"
+  },
+  {
+   "line": 1647,
+   "pdfPage": 44,
+   "rawHeading": "EL MARTELL (35)",
+   "name": "EL MARTELL",
+   "semirRef": "35",
+   "confidence": "paren"
+  },
+  {
+   "line": 1682,
+   "pdfPage": 45,
+   "rawHeading": "EL NINET",
+   "name": "EL NINET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1692,
+   "pdfPage": 45,
+   "rawHeading": "ROCA DE LES HEURES (44)",
+   "name": "ROCA DE LES HEURES",
+   "semirRef": "44",
+   "confidence": "paren"
+  },
+  {
+   "line": 1701,
+   "pdfPage": 45,
+   "rawHeading": "EL DATIL (43)",
+   "name": "EL DATIL",
+   "semirRef": "43",
+   "confidence": "paren"
+  },
+  {
+   "line": 1752,
+   "pdfPage": 47,
+   "rawHeading": "AGULLA PODRIDA (49)",
+   "name": "AGULLA PODRIDA",
+   "semirRef": "49",
+   "confidence": "paren"
+  },
+  {
+   "line": 1765,
+   "pdfPage": 47,
+   "rawHeading": "AGULLA DE L'ARBRET (48)",
+   "name": "AGULLA DE L'ARBRET",
+   "semirRef": "48",
+   "confidence": "paren"
+  },
+  {
+   "line": 1793,
+   "pdfPage": 47,
+   "rawHeading": "AGULLA DE L'ARBRET, ARESTA BRUCS",
+   "name": "AGULLA DE L'ARBRET, ARESTA BRUCS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 1831,
+   "pdfPage": 48,
+   "rawHeading": "LA MIRANDA DELS OSSOS (51)",
+   "name": "LA MIRANDA DELS OSSOS",
+   "semirRef": "51",
+   "confidence": "paren"
+  },
+  {
+   "line": 1856,
+   "pdfPage": 50,
+   "rawHeading": "AGULLA DELS OSSOS (50)",
+   "name": "AGULLA DELS OSSOS",
+   "semirRef": "50",
+   "confidence": "paren"
+  },
+  {
+   "line": 1877,
+   "pdfPage": 50,
+   "rawHeading": "LA FILIGRANA O FALUGA (45)",
+   "name": "LA FILIGRANA O FALUGA",
+   "semirRef": "45",
+   "confidence": "paren"
+  },
+  {
+   "line": 1908,
+   "pdfPage": 51,
+   "rawHeading": "LA BESSONA SUPERIOR (46)",
+   "name": "LA BESSONA SUPERIOR",
+   "semirRef": "46",
+   "confidence": "paren"
+  },
+  {
+   "line": 2002,
+   "pdfPage": 53,
+   "rawHeading": "LA BESSONA INFERIOR (47)",
+   "name": "LA BESSONA INFERIOR",
+   "semirRef": "47",
+   "confidence": "paren"
+  },
+  {
+   "line": 2041,
+   "pdfPage": 53,
+   "rawHeading": "BESSONA INFERIOR, ARESTA BRUCS",
+   "name": "BESSONA INFERIOR, ARESTA BRUCS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 2082,
+   "pdfPage": 54,
+   "rawHeading": "AGULLA DE L'ESQUELET (80)",
+   "name": "AGULLA DE L'ESQUELET",
+   "semirRef": "80",
+   "confidence": "paren"
+  },
+  {
+   "line": 2110,
+   "pdfPage": 55,
+   "rawHeading": "LA VESPA (78)",
+   "name": "LA VESPA",
+   "semirRef": "78",
+   "confidence": "paren"
+  },
+  {
+   "line": 2168,
+   "pdfPage": 56,
+   "rawHeading": "ROCA DELS POUETONS (81)",
+   "name": "ROCA DELS POUETONS",
+   "semirRef": "81",
+   "confidence": "paren"
+  },
+  {
+   "line": 2369,
+   "pdfPage": 59,
+   "rawHeading": "ROCA DE LA PARTIÓ (61)",
+   "name": "ROCA DE LA PARTIÓ",
+   "semirRef": "61",
+   "confidence": "paren"
+  },
+  {
+   "line": 2375,
+   "pdfPage": 60,
+   "rawHeading": "LA ROCA DE            LA   PARTIÓ -61-",
+   "name": "LA ROCA DE LA PARTIÓ",
+   "semirRef": "61",
+   "confidence": "dash"
+  },
+  {
+   "line": 2451,
+   "pdfPage": 63,
+   "rawHeading": "LA BITLLA (58)",
+   "name": "LA BITLLA",
+   "semirRef": "58",
+   "confidence": "paren"
+  },
+  {
+   "line": 2482,
+   "pdfPage": 63,
+   "rawHeading": "LA BOLA DE LA        PARTIÓ (57)",
+   "name": "LA BOLA DE LA PARTIÓ",
+   "semirRef": "57",
+   "confidence": "paren"
+  },
+  {
+   "line": 2518,
+   "pdfPage": 64,
+   "rawHeading": "AGULLA DE LA CARNAVALADA O AGULLA DELS SET (98 1 88)",
+   "name": "AGULLA DE LA CARNAVALADA O AGULLA DELS SET",
+   "semirRef": "98 1 88",
+   "confidence": "paren"
+  },
+  {
+   "line": 2560,
+   "pdfPage": 65,
+   "rawHeading": "LA REINA (56)",
+   "name": "LA REINA",
+   "semirRef": "56",
+   "confidence": "paren"
+  },
+  {
+   "line": 2574,
+   "pdfPage": 65,
+   "rawHeading": "AGULLA DE LA CORONA DE REINA (55)",
+   "name": "AGULLA DE LA CORONA DE REINA",
+   "semirRef": "55",
+   "confidence": "paren"
+  },
+  {
+   "line": 2604,
+   "pdfPage": 66,
+   "rawHeading": "LA PETITONA (75)",
+   "name": "LA PETITONA",
+   "semirRef": "75",
+   "confidence": "paren"
+  },
+  {
+   "line": 2613,
+   "pdfPage": 66,
+   "rawHeading": "LA PANXETA (52)",
+   "name": "LA PANXETA",
+   "semirRef": "52",
+   "confidence": "paren"
+  },
+  {
+   "line": 2637,
+   "pdfPage": 67,
+   "rawHeading": "LA BOTERUDA DEL GRA (53)",
+   "name": "LA BOTERUDA DEL GRA",
+   "semirRef": "53",
+   "confidence": "paren"
+  },
+  {
+   "line": 2661,
+   "pdfPage": 67,
+   "rawHeading": "LES DUES PUNTES (54)",
+   "name": "LES DUES PUNTES",
+   "semirRef": "54",
+   "confidence": "paren"
+  },
+  {
+   "line": 2683,
+   "pdfPage": 68,
+   "rawHeading": "LA MAQUINA DE TREN (90)",
+   "name": "LA MAQUINA DE TREN",
+   "semirRef": "90",
+   "confidence": "paren"
+  },
+  {
+   "line": 2702,
+   "pdfPage": 68,
+   "rawHeading": "EL BROC PETIT O BROC DEL SETRILL (91)",
+   "name": "EL BROC PETIT O BROC DEL SETRILL",
+   "semirRef": "91",
+   "confidence": "paren"
+  },
+  {
+   "line": 2722,
+   "pdfPage": 69,
+   "rawHeading": "L'OU     DE    COLOM   -93",
+   "name": "L'OU DE COLOM",
+   "semirRef": "93",
+   "confidence": "dash"
+  },
+  {
+   "line": 2725,
+   "pdfPage": 70,
+   "rawHeading": "EL SETRILL (85)",
+   "name": "EL SETRILL",
+   "semirRef": "85",
+   "confidence": "paren"
+  },
+  {
+   "line": 2748,
+   "pdfPage": 70,
+   "rawHeading": "L'OU DE COLOM (93)",
+   "name": "L'OU DE COLOM",
+   "semirRef": "93",
+   "confidence": "paren"
+  },
+  {
+   "line": 2772,
+   "pdfPage": 70,
+   "rawHeading": "ROCA DEL DUMBO (84)",
+   "name": "ROCA DEL DUMBO",
+   "semirRef": "84",
+   "confidence": "paren"
+  },
+  {
+   "line": 2811,
+   "pdfPage": 71,
+   "rawHeading": "EL MERLET DE LA TORTA (76)",
+   "name": "EL MERLET DE LA TORTA",
+   "semirRef": "76",
+   "confidence": "paren"
+  },
+  {
+   "line": 2824,
+   "pdfPage": 72,
+   "rawHeading": "LA TORTA O LA MA (65)",
+   "name": "LA TORTA O LA MA",
+   "semirRef": "65",
+   "confidence": "paren"
+  },
+  {
+   "line": 2842,
+   "pdfPage": 72,
+   "rawHeading": "ROCA DE LA MARANYA (96)",
+   "name": "ROCA DE LA MARANYA",
+   "semirRef": "96",
+   "confidence": "paren"
+  },
+  {
+   "line": 2856,
+   "pdfPage": 72,
+   "rawHeading": "LA TRI-ROCA (62-63-64)",
+   "name": "LA TRI-ROCA",
+   "semirRef": "62-63-64",
+   "confidence": "paren"
+  },
+  {
+   "line": 2893,
+   "pdfPage": 73,
+   "rawHeading": "AGULLA XICA DE LA MIRANDA (73)",
+   "name": "AGULLA XICA DE LA MIRANDA",
+   "semirRef": "73",
+   "confidence": "paren"
+  },
+  {
+   "line": 2906,
+   "pdfPage": 73,
+   "rawHeading": "AGULLA ALTA DE LA MIRANDA (74)",
+   "name": "AGULLA ALTA DE LA MIRANDA",
+   "semirRef": "74",
+   "confidence": "paren"
+  },
+  {
+   "line": 2920,
+   "pdfPage": 73,
+   "rawHeading": "ROCA DEL CORPUS CHRISTI",
+   "name": "ROCA DEL CORPUS CHRISTI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 2931,
+   "pdfPage": 74,
+   "rawHeading": "ROCA DE L'ESCORPI' -66-",
+   "name": "ROCA DE L'ESCORPI'",
+   "semirRef": "66",
+   "confidence": "dash"
+  },
+  {
+   "line": 2968,
+   "pdfPage": 75,
+   "rawHeading": "L'ESCORM (66)",
+   "name": "L'ESCORM",
+   "semirRef": "66",
+   "confidence": "paren"
+  },
+  {
+   "line": 2989,
+   "pdfPage": 76,
+   "rawHeading": "EL GALLARET (67)",
+   "name": "EL GALLARET",
+   "semirRef": "67",
+   "confidence": "paren"
+  },
+  {
+   "line": 2997,
+   "pdfPage": 76,
+   "rawHeading": "AGULLA «IGNASI CAPETA» (68)",
+   "name": "AGULLA «IGNASI CAPETA»",
+   "semirRef": "68",
+   "confidence": "paren"
+  },
+  {
+   "line": 3041,
+   "pdfPage": 77,
+   "rawHeading": "SERRAT DE LA FORADADA",
+   "name": "SERRAT DE LA FORADADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 3063,
+   "pdfPage": 77,
+   "rawHeading": "LA CADIRETA O ROCA DEL CENTELLAR (70)",
+   "name": "LA CADIRETA O ROCA DEL CENTELLAR",
+   "semirRef": "70",
+   "confidence": "paren"
+  },
+  {
+   "line": 3118,
+   "pdfPage": 78,
+   "rawHeading": "L'ENCLUSA D'AGULLES (71)",
+   "name": "L'ENCLUSA D'AGULLES",
+   "semirRef": "71",
+   "confidence": "paren"
+  },
+  {
+   "line": 3127,
+   "pdfPage": 79,
+   "rawHeading": "AGULLETA 1 SERRAT D'EN PUJADÉ (72)",
+   "name": "AGULLETA 1 SERRAT D'EN PUJADÉ",
+   "semirRef": "72",
+   "confidence": "paren"
+  },
+  {
+   "line": 3143,
+   "pdfPage": 79,
+   "rawHeading": "LA CADIRETA         -70-",
+   "name": "LA CADIRETA",
+   "semirRef": "70",
+   "confidence": "dash"
+  },
+  {
+   "line": 3419,
+   "pdfPage": 83,
+   "rawHeading": "LA BOLETA DEL PORTELL ESTRET (123)",
+   "name": "LA BOLETA DEL PORTELL ESTRET",
+   "semirRef": "123",
+   "confidence": "paren"
+  },
+  {
+   "line": 3456,
+   "pdfPage": 84,
+   "rawHeading": "AGULLA DE LA BOLETA O LA DESCONEGUDA (122)",
+   "name": "AGULLA DE LA BOLETA O LA DESCONEGUDA",
+   "semirRef": "122",
+   "confidence": "paren"
+  },
+  {
+   "line": 3464,
+   "pdfPage": 84,
+   "rawHeading": "L'ANEC (121)",
+   "name": "L'ANEC",
+   "semirRef": "121",
+   "confidence": "paren"
+  },
+  {
+   "line": 3478,
+   "pdfPage": 84,
+   "rawHeading": "AGULLA D'EN PASSOLA (124)",
+   "name": "AGULLA D'EN PASSOLA",
+   "semirRef": "124",
+   "confidence": "paren"
+  },
+  {
+   "line": 3485,
+   "pdfPage": 85,
+   "rawHeading": "BOLETA DEL      PORTELL ESTRET -123-",
+   "name": "BOLETA DEL PORTELL ESTRET",
+   "semirRef": "123",
+   "confidence": "dash"
+  },
+  {
+   "line": 3496,
+   "pdfPage": 86,
+   "rawHeading": "AGULLA SENS NOM (120)",
+   "name": "AGULLA SENS NOM",
+   "semirRef": "120",
+   "confidence": "paren"
+  },
+  {
+   "line": 3515,
+   "pdfPage": 86,
+   "rawHeading": "EL GENDARME     (125)",
+   "name": "EL GENDARME",
+   "semirRef": "125",
+   "confidence": "paren"
+  },
+  {
+   "line": 3535,
+   "pdfPage": 87,
+   "rawHeading": "AGULLA DEL CINGLE",
+   "name": "AGULLA DEL CINGLE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 3561,
+   "pdfPage": 87,
+   "rawHeading": "EL OUEIXAL (131)",
+   "name": "EL OUEIXAL",
+   "semirRef": "131",
+   "confidence": "paren"
+  },
+  {
+   "line": 3573,
+   "pdfPage": 87,
+   "rawHeading": "EL CAROUINYOLI (192)",
+   "name": "EL CAROUINYOLI",
+   "semirRef": "192",
+   "confidence": "paren"
+  },
+  {
+   "line": 3588,
+   "pdfPage": 88,
+   "rawHeading": "L'ELEFANT PETIT O AGULLA DE LES TRAMPERES (130)",
+   "name": "L'ELEFANT PETIT O AGULLA DE LES TRAMPERES",
+   "semirRef": "130",
+   "confidence": "paren"
+  },
+  {
+   "line": 3616,
+   "pdfPage": 88,
+   "rawHeading": "SERRAT DEL CENTENAR (103-104-100-102)",
+   "name": "SERRAT DEL CENTENAR",
+   "semirRef": "103-104-100-102",
+   "confidence": "paren"
+  },
+  {
+   "line": 3641,
+   "pdfPage": 89,
+   "rawHeading": "ROCA DEL SERRAT DEL CENTENAR (101)",
+   "name": "ROCA DEL SERRAT DEL CENTENAR",
+   "semirRef": "101",
+   "confidence": "paren"
+  },
+  {
+   "line": 3664,
+   "pdfPage": 89,
+   "rawHeading": "LA BOLETA FORADADA (105)",
+   "name": "LA BOLETA FORADADA",
+   "semirRef": "105",
+   "confidence": "paren"
+  },
+  {
+   "line": 3685,
+   "pdfPage": 90,
+   "rawHeading": "ARESTA NORD",
+   "name": "ARESTA NORD",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 3715,
+   "pdfPage": 91,
+   "rawHeading": "LA BOLETA FORADADA -105-",
+   "name": "LA BOLETA FORADADA",
+   "semirRef": "105",
+   "confidence": "dash"
+  },
+  {
+   "line": 3752,
+   "pdfPage": 92,
+   "rawHeading": "EL MELINDRO",
+   "name": "EL MELINDRO",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 3773,
+   "pdfPage": 92,
+   "rawHeading": "LA NINA (106)",
+   "name": "LA NINA",
+   "semirRef": "106",
+   "confidence": "paren"
+  },
+  {
+   "line": 3823,
+   "pdfPage": 93,
+   "rawHeading": "ROCA DE NADAL (110)",
+   "name": "ROCA DE NADAL",
+   "semirRef": "110",
+   "confidence": "paren"
+  },
+  {
+   "line": 3835,
+   "pdfPage": 93,
+   "rawHeading": "EL MORRO PLA      (129-112)",
+   "name": "EL MORRO PLA",
+   "semirRef": "129-112",
+   "confidence": "paren"
+  },
+  {
+   "line": 3885,
+   "pdfPage": 95,
+   "rawHeading": "PUNTA D'EN CAMPANILLES (116)",
+   "name": "PUNTA D'EN CAMPANILLES",
+   "semirRef": "116",
+   "confidence": "paren"
+  },
+  {
+   "line": 3897,
+   "pdfPage": 95,
+   "rawHeading": "ROCA SOTA LA PUNTA D'EN CAMPANILLES",
+   "name": "ROCA SOTA LA PUNTA D'EN CAMPANILLES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 3967,
+   "pdfPage": 96,
+   "rawHeading": "ROCA SEPARADA (169)",
+   "name": "ROCA SEPARADA",
+   "semirRef": "169",
+   "confidence": "paren"
+  },
+  {
+   "line": 3983,
+   "pdfPage": 97,
+   "rawHeading": "CRESTA PLANA (177-176)",
+   "name": "CRESTA PLANA",
+   "semirRef": "177-176",
+   "confidence": "paren"
+  },
+  {
+   "line": 4008,
+   "pdfPage": 97,
+   "rawHeading": "CAP D'EN CALVENTUS (166)",
+   "name": "CAP D'EN CALVENTUS",
+   "semirRef": "166",
+   "confidence": "paren"
+  },
+  {
+   "line": 4048,
+   "pdfPage": 98,
+   "rawHeading": "L'AMAGADA (127)",
+   "name": "L'AMAGADA",
+   "semirRef": "127",
+   "confidence": "paren"
+  },
+  {
+   "line": 4059,
+   "pdfPage": 98,
+   "rawHeading": "LA MAMELLUDA (117)",
+   "name": "LA MAMELLUDA",
+   "semirRef": "117",
+   "confidence": "paren"
+  },
+  {
+   "line": 4071,
+   "pdfPage": 99,
+   "rawHeading": "LA   NANA -115-",
+   "name": "LA NANA",
+   "semirRef": "115",
+   "confidence": "dash"
+  },
+  {
+   "line": 4078,
+   "pdfPage": 100,
+   "rawHeading": "LA NANA (115)",
+   "name": "LA NANA",
+   "semirRef": "115",
+   "confidence": "paren"
+  },
+  {
+   "line": 4097,
+   "pdfPage": 100,
+   "rawHeading": "LA CAPUTXA O AGULLA VICENC BARBÉ (132)",
+   "name": "LA CAPUTXA O AGULLA VICENC BARBÉ",
+   "semirRef": "132",
+   "confidence": "paren"
+  },
+  {
+   "line": 4132,
+   "pdfPage": 101,
+   "rawHeading": "EL BISBE   (136)",
+   "name": "EL BISBE",
+   "semirRef": "136",
+   "confidence": "paren"
+  },
+  {
+   "line": 4146,
+   "pdfPage": 101,
+   "rawHeading": "ARESTA NORD, VIA G.A.M.",
+   "name": "ARESTA NORD, VIA G.A.M.",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 4216,
+   "pdfPage": 102,
+   "rawHeading": "4                                           ..-                                                                                   190",
+   "name": "4 ..",
+   "semirRef": "190",
+   "confidence": "dash"
+  },
+  {
+   "line": 4297,
+   "pdfPage": 104,
+   "rawHeading": "EL BISBE    -136",
+   "name": "EL BISBE",
+   "semirRef": "136",
+   "confidence": "dash"
+  },
+  {
+   "line": 4354,
+   "pdfPage": 105,
+   "rawHeading": "LA MONJA (138)",
+   "name": "LA MONJA",
+   "semirRef": "138",
+   "confidence": "paren"
+  },
+  {
+   "line": 4404,
+   "pdfPage": 107,
+   "rawHeading": "EL LLORO   (139)",
+   "name": "EL LLORO",
+   "semirRef": "139",
+   "confidence": "paren"
+  },
+  {
+   "line": 4456,
+   "pdfPage": 108,
+   "rawHeading": "LA PATATA (172)",
+   "name": "LA PATATA",
+   "semirRef": "172",
+   "confidence": "paren"
+  },
+  {
+   "line": 4502,
+   "pdfPage": 109,
+   "rawHeading": "EL TALP (170)",
+   "name": "EL TALP",
+   "semirRef": "170",
+   "confidence": "paren"
+  },
+  {
+   "line": 4526,
+   "pdfPage": 111,
+   "rawHeading": "EL DIT (140)",
+   "name": "EL DIT",
+   "semirRef": "140",
+   "confidence": "paren"
+  },
+  {
+   "line": 4549,
+   "pdfPage": 111,
+   "rawHeading": "EL DIT XIC (141)",
+   "name": "EL DIT XIC",
+   "semirRef": "141",
+   "confidence": "paren"
+  },
+  {
+   "line": 4591,
+   "pdfPage": 112,
+   "rawHeading": "EL DITET   (179)",
+   "name": "EL DITET",
+   "semirRef": "179",
+   "confidence": "paren"
+  },
+  {
+   "line": 4612,
+   "pdfPage": 113,
+   "rawHeading": "AGULLA FACIL",
+   "name": "AGULLA FACIL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 4638,
+   "pdfPage": 113,
+   "rawHeading": "EL BARRET (143)",
+   "name": "EL BARRET",
+   "semirRef": "143",
+   "confidence": "paren"
+  },
+  {
+   "line": 4781,
+   "pdfPage": 116,
+   "rawHeading": "L'ASIÁTICA (185)",
+   "name": "L'ASIÁTICA",
+   "semirRef": "185",
+   "confidence": "paren"
+  },
+  {
+   "line": 4800,
+   "pdfPage": 116,
+   "rawHeading": "EL FRARE GROS      (146)",
+   "name": "EL FRARE GROS",
+   "semirRef": "146",
+   "confidence": "paren"
+  },
+  {
+   "line": 4815,
+   "pdfPage": 116,
+   "rawHeading": "PARET NORD",
+   "name": "PARET NORD",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 4826,
+   "pdfPage": 117,
+   "rawHeading": "EL     FRARE -146-",
+   "name": "EL FRARE",
+   "semirRef": "146",
+   "confidence": "dash"
+  },
+  {
+   "line": 4926,
+   "pdfPage": 118,
+   "rawHeading": "ELS FRARES ENCANTATS (147-148-149-150)",
+   "name": "ELS FRARES ENCANTATS",
+   "semirRef": "147-148-149-150",
+   "confidence": "paren"
+  },
+  {
+   "line": 4936,
+   "pdfPage": 118,
+   "rawHeading": "EL NOVICI (183)",
+   "name": "EL NOVICI",
+   "semirRef": "183",
+   "confidence": "paren"
+  },
+  {
+   "line": 4947,
+   "pdfPage": 118,
+   "rawHeading": "ROCA DE COLL DE PORC (189)",
+   "name": "ROCA DE COLL DE PORC",
+   "semirRef": "189",
+   "confidence": "paren"
+  },
+  {
+   "line": 4964,
+   "pdfPage": 119,
+   "rawHeading": "L'ENCLUSA DEIS FRARES O EL BACALLA (156)",
+   "name": "L'ENCLUSA DEIS FRARES O EL BACALLA",
+   "semirRef": "156",
+   "confidence": "paren"
+  },
+  {
+   "line": 4984,
+   "pdfPage": 119,
+   "rawHeading": "TURÓ DEL POU DE L'ENCLUSA",
+   "name": "TURÓ DEL POU DE L'ENCLUSA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 4998,
+   "pdfPage": 120,
+   "rawHeading": "AGULLA DELS CAPORALS (186)",
+   "name": "AGULLA DELS CAPORALS",
+   "semirRef": "186",
+   "confidence": "paren"
+  },
+  {
+   "line": 5020,
+   "pdfPage": 120,
+   "rawHeading": "EL NAS   (184)",
+   "name": "EL NAS",
+   "semirRef": "184",
+   "confidence": "paren"
+  },
+  {
+   "line": 5027,
+   "pdfPage": 120,
+   "rawHeading": "LA CIJA DEL BACALLA (190)",
+   "name": "LA CIJA DEL BACALLA",
+   "semirRef": "190",
+   "confidence": "paren"
+  },
+  {
+   "line": 5035,
+   "pdfPage": 120,
+   "rawHeading": "EL «PEPINO» (171)",
+   "name": "EL «PEPINO»",
+   "semirRef": "171",
+   "confidence": "paren"
+  },
+  {
+   "line": 5046,
+   "pdfPage": 121,
+   "rawHeading": "AGULLA DEL PAS   DEL PRÍNCEP -159-",
+   "name": "AGULLA DEL PAS DEL PRÍNCEP",
+   "semirRef": "159",
+   "confidence": "dash"
+  },
+  {
+   "line": 5057,
+   "pdfPage": 122,
+   "rawHeading": "AGULLA DE LA PRINCESA (153-154)",
+   "name": "AGULLA DE LA PRINCESA",
+   "semirRef": "153-154",
+   "confidence": "paren"
+  },
+  {
+   "line": 5069,
+   "pdfPage": 122,
+   "rawHeading": "AGULLA GRAN DE PAS DE PRÍNCEP (159)",
+   "name": "AGULLA GRAN DE PAS DE PRÍNCEP",
+   "semirRef": "159",
+   "confidence": "paren"
+  },
+  {
+   "line": 5100,
+   "pdfPage": 123,
+   "rawHeading": "AGULLA DEL REI (158)",
+   "name": "AGULLA DEL REI",
+   "semirRef": "158",
+   "confidence": "paren"
+  },
+  {
+   "line": 5267,
+   "pdfPage": 125,
+   "rawHeading": "ROCA PETITA O INFERIOR DE PAS DE PRÍNCEP (160)",
+   "name": "ROCA PETITA O INFERIOR DE PAS DE PRÍNCEP",
+   "semirRef": "160",
+   "confidence": "paren"
+  },
+  {
+   "line": 5287,
+   "pdfPage": 126,
+   "rawHeading": "EL    BITLLOT       -162-",
+   "name": "EL BITLLOT",
+   "semirRef": "162",
+   "confidence": "dash"
+  },
+  {
+   "line": 5290,
+   "pdfPage": 127,
+   "rawHeading": "EL BITLLOT (162)",
+   "name": "EL BITLLOT",
+   "semirRef": "162",
+   "confidence": "paren"
+  },
+  {
+   "line": 5307,
+   "pdfPage": 127,
+   "rawHeading": "MIRANDA DEL PRINCEP (163)",
+   "name": "MIRANDA DEL PRINCEP",
+   "semirRef": "163",
+   "confidence": "paren"
+  },
+  {
+   "line": 5330,
+   "pdfPage": 127,
+   "rawHeading": "ROCA DE LA NEVADA",
+   "name": "ROCA DE LA NEVADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 5351,
+   "pdfPage": 128,
+   "rawHeading": "MIRANDA D'AGULLES (187)",
+   "name": "MIRANDA D'AGULLES",
+   "semirRef": "187",
+   "confidence": "paren"
+  },
+  {
+   "line": 5375,
+   "pdfPage": 128,
+   "rawHeading": "PUNTA DE LA DESDENTEGADA",
+   "name": "PUNTA DE LA DESDENTEGADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 5384,
+   "pdfPage": 129,
+   "rawHeading": "LA DESDENTEGADA",
+   "name": "LA DESDENTEGADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 5403,
+   "pdfPage": 129,
+   "rawHeading": "MIRANDA DE L'ARCADA",
+   "name": "MIRANDA DE L'ARCADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 5572,
+   "pdfPage": 130,
+   "rawHeading": "1------------------1                                                                                                                     1",
+   "name": "1",
+   "semirRef": "1                                                                                                                     1",
+   "confidence": "dash"
+  },
+  {
+   "line": 5708,
+   "pdfPage": 133,
+   "rawHeading": "AGULLA VISTA (235)",
+   "name": "AGULLA VISTA",
+   "semirRef": "235",
+   "confidence": "paren"
+  },
+  {
+   "line": 5894,
+   "pdfPage": 135,
+   "rawHeading": "EL COR DE BE (267)",
+   "name": "EL COR DE BE",
+   "semirRef": "267",
+   "confidence": "paren"
+  },
+  {
+   "line": 5908,
+   "pdfPage": 135,
+   "rawHeading": "AGULLA DEL MIRACLE (234)",
+   "name": "AGULLA DEL MIRACLE",
+   "semirRef": "234",
+   "confidence": "paren"
+  },
+  {
+   "line": 5924,
+   "pdfPage": 135,
+   "rawHeading": "ROCA D'EN GUILLOT (231)",
+   "name": "ROCA D'EN GUILLOT",
+   "semirRef": "231",
+   "confidence": "paren"
+  },
+  {
+   "line": 5953,
+   "pdfPage": 137,
+   "rawHeading": "ROCA DELS AURONS (230)",
+   "name": "ROCA DELS AURONS",
+   "semirRef": "230",
+   "confidence": "paren"
+  },
+  {
+   "line": 5997,
+   "pdfPage": 138,
+   "rawHeading": "MIRANDA DELS AURONS (224)",
+   "name": "MIRANDA DELS AURONS",
+   "semirRef": "224",
+   "confidence": "paren"
+  },
+  {
+   "line": 6009,
+   "pdfPage": 138,
+   "rawHeading": "L'ENGANXADA (225)",
+   "name": "L'ENGANXADA",
+   "semirRef": "225",
+   "confidence": "paren"
+  },
+  {
+   "line": 6047,
+   "pdfPage": 139,
+   "rawHeading": "L'ESFINX DELS ECOS (227)",
+   "name": "L'ESFINX DELS ECOS",
+   "semirRef": "227",
+   "confidence": "paren"
+  },
+  {
+   "line": 6059,
+   "pdfPage": 139,
+   "rawHeading": "ROCA DE LA TAULA D'EN BERNAT",
+   "name": "ROCA DE LA TAULA D'EN BERNAT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6085,
+   "pdfPage": 140,
+   "rawHeading": "ROCA DEL BASSAL DEIS FERROS",
+   "name": "ROCA DEL BASSAL DEIS FERROS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6096,
+   "pdfPage": 140,
+   "rawHeading": "LA VELLA (233)",
+   "name": "LA VELLA",
+   "semirRef": "233",
+   "confidence": "paren"
+  },
+  {
+   "line": 6174,
+   "pdfPage": 142,
+   "rawHeading": "EL CABRIT O EL CILINDRE      (239)",
+   "name": "EL CABRIT O EL CILINDRE",
+   "semirRef": "239",
+   "confidence": "paren"
+  },
+  {
+   "line": 6197,
+   "pdfPage": 142,
+   "rawHeading": "MIRANDA DEL CABRIT O DEL CILINDRE          (240)",
+   "name": "MIRANDA DEL CABRIT O DEL CILINDRE",
+   "semirRef": "240",
+   "confidence": "paren"
+  },
+  {
+   "line": 6221,
+   "pdfPage": 143,
+   "rawHeading": "AGULLA ALTA DE LA COMA DEIS NAPS DE BAIX (243)",
+   "name": "AGULLA ALTA DE LA COMA DEIS NAPS DE BAIX",
+   "semirRef": "243",
+   "confidence": "paren"
+  },
+  {
+   "line": 6233,
+   "pdfPage": 143,
+   "rawHeading": "ROCA DEIS NUVIS (241)",
+   "name": "ROCA DEIS NUVIS",
+   "semirRef": "241",
+   "confidence": "paren"
+  },
+  {
+   "line": 6242,
+   "pdfPage": 143,
+   "rawHeading": "AGULLA DE L'ESTREP",
+   "name": "AGULLA DE L'ESTREP",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6255,
+   "pdfPage": 144,
+   "rawHeading": "AGULLA SEVERI VENTÓS",
+   "name": "AGULLA SEVERI VENTÓS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6267,
+   "pdfPage": 144,
+   "rawHeading": "ROCA DELS ESPERANTISTES         (242)",
+   "name": "ROCA DELS ESPERANTISTES",
+   "semirRef": "242",
+   "confidence": "paren"
+  },
+  {
+   "line": 6310,
+   "pdfPage": 145,
+   "rawHeading": "EL TAXI (268)",
+   "name": "EL TAXI",
+   "semirRef": "268",
+   "confidence": "paren"
+  },
+  {
+   "line": 6367,
+   "pdfPage": 147,
+   "rawHeading": "ROCA RODONA (269)",
+   "name": "ROCA RODONA",
+   "semirRef": "269",
+   "confidence": "paren"
+  },
+  {
+   "line": 6374,
+   "pdfPage": 147,
+   "rawHeading": "BONYS DEIS NAPS (283-284-282-281-280)",
+   "name": "BONYS DEIS NAPS",
+   "semirRef": "283-284-282-281-280",
+   "confidence": "paren"
+  },
+  {
+   "line": 6402,
+   "pdfPage": 147,
+   "rawHeading": "ROCA INFERIOR DE L'ALZINA",
+   "name": "ROCA INFERIOR DE L'ALZINA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6417,
+   "pdfPage": 148,
+   "rawHeading": "ROCA DE L'ALZINA",
+   "name": "ROCA DE L'ALZINA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6428,
+   "pdfPage": 148,
+   "rawHeading": "ROCA DE LA VORERA",
+   "name": "ROCA DE LA VORERA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6439,
+   "pdfPage": 148,
+   "rawHeading": "AGULLA DELS NAPS DE DALT (271)",
+   "name": "AGULLA DELS NAPS DE DALT",
+   "semirRef": "271",
+   "confidence": "paren"
+  },
+  {
+   "line": 6455,
+   "pdfPage": 149,
+   "rawHeading": "AGULLA DEL PAS DEL NAP (285)",
+   "name": "AGULLA DEL PAS DEL NAP",
+   "semirRef": "285",
+   "confidence": "paren"
+  },
+  {
+   "line": 6492,
+   "pdfPage": 149,
+   "rawHeading": "ROCA DE LA FOCA (291)",
+   "name": "ROCA DE LA FOCA",
+   "semirRef": "291",
+   "confidence": "paren"
+  },
+  {
+   "line": 6562,
+   "pdfPage": 151,
+   "rawHeading": "CAVALL DELS BRUCS -279   -",
+   "name": "CAVALL DELS BRUCS",
+   "semirRef": "279",
+   "confidence": "dash"
+  },
+  {
+   "line": 6679,
+   "pdfPage": 153,
+   "rawHeading": "EL BOLETET",
+   "name": "EL BOLETET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6694,
+   "pdfPage": 153,
+   "rawHeading": "EL MUSCLET (274)",
+   "name": "EL MUSCLET",
+   "semirRef": "274",
+   "confidence": "paren"
+  },
+  {
+   "line": 6714,
+   "pdfPage": 154,
+   "rawHeading": "LA GORRA (275)",
+   "name": "LA GORRA",
+   "semirRef": "275",
+   "confidence": "paren"
+  },
+  {
+   "line": 6736,
+   "pdfPage": 154,
+   "rawHeading": "ROCA VELLA (261)",
+   "name": "ROCA VELLA",
+   "semirRef": "261",
+   "confidence": "paren"
+  },
+  {
+   "line": 6746,
+   "pdfPage": 155,
+   "rawHeading": "AGULLA FINA DELS NAPS DE BAIX",
+   "name": "AGULLA FINA DELS NAPS DE BAIX",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6754,
+   "pdfPage": 156,
+   "rawHeading": "MERLET DE LA ROCA VELLA",
+   "name": "MERLET DE LA ROCA VELLA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6763,
+   "pdfPage": 156,
+   "rawHeading": "VENA DE LA ROCA ROJA",
+   "name": "VENA DE LA ROCA ROJA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6774,
+   "pdfPage": 156,
+   "rawHeading": "ROCA ROJA (286)",
+   "name": "ROCA ROJA",
+   "semirRef": "286",
+   "confidence": "paren"
+  },
+  {
+   "line": 6787,
+   "pdfPage": 156,
+   "rawHeading": "AGULLA FINA DELS NAPS DE BAIX",
+   "name": "AGULLA FINA DELS NAPS DE BAIX",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6817,
+   "pdfPage": 157,
+   "rawHeading": "LA GEPERUDA",
+   "name": "LA GEPERUDA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6832,
+   "pdfPage": 157,
+   "rawHeading": "ROCA DEL DISSABTE",
+   "name": "ROCA DEL DISSABTE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6846,
+   "pdfPage": 158,
+   "rawHeading": "AGULLA DEL CASTELL",
+   "name": "AGULLA DEL CASTELL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6868,
+   "pdfPage": 158,
+   "rawHeading": "ROCA DEL TAMBOR",
+   "name": "ROCA DEL TAMBOR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6899,
+   "pdfPage": 159,
+   "rawHeading": "MIRADOR DE L'OLIVERAR",
+   "name": "MIRADOR DE L'OLIVERAR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 6911,
+   "pdfPage": 159,
+   "rawHeading": "ROCA DE LA CASTANYADA (262)",
+   "name": "ROCA DE LA CASTANYADA",
+   "semirRef": "262",
+   "confidence": "paren"
+  },
+  {
+   "line": 7037,
+   "pdfPage": 161,
+   "rawHeading": "LES ESOUERDADES",
+   "name": "LES ESOUERDADES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7062,
+   "pdfPage": 161,
+   "rawHeading": "ROCA DEL JOANET",
+   "name": "ROCA DEL JOANET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7070,
+   "pdfPage": 162,
+   "rawHeading": "AGULLA ZANINI",
+   "name": "AGULLA ZANINI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7078,
+   "pdfPage": 163,
+   "rawHeading": "AGULLA DE LA BENEDICCIÓ",
+   "name": "AGULLA DE LA BENEDICCIÓ",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7098,
+   "pdfPage": 163,
+   "rawHeading": "AGULLA ALBERT ZANINI",
+   "name": "AGULLA ALBERT ZANINI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7120,
+   "pdfPage": 164,
+   "rawHeading": "SERRAT DEL FARAO OCCIDENTAL (260)",
+   "name": "SERRAT DEL FARAO OCCIDENTAL",
+   "semirRef": "260",
+   "confidence": "paren"
+  },
+  {
+   "line": 7130,
+   "pdfPage": 164,
+   "rawHeading": "SERRAT DE LA PALOMERA (263-264)",
+   "name": "SERRAT DE LA PALOMERA",
+   "semirRef": "263-264",
+   "confidence": "paren"
+  },
+  {
+   "line": 7149,
+   "pdfPage": 164,
+   "rawHeading": "ROCA MUR (265)",
+   "name": "ROCA MUR",
+   "semirRef": "265",
+   "confidence": "paren"
+  },
+  {
+   "line": 7253,
+   "pdfPage": 167,
+   "rawHeading": "ROCA DEL DAVID",
+   "name": "ROCA DEL DAVID",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7265,
+   "pdfPage": 167,
+   "rawHeading": "EL FARAONET",
+   "name": "EL FARAONET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7282,
+   "pdfPage": 168,
+   "rawHeading": "AGULLA DEL MAL PAS",
+   "name": "AGULLA DEL MAL PAS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7333,
+   "pdfPage": 169,
+   "rawHeading": "AGULLA DE LA VERGE DE LOURDES",
+   "name": "AGULLA DE LA VERGE DE LOURDES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7353,
+   "pdfPage": 169,
+   "rawHeading": "AGULLA DE LA TEMPESTAT (257)",
+   "name": "AGULLA DE LA TEMPESTAT",
+   "semirRef": "257",
+   "confidence": "paren"
+  },
+  {
+   "line": 7373,
+   "pdfPage": 170,
+   "rawHeading": "SERRAT DEL FARACI OCCIDENTAL (259)",
+   "name": "SERRAT DEL FARACI OCCIDENTAL",
+   "semirRef": "259",
+   "confidence": "paren"
+  },
+  {
+   "line": 7383,
+   "pdfPage": 170,
+   "rawHeading": "SERRAT DEL FARA05 (254-255-256)",
+   "name": "SERRAT DEL FARA05",
+   "semirRef": "254-255-256",
+   "confidence": "paren"
+  },
+  {
+   "line": 7421,
+   "pdfPage": 171,
+   "rawHeading": "EL         FARAÓ                -258   -",
+   "name": "EL FARAÓ",
+   "semirRef": "258",
+   "confidence": "dash"
+  },
+  {
+   "line": 7566,
+   "pdfPage": 173,
+   "rawHeading": "LA RAMPA DE L'ESFINX (252)",
+   "name": "LA RAMPA DE L'ESFINX",
+   "semirRef": "252",
+   "confidence": "paren"
+  },
+  {
+   "line": 7589,
+   "pdfPage": 174,
+   "rawHeading": "L'ESFINX DEL MONTGROS (248)",
+   "name": "L'ESFINX DEL MONTGROS",
+   "semirRef": "248",
+   "confidence": "paren"
+  },
+  {
+   "line": 7599,
+   "pdfPage": 174,
+   "rawHeading": "ROQUES DEIS PLECS DE LLIBRE           (218-219-220-221-222)",
+   "name": "ROQUES DEIS PLECS DE LLIBRE",
+   "semirRef": "218-219-220-221-222",
+   "confidence": "paren"
+  },
+  {
+   "line": 7613,
+   "pdfPage": 174,
+   "rawHeading": "PLEC DE LLIBRE SUPERIOR (223)",
+   "name": "PLEC DE LLIBRE SUPERIOR",
+   "semirRef": "223",
+   "confidence": "paren"
+  },
+  {
+   "line": 7635,
+   "pdfPage": 175,
+   "rawHeading": "PLEC DE LLIBRE INFERIOR",
+   "name": "PLEC DE LLIBRE INFERIOR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7649,
+   "pdfPage": 175,
+   "rawHeading": "BOLETA DELS PLECS",
+   "name": "BOLETA DELS PLECS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7664,
+   "pdfPage": 176,
+   "rawHeading": "ROCA DE LA CAJOLETA",
+   "name": "ROCA DE LA CAJOLETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7680,
+   "pdfPage": 176,
+   "rawHeading": "PLEC DEL PI",
+   "name": "PLEC DEL PI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 7708,
+   "pdfPage": 177,
+   "rawHeading": "AGULLA DE LA FONT DE LA CADIRETA (237)",
+   "name": "AGULLA DE LA FONT DE LA CADIRETA",
+   "semirRef": "237",
+   "confidence": "paren"
+  },
+  {
+   "line": 7725,
+   "pdfPage": 177,
+   "rawHeading": "ROCA VENA DE LA DRETA DE LA SALAMANDRA (236)",
+   "name": "ROCA VENA DE LA DRETA DE LA SALAMANDRA",
+   "semirRef": "236",
+   "confidence": "paren"
+  },
+  {
+   "line": 7738,
+   "pdfPage": 177,
+   "rawHeading": "LA SALAMANDRA (214)",
+   "name": "LA SALAMANDRA",
+   "semirRef": "214",
+   "confidence": "paren"
+  },
+  {
+   "line": 7754,
+   "pdfPage": 178,
+   "rawHeading": "ROCA VENA DE L'ESOUERRA DE LA SALAMANDRA (213)",
+   "name": "ROCA VENA DE L'ESOUERRA DE LA SALAMANDRA",
+   "semirRef": "213",
+   "confidence": "paren"
+  },
+  {
+   "line": 7805,
+   "pdfPage": 179,
+   "rawHeading": "EL PATUFET (215)",
+   "name": "EL PATUFET",
+   "semirRef": "215",
+   "confidence": "paren"
+  },
+  {
+   "line": 7887,
+   "pdfPage": 181,
+   "rawHeading": "SERRAT DEL PATUFET (249-212)",
+   "name": "SERRAT DEL PATUFET",
+   "semirRef": "249-212",
+   "confidence": "paren"
+  },
+  {
+   "line": 7902,
+   "pdfPage": 182,
+   "rawHeading": "AGULLA DE LLUIS ESTASEN (207)",
+   "name": "AGULLA DE LLUIS ESTASEN",
+   "semirRef": "207",
+   "confidence": "paren"
+  },
+  {
+   "line": 7919,
+   "pdfPage": 182,
+   "rawHeading": "ROQUES DEL SALT DE LA NINA (208-209)",
+   "name": "ROQUES DEL SALT DE LA NINA",
+   "semirRef": "208-209",
+   "confidence": "paren"
+  },
+  {
+   "line": 7941,
+   "pdfPage": 182,
+   "rawHeading": "SALT DE LA NINA (210)",
+   "name": "SALT DE LA NINA",
+   "semirRef": "210",
+   "confidence": "paren"
+  },
+  {
+   "line": 7960,
+   "pdfPage": 183,
+   "rawHeading": "ELS ECOS (202-203-204-245-246)",
+   "name": "ELS ECOS",
+   "semirRef": "202-203-204-245-246",
+   "confidence": "paren"
+  },
+  {
+   "line": 7992,
+   "pdfPage": 184,
+   "rawHeading": "L'ECO PETIT (244)",
+   "name": "L'ECO PETIT",
+   "semirRef": "244",
+   "confidence": "paren"
+  },
+  {
+   "line": 8004,
+   "pdfPage": 184,
+   "rawHeading": "L'ECO SUPERIOR (201)",
+   "name": "L'ECO SUPERIOR",
+   "semirRef": "201",
+   "confidence": "paren"
+  },
+  {
+   "line": 8016,
+   "pdfPage": 184,
+   "rawHeading": "PARET DEIS   ECOS, CARA N.",
+   "name": "PARET DEIS ECOS, CARA N.",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8025,
+   "pdfPage": 184,
+   "rawHeading": "ROCA DEL RECONTRAPATUFET",
+   "name": "ROCA DEL RECONTRAPATUFET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8036,
+   "pdfPage": 185,
+   "rawHeading": "CAMELL DEIS ECOS (206-205)",
+   "name": "CAMELL DEIS ECOS",
+   "semirRef": "206-205",
+   "confidence": "paren"
+  },
+  {
+   "line": 8040,
+   "pdfPage": 185,
+   "rawHeading": "GEPA DEL CAMELL (205)",
+   "name": "GEPA DEL CAMELL",
+   "semirRef": "205",
+   "confidence": "paren"
+  },
+  {
+   "line": 8054,
+   "pdfPage": 185,
+   "rawHeading": "CAP DEL CAMELL (206)",
+   "name": "CAP DEL CAMELL",
+   "semirRef": "206",
+   "confidence": "paren"
+  },
+  {
+   "line": 8073,
+   "pdfPage": 185,
+   "rawHeading": "AGULLA DEL PAS DELS MICOS (288-287)",
+   "name": "AGULLA DEL PAS DELS MICOS",
+   "semirRef": "288-287",
+   "confidence": "paren"
+  },
+  {
+   "line": 8093,
+   "pdfPage": 186,
+   "rawHeading": "L'ALFIL",
+   "name": "L'ALFIL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8108,
+   "pdfPage": 186,
+   "rawHeading": "L'ALFIL DRET",
+   "name": "L'ALFIL DRET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8136,
+   "pdfPage": 187,
+   "rawHeading": "ROCA DE LA FONT DEL LLUM",
+   "name": "ROCA DE LA FONT DEL LLUM",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8569,
+   "pdfPage": 193,
+   "rawHeading": "PARET NO. DE LA MIRANDA DE SANT JERONI",
+   "name": "PARET NO. DE LA MIRANDA DE SANT JERONI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8623,
+   "pdfPage": 194,
+   "rawHeading": "CANAL DE LA BARANA",
+   "name": "CANAL DE LA BARANA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8656,
+   "pdfPage": 195,
+   "rawHeading": "XEMENEIA T. I. M.",
+   "name": "XEMENEIA T. I. M.",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8686,
+   "pdfPage": 195,
+   "rawHeading": "XEMENEIA TORRAS-NUBIOLA",
+   "name": "XEMENEIA TORRAS-NUBIOLA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8711,
+   "pdfPage": 196,
+   "rawHeading": "XEMENEIA NUBIOLA-TORRAS",
+   "name": "XEMENEIA NUBIOLA-TORRAS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8773,
+   "pdfPage": 197,
+   "rawHeading": "EL PETIT GEGANT",
+   "name": "EL PETIT GEGANT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8785,
+   "pdfPage": 198,
+   "rawHeading": "EL    CAMELL -317-318",
+   "name": "EL CAMELL",
+   "semirRef": "317-318",
+   "confidence": "dash"
+  },
+  {
+   "line": 8788,
+   "pdfPage": 199,
+   "rawHeading": "EL GEGANT ENCANTAT (303)",
+   "name": "EL GEGANT ENCANTAT",
+   "semirRef": "303",
+   "confidence": "paren"
+  },
+  {
+   "line": 8821,
+   "pdfPage": 199,
+   "rawHeading": "ROCA VEINA DEL GEGANT",
+   "name": "ROCA VEINA DEL GEGANT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8828,
+   "pdfPage": 199,
+   "rawHeading": "ROCA DE LA POPA",
+   "name": "ROCA DE LA POPA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8847,
+   "pdfPage": 200,
+   "rawHeading": "AGULLETA D'EN PANY",
+   "name": "AGULLETA D'EN PANY",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8864,
+   "pdfPage": 200,
+   "rawHeading": "ROCA DE LA MIRANDA DEL CAMELL",
+   "name": "ROCA DE LA MIRANDA DEL CAMELL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8876,
+   "pdfPage": 200,
+   "rawHeading": "ROCA DE L'AMPOLLA",
+   "name": "ROCA DE L'AMPOLLA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8890,
+   "pdfPage": 201,
+   "rawHeading": "EL SENTINELLETA",
+   "name": "EL SENTINELLETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8902,
+   "pdfPage": 201,
+   "rawHeading": "ROQUES DEL CAMELL (315-316-317-318)",
+   "name": "ROQUES DEL CAMELL",
+   "semirRef": "315-316-317-318",
+   "confidence": "paren"
+  },
+  {
+   "line": 8917,
+   "pdfPage": 201,
+   "rawHeading": "LES GEPES DEL CAMELL (315-316)",
+   "name": "LES GEPES DEL CAMELL",
+   "semirRef": "315-316",
+   "confidence": "paren"
+  },
+  {
+   "line": 8924,
+   "pdfPage": 201,
+   "rawHeading": "CAP DEL CAMELL (317-318)",
+   "name": "CAP DEL CAMELL",
+   "semirRef": "317-318",
+   "confidence": "paren"
+  },
+  {
+   "line": 8946,
+   "pdfPage": 202,
+   "rawHeading": "ROCA D'EN MILLET",
+   "name": "ROCA D'EN MILLET",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8965,
+   "pdfPage": 202,
+   "rawHeading": "ROCA DE LA PITRADA (394)",
+   "name": "ROCA DE LA PITRADA",
+   "semirRef": "394",
+   "confidence": "paren"
+  },
+  {
+   "line": 8980,
+   "pdfPage": 203,
+   "rawHeading": "ROCA DE LA SANG",
+   "name": "ROCA DE LA SANG",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 8994,
+   "pdfPage": 203,
+   "rawHeading": "ROCA DEIS COLOMS",
+   "name": "ROCA DEIS COLOMS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9012,
+   "pdfPage": 203,
+   "rawHeading": "LA PILOTA (390)",
+   "name": "LA PILOTA",
+   "semirRef": "390",
+   "confidence": "paren"
+  },
+  {
+   "line": 9030,
+   "pdfPage": 204,
+   "rawHeading": "ROCA TROBADA (389)",
+   "name": "ROCA TROBADA",
+   "semirRef": "389",
+   "confidence": "paren"
+  },
+  {
+   "line": 9041,
+   "pdfPage": 204,
+   "rawHeading": "AGULLA PREDILECTA (388)",
+   "name": "AGULLA PREDILECTA",
+   "semirRef": "388",
+   "confidence": "paren"
+  },
+  {
+   "line": 9064,
+   "pdfPage": 205,
+   "rawHeading": "LA TALAIA      GRAN -304-",
+   "name": "LA TALAIA GRAN",
+   "semirRef": "304",
+   "confidence": "dash"
+  },
+  {
+   "line": 9079,
+   "pdfPage": 206,
+   "rawHeading": "LES TALAIES",
+   "name": "LES TALAIES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9330,
+   "pdfPage": 211,
+   "rawHeading": "SERRAT DE SANT JERONI",
+   "name": "SERRAT DE SANT JERONI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9418,
+   "pdfPage": 213,
+   "rawHeading": "AGULLA DE SANTA CECILIA",
+   "name": "AGULLA DE SANTA CECILIA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9437,
+   "pdfPage": 214,
+   "rawHeading": "ROCA DEL PONT NATURAL",
+   "name": "ROCA DEL PONT NATURAL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9465,
+   "pdfPage": 214,
+   "rawHeading": "ROCA DE LA CONFLUENCIA (327)",
+   "name": "ROCA DE LA CONFLUENCIA",
+   "semirRef": "327",
+   "confidence": "paren"
+  },
+  {
+   "line": 9487,
+   "pdfPage": 215,
+   "rawHeading": "AGULLA DE LA ROSER",
+   "name": "AGULLA DE LA ROSER",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9509,
+   "pdfPage": 215,
+   "rawHeading": "LA PERA",
+   "name": "LA PERA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9537,
+   "pdfPage": 216,
+   "rawHeading": "ROQUES DE LES FORADADES (325)",
+   "name": "ROQUES DE LES FORADADES",
+   "semirRef": "325",
+   "confidence": "paren"
+  },
+  {
+   "line": 9579,
+   "pdfPage": 218,
+   "rawHeading": "SERRAT DEL MORO I MIRADOR (330)",
+   "name": "SERRAT DEL MORO I MIRADOR",
+   "semirRef": "330",
+   "confidence": "paren"
+  },
+  {
+   "line": 9890,
+   "pdfPage": 225,
+   "rawHeading": "ROCA DE LA PARET DE L'AERI (378)",
+   "name": "ROCA DE LA PARET DE L'AERI",
+   "semirRef": "378",
+   "confidence": "paren"
+  },
+  {
+   "line": 9918,
+   "pdfPage": 226,
+   "rawHeading": "EL MONTCAU       (331)",
+   "name": "EL MONTCAU",
+   "semirRef": "331",
+   "confidence": "paren"
+  },
+  {
+   "line": 9961,
+   "pdfPage": 227,
+   "rawHeading": "ROQUES DEL PATRIARCA (354-353-352-358-355)",
+   "name": "ROQUES DEL PATRIARCA",
+   "semirRef": "354-353-352-358-355",
+   "confidence": "paren"
+  },
+  {
+   "line": 9980,
+   "pdfPage": 227,
+   "rawHeading": "LA BARRETINA DEL PATRIARCA (356)",
+   "name": "LA BARRETINA DEL PATRIARCA",
+   "semirRef": "356",
+   "confidence": "paren"
+  },
+  {
+   "line": 9992,
+   "pdfPage": 227,
+   "rawHeading": "PARET N. DEL SERRAT DEL PATRIARCA",
+   "name": "PARET N. DEL SERRAT DEL PATRIARCA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 9999,
+   "pdfPage": 228,
+   "rawHeading": "SERRAT DEL PATRIARCA",
+   "name": "SERRAT DEL PATRIARCA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10067,
+   "pdfPage": 230,
+   "rawHeading": "ROCA DEL CAP DE MORT (350)",
+   "name": "ROCA DEL CAP DE MORT",
+   "semirRef": "350",
+   "confidence": "paren"
+  },
+  {
+   "line": 10095,
+   "pdfPage": 232,
+   "rawHeading": "ROCA DE LES ONZE (351)",
+   "name": "ROCA DE LES ONZE",
+   "semirRef": "351",
+   "confidence": "paren"
+  },
+  {
+   "line": 10122,
+   "pdfPage": 232,
+   "rawHeading": "PARET DELS DIABLES",
+   "name": "PARET DELS DIABLES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10204,
+   "pdfPage": 234,
+   "rawHeading": "EL GANIVET DELS DIABLES (360)",
+   "name": "EL GANIVET DELS DIABLES",
+   "semirRef": "360",
+   "confidence": "paren"
+  },
+  {
+   "line": 10235,
+   "pdfPage": 235,
+   "rawHeading": "MERLET DE SOTA L'ERMITA DE SANT ANTONI",
+   "name": "MERLET DE SOTA L'ERMITA DE SANT ANTONI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10246,
+   "pdfPage": 235,
+   "rawHeading": "AGULLA MIGPARTIDA",
+   "name": "AGULLA MIGPARTIDA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10289,
+   "pdfPage": 236,
+   "rawHeading": "EL CAP        DE    MORT     -350    -",
+   "name": "EL CAP DE MORT",
+   "semirRef": "350",
+   "confidence": "dash"
+  },
+  {
+   "line": 10340,
+   "pdfPage": 237,
+   "rawHeading": "LA DESGRACIADA (337)",
+   "name": "LA DESGRACIADA",
+   "semirRef": "337",
+   "confidence": "paren"
+  },
+  {
+   "line": 10506,
+   "pdfPage": 239,
+   "rawHeading": "EL BRAGUER     (336)",
+   "name": "EL BRAGUER",
+   "semirRef": "336",
+   "confidence": "paren"
+  },
+  {
+   "line": 10525,
+   "pdfPage": 239,
+   "rawHeading": "EL CANTIR (335)",
+   "name": "EL CANTIR",
+   "semirRef": "335",
+   "confidence": "paren"
+  },
+  {
+   "line": 10552,
+   "pdfPage": 240,
+   "rawHeading": "CARENA I PUNTAL DE L'ALBARDA (338-339-340-341-342)",
+   "name": "CARENA I PUNTAL DE L'ALBARDA",
+   "semirRef": "338-339-340-341-342",
+   "confidence": "paren"
+  },
+  {
+   "line": 10590,
+   "pdfPage": 241,
+   "rawHeading": "AGULLA INCLINADA (343)",
+   "name": "AGULLA INCLINADA",
+   "semirRef": "343",
+   "confidence": "paren"
+  },
+  {
+   "line": 10617,
+   "pdfPage": 241,
+   "rawHeading": "EL CIGRONET (344)",
+   "name": "EL CIGRONET",
+   "semirRef": "344",
+   "confidence": "paren"
+  },
+  {
+   "line": 10651,
+   "pdfPage": 242,
+   "rawHeading": "EL PUNTAL DE L'ALBARDA -342-",
+   "name": "EL PUNTAL DE L'ALBARDA",
+   "semirRef": "342",
+   "confidence": "dash"
+  },
+  {
+   "line": 10684,
+   "pdfPage": 243,
+   "rawHeading": "ROCA DÉU-LA-FÉU",
+   "name": "ROCA DÉU-LA-FÉU",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10867,
+   "pdfPage": 245,
+   "rawHeading": "ROCA DE SANT ESTEVE",
+   "name": "ROCA DE SANT ESTEVE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10880,
+   "pdfPage": 245,
+   "rawHeading": "ROCA DEL TRUC O DE LA VINYA NOVA (346)",
+   "name": "ROCA DEL TRUC O DE LA VINYA NOVA",
+   "semirRef": "346",
+   "confidence": "paren"
+  },
+  {
+   "line": 10899,
+   "pdfPage": 245,
+   "rawHeading": "ROCA DE LA GUINEU",
+   "name": "ROCA DE LA GUINEU",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10939,
+   "pdfPage": 246,
+   "rawHeading": "ROQUES DEIS BUGADERS",
+   "name": "ROQUES DEIS BUGADERS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 10960,
+   "pdfPage": 247,
+   "rawHeading": "ROCA DE LA FABIOLA (382)",
+   "name": "ROCA DE LA FABIOLA",
+   "semirRef": "382",
+   "confidence": "paren"
+  },
+  {
+   "line": 10971,
+   "pdfPage": 247,
+   "rawHeading": "ROCA DEL CASTELLET (383)",
+   "name": "ROCA DEL CASTELLET",
+   "semirRef": "383",
+   "confidence": "paren"
+  },
+  {
+   "line": 10979,
+   "pdfPage": 247,
+   "rawHeading": "ROCA DE LA TRINXADA",
+   "name": "ROCA DE LA TRINXADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11032,
+   "pdfPage": 248,
+   "rawHeading": "SERRAT DELS TUDONS",
+   "name": "SERRAT DELS TUDONS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11065,
+   "pdfPage": 249,
+   "rawHeading": "AGULLA DE L'ALICIA",
+   "name": "AGULLA DE L'ALICIA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11082,
+   "pdfPage": 249,
+   "rawHeading": "AGULLA DELS LLOPS",
+   "name": "AGULLA DELS LLOPS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11090,
+   "pdfPage": 250,
+   "rawHeading": "L'AJAGUDA DEL COLL DE MUSET -319-",
+   "name": "L'AJAGUDA DEL COLL DE MUSET",
+   "semirRef": "319",
+   "confidence": "dash"
+  },
+  {
+   "line": 11097,
+   "pdfPage": 251,
+   "rawHeading": "SERRAT DE LA SOCARRADA",
+   "name": "SERRAT DE LA SOCARRADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11109,
+   "pdfPage": 251,
+   "rawHeading": "AGULLA AJAGUDA DEL COLL DE MUSET (319)",
+   "name": "AGULLA AJAGUDA DEL COLL DE MUSET",
+   "semirRef": "319",
+   "confidence": "paren"
+  },
+  {
+   "line": 11130,
+   "pdfPage": 251,
+   "rawHeading": "AGULLA DE L'AVENC (320)",
+   "name": "AGULLA DE L'AVENC",
+   "semirRef": "320",
+   "confidence": "paren"
+  },
+  {
+   "line": 11145,
+   "pdfPage": 252,
+   "rawHeading": "AGULLA DEL JARDI (321)",
+   "name": "AGULLA DEL JARDI",
+   "semirRef": "321",
+   "confidence": "paren"
+  },
+  {
+   "line": 11154,
+   "pdfPage": 252,
+   "rawHeading": "ROCA DE L'OCELL MORT (322)",
+   "name": "ROCA DE L'OCELL MORT",
+   "semirRef": "322",
+   "confidence": "paren"
+  },
+  {
+   "line": 11164,
+   "pdfPage": 252,
+   "rawHeading": "ROCA DEL SALTET (323)",
+   "name": "ROCA DEL SALTET",
+   "semirRef": "323",
+   "confidence": "paren"
+  },
+  {
+   "line": 11183,
+   "pdfPage": 253,
+   "rawHeading": "MIRADOR DEIS PLECS DE LLIBRE",
+   "name": "MIRADOR DEIS PLECS DE LLIBRE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11200,
+   "pdfPage": 253,
+   "rawHeading": "ROCA ATRINXERADA",
+   "name": "ROCA ATRINXERADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11211,
+   "pdfPage": 253,
+   "rawHeading": "MIRADOR DE LA PALLA",
+   "name": "MIRADOR DE LA PALLA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11223,
+   "pdfPage": 253,
+   "rawHeading": "L'AS DE «BASTOS»",
+   "name": "L'AS DE «BASTOS»",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11241,
+   "pdfPage": 254,
+   "rawHeading": "AVENC DE L'AGULLA O D'EN BARBERA",
+   "name": "AVENC DE L'AGULLA O D'EN BARBERA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11860,
+   "pdfPage": 260,
+   "rawHeading": "ROCA DELS TRULLAGONS",
+   "name": "ROCA DELS TRULLAGONS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11874,
+   "pdfPage": 260,
+   "rawHeading": "AGULLA DEL PESSEBRE",
+   "name": "AGULLA DEL PESSEBRE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11886,
+   "pdfPage": 260,
+   "rawHeading": "ROCA MALA (480-481)",
+   "name": "ROCA MALA",
+   "semirRef": "480-481",
+   "confidence": "paren"
+  },
+  {
+   "line": 11900,
+   "pdfPage": 261,
+   "rawHeading": "AGULLA DELS FLAMENCS",
+   "name": "AGULLA DELS FLAMENCS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 11912,
+   "pdfPage": 261,
+   "rawHeading": "ROCA DEL PI (481 A)",
+   "name": "ROCA DEL PI",
+   "semirRef": "481 A",
+   "confidence": "paren"
+  },
+  {
+   "line": 11923,
+   "pdfPage": 261,
+   "rawHeading": "ROCA TORMES (481 B)",
+   "name": "ROCA TORMES",
+   "semirRef": "481 B",
+   "confidence": "paren"
+  },
+  {
+   "line": 11935,
+   "pdfPage": 261,
+   "rawHeading": "CONJUNT DELS POLLEGONS",
+   "name": "CONJUNT DELS POLLEGONS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12020,
+   "pdfPage": 263,
+   "rawHeading": "SERRAT DELS POLLEGONS A",
+   "name": "SERRAT DELS POLLEGONS A",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12047,
+   "pdfPage": 264,
+   "rawHeading": "SERRAT DELS POLLEGONS B",
+   "name": "SERRAT DELS POLLEGONS B",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12091,
+   "pdfPage": 265,
+   "rawHeading": "SERRAT DE L'ARTIGA ALTA",
+   "name": "SERRAT DE L'ARTIGA ALTA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12280,
+   "pdfPage": 267,
+   "rawHeading": "MIRANDA DELS POLLEGONS",
+   "name": "MIRANDA DELS POLLEGONS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12292,
+   "pdfPage": 267,
+   "rawHeading": "SERRAT DE BELLAVISTA (457-458-459-460-461)",
+   "name": "SERRAT DE BELLAVISTA",
+   "semirRef": "457-458-459-460-461",
+   "confidence": "paren"
+  },
+  {
+   "line": 12327,
+   "pdfPage": 268,
+   "rawHeading": "CARA DE MICO (415)",
+   "name": "CARA DE MICO",
+   "semirRef": "415",
+   "confidence": "paren"
+  },
+  {
+   "line": 12341,
+   "pdfPage": 268,
+   "rawHeading": "ROCA DE LA PAPARRA",
+   "name": "ROCA DE LA PAPARRA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12356,
+   "pdfPage": 269,
+   "rawHeading": "EL SENTINELLA (437)",
+   "name": "EL SENTINELLA",
+   "semirRef": "437",
+   "confidence": "paren"
+  },
+  {
+   "line": 12386,
+   "pdfPage": 269,
+   "rawHeading": "LA CAMPANA (438)",
+   "name": "LA CAMPANA",
+   "semirRef": "438",
+   "confidence": "paren"
+  },
+  {
+   "line": 12406,
+   "pdfPage": 270,
+   "rawHeading": "ROCA VENA DEL RAVE (440)",
+   "name": "ROCA VENA DEL RAVE",
+   "semirRef": "440",
+   "confidence": "paren"
+  },
+  {
+   "line": 12416,
+   "pdfPage": 270,
+   "rawHeading": "EL RAVE O LA BALDUFA (439)",
+   "name": "EL RAVE O LA BALDUFA",
+   "semirRef": "439",
+   "confidence": "paren"
+  },
+  {
+   "line": 12440,
+   "pdfPage": 271,
+   "rawHeading": "ROQUES DE SOTA EL RAVE",
+   "name": "ROQUES DE SOTA EL RAVE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 12474,
+   "pdfPage": 272,
+   "rawHeading": "MEGU(4415",
+   "name": "MEGU",
+   "semirRef": "4415",
+   "confidence": "paren"
+  },
+  {
+   "line": 12627,
+   "pdfPage": 274,
+   "rawHeading": "PROCESSO DEIS MONJOS (421-422)",
+   "name": "PROCESSO DEIS MONJOS",
+   "semirRef": "421-422",
+   "confidence": "paren"
+  },
+  {
+   "line": 12637,
+   "pdfPage": 274,
+   "rawHeading": "LA DOBLE   (423-424)",
+   "name": "LA DOBLE",
+   "semirRef": "423-424",
+   "confidence": "paren"
+  },
+  {
+   "line": 12658,
+   "pdfPage": 275,
+   "rawHeading": "LA MAMELLA (425)",
+   "name": "LA MAMELLA",
+   "semirRef": "425",
+   "confidence": "paren"
+  },
+  {
+   "line": 12703,
+   "pdfPage": 276,
+   "rawHeading": "AGULLA JAUME MATA (434)",
+   "name": "AGULLA JAUME MATA",
+   "semirRef": "434",
+   "confidence": "paren"
+  },
+  {
+   "line": 12718,
+   "pdfPage": 276,
+   "rawHeading": "ROCA DE SANT CUGAT (435)",
+   "name": "ROCA DE SANT CUGAT",
+   "semirRef": "435",
+   "confidence": "paren"
+  },
+  {
+   "line": 12744,
+   "pdfPage": 277,
+   "rawHeading": "ROCA DELS COLLECCIONISTES (472-472 A)",
+   "name": "ROCA DELS COLLECCIONISTES",
+   "semirRef": "472-472 A",
+   "confidence": "paren"
+  },
+  {
+   "line": 12783,
+   "pdfPage": 278,
+   "rawHeading": "LA MAMELLETA (426)",
+   "name": "LA MAMELLETA",
+   "semirRef": "426",
+   "confidence": "paren"
+  },
+  {
+   "line": 12797,
+   "pdfPage": 278,
+   "rawHeading": "MIRANDA DE LA MAMELLA (427-428)",
+   "name": "MIRANDA DE LA MAMELLA",
+   "semirRef": "427-428",
+   "confidence": "paren"
+  },
+  {
+   "line": 12833,
+   "pdfPage": 279,
+   "rawHeading": "AGULLA DEL MEGUI (448)",
+   "name": "AGULLA DEL MEGUI",
+   "semirRef": "448",
+   "confidence": "paren"
+  },
+  {
+   "line": 12859,
+   "pdfPage": 279,
+   "rawHeading": "AGULLA DE LA PLANTACIÓ (452)",
+   "name": "AGULLA DE LA PLANTACIÓ",
+   "semirRef": "452",
+   "confidence": "paren"
+  },
+  {
+   "line": 12888,
+   "pdfPage": 280,
+   "rawHeading": "LA TRIPLE   (432-431-430)",
+   "name": "LA TRIPLE",
+   "semirRef": "432-431-430",
+   "confidence": "paren"
+  },
+  {
+   "line": 12910,
+   "pdfPage": 280,
+   "rawHeading": "AGULLA D'EN TORRAS HOMET (449)",
+   "name": "AGULLA D'EN TORRAS HOMET",
+   "semirRef": "449",
+   "confidence": "paren"
+  },
+  {
+   "line": 12926,
+   "pdfPage": 281,
+   "rawHeading": "EL BARRETET (456)",
+   "name": "EL BARRETET",
+   "semirRef": "456",
+   "confidence": "paren"
+  },
+  {
+   "line": 12956,
+   "pdfPage": 281,
+   "rawHeading": "ROCA DEL DIVENDRES SANT (467)",
+   "name": "ROCA DEL DIVENDRES SANT",
+   "semirRef": "467",
+   "confidence": "paren"
+  },
+  {
+   "line": 12974,
+   "pdfPage": 282,
+   "rawHeading": "AGULLETA DE L'ESGLAI",
+   "name": "AGULLETA DE L'ESGLAI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13011,
+   "pdfPage": 283,
+   "rawHeading": "L'OBLIDADA (473)",
+   "name": "L'OBLIDADA",
+   "semirRef": "473",
+   "confidence": "paren"
+  },
+  {
+   "line": 13034,
+   "pdfPage": 283,
+   "rawHeading": "L'OU DE LA PLANTACIÓ (470)",
+   "name": "L'OU DE LA PLANTACIÓ",
+   "semirRef": "470",
+   "confidence": "paren"
+  },
+  {
+   "line": 13063,
+   "pdfPage": 284,
+   "rawHeading": "ROCA DE LA CANTELLUDA (477)",
+   "name": "ROCA DE LA CANTELLUDA",
+   "semirRef": "477",
+   "confidence": "paren"
+  },
+  {
+   "line": 13078,
+   "pdfPage": 284,
+   "rawHeading": "ROCA DE LA PRESIDENTA (478)",
+   "name": "ROCA DE LA PRESIDENTA",
+   "semirRef": "478",
+   "confidence": "paren"
+  },
+  {
+   "line": 13120,
+   "pdfPage": 285,
+   "rawHeading": "LA MAMELLA -425-",
+   "name": "LA MAMELLA",
+   "semirRef": "425",
+   "confidence": "dash"
+  },
+  {
+   "line": 13257,
+   "pdfPage": 287,
+   "rawHeading": "AGULLETA I MIRANDA DE SANT JOAN",
+   "name": "AGULLETA I MIRANDA DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13279,
+   "pdfPage": 288,
+   "rawHeading": "ROCA D'EN MARCEL (465)",
+   "name": "ROCA D'EN MARCEL",
+   "semirRef": "465",
+   "confidence": "paren"
+  },
+  {
+   "line": 13289,
+   "pdfPage": 288,
+   "rawHeading": "ROCA DEL RELLOTGE",
+   "name": "ROCA DEL RELLOTGE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13302,
+   "pdfPage": 288,
+   "rawHeading": "ROCA DE L'ESQUERDA",
+   "name": "ROCA DE L'ESQUERDA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13310,
+   "pdfPage": 288,
+   "rawHeading": "ROQUES DE SOTA EL RELLOTGE",
+   "name": "ROQUES DE SOTA EL RELLOTGE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13318,
+   "pdfPage": 288,
+   "rawHeading": "ROCA DE L'ARTIGA BAIXA",
+   "name": "ROCA DE L'ARTIGA BAIXA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13325,
+   "pdfPage": 289,
+   "rawHeading": "EL   FRARE MIX DEL CLOT DE LA   MÓNICA",
+   "name": "EL FRARE MIX DEL CLOT DE LA MÓNICA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13349,
+   "pdfPage": 290,
+   "rawHeading": "ROCA DEL FRARE DE BAIX DEL CLOT DE LA MÓNICA",
+   "name": "ROCA DEL FRARE DE BAIX DEL CLOT DE LA MÓNICA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13366,
+   "pdfPage": 290,
+   "rawHeading": "ROCA DEL CAMI DE L'ARTIGA BAIXA",
+   "name": "ROCA DEL CAMI DE L'ARTIGA BAIXA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13378,
+   "pdfPage": 291,
+   "rawHeading": "AGULLA DE LA PASTERETA",
+   "name": "AGULLA DE LA PASTERETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13394,
+   "pdfPage": 291,
+   "rawHeading": "SERRAT DE LA PASTERETA",
+   "name": "SERRAT DE LA PASTERETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13401,
+   "pdfPage": 291,
+   "rawHeading": "MIRANDA DE SANT PERE",
+   "name": "MIRANDA DE SANT PERE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13413,
+   "pdfPage": 291,
+   "rawHeading": "AGULLA DE SANT PERE",
+   "name": "AGULLA DE SANT PERE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13429,
+   "pdfPage": 292,
+   "rawHeading": "SERRAT DEL PENITENT",
+   "name": "SERRAT DEL PENITENT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13437,
+   "pdfPage": 292,
+   "rawHeading": "ROCA DEL SOSTRE DE LA COSTA DRETA",
+   "name": "ROCA DEL SOSTRE DE LA COSTA DRETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13475,
+   "pdfPage": 293,
+   "rawHeading": "AGULLA BAIXA DE SANT JOAN (491)",
+   "name": "AGULLA BAIXA DE SANT JOAN",
+   "semirRef": "491",
+   "confidence": "paren"
+  },
+  {
+   "line": 13487,
+   "pdfPage": 293,
+   "rawHeading": "AGULLA DE SANT JOAN (490)",
+   "name": "AGULLA DE SANT JOAN",
+   "semirRef": "490",
+   "confidence": "paren"
+  },
+  {
+   "line": 13626,
+   "pdfPage": 295,
+   "rawHeading": "ROCA ALTA DE SANT JOAN",
+   "name": "ROCA ALTA DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 13659,
+   "pdfPage": 296,
+   "rawHeading": "EL   TRENCABARRALS               -412-",
+   "name": "EL TRENCABARRALS",
+   "semirRef": "412",
+   "confidence": "dash"
+  },
+  {
+   "line": 13686,
+   "pdfPage": 297,
+   "rawHeading": "ROCA DE LA GORRA FRÍGIA (401)",
+   "name": "ROCA DE LA GORRA FRÍGIA",
+   "semirRef": "401",
+   "confidence": "paren"
+  },
+  {
+   "line": 13707,
+   "pdfPage": 298,
+   "rawHeading": "LA   GORRA   FRÍGIA -401-",
+   "name": "LA GORRA FRÍGIA",
+   "semirRef": "401",
+   "confidence": "dash"
+  },
+  {
+   "line": 13735,
+   "pdfPage": 299,
+   "rawHeading": "ROCA DE LA MAGDALENA SUPERIOR (402)",
+   "name": "ROCA DE LA MAGDALENA SUPERIOR",
+   "semirRef": "402",
+   "confidence": "paren"
+  },
+  {
+   "line": 13754,
+   "pdfPage": 300,
+   "rawHeading": "LA GORRA MARINERA -406",
+   "name": "LA GORRA MARINERA",
+   "semirRef": "406",
+   "confidence": "dash"
+  },
+  {
+   "line": 13776,
+   "pdfPage": 301,
+   "rawHeading": "ULLAL DE LES MAGDALENES (404)",
+   "name": "ULLAL DE LES MAGDALENES",
+   "semirRef": "404",
+   "confidence": "paren"
+  },
+  {
+   "line": 13788,
+   "pdfPage": 301,
+   "rawHeading": "ROCA DE LA MAGDALENA INFERIOR (405)",
+   "name": "ROCA DE LA MAGDALENA INFERIOR",
+   "semirRef": "405",
+   "confidence": "paren"
+  },
+  {
+   "line": 13816,
+   "pdfPage": 302,
+   "rawHeading": "LA GORRA MARINERA (406)",
+   "name": "LA GORRA MARINERA",
+   "semirRef": "406",
+   "confidence": "paren"
+  },
+  {
+   "line": 13843,
+   "pdfPage": 303,
+   "rawHeading": "MIRANDA DE SANTA MAGDALENA (403)",
+   "name": "MIRANDA DE SANTA MAGDALENA",
+   "semirRef": "403",
+   "confidence": "paren"
+  },
+  {
+   "line": 13870,
+   "pdfPage": 303,
+   "rawHeading": "ROCA DE SOBRE L'ESTACIÓ SUPERIOR DE SANT JOAN",
+   "name": "ROCA DE SOBRE L'ESTACIÓ SUPERIOR DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14084,
+   "pdfPage": 305,
+   "rawHeading": "EL XAMPINYÓ",
+   "name": "EL XAMPINYÓ",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14093,
+   "pdfPage": 305,
+   "rawHeading": "ROCA DEL PAS DE LA DRECERA DE SANT JOAN",
+   "name": "ROCA DEL PAS DE LA DRECERA DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14105,
+   "pdfPage": 306,
+   "rawHeading": "SERRA DE SANT JOAN",
+   "name": "SERRA DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14112,
+   "pdfPage": 306,
+   "rawHeading": "ROCA DE LA LLOSA",
+   "name": "ROCA DE LA LLOSA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14133,
+   "pdfPage": 306,
+   "rawHeading": "AGULLETA DELS DOS FORATS",
+   "name": "AGULLETA DELS DOS FORATS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14155,
+   "pdfPage": 307,
+   "rawHeading": "AGULLA DE LA PULGUI (474 A)",
+   "name": "AGULLA DE LA PULGUI",
+   "semirRef": "474 A",
+   "confidence": "paren"
+  },
+  {
+   "line": 14169,
+   "pdfPage": 307,
+   "rawHeading": "ROCA DE LA JOGUINA",
+   "name": "ROCA DE LA JOGUINA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14182,
+   "pdfPage": 307,
+   "rawHeading": "ROQUES DEL TRIANGLE",
+   "name": "ROQUES DEL TRIANGLE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14205,
+   "pdfPage": 308,
+   "rawHeading": "ROCA DEL TRIANGLE",
+   "name": "ROCA DEL TRIANGLE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14229,
+   "pdfPage": 309,
+   "rawHeading": "SERRAT DE LA GUARDIA",
+   "name": "SERRAT DE LA GUARDIA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14236,
+   "pdfPage": 309,
+   "rawHeading": "AGULLA LLISA",
+   "name": "AGULLA LLISA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14376,
+   "pdfPage": 311,
+   "rawHeading": "AGULLA DE SOTA LA LLISA",
+   "name": "AGULLA DE SOTA LA LLISA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14383,
+   "pdfPage": 311,
+   "rawHeading": "CONTRAFORT DE LES BATERIES",
+   "name": "CONTRAFORT DE LES BATERIES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14392,
+   "pdfPage": 311,
+   "rawHeading": "SERRA DE LES GARRIGOSES",
+   "name": "SERRA DE LES GARRIGOSES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14418,
+   "pdfPage": 312,
+   "rawHeading": "ROCA DEL BURRO FORT",
+   "name": "ROCA DEL BURRO FORT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14428,
+   "pdfPage": 312,
+   "rawHeading": "EL PINETELL",
+   "name": "EL PINETELL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14440,
+   "pdfPage": 312,
+   "rawHeading": "AGULLA DE L'ALBERT IGLÉSIAS",
+   "name": "AGULLA DE L'ALBERT IGLÉSIAS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14457,
+   "pdfPage": 313,
+   "rawHeading": "AGULLETA DEL PONT NATURAL DE COLLBATO",
+   "name": "AGULLETA DEL PONT NATURAL DE COLLBATO",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14465,
+   "pdfPage": 313,
+   "rawHeading": "SECTOR COVES",
+   "name": "SECTOR COVES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14679,
+   "pdfPage": 317,
+   "rawHeading": "SERRAT DELS MONJOS",
+   "name": "SERRAT DELS MONJOS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14798,
+   "pdfPage": 320,
+   "rawHeading": "AGULLA DE SERRA LLARGA",
+   "name": "AGULLA DE SERRA LLARGA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14830,
+   "pdfPage": 321,
+   "rawHeading": "ROCA D'EN JAMAMOTO",
+   "name": "ROCA D'EN JAMAMOTO",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14919,
+   "pdfPage": 323,
+   "rawHeading": "ROCA ALTA DE LA CANAL DE SANT MIQUEL (498)",
+   "name": "ROCA ALTA DE LA CANAL DE SANT MIQUEL",
+   "semirRef": "498",
+   "confidence": "paren"
+  },
+  {
+   "line": 14928,
+   "pdfPage": 323,
+   "rawHeading": "ROQUES DEL CAMI DE LES ERMITES",
+   "name": "ROQUES DEL CAMI DE LES ERMITES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14936,
+   "pdfPage": 324,
+   "rawHeading": "ROQUES DEL FASCICLE",
+   "name": "ROQUES DEL FASCICLE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14963,
+   "pdfPage": 324,
+   "rawHeading": "ROCA DEL CAP DE SANT JOAN",
+   "name": "ROCA DEL CAP DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 14976,
+   "pdfPage": 324,
+   "rawHeading": "CARENA DEL CAP DE SANT JOAN",
+   "name": "CARENA DEL CAP DE SANT JOAN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15165,
+   "pdfPage": 327,
+   "rawHeading": "LA GRANOTA (492)",
+   "name": "LA GRANOTA",
+   "semirRef": "492",
+   "confidence": "paren"
+  },
+  {
+   "line": 15195,
+   "pdfPage": 328,
+   "rawHeading": "ROCA DE FRA GARI",
+   "name": "ROCA DE FRA GARI",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15209,
+   "pdfPage": 328,
+   "rawHeading": "ROCA DE L'ANGEL",
+   "name": "ROCA DE L'ANGEL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15240,
+   "pdfPage": 329,
+   "rawHeading": "ROCA DE LA VOMITADA",
+   "name": "ROCA DE LA VOMITADA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15257,
+   "pdfPage": 329,
+   "rawHeading": "ROQUES DE LES TRES TORRES (484-485-486)",
+   "name": "ROQUES DE LES TRES TORRES",
+   "semirRef": "484-485-486",
+   "confidence": "paren"
+  },
+  {
+   "line": 15283,
+   "pdfPage": 330,
+   "rawHeading": "ROCA DEL PALLASSO (487)",
+   "name": "ROCA DEL PALLASSO",
+   "semirRef": "487",
+   "confidence": "paren"
+  },
+  {
+   "line": 15361,
+   "pdfPage": 332,
+   "rawHeading": "ROCA DE LA COVA (496)",
+   "name": "ROCA DE LA COVA",
+   "semirRef": "496",
+   "confidence": "paren"
+  },
+  {
+   "line": 15370,
+   "pdfPage": 332,
+   "rawHeading": "ROCA DE L'AVIA",
+   "name": "ROCA DE L'AVIA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15388,
+   "pdfPage": 332,
+   "rawHeading": "EL GOS",
+   "name": "EL GOS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15400,
+   "pdfPage": 333,
+   "rawHeading": "MIRANDA DEL MONESTIR",
+   "name": "MIRANDA DEL MONESTIR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15410,
+   "pdfPage": 333,
+   "rawHeading": "AGULLA DE LA CREU -488-489-",
+   "name": "AGULLA DE LA CREU",
+   "semirRef": "488-489",
+   "confidence": "dash"
+  },
+  {
+   "line": 15676,
+   "pdfPage": 337,
+   "rawHeading": "ROCA DEL TASCÓ DE LA VALLMAL",
+   "name": "ROCA DEL TASCÓ DE LA VALLMAL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15687,
+   "pdfPage": 337,
+   "rawHeading": "AGULLA DELS RETORNATS (581)",
+   "name": "AGULLA DELS RETORNATS",
+   "semirRef": "581",
+   "confidence": "paren"
+  },
+  {
+   "line": 15709,
+   "pdfPage": 338,
+   "rawHeading": "ROCA DEL PAS DELS FRANCESOS (582)",
+   "name": "ROCA DEL PAS DELS FRANCESOS",
+   "semirRef": "582",
+   "confidence": "paren"
+  },
+  {
+   "line": 15720,
+   "pdfPage": 338,
+   "rawHeading": "ROCA DE L'ELEFANTET (583)",
+   "name": "ROCA DE L'ELEFANTET",
+   "semirRef": "583",
+   "confidence": "paren"
+  },
+  {
+   "line": 15746,
+   "pdfPage": 339,
+   "rawHeading": "MERLET DE LA VERGE",
+   "name": "MERLET DE LA VERGE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15776,
+   "pdfPage": 339,
+   "rawHeading": "ROCA DE SOBRE L'AGULLA DE 'LA VERGE (A)",
+   "name": "ROCA DE SOBRE L'AGULLA DE 'LA VERGE",
+   "semirRef": "A",
+   "confidence": "paren"
+  },
+  {
+   "line": 15786,
+   "pdfPage": 340,
+   "rawHeading": "ELS CORNS",
+   "name": "ELS CORNS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15800,
+   "pdfPage": 340,
+   "rawHeading": "ROCA DE LA SANTA CREU",
+   "name": "ROCA DE LA SANTA CREU",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15812,
+   "pdfPage": 340,
+   "rawHeading": "AGULLA DE LA VERGE (584)",
+   "name": "AGULLA DE LA VERGE",
+   "semirRef": "584",
+   "confidence": "paren"
+  },
+  {
+   "line": 15831,
+   "pdfPage": 341,
+   "rawHeading": "EL SOSTRE DEL   MONESTIR",
+   "name": "EL SOSTRE DEL MONESTIR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15861,
+   "pdfPage": 342,
+   "rawHeading": "SOSTRE DEL CASTELL DEL DIABLE O DEL MONESTIR",
+   "name": "SOSTRE DEL CASTELL DEL DIABLE O DEL MONESTIR",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15877,
+   "pdfPage": 343,
+   "rawHeading": "AGULLA DEL CONTRAFORT DE SANT DIMES",
+   "name": "AGULLA DEL CONTRAFORT DE SANT DIMES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15889,
+   "pdfPage": 343,
+   "rawHeading": "TALAIA DE SANT DIMES (577)",
+   "name": "TALAIA DE SANT DIMES",
+   "semirRef": "577",
+   "confidence": "paren"
+  },
+  {
+   "line": 15904,
+   "pdfPage": 343,
+   "rawHeading": "ESPERÓ DEL DIABLE (594)",
+   "name": "ESPERÓ DEL DIABLE",
+   "semirRef": "594",
+   "confidence": "paren"
+  },
+  {
+   "line": 15921,
+   "pdfPage": 344,
+   "rawHeading": "MERLET DEL PLA DELS OCELLS",
+   "name": "MERLET DEL PLA DELS OCELLS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 15932,
+   "pdfPage": 344,
+   "rawHeading": "CARENA DEL MERLET DEL PLA DELS OCELLS (521)",
+   "name": "CARENA DEL MERLET DEL PLA DELS OCELLS",
+   "semirRef": "521",
+   "confidence": "paren"
+  },
+  {
+   "line": 15941,
+   "pdfPage": 344,
+   "rawHeading": "AGULLA DEL PLA DELS OCELLS (522)",
+   "name": "AGULLA DEL PLA DELS OCELLS",
+   "semirRef": "522",
+   "confidence": "paren"
+  },
+  {
+   "line": 15968,
+   "pdfPage": 345,
+   "rawHeading": "LA     PANXA DEL BISBE -520-",
+   "name": "LA PANXA DEL BISBE",
+   "semirRef": "520",
+   "confidence": "dash"
+  },
+  {
+   "line": 16104,
+   "pdfPage": 347,
+   "rawHeading": "AGULLA DE SANT BENET (516)",
+   "name": "AGULLA DE SANT BENET",
+   "semirRef": "516",
+   "confidence": "paren"
+  },
+  {
+   "line": 16120,
+   "pdfPage": 348,
+   "rawHeading": "AGULLA DEL GAT (525-526)",
+   "name": "AGULLA DEL GAT",
+   "semirRef": "525-526",
+   "confidence": "paren"
+  },
+  {
+   "line": 16143,
+   "pdfPage": 348,
+   "rawHeading": "ROCA DE LA PRENYADA (512)",
+   "name": "ROCA DE LA PRENYADA",
+   "semirRef": "512",
+   "confidence": "paren"
+  },
+  {
+   "line": 16234,
+   "pdfPage": 350,
+   "rawHeading": "CONTRAFORT DE LA PRENYADA (513)",
+   "name": "CONTRAFORT DE LA PRENYADA",
+   "semirRef": "513",
+   "confidence": "paren"
+  },
+  {
+   "line": 16244,
+   "pdfPage": 351,
+   "rawHeading": "ROCA D'EN BARBERA (592)",
+   "name": "ROCA D'EN BARBERA",
+   "semirRef": "592",
+   "confidence": "paren"
+  },
+  {
+   "line": 16258,
+   "pdfPage": 351,
+   "rawHeading": "AGULLA D'EN MARKUS KAMEN (591)",
+   "name": "AGULLA D'EN MARKUS KAMEN",
+   "semirRef": "591",
+   "confidence": "paren"
+  },
+  {
+   "line": 16288,
+   "pdfPage": 352,
+   "rawHeading": "LA TROMPA DE L'ELEFANT -502",
+   "name": "LA TROMPA DE L'ELEFANT",
+   "semirRef": "502",
+   "confidence": "dash"
+  },
+  {
+   "line": 16291,
+   "pdfPage": 353,
+   "rawHeading": "ROCA DE LA TRUMFA (528)",
+   "name": "ROCA DE LA TRUMFA",
+   "semirRef": "528",
+   "confidence": "paren"
+  },
+  {
+   "line": 16304,
+   "pdfPage": 353,
+   "rawHeading": "ROCA DE SANT SALVADOR (501)",
+   "name": "ROCA DE SANT SALVADOR",
+   "semirRef": "501",
+   "confidence": "paren"
+  },
+  {
+   "line": 16325,
+   "pdfPage": 353,
+   "rawHeading": "L'ELEFANT (502)",
+   "name": "L'ELEFANT",
+   "semirRef": "502",
+   "confidence": "paren"
+  },
+  {
+   "line": 16335,
+   "pdfPage": 354,
+   "rawHeading": "LA    MOMIA      -509-",
+   "name": "LA MOMIA",
+   "semirRef": "509",
+   "confidence": "dash"
+  },
+  {
+   "line": 16370,
+   "pdfPage": 355,
+   "rawHeading": "LA MOMIA (509)",
+   "name": "LA MOMIA",
+   "semirRef": "509",
+   "confidence": "paren"
+  },
+  {
+   "line": 16439,
+   "pdfPage": 357,
+   "rawHeading": "LA MOMIETA (510)",
+   "name": "LA MOMIETA",
+   "semirRef": "510",
+   "confidence": "paren"
+  },
+  {
+   "line": 16484,
+   "pdfPage": 358,
+   "rawHeading": "AGULLA DEL CAIVB (515)",
+   "name": "AGULLA DEL CAIVB",
+   "semirRef": "515",
+   "confidence": "paren"
+  },
+  {
+   "line": 16517,
+   "pdfPage": 359,
+   "rawHeading": "CAVALL PINTETA",
+   "name": "CAVALL PINTETA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 16560,
+   "pdfPage": 361,
+   "rawHeading": "ROCA DELS CORBS (585)",
+   "name": "ROCA DELS CORBS",
+   "semirRef": "585",
+   "confidence": "paren"
+  },
+  {
+   "line": 16568,
+   "pdfPage": 361,
+   "rawHeading": "LA TRONA (586)",
+   "name": "LA TRONA",
+   "semirRef": "586",
+   "confidence": "paren"
+  },
+  {
+   "line": 16589,
+   "pdfPage": 362,
+   "rawHeading": "TOSSAL DE MULLAPANS (587)",
+   "name": "TOSSAL DE MULLAPANS",
+   "semirRef": "587",
+   "confidence": "paren"
+  },
+  {
+   "line": 16608,
+   "pdfPage": 362,
+   "rawHeading": "TOSSAL DE             MULLAPANS -587-",
+   "name": "TOSSAL DE MULLAPANS",
+   "semirRef": "587",
+   "confidence": "dash"
+  },
+  {
+   "line": 16660,
+   "pdfPage": 363,
+   "rawHeading": "ROCA FANTASMA",
+   "name": "ROCA FANTASMA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 16674,
+   "pdfPage": 363,
+   "rawHeading": "BOLETA DE LA FISSURA (588)",
+   "name": "BOLETA DE LA FISSURA",
+   "semirRef": "588",
+   "confidence": "paren"
+  },
+  {
+   "line": 16719,
+   "pdfPage": 365,
+   "rawHeading": "RESSALT DELS PELEGRINS (589)",
+   "name": "RESSALT DELS PELEGRINS",
+   "semirRef": "589",
+   "confidence": "paren"
+  },
+  {
+   "line": 16727,
+   "pdfPage": 365,
+   "rawHeading": "ROC GROS",
+   "name": "ROC GROS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 16751,
+   "pdfPage": 366,
+   "rawHeading": "ROCA DEL CAPVESPRE",
+   "name": "ROCA DEL CAPVESPRE",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 16800,
+   "pdfPage": 367,
+   "rawHeading": "EL FESOLET (504)",
+   "name": "EL FESOLET",
+   "semirRef": "504",
+   "confidence": "paren"
+  },
+  {
+   "line": 16900,
+   "pdfPage": 369,
+   "rawHeading": "ELS FLAUTATS (505-506-507)",
+   "name": "ELS FLAUTATS",
+   "semirRef": "505-506-507",
+   "confidence": "paren"
+  },
+  {
+   "line": 16928,
+   "pdfPage": 369,
+   "rawHeading": "EL «PITO DEL SERENO» (535)",
+   "name": "EL «PITO DEL SERENO»",
+   "semirRef": "535",
+   "confidence": "paren"
+  },
+  {
+   "line": 16940,
+   "pdfPage": 370,
+   "rawHeading": "EL    PEBROT -533-",
+   "name": "EL PEBROT",
+   "semirRef": "533",
+   "confidence": "dash"
+  },
+  {
+   "line": 16950,
+   "pdfPage": 371,
+   "rawHeading": "EL «SERENO»     (534)",
+   "name": "EL «SERENO»",
+   "semirRef": "534",
+   "confidence": "paren"
+  },
+  {
+   "line": 16963,
+   "pdfPage": 371,
+   "rawHeading": "EL PEBROT (533)",
+   "name": "EL PEBROT",
+   "semirRef": "533",
+   "confidence": "paren"
+  },
+  {
+   "line": 16977,
+   "pdfPage": 371,
+   "rawHeading": "LA CAROTA (536)",
+   "name": "LA CAROTA",
+   "semirRef": "536",
+   "confidence": "paren"
+  },
+  {
+   "line": 16997,
+   "pdfPage": 372,
+   "rawHeading": "LA NINETA (537)",
+   "name": "LA NINETA",
+   "semirRef": "537",
+   "confidence": "paren"
+  },
+  {
+   "line": 17006,
+   "pdfPage": 372,
+   "rawHeading": "BOLETA DE TRINITATS (538)",
+   "name": "BOLETA DE TRINITATS",
+   "semirRef": "538",
+   "confidence": "paren"
+  },
+  {
+   "line": 17036,
+   "pdfPage": 373,
+   "rawHeading": "LA   PORRA -530-",
+   "name": "LA PORRA",
+   "semirRef": "530",
+   "confidence": "dash"
+  },
+  {
+   "line": 17039,
+   "pdfPage": 374,
+   "rawHeading": "LA PORRA (530)",
+   "name": "LA PORRA",
+   "semirRef": "530",
+   "confidence": "paren"
+  },
+  {
+   "line": 17060,
+   "pdfPage": 374,
+   "rawHeading": "LA PUNXA (531)",
+   "name": "LA PUNXA",
+   "semirRef": "531",
+   "confidence": "paren"
+  },
+  {
+   "line": 17093,
+   "pdfPage": 375,
+   "rawHeading": "ROCA DE LA CARA DE LA VELLA (532)",
+   "name": "ROCA DE LA CARA DE LA VELLA",
+   "semirRef": "532",
+   "confidence": "paren"
+  },
+  {
+   "line": 17132,
+   "pdfPage": 376,
+   "rawHeading": "AGULLA DE LA MITRA (560)",
+   "name": "AGULLA DE LA MITRA",
+   "semirRef": "560",
+   "confidence": "paren"
+  },
+  {
+   "line": 17145,
+   "pdfPage": 376,
+   "rawHeading": "ROQUES DE LA NANSA (561-593)",
+   "name": "ROQUES DE LA NANSA",
+   "semirRef": "561-593",
+   "confidence": "paren"
+  },
+  {
+   "line": 17165,
+   "pdfPage": 376,
+   "rawHeading": "ROQUES DE SOTA EL CAMI DE L'ARREL",
+   "name": "ROQUES DE SOTA EL CAMI DE L'ARREL",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17176,
+   "pdfPage": 377,
+   "rawHeading": "ROCA DEL BOSC (539)",
+   "name": "ROCA DEL BOSC",
+   "semirRef": "539",
+   "confidence": "paren"
+  },
+  {
+   "line": 17183,
+   "pdfPage": 377,
+   "rawHeading": "ROCA ALTA DE LA DRECERA DE LA FONT DEL GAT",
+   "name": "ROCA ALTA DE LA DRECERA DE LA FONT DEL GAT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17190,
+   "pdfPage": 377,
+   "rawHeading": "ROCA BAIXA DE LA DRECERA DE LA FONT DEL GAT",
+   "name": "ROCA BAIXA DE LA DRECERA DE LA FONT DEL GAT",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17197,
+   "pdfPage": 377,
+   "rawHeading": "AGULLA DELS DEGOTALLS (543)",
+   "name": "AGULLA DELS DEGOTALLS",
+   "semirRef": "543",
+   "confidence": "paren"
+  },
+  {
+   "line": 17209,
+   "pdfPage": 377,
+   "rawHeading": "ROCA DELS ANGELS",
+   "name": "ROCA DELS ANGELS",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17223,
+   "pdfPage": 378,
+   "rawHeading": "PEDRIS DELS BISBES",
+   "name": "PEDRIS DELS BISBES",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17258,
+   "pdfPage": 379,
+   "rawHeading": "LA FLAMA O EL DIDAL (580)",
+   "name": "LA FLAMA O EL DIDAL",
+   "semirRef": "580",
+   "confidence": "paren"
+  },
+  {
+   "line": 17270,
+   "pdfPage": 379,
+   "rawHeading": "ROCA DE L'URBAIN",
+   "name": "ROCA DE L'URBAIN",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17438,
+   "pdfPage": 381,
+   "rawHeading": "AGULLA DE LA CANAL PLANA",
+   "name": "AGULLA DE LA CANAL PLANA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17465,
+   "pdfPage": 381,
+   "rawHeading": "ROCA DE LES LLUERNES (564)",
+   "name": "ROCA DE LES LLUERNES",
+   "semirRef": "564",
+   "confidence": "paren"
+  },
+  {
+   "line": 17487,
+   "pdfPage": 382,
+   "rawHeading": "SERRAT DEL FORAT DEL VENT (573-557)",
+   "name": "SERRAT DEL FORAT DEL VENT",
+   "semirRef": "573-557",
+   "confidence": "paren"
+  },
+  {
+   "line": 17495,
+   "pdfPage": 382,
+   "rawHeading": "ROQUES DEL FORAT DEL VENT (556-579-555)",
+   "name": "ROQUES DEL FORAT DEL VENT",
+   "semirRef": "556-579-555",
+   "confidence": "paren"
+  },
+  {
+   "line": 17510,
+   "pdfPage": 382,
+   "rawHeading": "ROQUES BAIXES DEL FORAT DEL VENT (578)",
+   "name": "ROQUES BAIXES DEL FORAT DEL VENT",
+   "semirRef": "578",
+   "confidence": "paren"
+  },
+  {
+   "line": 17534,
+   "pdfPage": 383,
+   "rawHeading": "AGULLA DEL CONSOL (550)",
+   "name": "AGULLA DEL CONSOL",
+   "semirRef": "550",
+   "confidence": "paren"
+  },
+  {
+   "line": 17546,
+   "pdfPage": 383,
+   "rawHeading": "ROQUES DELS FALCONS (551-552-553)",
+   "name": "ROQUES DELS FALCONS",
+   "semirRef": "551-552-553",
+   "confidence": "paren"
+  },
+  {
+   "line": 17565,
+   "pdfPage": 384,
+   "rawHeading": "SERRAT DE LES BARRETINES (554-565)",
+   "name": "SERRAT DE LES BARRETINES",
+   "semirRef": "554-565",
+   "confidence": "paren"
+  },
+  {
+   "line": 17600,
+   "pdfPage": 384,
+   "rawHeading": "AGULLA DE LA PERDUDA",
+   "name": "AGULLA DE LA PERDUDA",
+   "semirRef": null,
+   "confidence": "plain"
+  },
+  {
+   "line": 17610,
+   "pdfPage": 385,
+   "rawHeading": "EL    PROJECTIL -570-",
+   "name": "EL PROJECTIL",
+   "semirRef": "570",
+   "confidence": "dash"
+  },
+  {
+   "line": 17621,
+   "pdfPage": 386,
+   "rawHeading": "AGULLA DESPISTADA (569)",
+   "name": "AGULLA DESPISTADA",
+   "semirRef": "569",
+   "confidence": "paren"
+  },
+  {
+   "line": 17631,
+   "pdfPage": 386,
+   "rawHeading": "EL PROJECTIL (570)",
+   "name": "EL PROJECTIL",
+   "semirRef": "570",
+   "confidence": "paren"
+  },
+  {
+   "line": 17661,
+   "pdfPage": 387,
+   "rawHeading": "AGULLA DE LA MARIA LLUISA",
+   "name": "AGULLA DE LA MARIA LLUISA",
+   "semirRef": null,
+   "confidence": "plain"
+  }
+ ]
+}

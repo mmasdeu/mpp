@@ -27,7 +27,16 @@ for i in range(start, end + 1):
     if re.search(r"[a-zà-ú]", l):
         continue
     m = PAT.match(l.rstrip())
-    if m and len(m.group(1).strip()) >= 4:
+    if not m:
+        # "plain" heading: later regions cite no Semir number. Own line, blank before, prose after.
+        t = re.sub(r"\s+", " ", l.strip())
+        nxt = next((x for x in lines[i:i + 4] if x.strip()), "")
+        if (re.fullmatch(r"[A-ZÀ-Ú«»'’·,.\- ]{6,60}", t) and not lines[i - 2].strip() and re.search(r"[a-zà-ú]{3}", nxt)
+                and not re.match(r"(COTA|SECCI|REGI|NOMENCL|MONTSERRAT|PLANOL|PLÀNOL)", t) and len(l) - len(l.lstrip()) < 30):
+            out.append({"line": i, "pdfPage": line_page[i], "rawHeading": l.strip(), "name": t,
+                        "semirRef": None, "confidence": "plain"})
+        continue
+    if len(m.group(1).strip()) >= 4:
         out.append({"line": i, "pdfPage": line_page[i], "rawHeading": l.strip(),
                     "name": re.sub(r"\s+", " ", m.group(1)).strip(" -–"),
                     "semirRef": m.group(2).strip(),

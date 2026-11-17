@@ -24,21 +24,22 @@ for ri,(name,slug,a,b,pg) in enumerate(REGS,1):
 # page-start of OCR-garbled "191" recorded as "1-91" in the index text; corrected, see docs/editorial-policy.md
 sec_by_page=lambda p: next(s for s in sections if s["bookReference"]["pageStart"]<=p<=s["bookReference"]["pageEnd"])
 needles, unresolved, seen = [], [], {}
-cand=json.load(open(os.path.join(D,"source/original-extraction/agulles-candidates.json")))
+cand=json.load(open(os.path.join(D,"source/original-extraction/all-candidates.json")))
 for c in cand["candidates"]:
-    ref=re.sub(r"\s+","",c["semirRef"])
-    if c["confidence"]!="paren" or ref in seen:
-        unresolved.append({"candidate":c,"reason":"duplicate of earlier entry" if ref in seen else "dash-style heading (map label or secondary reference)"})
+    ref=re.sub(r"\s+","",c["semirRef"]) if c["semirRef"] else None
+    key=ref or re.sub(r"\W+","",c["name"].lower())
+    if c["confidence"]=="dash" or key in seen:
+        unresolved.append({"candidate":c,"reason":"duplicate of earlier entry" if key in seen else "dash-style heading (map label or secondary reference)"})
         continue
     sec=sec_by_page(c["pdfPage"])
-    nid=f"n{len(needles)+1:04d}"; seen[ref]=nid
+    nid=f"n{len(needles)+1:04d}"; seen[key]=nid
     name=re.sub(r"\s+"," ",c["name"]).title().replace(" De "," de ").replace(" Del "," del ").replace(" La "," la ").replace(" El "," el ").replace(" Les "," les ")
     needles.append({"id":nid,"name":name,"alternativeNames":[],"regionId":sec["regionId"],"sectionId":sec["id"],
         "images":[],"bookReferences":[{"page":c["pdfPage"],"type":"description"}],
-        "semirRef":ref,
-        "metadata":{"extractionStatus":"unreviewed","extractionNote":"OCR heading heuristic; name capitalisation and Semir ref unverified"}})
+        **({"semirRef":ref} if ref else {}),
+        "metadata":{"extractionStatus":"unreviewed","extractionNote":"OCR heading heuristic; name capitalisation and Semir ref unverified" if ref else "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"}})
     sec["needleIds"].append(nid)
 for n,f in (("regions",regions),("sections",sections),("needles",needles)):
     json.dump(f,open(os.path.join(D,n+".json"),"w"),ensure_ascii=False,indent=1)
-json.dump(unresolved,open(os.path.join(D,"source/original-extraction/agulles-unresolved.json"),"w"),ensure_ascii=False,indent=1)
+json.dump(unresolved,open(os.path.join(D,"source/original-extraction/unresolved.json"),"w"),ensure_ascii=False,indent=1)
 print(len(regions),"regions",len(sections),"sections",len(needles),"needles",len(unresolved),"unresolved")

@@ -35,3 +35,9 @@ This policy governs how text, names and corrections are handled in the atlas.
 
 - Every change to canonical data goes through the same validation as code (`npm run validate`).
 - Corrections and editorial additions should be reviewed by a second person before merging when possible.
+
+## Extraction status (Sprint 1)
+
+`scripts/extract_region.py` + `scripts/build_data.py` produce 484 *unreviewed* needle candidates for all 35 sections from OCR headings
+("paren" headings cite a Semir plan number; "plain" headings are all-caps lines before prose and may include map labels or non-needle features).
+Candidates rejected or deduplicated are kept in `data/source/original-extraction/unresolved.json`. Nothing is marked reviewed until checked against the book.
