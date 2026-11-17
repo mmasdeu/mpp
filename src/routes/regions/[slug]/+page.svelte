@@ -11,7 +11,7 @@
 {#each sections as s (s.id)}
 	{@const ns = needlesOf(s)}
 	<section>
-		<h2>Secció {s.order}: {s.name} <small>(p. {s.bookReference?.pageStart}–{s.bookReference?.pageEnd})</small></h2>
+		<h2><a href="{base}/sections/{s.id}/">Secció {s.order}: {s.name}</a> <small>(p. {s.bookReference?.pageStart}–{s.bookReference?.pageEnd})</small></h2>
 		{#if ns.length}
 			<ul class="plain">
 				{#each ns as n (n.id)}

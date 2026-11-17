@@ -9,6 +9,7 @@
 	<nav aria-label="Navegació principal">
 		<a href="{base}/">Regions</a>
 		<a href="{base}/map/">Mapa</a>
+		<a href="{base}/search/">Cerca</a>
 	</nav>
 </header>
 <main>{@render children()}</main>

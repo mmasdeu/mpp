@@ -45,3 +45,9 @@ A failure at any stage stops the pipeline.
 - All paths must work under a configurable base path (see [deployment](deployment.md)).
 - No runtime network calls to project services; the only external request is for map tiles.
 - Generated files are reproducible from `data/` alone.
+
+## Pages (Sprint 2)
+`/` regions · `/regions/[slug]/` · `/sections/[id]/` · `/needles/[id]/` · `/search/?q=` · `/map/?needle=&region=&section=&q=&geo=`.
+All are prerendered from the same canonical dataset (raw extraction + review decisions + locations). Map filters, selection and the
+text list share one URL state; markers do not wait for basemap tiles, and ungeolocated needles stay reachable through the list.
+E2E tests: `npm run test:e2e` (Playwright).
