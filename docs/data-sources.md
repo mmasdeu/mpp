@@ -22,3 +22,10 @@ This table lists every external source the project uses or may use. Each entry m
 - **Sample data**: placeholder content must be removed or clearly marked before any public release.
 
 Until these checks are complete, the site must not be deployed publicly.
+
+## Geolocation workflow
+
+Coordinates live in `data/locations.json` (overlay; `needles.json` is never edited). Add them with
+`npx tsx scripts/import-locations.ts <file.csv|gpx> --source "<provenance>" [--accuracy approximate|verified]`.
+Matching is by `needle_id` or exact normalised name; ambiguous or unmatched rows are reported, never guessed.
+Every record needs `source` and `accuracy`. Overpass/OSM could not be fetched automatically (robots policy); provide an export or GPX instead.

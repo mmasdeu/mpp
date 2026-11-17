@@ -1,7 +1,8 @@
+import { applyLocations } from '../src/lib/data/merge';
 import { readFileSync } from 'node:fs';
 import { validate } from '../src/lib/data/validation';
 const rd = (f: string) => JSON.parse(readFileSync(new URL(`../data/${f}.json`, import.meta.url), 'utf8'));
-const issues = validate({ regions: rd('regions'), sections: rd('sections'), needles: rd('needles') });
+const issues = validate(applyLocations({ regions: rd('regions'), sections: rd('sections'), needles: rd('needles') }, rd('locations')));
 const errors = issues.filter((i) => i.level === 'error');
 const warnings = issues.filter((i) => i.level === 'warning');
 for (const e of errors) console.error('ERROR  ', e.message);
