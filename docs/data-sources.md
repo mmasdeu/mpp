@@ -29,3 +29,19 @@ Coordinates live in `data/locations.json` (overlay; `needles.json` is never edit
 `npx tsx scripts/import-locations.ts <file.csv|gpx> --source "<provenance>" [--accuracy approximate|verified]`.
 Matching is by `needle_id` or exact normalised name; ambiguous or unmatched rows are reported, never guessed.
 Every record needs `source` and `accuracy`. Overpass/OSM could not be fetched automatically (robots policy); provide an export or GPX instead.
+
+### Getting coordinates from OpenStreetMap (free, ODbL)
+Automated fetching of Overpass was not possible from the build environment, so export it yourself (one minute):
+1. Open <https://overpass-turbo.eu>, paste, and **Run**:
+   ```
+   [out:json][timeout:60];
+   node["natural"~"peak|rock|stone|cliff"]["name"](41.57,1.75,41.64,1.87);
+   out;
+   ```
+2. **Export → GeoJSON → download**, save as `montserrat-osm.geojson`.
+3. `npx tsx scripts/import-locations.ts montserrat-osm.geojson --source "OpenStreetMap contributors (ODbL)" --report unmatched.csv`
+   – exact normalised-name matches (also via `alt_name` / `name:ca`) are written with the OSM id in the source; the rest go to `unmatched.csv` with fuzzy suggestions.
+4. Open `unmatched.csv`, fill `needle_id` for rows you confirm, then `npx tsx scripts/import-locations.ts unmatched.csv --source "OpenStreetMap contributors (ODbL), manually matched"`.
+5. `npm run validate`, then check a sample on the map. OSM attribution ("© OpenStreetMap contributors") must be kept visible wherever its data is used.
+
+Name matches are *name* matches: OSM names differ from the book's (and several rocks share a name), so spot-check, and mark positions `approximate` unless verified in the field.

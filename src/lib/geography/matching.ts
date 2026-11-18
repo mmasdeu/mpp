@@ -29,3 +29,34 @@ export function parseCsv(text: string) {
 		return { needleId: g('needle_id') || undefined, name: g('name') || undefined, latitude: +g('latitude'), longitude: +g('longitude'), elevation: g('elevation') ? +g('elevation') : undefined };
 	});
 }
+
+export interface GeoFeature { name: string; altNames: string[]; latitude: number; longitude: number; elevation?: number; osmId?: string }
+/** GeoJSON FeatureCollection of Points (e.g. an Overpass Turbo export). Reads name, alt_name (;-separated), name:ca, ele, @id. */
+export function parseGeoJson(text: string): GeoFeature[] {
+	const out: GeoFeature[] = [];
+	for (const f of JSON.parse(text).features ?? []) {
+		if (f.geometry?.type !== 'Point') continue;
+		const p = f.properties ?? {};
+		const name = p.name ?? p['name:ca'];
+		if (!name) continue;
+		const [lon, lat] = f.geometry.coordinates;
+		const alts = [p['name:ca'], ...(p.alt_name ?? '').split(';'), ...(p.old_name ?? '').split(';')].map((x: string) => x?.trim()).filter((x: string) => x && x !== name);
+		const ele = parseFloat(p.ele);
+		out.push({ name, altNames: [...new Set<string>(alts)], latitude: lat, longitude: lon, elevation: Number.isFinite(ele) ? ele : undefined, osmId: p['@id'] ?? (typeof f.id === 'string' ? f.id : undefined) });
+	}
+	return out;
+}
+
+/** Near matches for human review (never applied automatically): token-set Jaccard similarity on normalised names. */
+export function suggest(name: string, needles: Candidate[], n = 3, min = 0.5): { id: string; name: string; score: number }[] {
+	const a = new Set(nameKey(name).split(' ').filter(Boolean));
+	if (!a.size) return [];
+	return needles.map((x) => {
+		const b = new Set(nameKey(x.name).split(' ').filter(Boolean));
+		const inter = [...a].filter((t) => b.has(t)).length;
+		const jaccard = inter / (a.size + b.size - inter);
+		// A multi-word query fully contained in a longer name ("Agulla Foradada" ⊂ "Agulla de la Foradada o dels Apòstols") is a plausible match too.
+		const contain = a.size >= 2 && b.size >= a.size ? (0.8 * inter) / a.size : 0;
+		return { id: x.id, name: x.name, score: Math.round(100 * Math.max(jaccard, contain)) / 100 };
+	}).filter((x) => x.score >= min).sort((x, y) => y.score - x.score).slice(0, n);
+}

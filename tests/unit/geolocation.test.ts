@@ -35,3 +35,19 @@ describe('applyLocations + validation', () => {
 		expect(validate(m).filter((i) => i.level === 'error')).toEqual([]);
 	});
 });
+
+import { parseGeoJson, suggest } from '../../src/lib/geography/matching';
+describe('GeoJSON import', () => {
+	const fc = JSON.stringify({ type: 'FeatureCollection', features: [
+		{ type: 'Feature', id: 'node/1', properties: { '@id': 'node/1', name: 'La Cadireta', alt_name: 'Roca del Centellar;Altra', ele: '905' }, geometry: { type: 'Point', coordinates: [1.81, 41.6] } },
+		{ type: 'Feature', properties: { name: 'Camí' }, geometry: { type: 'LineString', coordinates: [[1, 1], [2, 2]] } },
+		{ type: 'Feature', properties: {}, geometry: { type: 'Point', coordinates: [1.8, 41.6] } }] });
+	it('keeps named points only, with alt names, elevation and OSM id', () => {
+		expect(parseGeoJson(fc)).toEqual([{ name: 'La Cadireta', altNames: ['Roca del Centellar', 'Altra'], latitude: 41.6, longitude: 1.81, elevation: 905, osmId: 'node/1' }]);
+	});
+	it('suggests near matches without applying them', () => {
+		const s = suggest('Agulla Foradada', [{ id: 'n1', name: 'Agulla de la Foradada' }, { id: 'n2', name: 'Agulla Pelada' }]);
+		expect(s[0]).toMatchObject({ id: 'n1', score: 1 });
+		expect(s.some((x) => x.id === 'n2')).toBe(false);
+	});
+});
