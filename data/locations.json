@@ -1,1 +1,1982 @@
-[]
+[
+ {
+  "needleId": "n0001",
+  "latitude": 41.6075517,
+  "longitude": 1.7737448,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/14360188655]",
+  "matchedBy": "id",
+  "note": "node/14360188655"
+ },
+ {
+  "needleId": "n0005",
+  "latitude": 41.6066578,
+  "longitude": 1.7805707,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14360188658]",
+  "matchedBy": "name",
+  "note": "node/14360188658"
+ },
+ {
+  "needleId": "n0008",
+  "latitude": 41.6054132,
+  "longitude": 1.7807395,
+  "elevation": 933.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223215]",
+  "matchedBy": "name",
+  "note": "node/1928223215"
+ },
+ {
+  "needleId": "n0009",
+  "latitude": 41.6043305,
+  "longitude": 1.7803086,
+  "elevation": 896,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783426446]",
+  "matchedBy": "name",
+  "note": "node/2783426446"
+ },
+ {
+  "needleId": "n0010",
+  "latitude": 41.6037365,
+  "longitude": 1.7810072,
+  "elevation": 870.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783426450]",
+  "matchedBy": "name",
+  "note": "node/2783426450"
+ },
+ {
+  "needleId": "n0011",
+  "latitude": 41.604586,
+  "longitude": 1.7805848,
+  "elevation": 896.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223212]",
+  "matchedBy": "name",
+  "note": "node/1928223212"
+ },
+ {
+  "needleId": "n0012",
+  "latitude": 41.6044342,
+  "longitude": 1.7804911,
+  "elevation": 898,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783395400]",
+  "matchedBy": "name",
+  "note": "node/2783395400"
+ },
+ {
+  "needleId": "n0013",
+  "latitude": 41.6042567,
+  "longitude": 1.7807777,
+  "elevation": 872.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783395399]",
+  "matchedBy": "name",
+  "note": "node/2783395399"
+ },
+ {
+  "needleId": "n0014",
+  "latitude": 41.6040342,
+  "longitude": 1.7810695,
+  "elevation": 879.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783426449]",
+  "matchedBy": "name",
+  "note": "node/2783426449"
+ },
+ {
+  "needleId": "n0015",
+  "latitude": 41.601307,
+  "longitude": 1.781737,
+  "elevation": 785,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928273129]",
+  "matchedBy": "id",
+  "note": "node/1928273129"
+ },
+ {
+  "needleId": "n0017",
+  "latitude": 41.6001741,
+  "longitude": 1.7822546,
+  "elevation": 795,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928273125]",
+  "matchedBy": "name",
+  "note": "node/1928273125"
+ },
+ {
+  "needleId": "n0018",
+  "latitude": 41.5990327,
+  "longitude": 1.782622,
+  "elevation": 795.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928273121]",
+  "matchedBy": "name",
+  "note": "node/1928273121"
+ },
+ {
+  "needleId": "n0019",
+  "latitude": 41.5987206,
+  "longitude": 1.7826629,
+  "elevation": 785.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10815302817]",
+  "matchedBy": "name",
+  "note": "node/10815302817"
+ },
+ {
+  "needleId": "n0020",
+  "latitude": 41.5984394,
+  "longitude": 1.7826122,
+  "elevation": 770.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10815302818]",
+  "matchedBy": "name",
+  "note": "node/10815302818"
+ },
+ {
+  "needleId": "n0022",
+  "latitude": 41.5971529,
+  "longitude": 1.7825734,
+  "elevation": 693.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2784027018]",
+  "matchedBy": "name",
+  "note": "node/2784027018"
+ },
+ {
+  "needleId": "n0027",
+  "latitude": 41.6073335,
+  "longitude": 1.7830634,
+  "elevation": 939.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783366028]",
+  "matchedBy": "name",
+  "note": "node/2783366028"
+ },
+ {
+  "needleId": "n0028",
+  "latitude": 41.6075939,
+  "longitude": 1.7830627,
+  "elevation": 954.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783371219]",
+  "matchedBy": "name",
+  "note": "node/2783371219"
+ },
+ {
+  "needleId": "n0029",
+  "latitude": 41.6063191,
+  "longitude": 1.7806417,
+  "elevation": 928.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741242]",
+  "matchedBy": "name",
+  "note": "node/1928741242"
+ },
+ {
+  "needleId": "n0030",
+  "latitude": 41.6069885,
+  "longitude": 1.7808285,
+  "elevation": 948.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783395397]",
+  "matchedBy": "name",
+  "note": "node/2783395397"
+ },
+ {
+  "needleId": "n0032",
+  "latitude": 41.6077258,
+  "longitude": 1.7813878,
+  "elevation": 971.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741252]",
+  "matchedBy": "name",
+  "note": "node/1928741252"
+ },
+ {
+  "needleId": "n0035",
+  "latitude": 41.6077485,
+  "longitude": 1.7820813,
+  "elevation": 982.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783390570]",
+  "matchedBy": "name",
+  "note": "node/2783390570"
+ },
+ {
+  "needleId": "n0037",
+  "latitude": 41.6077717,
+  "longitude": 1.7826057,
+  "elevation": 999.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741251]",
+  "matchedBy": "name",
+  "note": "node/1928741251"
+ },
+ {
+  "needleId": "n0040",
+  "latitude": 41.6080617,
+  "longitude": 1.7819554,
+  "elevation": 1009.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741253]",
+  "matchedBy": "name",
+  "note": "node/1928741253"
+ },
+ {
+  "needleId": "n0044",
+  "latitude": 41.6090426,
+  "longitude": 1.7819758,
+  "elevation": 1039.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783405255]",
+  "matchedBy": "name",
+  "note": "node/2783405255"
+ },
+ {
+  "needleId": "n0046",
+  "latitude": 41.6091264,
+  "longitude": 1.7825474,
+  "elevation": 1032.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928741262]",
+  "matchedBy": "id",
+  "note": "node/1928741262"
+ },
+ {
+  "needleId": "n0052",
+  "latitude": 41.608851,
+  "longitude": 1.7832176,
+  "elevation": 999.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741260]",
+  "matchedBy": "name",
+  "note": "node/1928741260"
+ },
+ {
+  "needleId": "n0054",
+  "latitude": 41.6097399,
+  "longitude": 1.7841042,
+  "elevation": 1069.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/3822950685]",
+  "matchedBy": "name",
+  "note": "node/3822950685"
+ },
+ {
+  "needleId": "n0057",
+  "latitude": 41.6098072,
+  "longitude": 1.7843881,
+  "elevation": 1065.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928184948]",
+  "matchedBy": "name",
+  "note": "node/1928184948"
+ },
+ {
+  "needleId": "n0058",
+  "latitude": 41.609022,
+  "longitude": 1.7836957,
+  "elevation": 1054.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741263]",
+  "matchedBy": "name",
+  "note": "node/1928741263"
+ },
+ {
+  "needleId": "n0059",
+  "latitude": 41.6090314,
+  "longitude": 1.7840757,
+  "elevation": 1054.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928184951]",
+  "matchedBy": "name",
+  "note": "node/1928184951"
+ },
+ {
+  "needleId": "n0060",
+  "latitude": 41.6091108,
+  "longitude": 1.7843514,
+  "elevation": 1053,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928184950]",
+  "matchedBy": "name",
+  "note": "node/1928184950"
+ },
+ {
+  "needleId": "n0063",
+  "latitude": 41.608751,
+  "longitude": 1.7843598,
+  "elevation": 1008.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783347251]",
+  "matchedBy": "name",
+  "note": "node/2783347251"
+ },
+ {
+  "needleId": "n0064",
+  "latitude": 41.6077605,
+  "longitude": 1.7840897,
+  "elevation": 947.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783426444]",
+  "matchedBy": "name",
+  "note": "node/2783426444"
+ },
+ {
+  "needleId": "n0065",
+  "latitude": 41.6066883,
+  "longitude": 1.7849821,
+  "elevation": 936.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741247]",
+  "matchedBy": "name",
+  "note": "node/1928741247"
+ },
+ {
+  "needleId": "n0066",
+  "latitude": 41.6082972,
+  "longitude": 1.7852344,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955426115]",
+  "matchedBy": "name",
+  "note": "node/13955426115"
+ },
+ {
+  "needleId": "n0067",
+  "latitude": 41.6085899,
+  "longitude": 1.7852501,
+  "elevation": 1037.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928184984]",
+  "matchedBy": "name",
+  "note": "node/1928184984"
+ },
+ {
+  "needleId": "n0068",
+  "latitude": 41.6092321,
+  "longitude": 1.7848323,
+  "elevation": 1021.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741270]",
+  "matchedBy": "name",
+  "note": "node/1928741270"
+ },
+ {
+  "needleId": "n0069",
+  "latitude": 41.6091263,
+  "longitude": 1.7853848,
+  "elevation": 1033.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741267]",
+  "matchedBy": "name",
+  "note": "node/1928741267"
+ },
+ {
+  "needleId": "n0070",
+  "latitude": 41.6094221,
+  "longitude": 1.7854097,
+  "elevation": 1041.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928741273]",
+  "matchedBy": "id",
+  "note": "node/1928741273"
+ },
+ {
+  "needleId": "n0071",
+  "latitude": 41.6101374,
+  "longitude": 1.7852645,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402966]",
+  "matchedBy": "name",
+  "note": "node/13955402966"
+ },
+ {
+  "needleId": "n0073",
+  "latitude": 41.6100733,
+  "longitude": 1.7855151,
+  "elevation": 1084,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783417400]",
+  "matchedBy": "name",
+  "note": "node/2783417400"
+ },
+ {
+  "needleId": "n0074",
+  "latitude": 41.6102988,
+  "longitude": 1.7858982,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402965]",
+  "matchedBy": "name",
+  "note": "node/13955402965"
+ },
+ {
+  "needleId": "n0075",
+  "latitude": 41.6073691,
+  "longitude": 1.7859466,
+  "elevation": 953.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741249]",
+  "matchedBy": "name",
+  "note": "node/1928741249"
+ },
+ {
+  "needleId": "n0076",
+  "latitude": 41.6080986,
+  "longitude": 1.7861916,
+  "elevation": 997.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783347250]",
+  "matchedBy": "name",
+  "note": "node/2783347250"
+ },
+ {
+  "needleId": "n0077",
+  "latitude": 41.6083234,
+  "longitude": 1.7861785,
+  "elevation": 1014.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741256]",
+  "matchedBy": "name",
+  "note": "node/1928741256"
+ },
+ {
+  "needleId": "n0078",
+  "latitude": 41.60932,
+  "longitude": 1.7864387,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955426114]",
+  "matchedBy": "name",
+  "note": "node/13955426114"
+ },
+ {
+  "needleId": "n0081",
+  "latitude": 41.6105163,
+  "longitude": 1.7869327,
+  "elevation": 1098,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2784067932]",
+  "matchedBy": "name",
+  "note": "node/2784067932"
+ },
+ {
+  "needleId": "n0082",
+  "latitude": 41.6106618,
+  "longitude": 1.7868584,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402964]",
+  "matchedBy": "name",
+  "note": "node/13955402964"
+ },
+ {
+  "needleId": "n0083",
+  "latitude": 41.6103056,
+  "longitude": 1.7865735,
+  "elevation": 1083.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/8857706125]",
+  "matchedBy": "name",
+  "note": "node/8857706125"
+ },
+ {
+  "needleId": "n0084",
+  "latitude": 41.6100419,
+  "longitude": 1.7864244,
+  "elevation": 1083.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741278]",
+  "matchedBy": "name",
+  "note": "node/1928741278"
+ },
+ {
+  "needleId": "n0088",
+  "latitude": 41.6109967,
+  "longitude": 1.7873198,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402962]",
+  "matchedBy": "name",
+  "note": "node/13955402962"
+ },
+ {
+  "needleId": "n0089",
+  "latitude": 41.611494,
+  "longitude": 1.7872286,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402960]",
+  "matchedBy": "name",
+  "note": "node/13955402960"
+ },
+ {
+  "needleId": "n0091",
+  "latitude": 41.6126502,
+  "longitude": 1.7864625,
+  "elevation": 898.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223208]",
+  "matchedBy": "name",
+  "note": "node/1928223208"
+ },
+ {
+  "needleId": "n0094",
+  "latitude": 41.6106796,
+  "longitude": 1.7885823,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343215]",
+  "matchedBy": "name",
+  "note": "node/13924343215"
+ },
+ {
+  "needleId": "n0095",
+  "latitude": 41.6105733,
+  "longitude": 1.7884455,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343214]",
+  "matchedBy": "name",
+  "note": "node/13924343214"
+ },
+ {
+  "needleId": "n0096",
+  "latitude": 41.6104884,
+  "longitude": 1.7887782,
+  "elevation": 1061,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741287]",
+  "matchedBy": "name",
+  "note": "node/1928741287"
+ },
+ {
+  "needleId": "n0097",
+  "latitude": 41.6104417,
+  "longitude": 1.7889739,
+  "elevation": 1059.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741286]",
+  "matchedBy": "name",
+  "note": "node/1928741286"
+ },
+ {
+  "needleId": "n0099",
+  "latitude": 41.6107531,
+  "longitude": 1.7893392,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343216]",
+  "matchedBy": "name",
+  "note": "node/13924343216"
+ },
+ {
+  "needleId": "n0103",
+  "latitude": 41.6098112,
+  "longitude": 1.7901431,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343221]",
+  "matchedBy": "name",
+  "note": "node/13924343221"
+ },
+ {
+  "needleId": "n0105",
+  "latitude": 41.6106191,
+  "longitude": 1.7906473,
+  "elevation": 1103.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741291]",
+  "matchedBy": "name",
+  "note": "node/1928741291"
+ },
+ {
+  "needleId": "n0106",
+  "latitude": 41.6106829,
+  "longitude": 1.7909459,
+  "elevation": 1076.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741292]",
+  "matchedBy": "name",
+  "note": "node/1928741292"
+ },
+ {
+  "needleId": "n0109",
+  "latitude": 41.6104915,
+  "longitude": 1.7912231,
+  "elevation": 1032,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741288]",
+  "matchedBy": "name",
+  "note": "node/1928741288"
+ },
+ {
+  "needleId": "n0111",
+  "latitude": 41.6096331,
+  "longitude": 1.790043,
+  "elevation": 1089,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741274]",
+  "matchedBy": "name",
+  "note": "node/1928741274"
+ },
+ {
+  "needleId": "n0112",
+  "latitude": 41.6087469,
+  "longitude": 1.7902501,
+  "elevation": 1043.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602076]",
+  "matchedBy": "name",
+  "note": "node/6866602076"
+ },
+ {
+  "needleId": "n0115",
+  "latitude": 41.6057489,
+  "longitude": 1.7876543,
+  "elevation": 969.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580435582]",
+  "matchedBy": "name",
+  "note": "node/10580435582"
+ },
+ {
+  "needleId": "n0116",
+  "latitude": 41.6073429,
+  "longitude": 1.7876962,
+  "elevation": 1002.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10731717698]",
+  "matchedBy": "name",
+  "note": "node/10731717698"
+ },
+ {
+  "needleId": "n0117",
+  "latitude": 41.6086532,
+  "longitude": 1.788876,
+  "elevation": 1044.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602071]",
+  "matchedBy": "name",
+  "note": "node/6866602071"
+ },
+ {
+  "needleId": "n0118",
+  "latitude": 41.609176,
+  "longitude": 1.7890519,
+  "elevation": 1055.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602073]",
+  "matchedBy": "name",
+  "note": "node/6866602073"
+ },
+ {
+  "needleId": "n0119",
+  "latitude": 41.6094674,
+  "longitude": 1.7894839,
+  "elevation": 1049.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602072]",
+  "matchedBy": "name",
+  "note": "node/6866602072"
+ },
+ {
+  "needleId": "n0120",
+  "latitude": 41.6091188,
+  "longitude": 1.7886133,
+  "elevation": 1038,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602074]",
+  "matchedBy": "name",
+  "note": "node/6866602074"
+ },
+ {
+  "needleId": "n0121",
+  "latitude": 41.611002,
+  "longitude": 1.7922467,
+  "elevation": 1124.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223216]",
+  "matchedBy": "name",
+  "note": "node/1928223216"
+ },
+ {
+  "needleId": "n0123",
+  "latitude": 41.6103532,
+  "longitude": 1.7921645,
+  "elevation": 1114.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223214]",
+  "matchedBy": "name",
+  "note": "node/1928223214"
+ },
+ {
+  "needleId": "n0124",
+  "latitude": 41.6105469,
+  "longitude": 1.7926461,
+  "elevation": 1128,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741293]",
+  "matchedBy": "name",
+  "note": "node/1928741293"
+ },
+ {
+  "needleId": "n0127",
+  "latitude": 41.6091638,
+  "longitude": 1.7923958,
+  "elevation": 1059.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741268]",
+  "matchedBy": "name",
+  "note": "node/1928741268"
+ },
+ {
+  "needleId": "n0130",
+  "latitude": 41.6090951,
+  "longitude": 1.7931571,
+  "elevation": 1068.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741264]",
+  "matchedBy": "name",
+  "note": "node/1928741264"
+ },
+ {
+  "needleId": "n0132",
+  "latitude": 41.6105302,
+  "longitude": 1.7930259,
+  "elevation": 1105.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741289]",
+  "matchedBy": "name",
+  "note": "node/1928741289"
+ },
+ {
+  "needleId": "n0138",
+  "latitude": 41.6091647,
+  "longitude": 1.7943153,
+  "elevation": 1126.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928223213]",
+  "matchedBy": "name",
+  "note": "node/1928223213"
+ },
+ {
+  "needleId": "n0144",
+  "latitude": 41.6067473,
+  "longitude": 1.7933623,
+  "elevation": 1034.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6884593560]",
+  "matchedBy": "name",
+  "note": "node/6884593560"
+ },
+ {
+  "needleId": "n0148",
+  "latitude": 41.6055122,
+  "longitude": 1.7931288,
+  "elevation": 988.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741239]",
+  "matchedBy": "name",
+  "note": "node/1928741239"
+ },
+ {
+  "needleId": "n0149",
+  "latitude": 41.6049078,
+  "longitude": 1.7927941,
+  "elevation": 992.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2280488892]",
+  "matchedBy": "name",
+  "note": "node/2280488892"
+ },
+ {
+  "needleId": "n0151",
+  "latitude": 41.6038204,
+  "longitude": 1.78515,
+  "elevation": 911,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/3439479364]",
+  "matchedBy": "name",
+  "note": "node/3439479364"
+ },
+ {
+  "needleId": "n0154",
+  "latitude": 41.5999189,
+  "longitude": 1.7872582,
+  "elevation": 802,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866614567]",
+  "matchedBy": "name",
+  "note": "node/6866614567"
+ },
+ {
+  "needleId": "n0155",
+  "latitude": 41.6091003,
+  "longitude": 1.7967514,
+  "elevation": 1042.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741265]",
+  "matchedBy": "name",
+  "note": "node/1928741265"
+ },
+ {
+  "needleId": "n0156",
+  "latitude": 41.6092624,
+  "longitude": 1.7972322,
+  "elevation": 1026.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741271]",
+  "matchedBy": "name",
+  "note": "node/1928741271"
+ },
+ {
+  "needleId": "n0157",
+  "latitude": 41.6091825,
+  "longitude": 1.7980735,
+  "elevation": 1016,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741269]",
+  "matchedBy": "name",
+  "note": "node/1928741269"
+ },
+ {
+  "needleId": "n0158",
+  "latitude": 41.6077127,
+  "longitude": 1.8010156,
+  "elevation": 1088.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928763664]",
+  "matchedBy": "name",
+  "note": "node/1928763664"
+ },
+ {
+  "needleId": "n0159",
+  "latitude": 41.6069412,
+  "longitude": 1.8029761,
+  "elevation": 1178.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928226082]",
+  "matchedBy": "name",
+  "note": "node/1928226082"
+ },
+ {
+  "needleId": "n0160",
+  "latitude": 41.6064138,
+  "longitude": 1.8029373,
+  "elevation": 1189.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741243]",
+  "matchedBy": "name",
+  "note": "node/1928741243"
+ },
+ {
+  "needleId": "n0161",
+  "latitude": 41.606278,
+  "longitude": 1.8028919,
+  "elevation": 1178.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658693]",
+  "matchedBy": "name",
+  "note": "node/11058658693"
+ },
+ {
+  "needleId": "n0162",
+  "latitude": 41.6048571,
+  "longitude": 1.8029536,
+  "elevation": 1169.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1927329851]",
+  "matchedBy": "name",
+  "note": "node/1927329851"
+ },
+ {
+  "needleId": "n0163",
+  "latitude": 41.6041941,
+  "longitude": 1.8025334,
+  "elevation": 1103.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/3439489367]",
+  "matchedBy": "name",
+  "note": "node/3439489367"
+ },
+ {
+  "needleId": "n0164",
+  "latitude": 41.603532,
+  "longitude": 1.803531,
+  "elevation": 1057.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/3439489310]",
+  "matchedBy": "id",
+  "note": "node/3439489310"
+ },
+ {
+  "needleId": "n0165",
+  "latitude": 41.6047833,
+  "longitude": 1.7997767,
+  "elevation": 1073.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741235]",
+  "matchedBy": "name",
+  "note": "node/1928741235"
+ },
+ {
+  "needleId": "n0166",
+  "latitude": 41.6031102,
+  "longitude": 1.8018606,
+  "elevation": 1100.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928741228]",
+  "matchedBy": "id",
+  "note": "node/1928741228"
+ },
+ {
+  "needleId": "n0167",
+  "latitude": 41.6028878,
+  "longitude": 1.8014995,
+  "elevation": 1089.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741226]",
+  "matchedBy": "name",
+  "note": "node/1928741226"
+ },
+ {
+  "needleId": "n0168",
+  "latitude": 41.6020497,
+  "longitude": 1.8021175,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/14353478975]",
+  "matchedBy": "id",
+  "note": "node/14353478975"
+ },
+ {
+  "needleId": "n0169",
+  "latitude": 41.6029743,
+  "longitude": 1.8009734,
+  "elevation": 1036.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/3439479376]",
+  "matchedBy": "id",
+  "note": "node/3439479376"
+ },
+ {
+  "needleId": "n0171",
+  "latitude": 41.6008459,
+  "longitude": 1.8009438,
+  "elevation": 920.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11391981724]",
+  "matchedBy": "name",
+  "note": "node/11391981724"
+ },
+ {
+  "needleId": "n0172",
+  "latitude": 41.6027644,
+  "longitude": 1.8004064,
+  "elevation": 1056.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594665718]",
+  "matchedBy": "name",
+  "note": "node/10594665718"
+ },
+ {
+  "needleId": "n0173",
+  "latitude": 41.6042668,
+  "longitude": 1.7968796,
+  "elevation": 971.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10656487118]",
+  "matchedBy": "name",
+  "note": "node/10656487118"
+ },
+ {
+  "needleId": "n0174",
+  "latitude": 41.6041673,
+  "longitude": 1.7951205,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13825944733]",
+  "matchedBy": "name",
+  "note": "node/13825944733"
+ },
+ {
+  "needleId": "n0177",
+  "latitude": 41.6021526,
+  "longitude": 1.7938635,
+  "elevation": 867.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826559]",
+  "matchedBy": "name",
+  "note": "node/10712826559"
+ },
+ {
+  "needleId": "n0178",
+  "latitude": 41.601791,
+  "longitude": 1.7940544,
+  "elevation": 897.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826561]",
+  "matchedBy": "name",
+  "note": "node/10712826561"
+ },
+ {
+  "needleId": "n0179",
+  "latitude": 41.6012683,
+  "longitude": 1.7935858,
+  "elevation": 896.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826562]",
+  "matchedBy": "name",
+  "note": "node/10712826562"
+ },
+ {
+  "needleId": "n0183",
+  "latitude": 41.5987184,
+  "longitude": 1.7924578,
+  "elevation": 884.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826554]",
+  "matchedBy": "name",
+  "note": "node/10712826554"
+ },
+ {
+  "needleId": "n0184",
+  "latitude": 41.5985115,
+  "longitude": 1.7923426,
+  "elevation": 874.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826555]",
+  "matchedBy": "name",
+  "note": "node/10712826555"
+ },
+ {
+  "needleId": "n0185",
+  "latitude": 41.5979266,
+  "longitude": 1.7917521,
+  "elevation": 841.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/3452073436]",
+  "matchedBy": "name",
+  "note": "node/3452073436"
+ },
+ {
+  "needleId": "n0189",
+  "latitude": 41.5981368,
+  "longitude": 1.7929955,
+  "elevation": 858.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580409822]",
+  "matchedBy": "name",
+  "note": "node/10580409822"
+ },
+ {
+  "needleId": "n0190",
+  "latitude": 41.5974563,
+  "longitude": 1.794242,
+  "elevation": 765,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580388999]",
+  "matchedBy": "name",
+  "note": "node/10580388999"
+ },
+ {
+  "needleId": "n0194",
+  "latitude": 41.589087,
+  "longitude": 1.7958995,
+  "elevation": 578.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10656398970]",
+  "matchedBy": "name",
+  "note": "node/10656398970"
+ },
+ {
+  "needleId": "n0197",
+  "latitude": 41.5930795,
+  "longitude": 1.7955409,
+  "elevation": 687,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10652368526]",
+  "matchedBy": "name",
+  "note": "node/10652368526"
+ },
+ {
+  "needleId": "n0199",
+  "latitude": 41.5964299,
+  "longitude": 1.7974992,
+  "elevation": 822.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594632538]",
+  "matchedBy": "name",
+  "note": "node/10594632538"
+ },
+ {
+  "needleId": "n0200",
+  "latitude": 41.5970428,
+  "longitude": 1.7976699,
+  "elevation": 888.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594632539]",
+  "matchedBy": "name",
+  "note": "node/10594632539"
+ },
+ {
+  "needleId": "n0203",
+  "latitude": 41.5930106,
+  "longitude": 1.8017014,
+  "elevation": 786.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141659]",
+  "matchedBy": "name",
+  "note": "node/2470141659"
+ },
+ {
+  "needleId": "n0205",
+  "latitude": 41.5965339,
+  "longitude": 1.7983591,
+  "elevation": 871.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594632537]",
+  "matchedBy": "name",
+  "note": "node/10594632537"
+ },
+ {
+  "needleId": "n0207",
+  "latitude": 41.5978118,
+  "longitude": 1.7996999,
+  "elevation": 959.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580472787]",
+  "matchedBy": "name",
+  "note": "node/10580472787"
+ },
+ {
+  "needleId": "n0208",
+  "latitude": 41.5981742,
+  "longitude": 1.7999327,
+  "elevation": 986.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141651]",
+  "matchedBy": "name",
+  "note": "node/2470141651"
+ },
+ {
+  "needleId": "n0211",
+  "latitude": 41.6000095,
+  "longitude": 1.8039193,
+  "elevation": 1102,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594698053]",
+  "matchedBy": "name",
+  "note": "node/10594698053"
+ },
+ {
+  "needleId": "n0212",
+  "latitude": 41.6002923,
+  "longitude": 1.8042768,
+  "elevation": 1114.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594632536]",
+  "matchedBy": "name",
+  "note": "node/10594632536"
+ },
+ {
+  "needleId": "n0221",
+  "latitude": 41.6021302,
+  "longitude": 1.8066255,
+  "elevation": 1135.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741224]",
+  "matchedBy": "name",
+  "note": "node/1928741224"
+ },
+ {
+  "needleId": "n0223",
+  "latitude": 41.6024519,
+  "longitude": 1.8053941,
+  "elevation": 1157.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13810834402]",
+  "matchedBy": "name",
+  "note": "node/13810834402"
+ },
+ {
+  "needleId": "n0224",
+  "latitude": 41.602763,
+  "longitude": 1.8055555,
+  "elevation": 1180.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13810834403]",
+  "matchedBy": "name",
+  "note": "node/13810834403"
+ },
+ {
+  "needleId": "n0225",
+  "latitude": 41.6057064,
+  "longitude": 1.8052735,
+  "elevation": 1209,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928226081]",
+  "matchedBy": "name",
+  "note": "node/1928226081"
+ },
+ {
+  "needleId": "n0227",
+  "latitude": 41.6066189,
+  "longitude": 1.8046046,
+  "elevation": 1187,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741245]",
+  "matchedBy": "name",
+  "note": "node/1928741245"
+ },
+ {
+  "needleId": "n0229",
+  "latitude": 41.604493,
+  "longitude": 1.8053455,
+  "elevation": 1173.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658704]",
+  "matchedBy": "name",
+  "note": "node/11058658704"
+ },
+ {
+  "needleId": "n0230",
+  "latitude": 41.6049851,
+  "longitude": 1.8066839,
+  "elevation": 1223.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741237]",
+  "matchedBy": "name",
+  "note": "node/1928741237"
+ },
+ {
+  "needleId": "n0232",
+  "latitude": 41.6051408,
+  "longitude": 1.8067409,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658697]",
+  "matchedBy": "name",
+  "note": "node/11058658697"
+ },
+ {
+  "needleId": "n0234",
+  "latitude": 41.6049738,
+  "longitude": 1.8071262,
+  "elevation": 1189.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741236]",
+  "matchedBy": "name",
+  "note": "node/1928741236"
+ },
+ {
+  "needleId": "n0246",
+  "latitude": 41.6032287,
+  "longitude": 1.8107152,
+  "elevation": 1174.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741229]",
+  "matchedBy": "name",
+  "note": "node/1928741229"
+ },
+ {
+  "needleId": "n0247",
+  "latitude": 41.6032973,
+  "longitude": 1.8111978,
+  "elevation": 1161.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10913950294]",
+  "matchedBy": "name",
+  "note": "node/10913950294"
+ },
+ {
+  "needleId": "n0249",
+  "latitude": 41.6032677,
+  "longitude": 1.8118577,
+  "elevation": 1173.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11879141549]",
+  "matchedBy": "name",
+  "note": "node/11879141549"
+ },
+ {
+  "needleId": "n0254",
+  "latitude": 41.5994346,
+  "longitude": 1.8105734,
+  "elevation": 1093,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11305488674]",
+  "matchedBy": "name",
+  "note": "node/11305488674"
+ },
+ {
+  "needleId": "n0257",
+  "latitude": 41.6012361,
+  "longitude": 1.8100946,
+  "elevation": 1027.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14058555049]",
+  "matchedBy": "name",
+  "note": "node/14058555049"
+ },
+ {
+  "needleId": "n0267",
+  "latitude": 41.6067062,
+  "longitude": 1.8139116,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14133488314]",
+  "matchedBy": "name",
+  "note": "node/14133488314"
+ },
+ {
+  "needleId": "n0275",
+  "latitude": 41.6011936,
+  "longitude": 1.8179745,
+  "elevation": 1111.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741221]",
+  "matchedBy": "name",
+  "note": "node/1928741221"
+ },
+ {
+  "needleId": "n0278",
+  "latitude": 41.6005892,
+  "longitude": 1.8194447,
+  "elevation": 1140,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928240085]",
+  "matchedBy": "id",
+  "note": "node/1928240085"
+ },
+ {
+  "needleId": "n0279",
+  "latitude": 41.6015321,
+  "longitude": 1.820433,
+  "elevation": 1137.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825853]",
+  "matchedBy": "name",
+  "note": "node/1882825853"
+ },
+ {
+  "needleId": "n0282",
+  "latitude": 41.6009561,
+  "longitude": 1.820985,
+  "elevation": 1092.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10924076670]",
+  "matchedBy": "name",
+  "note": "node/10924076670"
+ },
+ {
+  "needleId": "n0283",
+  "latitude": 41.6002925,
+  "longitude": 1.8208011,
+  "elevation": 1065.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11361458852]",
+  "matchedBy": "name",
+  "note": "node/11361458852"
+ },
+ {
+  "needleId": "n0286",
+  "latitude": 41.5998025,
+  "longitude": 1.8134909,
+  "elevation": 1085.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13236375272]",
+  "matchedBy": "name",
+  "note": "node/13236375272"
+ },
+ {
+  "needleId": "n0289",
+  "latitude": 41.5995059,
+  "longitude": 1.8180479,
+  "elevation": 1066,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/8445102952]",
+  "matchedBy": "name",
+  "note": "node/8445102952"
+ },
+ {
+  "needleId": "n0292",
+  "latitude": 41.587731,
+  "longitude": 1.811298,
+  "elevation": 738.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141661]",
+  "matchedBy": "name",
+  "note": "node/2470141661"
+ },
+ {
+  "needleId": "n0303",
+  "latitude": 41.593143,
+  "longitude": 1.804285,
+  "elevation": 861.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11203194884]",
+  "matchedBy": "name",
+  "note": "node/11203194884"
+ },
+ {
+  "needleId": "n0304",
+  "latitude": 41.5929023,
+  "longitude": 1.8039006,
+  "elevation": 862.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10613023906]",
+  "matchedBy": "name",
+  "note": "node/10613023906"
+ },
+ {
+  "needleId": "n0305",
+  "latitude": 41.5930768,
+  "longitude": 1.8031314,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14360188657]",
+  "matchedBy": "name",
+  "note": "node/14360188657"
+ },
+ {
+  "needleId": "n0306",
+  "latitude": 41.5931033,
+  "longitude": 1.8029332,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14360188656]",
+  "matchedBy": "name",
+  "note": "node/14360188656"
+ },
+ {
+  "needleId": "n0309",
+  "latitude": 41.5981439,
+  "longitude": 1.8088294,
+  "elevation": 975.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10914324430]",
+  "matchedBy": "name",
+  "note": "node/10914324430"
+ },
+ {
+  "needleId": "n0312",
+  "latitude": 41.5871171,
+  "longitude": 1.8134803,
+  "elevation": 583.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10903777117]",
+  "matchedBy": "name",
+  "note": "node/10903777117"
+ },
+ {
+  "needleId": "n0314",
+  "latitude": 41.5926181,
+  "longitude": 1.8136856,
+  "elevation": 884.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5418733946]",
+  "matchedBy": "name",
+  "note": "node/5418733946"
+ },
+ {
+  "needleId": "n0315",
+  "latitude": 41.5921952,
+  "longitude": 1.8134077,
+  "elevation": 872.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594716666]",
+  "matchedBy": "name",
+  "note": "node/10594716666"
+ },
+ {
+  "needleId": "n0316",
+  "latitude": 41.5920483,
+  "longitude": 1.813531,
+  "elevation": 857.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594716667]",
+  "matchedBy": "name",
+  "note": "node/10594716667"
+ },
+ {
+  "needleId": "n0317",
+  "latitude": 41.5917853,
+  "longitude": 1.8133105,
+  "elevation": 848.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594716668]",
+  "matchedBy": "name",
+  "note": "node/10594716668"
+ },
+ {
+  "needleId": "n0322",
+  "latitude": 41.5952056,
+  "longitude": 1.8171774,
+  "elevation": 931.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10892856993]",
+  "matchedBy": "name",
+  "note": "node/10892856993"
+ },
+ {
+  "needleId": "n0324",
+  "latitude": 41.5909466,
+  "longitude": 1.8246499,
+  "elevation": 1062.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825719]",
+  "matchedBy": "name",
+  "note": "node/1882825719"
+ },
+ {
+  "needleId": "n0325",
+  "latitude": 41.591262,
+  "longitude": 1.8247567,
+  "elevation": 1056.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893124672]",
+  "matchedBy": "name",
+  "note": "node/10893124672"
+ },
+ {
+  "needleId": "n0326",
+  "latitude": 41.5912798,
+  "longitude": 1.823499,
+  "elevation": 1007,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5888450446]",
+  "matchedBy": "name",
+  "note": "node/5888450446"
+ },
+ {
+  "needleId": "n0327",
+  "latitude": 41.5915272,
+  "longitude": 1.8217957,
+  "elevation": 957.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141671]",
+  "matchedBy": "name",
+  "note": "node/2470141671"
+ },
+ {
+  "needleId": "n0329",
+  "latitude": 41.5911757,
+  "longitude": 1.8215654,
+  "elevation": 933.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825943]",
+  "matchedBy": "name",
+  "note": "node/1882825943"
+ },
+ {
+  "needleId": "n0334",
+  "latitude": 41.5890762,
+  "longitude": 1.8233591,
+  "elevation": 1031.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893612091]",
+  "matchedBy": "name",
+  "note": "node/10893612091"
+ },
+ {
+  "needleId": "n0335",
+  "latitude": 41.5885858,
+  "longitude": 1.8229993,
+  "elevation": 978,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134571]",
+  "matchedBy": "name",
+  "note": "node/11184134571"
+ },
+ {
+  "needleId": "n0336",
+  "latitude": 41.5883252,
+  "longitude": 1.8227508,
+  "elevation": 927.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134567]",
+  "matchedBy": "name",
+  "note": "node/11184134567"
+ },
+ {
+  "needleId": "n0338",
+  "latitude": 41.5895042,
+  "longitude": 1.8233873,
+  "elevation": 1033.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893612092]",
+  "matchedBy": "name",
+  "note": "node/10893612092"
+ },
+ {
+  "needleId": "n0339",
+  "latitude": 41.5897602,
+  "longitude": 1.8235314,
+  "elevation": 1049.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893612093]",
+  "matchedBy": "name",
+  "note": "node/10893612093"
+ },
+ {
+  "needleId": "n0340",
+  "latitude": 41.5900836,
+  "longitude": 1.8229195,
+  "elevation": 988.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201036922]",
+  "matchedBy": "name",
+  "note": "node/11201036922"
+ },
+ {
+  "needleId": "n0341",
+  "latitude": 41.5899249,
+  "longitude": 1.8218312,
+  "elevation": 958.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201036923]",
+  "matchedBy": "name",
+  "note": "node/11201036923"
+ },
+ {
+  "needleId": "n0344",
+  "latitude": 41.5896281,
+  "longitude": 1.8217097,
+  "elevation": 972.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825876]",
+  "matchedBy": "name",
+  "note": "node/1882825876"
+ },
+ {
+  "needleId": "n0345",
+  "latitude": 41.5893524,
+  "longitude": 1.8214302,
+  "elevation": 950.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184416194]",
+  "matchedBy": "name",
+  "note": "node/11184416194"
+ },
+ {
+  "needleId": "n0347",
+  "latitude": 41.5872104,
+  "longitude": 1.82031,
+  "elevation": 815.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184150252]",
+  "matchedBy": "name",
+  "note": "node/11184150252"
+ },
+ {
+  "needleId": "n0348",
+  "latitude": 41.5881192,
+  "longitude": 1.8237203,
+  "elevation": 970.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134569]",
+  "matchedBy": "name",
+  "note": "node/11184134569"
+ },
+ {
+  "needleId": "n0362",
+  "latitude": 41.5848787,
+  "longitude": 1.8252983,
+  "elevation": 991.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594725089]",
+  "matchedBy": "name",
+  "note": "node/10594725089"
+ },
+ {
+  "needleId": "n0367",
+  "latitude": 41.5909193,
+  "longitude": 1.834731,
+  "elevation": 864,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/4160829854]",
+  "matchedBy": "name",
+  "note": "node/4160829854"
+ },
+ {
+  "needleId": "n0369",
+  "latitude": 41.5899891,
+  "longitude": 1.825969,
+  "elevation": 1152,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1882825729]",
+  "matchedBy": "id",
+  "note": "node/1882825729"
+ },
+ {
+  "needleId": "n0370",
+  "latitude": 41.589397,
+  "longitude": 1.8263987,
+  "elevation": 1152.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1882825789]",
+  "matchedBy": "id",
+  "note": "node/1882825789"
+ },
+ {
+  "needleId": "n0372",
+  "latitude": 41.5890697,
+  "longitude": 1.827778,
+  "elevation": 1118.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL), manually matched [node/1882825784]",
+  "matchedBy": "id",
+  "note": "node/1882825784"
+ },
+ {
+  "needleId": "n0373",
+  "latitude": 41.5888819,
+  "longitude": 1.8286914,
+  "elevation": 1097.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825773]",
+  "matchedBy": "name",
+  "note": "node/1882825773"
+ },
+ {
+  "needleId": "n0374",
+  "latitude": 41.5883954,
+  "longitude": 1.826487,
+  "elevation": 1131.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825792]",
+  "matchedBy": "name",
+  "note": "node/1882825792"
+ },
+ {
+  "needleId": "n0380",
+  "latitude": 41.5818243,
+  "longitude": 1.8314035,
+  "elevation": 892.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5418563004]",
+  "matchedBy": "name",
+  "note": "node/5418563004"
+ },
+ {
+  "needleId": "n0381",
+  "latitude": 41.581293,
+  "longitude": 1.8317763,
+  "elevation": 876.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5418563005]",
+  "matchedBy": "name",
+  "note": "node/5418563005"
+ },
+ {
+  "needleId": "n0399",
+  "latitude": 41.5843977,
+  "longitude": 1.8398679,
+  "elevation": 918.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11728717360]",
+  "matchedBy": "name",
+  "note": "node/11728717360"
+ },
+ {
+  "needleId": "n0414",
+  "latitude": 41.592163,
+  "longitude": 1.8322806,
+  "elevation": 854.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14059323134]",
+  "matchedBy": "name",
+  "note": "node/14059323134"
+ },
+ {
+  "needleId": "n0421",
+  "latitude": 41.5936602,
+  "longitude": 1.8353946,
+  "elevation": 870.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5032382092]",
+  "matchedBy": "name",
+  "note": "node/5032382092"
+ },
+ {
+  "needleId": "n0427",
+  "latitude": 41.5937161,
+  "longitude": 1.8263427,
+  "elevation": 1004.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193488]",
+  "matchedBy": "name",
+  "note": "node/10964193488"
+ },
+ {
+  "needleId": "n0428",
+  "latitude": 41.5938957,
+  "longitude": 1.8266083,
+  "elevation": 1010.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193490]",
+  "matchedBy": "name",
+  "note": "node/10964193490"
+ },
+ {
+  "needleId": "n0429",
+  "latitude": 41.5934131,
+  "longitude": 1.8261155,
+  "elevation": 988.4,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193489]",
+  "matchedBy": "name",
+  "note": "node/10964193489"
+ },
+ {
+  "needleId": "n0430",
+  "latitude": 41.5938087,
+  "longitude": 1.8309905,
+  "elevation": 1008.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11738634615]",
+  "matchedBy": "name",
+  "note": "node/11738634615"
+ },
+ {
+  "needleId": "n0433",
+  "latitude": 41.5942109,
+  "longitude": 1.8302292,
+  "elevation": 1058.8,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11738634616]",
+  "matchedBy": "name",
+  "note": "node/11738634616"
+ },
+ {
+  "needleId": "n0437",
+  "latitude": 41.5957835,
+  "longitude": 1.8297385,
+  "elevation": 1155.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825849]",
+  "matchedBy": "name",
+  "note": "node/1882825849"
+ },
+ {
+  "needleId": "n0439",
+  "latitude": 41.5956763,
+  "longitude": 1.8314751,
+  "elevation": 1127.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825992]",
+  "matchedBy": "name",
+  "note": "node/1882825992"
+ },
+ {
+  "needleId": "n0440",
+  "latitude": 41.5956661,
+  "longitude": 1.8318841,
+  "elevation": 1078.1,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/7878364873]",
+  "matchedBy": "name",
+  "note": "node/7878364873"
+ },
+ {
+  "needleId": "n0443",
+  "latitude": 41.5937433,
+  "longitude": 1.8435404,
+  "elevation": 645.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882680463]",
+  "matchedBy": "name",
+  "note": "node/1882680463"
+ },
+ {
+  "needleId": "n0444",
+  "latitude": 41.594861,
+  "longitude": 1.8445302,
+  "elevation": 572.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882680468]",
+  "matchedBy": "name",
+  "note": "node/1882680468"
+ },
+ {
+  "needleId": "n0445",
+  "latitude": 41.5939005,
+  "longitude": 1.8467727,
+  "elevation": 508.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/7618023475]",
+  "matchedBy": "name",
+  "note": "node/7618023475"
+ },
+ {
+  "needleId": "n0449",
+  "latitude": 41.6099501,
+  "longitude": 1.8232893,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/7631695437]",
+  "matchedBy": "name",
+  "note": "node/7631695437"
+ },
+ {
+  "needleId": "n0451",
+  "latitude": 41.5962535,
+  "longitude": 1.8301919,
+  "elevation": 1130.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825922]",
+  "matchedBy": "name",
+  "note": "node/1882825922"
+ },
+ {
+  "needleId": "n0453",
+  "latitude": 41.5962962,
+  "longitude": 1.8327488,
+  "elevation": 1009.5,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10613031763]",
+  "matchedBy": "name",
+  "note": "node/10613031763"
+ },
+ {
+  "needleId": "n0455",
+  "latitude": 41.5964978,
+  "longitude": 1.8320755,
+  "elevation": 1069.2,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882825932]",
+  "matchedBy": "name",
+  "note": "node/1882825932"
+ },
+ {
+  "needleId": "n0459",
+  "latitude": 41.5970432,
+  "longitude": 1.8309246,
+  "elevation": 1107.7,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11916807938]",
+  "matchedBy": "name",
+  "note": "node/11916807938"
+ },
+ {
+  "needleId": "n0474",
+  "latitude": 41.5960512,
+  "longitude": 1.8283631,
+  "elevation": 1061.3,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10613031764]",
+  "matchedBy": "name",
+  "note": "node/10613031764"
+ },
+ {
+  "needleId": "n0478",
+  "latitude": 41.5977857,
+  "longitude": 1.8259304,
+  "elevation": 1058.6,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741215]",
+  "matchedBy": "name",
+  "note": "node/1928741215"
+ },
+ {
+  "needleId": "n0481",
+  "latitude": 41.5995827,
+  "longitude": 1.8253425,
+  "elevation": 908.9,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2159652063]",
+  "matchedBy": "name",
+  "note": "node/2159652063"
+ }
+]

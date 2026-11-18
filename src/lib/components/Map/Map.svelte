@@ -12,10 +12,12 @@
 	let ready = $state(false);
 	let coords = new Map<string, [number, number]>();
 
+	let all: any = null;
+	// Filter by replacing the source data (not layer filters), so cluster bubbles count only the visible needles.
 	const applyFilter = () => {
-		if (!map || !ready) return;
-		const f = visibleIds ? (['in', ['get', 'id'], ['literal', visibleIds]] as any) : null;
-		for (const l of ['needle-points', 'needle-labels']) map.setFilter(l, f ? ['all', ['!', ['has', 'point_count']], f] : ['!', ['has', 'point_count']]);
+		if (!map || !ready || !all) return;
+		const keep = visibleIds ? new Set(visibleIds) : null;
+		(map.getSource('needles') as any).setData(keep ? { ...all, features: all.features.filter((f: any) => keep.has(f.properties.id)) } : all);
 	};
 	$effect(() => { visibleIds; ready; applyFilter(); });
 	$effect(() => {
@@ -40,13 +42,14 @@
 			// 'style.load' (not 'load'): markers must not wait for basemap tiles, which may be unavailable.
 			map.once('style.load', async () => {
 				const data = await (await fetch(geojsonUrl)).json();
+				all = data;
 				count = data.features.length;
 				coords = new Map(data.features.map((f: any) => [f.properties.id, f.geometry.coordinates]));
 				map!.addSource('needles', { type: 'geojson', data, cluster: true, clusterRadius: 40, clusterMaxZoom: 15 });
 				map!.addLayer({ id: 'clusters', type: 'circle', source: 'needles', filter: ['has', 'point_count'], paint: { 'circle-color': '#8a3b12', 'circle-radius': ['step', ['get', 'point_count'], 14, 10, 18, 50, 24] } });
 				map!.addLayer({ id: 'cluster-count', type: 'symbol', source: 'needles', filter: ['has', 'point_count'], layout: { 'text-field': ['get', 'point_count_abbreviated'], 'text-size': 12 }, paint: { 'text-color': '#fff' } });
 				map!.addLayer({ id: 'needle-points', type: 'circle', source: 'needles', filter: ['!', ['has', 'point_count']], paint: { 'circle-color': '#c0561a', 'circle-radius': ['interpolate', ['linear'], ['zoom'], 12, 4, 17, 9], 'circle-stroke-width': 1.5, 'circle-stroke-color': '#fff' } });
-				map!.addLayer({ id: 'needle-labels', type: 'symbol', source: 'needles', minzoom: 15, filter: ['!', ['has', 'point_count']], layout: { 'text-field': ['get', 'name'], 'text-size': 12, 'text-offset': [0, 1.2], 'text-optional': true }, paint: { 'text-halo-color': '#fff', 'text-halo-width': 1.5 } });
+				map!.addLayer({ id: 'needle-labels', type: 'symbol', source: 'needles', minzoom: 15, filter: ['!', ['has', 'point_count']], layout: { 'text-field': ['get', 'name'], 'text-size': 12, 'text-anchor': 'top', 'text-offset': [0, 0.8], 'text-optional': true }, paint: { 'text-halo-color': '#fff', 'text-halo-width': 1.5 } });
 				map!.on('click', 'clusters', async (e) => {
 					const f = map!.queryRenderedFeatures(e.point, { layers: ['clusters'] })[0];
 					const zoom = await (map!.getSource('needles') as any).getClusterExpansionZoom(f.properties.cluster_id);

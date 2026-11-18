@@ -34,8 +34,11 @@ test('map filters narrow the list, show chips and reset', async ({ page }) => {
 	await page.getByLabel('Regió').selectOption({ label: 'Tebaida' });
 	await expect(heading).not.toContainText('484');
 	await expect(page.getByLabel('Filtres actius')).toContainText('Tebaida');
+	await page.getByRole('button', { name: /Esborra/ }).click();
 	await page.getByLabel('Geolocalització').selectOption('yes');
-	await expect(heading).toContainText('(0 agulles)');
+	await expect(heading).toContainText('(200 agulles)');
+	await page.getByLabel('Geolocalització').selectOption('no');
+	await expect(heading).toContainText('(284 agulles)');
 	await page.getByRole('button', { name: /Esborra/ }).click();
 	await expect(heading).toContainText('484');
 });
@@ -49,4 +52,11 @@ test('map page honours ?section= URL parameter', async ({ page }) => {
 test('panoramas index renders (empty state until panoramas are published)', async ({ page }) => {
 	await page.goto('/panoramas/');
 	await expect(page.getByRole('heading', { level: 1 })).toHaveText('Panorames anotats');
+});
+
+test('a geolocated needle shows coordinates with provenance and links to the map', async ({ page }) => {
+	await page.goto('/needles/n0001/');
+	await expect(page.getByText(/OpenStreetMap contributors/)).toBeVisible();
+	await page.getByRole('link', { name: 'Veure al mapa' }).click();
+	await expect(page).toHaveURL(/\/map\/\?needle=n0001/);
 });

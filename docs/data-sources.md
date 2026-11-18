@@ -45,3 +45,13 @@ Automated fetching of Overpass was not possible from the build environment, so e
 5. `npm run validate`, then check a sample on the map. OSM attribution ("© OpenStreetMap contributors") must be kept visible wherever its data is used.
 
 Name matches are *name* matches: OSM names differ from the book's (and several rocks share a name), so spot-check, and mark positions `approximate` unless verified in the field.
+
+### Geolocation status (2026-11-18)
+Source: OpenStreetMap contributors (ODbL), Overpass Turbo export of `natural=peak|rock|stone|cliff` named nodes in the massif bounding box
+(`data/source/geolocation/montserrat-osm.geojson`, 541 features). **200 of 484 candidate needles are located** (all `approximate`).
+- 188 by name: exact normalised-name matches win; variants ("A o B", "(Roca 12)", alternative names) are used only when no exact match exists.
+- 12 by hand (`data/source/geolocation/manual-matches.csv`): OCR spelling differences in the book extraction ("Deis" = "dels"), a Semir-number agreement (OSM `CodiSemir` 239 = book 239), or an unambiguous long/short name pair.
+- A needle claimed by several OSM nodes (e.g. *La Triple* = three OSM rocks 430/431/432; *Roques dels Falcons* = four) is **left unlocated** rather than guessed.
+- `data/source/geolocation/unmatched-osm.csv`: the 353 OSM rows not applied, with reason and suggestions (many are not needles in the book — turons, summits, route points).
+- Checks: all coordinates fall inside the massif; the 4 OSM Semir numbers that could be compared agree with the book's.
+Remaining 284 needles have no coordinates; positions are name-matched, not field-verified. Spot-check before marking anything `verified`.

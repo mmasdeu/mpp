@@ -5,11 +5,22 @@ export function nameKey(s: string): string {
 		.replace(/[^a-z0-9]+/g, ' ').split(' ').filter((t) => t && !STOP.has(t)).sort().join(' ');
 }
 export interface Candidate { id: string; name: string; alternativeNames?: string[] }
+/** Name variants for matching: with/without "(Roca 341)"-style notes, and each side of "A o B" / "A - B" alternatives. */
+export function nameVariants(name: string): string[] {
+	const noParen = name.replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+	const parts = noParen.split(/\s+o\s+|\s+-\s+|\.\s+/i);
+	return [...new Set([name, noParen, ...parts].map((x) => x.trim()).filter((x) => nameKey(x).length >= 4))];
+}
 /** Exact normalised-name match. Returns the needle only if exactly one matches; ambiguity or none → null. */
-export function matchByName(name: string, needles: Candidate[]): { needle: Candidate | null; reason: 'ok' | 'none' | 'ambiguous' } {
+export function matchByName(name: string, needles: Candidate[]): { needle: Candidate | null; reason: 'ok' | 'none' | 'ambiguous'; exact?: boolean } {
 	const k = nameKey(name);
 	const hits = needles.filter((n) => [n.name, ...(n.alternativeNames ?? [])].some((x) => nameKey(x) === k));
-	return hits.length === 1 ? { needle: hits[0], reason: 'ok' } : { needle: null, reason: hits.length ? 'ambiguous' : 'none' };
+	if (hits.length === 1) return { needle: hits[0], reason: 'ok', exact: true };
+	if (hits.length > 1) return { needle: null, reason: 'ambiguous' };
+	// No full-name match: try variants on both sides (book headings often read "A o B (Roca 12)").
+	const q = new Set(nameVariants(name).map(nameKey));
+	const loose = needles.filter((n) => [n.name, ...(n.alternativeNames ?? [])].flatMap(nameVariants).some((x) => q.has(nameKey(x))));
+	return loose.length === 1 ? { needle: loose[0], reason: 'ok', exact: false } : { needle: null, reason: loose.length ? 'ambiguous' : 'none' };
 }
 /** Minimal GPX waypoint reader (<wpt lat lon><name/><ele/>). */
 export function parseGpx(xml: string): { name: string; latitude: number; longitude: number; elevation?: number }[] {
@@ -26,11 +37,11 @@ export function parseCsv(text: string) {
 	const cols = head.split(',').map((c) => c.trim().toLowerCase());
 	return rows.filter(Boolean).map((r) => {
 		const v = r.split(',').map((x) => x.trim()); const g = (k: string) => v[cols.indexOf(k)];
-		return { needleId: g('needle_id') || undefined, name: g('name') || undefined, latitude: +g('latitude'), longitude: +g('longitude'), elevation: g('elevation') ? +g('elevation') : undefined };
+		return { needleId: g('needle_id') || undefined, name: g('name') || undefined, latitude: +g('latitude'), longitude: +g('longitude'), elevation: g('elevation') ? +g('elevation') : undefined, osmId: g('osm_id') || undefined };
 	});
 }
 
-export interface GeoFeature { name: string; altNames: string[]; latitude: number; longitude: number; elevation?: number; osmId?: string }
+export interface GeoFeature { semir?: string; name: string; altNames: string[]; latitude: number; longitude: number; elevation?: number; osmId?: string }
 /** GeoJSON FeatureCollection of Points (e.g. an Overpass Turbo export). Reads name, alt_name (;-separated), name:ca, ele, @id. */
 export function parseGeoJson(text: string): GeoFeature[] {
 	const out: GeoFeature[] = [];
@@ -42,7 +53,7 @@ export function parseGeoJson(text: string): GeoFeature[] {
 		const [lon, lat] = f.geometry.coordinates;
 		const alts = [p['name:ca'], ...(p.alt_name ?? '').split(';'), ...(p.old_name ?? '').split(';')].map((x: string) => x?.trim()).filter((x: string) => x && x !== name);
 		const ele = parseFloat(p.ele);
-		out.push({ name, altNames: [...new Set<string>(alts)], latitude: lat, longitude: lon, elevation: Number.isFinite(ele) ? ele : undefined, osmId: p['@id'] ?? (typeof f.id === 'string' ? f.id : undefined) });
+		out.push({ semir: p.CodiSemir, name, altNames: [...new Set<string>(alts)], latitude: lat, longitude: lon, elevation: Number.isFinite(ele) ? ele : undefined, osmId: p['@id'] ?? (typeof f.id === 'string' ? f.id : undefined) });
 	}
 	return out;
 }
