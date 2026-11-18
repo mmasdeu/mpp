@@ -39,6 +39,13 @@ for c in cand["candidates"]:
         **({"semirRef":ref} if ref else {}),
         "metadata":{"extractionStatus":"unreviewed","extractionNote":"OCR heading heuristic; name capitalisation and Semir ref unverified" if ref else "OCR heading heuristic (no Semir number cited); may be a map label or non-needle feature"}})
     sec["needleIds"].append(nid)
+# Page range per needle: from its heading page up to the page where the next entry starts (the text may run on to it),
+# capped at 3 pages. Printed page numbers equal PDF page numbers in this edition. Estimated, hence the note.
+for i,n in enumerate(needles):
+    start=n["bookReferences"][0]["page"]
+    nxt=needles[i+1]["bookReferences"][0]["page"] if i+1<len(needles) else start
+    for p in range(start+1,min(max(nxt,start),start+2)+1):
+        n["bookReferences"].append({"page":p,"type":"description","note":"pàgina següent (estimada: el text pot continuar aquí)"})
 for n,f in (("regions",regions),("sections",sections),("needles",needles)):
     json.dump(f,open(os.path.join(D,n+".json"),"w"),ensure_ascii=False,indent=1)
 json.dump(unresolved,open(os.path.join(D,"source/original-extraction/unresolved.json"),"w"),ensure_ascii=False,indent=1)

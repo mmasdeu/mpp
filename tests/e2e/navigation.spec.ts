@@ -60,3 +60,18 @@ test('a geolocated needle shows coordinates with provenance and links to the map
 	await page.getByRole('link', { name: 'Veure al mapa' }).click();
 	await expect(page).toHaveURL(/\/map\/\?needle=n0001/);
 });
+
+import { existsSync } from 'node:fs';
+const hasBookImages = existsSync(new URL('../../static/images/book/p010.webp', import.meta.url));
+test('needle page shows the book page image (only where the images exist locally)', async ({ page }) => {
+	await page.goto('/needles/n0119/');
+	await expect(page.getByRole('heading', { name: 'Pàgina del llibre' })).toBeVisible();
+	if (!hasBookImages) {
+		await expect(page.getByText(/no s'inclouen en aquesta versió/)).toBeVisible();
+		return;
+	}
+	const img = page.getByRole('img', { name: /Pàgina 100 de «Montserrat pam a pam»/ });
+	await expect(img).toBeVisible();
+	await expect.poll(() => img.evaluate((i: HTMLImageElement) => i.naturalWidth)).toBeGreaterThan(300);
+	await expect(page.getByText('LA NANA (115)')).toBeVisible();
+});

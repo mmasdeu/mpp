@@ -10,6 +10,16 @@
    {
     "page": 10,
     "type": "description"
+   },
+   {
+    "page": 11,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 12,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "97",
@@ -29,6 +39,11 @@
    {
     "page": 12,
     "type": "description"
+   },
+   {
+    "page": 13,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -65,6 +80,11 @@
    {
     "page": 13,
     "type": "description"
+   },
+   {
+    "page": 14,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -83,6 +103,11 @@
    {
     "page": 14,
     "type": "description"
+   },
+   {
+    "page": 15,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -119,6 +144,16 @@
    {
     "page": 15,
     "type": "description"
+   },
+   {
+    "page": 16,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 17,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -137,6 +172,16 @@
    {
     "page": 17,
     "type": "description"
+   },
+   {
+    "page": 18,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 19,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "17",
@@ -156,6 +201,11 @@
    {
     "page": 19,
     "type": "description"
+   },
+   {
+    "page": 20,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "14",
@@ -175,6 +225,16 @@
    {
     "page": 20,
     "type": "description"
+   },
+   {
+    "page": 21,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 22,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -212,6 +272,11 @@
    {
     "page": 22,
     "type": "description"
+   },
+   {
+    "page": 23,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "15",
@@ -249,6 +314,11 @@
    {
     "page": 23,
     "type": "description"
+   },
+   {
+    "page": 24,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "13",
@@ -306,6 +376,11 @@
    {
     "page": 24,
     "type": "description"
+   },
+   {
+    "page": 25,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "8",
@@ -344,6 +419,11 @@
    {
     "page": 25,
     "type": "description"
+   },
+   {
+    "page": 26,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "3",
@@ -381,6 +461,11 @@
    {
     "page": 26,
     "type": "description"
+   },
+   {
+    "page": 27,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "1",
@@ -456,6 +541,16 @@
    {
     "page": 27,
     "type": "description"
+   },
+   {
+    "page": 28,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 29,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "98B",
@@ -475,6 +570,16 @@
    {
     "page": 29,
     "type": "description"
+   },
+   {
+    "page": 30,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 31,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "31-32",
@@ -551,6 +656,16 @@
    {
     "page": 31,
     "type": "description"
+   },
+   {
+    "page": 32,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 33,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "19-20",
@@ -589,6 +704,16 @@
    {
     "page": 34,
     "type": "description"
+   },
+   {
+    "page": 35,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 36,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "23",
@@ -646,6 +771,11 @@
    {
     "page": 36,
     "type": "description"
+   },
+   {
+    "page": 37,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "27",
@@ -702,6 +832,11 @@
    {
     "page": 37,
     "type": "description"
+   },
+   {
+    "page": 38,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "28",
@@ -739,6 +874,11 @@
    {
     "page": 38,
     "type": "description"
+   },
+   {
+    "page": 39,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "29",
@@ -777,6 +917,16 @@
    {
     "page": 39,
     "type": "description"
+   },
+   {
+    "page": 40,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 41,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "34",
@@ -796,6 +946,11 @@
    {
     "page": 41,
     "type": "description"
+   },
+   {
+    "page": 42,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -833,6 +988,11 @@
    {
     "page": 42,
     "type": "description"
+   },
+   {
+    "page": 43,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "39",
@@ -871,6 +1031,11 @@
    {
     "page": 43,
     "type": "description"
+   },
+   {
+    "page": 44,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -908,6 +1073,11 @@
    {
     "page": 44,
     "type": "description"
+   },
+   {
+    "page": 45,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "35",
@@ -964,6 +1134,16 @@
    {
     "page": 45,
     "type": "description"
+   },
+   {
+    "page": 46,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 47,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "43",
@@ -1021,6 +1201,11 @@
    {
     "page": 47,
     "type": "description"
+   },
+   {
+    "page": 48,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -1039,6 +1224,16 @@
    {
     "page": 48,
     "type": "description"
+   },
+   {
+    "page": 49,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 50,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "51",
@@ -1077,6 +1272,11 @@
    {
     "page": 50,
     "type": "description"
+   },
+   {
+    "page": 51,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "45",
@@ -1096,6 +1296,16 @@
    {
     "page": 51,
     "type": "description"
+   },
+   {
+    "page": 52,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 53,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "46",
@@ -1134,6 +1344,11 @@
    {
     "page": 53,
     "type": "description"
+   },
+   {
+    "page": 54,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -1152,6 +1367,11 @@
    {
     "page": 54,
     "type": "description"
+   },
+   {
+    "page": 55,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "80",
@@ -1171,6 +1391,11 @@
    {
     "page": 55,
     "type": "description"
+   },
+   {
+    "page": 56,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "78",
@@ -1190,6 +1415,16 @@
    {
     "page": 56,
     "type": "description"
+   },
+   {
+    "page": 57,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 58,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "81",
@@ -1209,6 +1444,16 @@
    {
     "page": 59,
     "type": "description"
+   },
+   {
+    "page": 60,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 61,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "61",
@@ -1247,6 +1492,11 @@
    {
     "page": 63,
     "type": "description"
+   },
+   {
+    "page": 64,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "57",
@@ -1266,6 +1516,11 @@
    {
     "page": 64,
     "type": "description"
+   },
+   {
+    "page": 65,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "98188",
@@ -1304,6 +1559,11 @@
    {
     "page": 65,
     "type": "description"
+   },
+   {
+    "page": 66,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "55",
@@ -1342,6 +1602,11 @@
    {
     "page": 66,
     "type": "description"
+   },
+   {
+    "page": 67,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "52",
@@ -1380,6 +1645,11 @@
    {
     "page": 67,
     "type": "description"
+   },
+   {
+    "page": 68,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "54",
@@ -1418,6 +1688,16 @@
    {
     "page": 68,
     "type": "description"
+   },
+   {
+    "page": 69,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 70,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "91",
@@ -1475,6 +1755,11 @@
    {
     "page": 70,
     "type": "description"
+   },
+   {
+    "page": 71,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "84",
@@ -1494,6 +1779,11 @@
    {
     "page": 71,
     "type": "description"
+   },
+   {
+    "page": 72,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "76",
@@ -1551,6 +1841,11 @@
    {
     "page": 72,
     "type": "description"
+   },
+   {
+    "page": 73,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "62-63-64",
@@ -1608,6 +1903,16 @@
    {
     "page": 73,
     "type": "description"
+   },
+   {
+    "page": 74,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 75,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -1626,6 +1931,11 @@
    {
     "page": 75,
     "type": "description"
+   },
+   {
+    "page": 76,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "66",
@@ -1664,6 +1974,11 @@
    {
     "page": 76,
     "type": "description"
+   },
+   {
+    "page": 77,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "68",
@@ -1701,6 +2016,11 @@
    {
     "page": 77,
     "type": "description"
+   },
+   {
+    "page": 78,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "70",
@@ -1720,6 +2040,11 @@
    {
     "page": 78,
     "type": "description"
+   },
+   {
+    "page": 79,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "71",
@@ -1739,6 +2064,16 @@
    {
     "page": 79,
     "type": "description"
+   },
+   {
+    "page": 80,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 81,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "72",
@@ -1758,6 +2093,11 @@
    {
     "page": 83,
     "type": "description"
+   },
+   {
+    "page": 84,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "123",
@@ -1815,6 +2155,16 @@
    {
     "page": 84,
     "type": "description"
+   },
+   {
+    "page": 85,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 86,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "124",
@@ -1853,6 +2203,11 @@
    {
     "page": 86,
     "type": "description"
+   },
+   {
+    "page": 87,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "125",
@@ -1909,6 +2264,11 @@
    {
     "page": 87,
     "type": "description"
+   },
+   {
+    "page": 88,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "192",
@@ -1947,6 +2307,11 @@
    {
     "page": 88,
     "type": "description"
+   },
+   {
+    "page": 89,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "103-104-100-102",
@@ -1985,6 +2350,11 @@
    {
     "page": 89,
     "type": "description"
+   },
+   {
+    "page": 90,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "105",
@@ -2004,6 +2374,16 @@
    {
     "page": 90,
     "type": "description"
+   },
+   {
+    "page": 91,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 92,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2040,6 +2420,11 @@
    {
     "page": 92,
     "type": "description"
+   },
+   {
+    "page": 93,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "106",
@@ -2078,6 +2463,16 @@
    {
     "page": 93,
     "type": "description"
+   },
+   {
+    "page": 94,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 95,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "129-112",
@@ -2116,6 +2511,11 @@
    {
     "page": 95,
     "type": "description"
+   },
+   {
+    "page": 96,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2134,6 +2534,11 @@
    {
     "page": 96,
     "type": "description"
+   },
+   {
+    "page": 97,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "169",
@@ -2172,6 +2577,11 @@
    {
     "page": 97,
     "type": "description"
+   },
+   {
+    "page": 98,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "166",
@@ -2210,6 +2620,16 @@
    {
     "page": 98,
     "type": "description"
+   },
+   {
+    "page": 99,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 100,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "117",
@@ -2248,6 +2668,11 @@
    {
     "page": 100,
     "type": "description"
+   },
+   {
+    "page": 101,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "132",
@@ -2286,6 +2711,16 @@
    {
     "page": 101,
     "type": "description"
+   },
+   {
+    "page": 102,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 103,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2304,6 +2739,16 @@
    {
     "page": 105,
     "type": "description"
+   },
+   {
+    "page": 106,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 107,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "138",
@@ -2323,6 +2768,11 @@
    {
     "page": 107,
     "type": "description"
+   },
+   {
+    "page": 108,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "139",
@@ -2342,6 +2792,11 @@
    {
     "page": 108,
     "type": "description"
+   },
+   {
+    "page": 109,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "172",
@@ -2361,6 +2816,16 @@
    {
     "page": 109,
     "type": "description"
+   },
+   {
+    "page": 110,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 111,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "170",
@@ -2399,6 +2864,11 @@
    {
     "page": 111,
     "type": "description"
+   },
+   {
+    "page": 112,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "141",
@@ -2418,6 +2888,11 @@
    {
     "page": 112,
     "type": "description"
+   },
+   {
+    "page": 113,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "179",
@@ -2455,6 +2930,16 @@
    {
     "page": 113,
     "type": "description"
+   },
+   {
+    "page": 114,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 115,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "143",
@@ -2512,6 +2997,16 @@
    {
     "page": 116,
     "type": "description"
+   },
+   {
+    "page": 117,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 118,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2568,6 +3063,11 @@
    {
     "page": 118,
     "type": "description"
+   },
+   {
+    "page": 119,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "189",
@@ -2606,6 +3106,11 @@
    {
     "page": 119,
     "type": "description"
+   },
+   {
+    "page": 120,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2681,6 +3186,16 @@
    {
     "page": 120,
     "type": "description"
+   },
+   {
+    "page": 121,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 122,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "171",
@@ -2719,6 +3234,11 @@
    {
     "page": 122,
     "type": "description"
+   },
+   {
+    "page": 123,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "159",
@@ -2738,6 +3258,16 @@
    {
     "page": 123,
     "type": "description"
+   },
+   {
+    "page": 124,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 125,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "158",
@@ -2757,6 +3287,16 @@
    {
     "page": 125,
     "type": "description"
+   },
+   {
+    "page": 126,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 127,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "160",
@@ -2814,6 +3354,11 @@
    {
     "page": 127,
     "type": "description"
+   },
+   {
+    "page": 128,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2851,6 +3396,11 @@
    {
     "page": 128,
     "type": "description"
+   },
+   {
+    "page": 129,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2887,6 +3437,16 @@
    {
     "page": 129,
     "type": "description"
+   },
+   {
+    "page": 130,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 131,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -2905,6 +3465,16 @@
    {
     "page": 133,
     "type": "description"
+   },
+   {
+    "page": 134,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 135,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "235",
@@ -2962,6 +3532,16 @@
    {
     "page": 135,
     "type": "description"
+   },
+   {
+    "page": 136,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 137,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "231",
@@ -2981,6 +3561,11 @@
    {
     "page": 137,
     "type": "description"
+   },
+   {
+    "page": 138,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "230",
@@ -3019,6 +3604,11 @@
    {
     "page": 138,
     "type": "description"
+   },
+   {
+    "page": 139,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "225",
@@ -3057,6 +3647,11 @@
    {
     "page": 139,
     "type": "description"
+   },
+   {
+    "page": 140,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3093,6 +3688,16 @@
    {
     "page": 140,
     "type": "description"
+   },
+   {
+    "page": 141,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 142,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "233",
@@ -3131,6 +3736,11 @@
    {
     "page": 142,
     "type": "description"
+   },
+   {
+    "page": 143,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "240",
@@ -3188,6 +3798,11 @@
    {
     "page": 143,
     "type": "description"
+   },
+   {
+    "page": 144,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3224,6 +3839,11 @@
    {
     "page": 144,
     "type": "description"
+   },
+   {
+    "page": 145,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "242",
@@ -3243,6 +3863,16 @@
    {
     "page": 145,
     "type": "description"
+   },
+   {
+    "page": 146,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 147,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "268",
@@ -3300,6 +3930,11 @@
    {
     "page": 147,
     "type": "description"
+   },
+   {
+    "page": 148,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3354,6 +3989,11 @@
    {
     "page": 148,
     "type": "description"
+   },
+   {
+    "page": 149,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "271",
@@ -3392,6 +4032,16 @@
    {
     "page": 149,
     "type": "description"
+   },
+   {
+    "page": 150,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 151,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "291",
@@ -3429,6 +4079,11 @@
    {
     "page": 153,
     "type": "description"
+   },
+   {
+    "page": 154,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "274",
@@ -3467,6 +4122,11 @@
    {
     "page": 154,
     "type": "description"
+   },
+   {
+    "page": 155,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "261",
@@ -3486,6 +4146,11 @@
    {
     "page": 155,
     "type": "description"
+   },
+   {
+    "page": 156,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3540,6 +4205,11 @@
    {
     "page": 156,
     "type": "description"
+   },
+   {
+    "page": 157,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "286",
@@ -3577,6 +4247,11 @@
    {
     "page": 157,
     "type": "description"
+   },
+   {
+    "page": 158,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3613,6 +4288,11 @@
    {
     "page": 158,
     "type": "description"
+   },
+   {
+    "page": 159,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3649,6 +4329,16 @@
    {
     "page": 159,
     "type": "description"
+   },
+   {
+    "page": 160,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 161,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "262",
@@ -3686,6 +4376,11 @@
    {
     "page": 161,
     "type": "description"
+   },
+   {
+    "page": 162,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3704,6 +4399,11 @@
    {
     "page": 162,
     "type": "description"
+   },
+   {
+    "page": 163,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3740,6 +4440,11 @@
    {
     "page": 163,
     "type": "description"
+   },
+   {
+    "page": 164,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3796,6 +4501,16 @@
    {
     "page": 164,
     "type": "description"
+   },
+   {
+    "page": 165,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 166,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "265",
@@ -3833,6 +4548,11 @@
    {
     "page": 167,
     "type": "description"
+   },
+   {
+    "page": 168,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3851,6 +4571,11 @@
    {
     "page": 168,
     "type": "description"
+   },
+   {
+    "page": 169,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -3887,6 +4612,11 @@
    {
     "page": 169,
     "type": "description"
+   },
+   {
+    "page": 170,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "257",
@@ -3925,6 +4655,16 @@
    {
     "page": 170,
     "type": "description"
+   },
+   {
+    "page": 171,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 172,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "254-255-256",
@@ -3944,6 +4684,11 @@
    {
     "page": 173,
     "type": "description"
+   },
+   {
+    "page": 174,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "252",
@@ -4001,6 +4746,11 @@
    {
     "page": 174,
     "type": "description"
+   },
+   {
+    "page": 175,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "223",
@@ -4038,6 +4788,11 @@
    {
     "page": 175,
     "type": "description"
+   },
+   {
+    "page": 176,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4074,6 +4829,11 @@
    {
     "page": 176,
     "type": "description"
+   },
+   {
+    "page": 177,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4130,6 +4890,11 @@
    {
     "page": 177,
     "type": "description"
+   },
+   {
+    "page": 178,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "214",
@@ -4149,6 +4914,11 @@
    {
     "page": 178,
     "type": "description"
+   },
+   {
+    "page": 179,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "213",
@@ -4168,6 +4938,16 @@
    {
     "page": 179,
     "type": "description"
+   },
+   {
+    "page": 180,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 181,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "215",
@@ -4187,6 +4967,11 @@
    {
     "page": 181,
     "type": "description"
+   },
+   {
+    "page": 182,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "249-212",
@@ -4244,6 +5029,11 @@
    {
     "page": 182,
     "type": "description"
+   },
+   {
+    "page": 183,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "210",
@@ -4263,6 +5053,11 @@
    {
     "page": 183,
     "type": "description"
+   },
+   {
+    "page": 184,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "202-203-204-245-246",
@@ -4338,6 +5133,11 @@
    {
     "page": 184,
     "type": "description"
+   },
+   {
+    "page": 185,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4413,6 +5213,11 @@
    {
     "page": 185,
     "type": "description"
+   },
+   {
+    "page": 186,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "288-287",
@@ -4450,6 +5255,11 @@
    {
     "page": 186,
     "type": "description"
+   },
+   {
+    "page": 187,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4468,6 +5278,16 @@
    {
     "page": 187,
     "type": "description"
+   },
+   {
+    "page": 188,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 189,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4486,6 +5306,11 @@
    {
     "page": 193,
     "type": "description"
+   },
+   {
+    "page": 194,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4504,6 +5329,11 @@
    {
     "page": 194,
     "type": "description"
+   },
+   {
+    "page": 195,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4540,6 +5370,11 @@
    {
     "page": 195,
     "type": "description"
+   },
+   {
+    "page": 196,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4558,6 +5393,11 @@
    {
     "page": 196,
     "type": "description"
+   },
+   {
+    "page": 197,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4576,6 +5416,16 @@
    {
     "page": 197,
     "type": "description"
+   },
+   {
+    "page": 198,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 199,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4631,6 +5481,11 @@
    {
     "page": 199,
     "type": "description"
+   },
+   {
+    "page": 200,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4685,6 +5540,11 @@
    {
     "page": 200,
     "type": "description"
+   },
+   {
+    "page": 201,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4759,6 +5619,11 @@
    {
     "page": 201,
     "type": "description"
+   },
+   {
+    "page": 202,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "317-318",
@@ -4796,6 +5661,11 @@
    {
     "page": 202,
     "type": "description"
+   },
+   {
+    "page": 203,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "394",
@@ -4851,6 +5721,11 @@
    {
     "page": 203,
     "type": "description"
+   },
+   {
+    "page": 204,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "390",
@@ -4889,6 +5764,16 @@
    {
     "page": 204,
     "type": "description"
+   },
+   {
+    "page": 205,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 206,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "388",
@@ -4908,6 +5793,16 @@
    {
     "page": 206,
     "type": "description"
+   },
+   {
+    "page": 207,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 208,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4926,6 +5821,16 @@
    {
     "page": 211,
     "type": "description"
+   },
+   {
+    "page": 212,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 213,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4944,6 +5849,11 @@
    {
     "page": 213,
     "type": "description"
+   },
+   {
+    "page": 214,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -4980,6 +5890,11 @@
    {
     "page": 214,
     "type": "description"
+   },
+   {
+    "page": 215,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "327",
@@ -5017,6 +5932,11 @@
    {
     "page": 215,
     "type": "description"
+   },
+   {
+    "page": 216,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5035,6 +5955,16 @@
    {
     "page": 216,
     "type": "description"
+   },
+   {
+    "page": 217,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 218,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "325",
@@ -5054,6 +5984,16 @@
    {
     "page": 218,
     "type": "description"
+   },
+   {
+    "page": 219,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 220,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "330",
@@ -5073,6 +6013,11 @@
    {
     "page": 225,
     "type": "description"
+   },
+   {
+    "page": 226,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "378",
@@ -5092,6 +6037,11 @@
    {
     "page": 226,
     "type": "description"
+   },
+   {
+    "page": 227,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "331",
@@ -5149,6 +6099,11 @@
    {
     "page": 227,
     "type": "description"
+   },
+   {
+    "page": 228,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5167,6 +6122,16 @@
    {
     "page": 228,
     "type": "description"
+   },
+   {
+    "page": 229,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 230,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5185,6 +6150,16 @@
    {
     "page": 230,
     "type": "description"
+   },
+   {
+    "page": 231,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 232,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "350",
@@ -5223,6 +6198,16 @@
    {
     "page": 232,
     "type": "description"
+   },
+   {
+    "page": 233,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 234,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5241,6 +6226,11 @@
    {
     "page": 234,
     "type": "description"
+   },
+   {
+    "page": 235,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "360",
@@ -5278,6 +6268,16 @@
    {
     "page": 235,
     "type": "description"
+   },
+   {
+    "page": 236,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 237,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5296,6 +6296,16 @@
    {
     "page": 237,
     "type": "description"
+   },
+   {
+    "page": 238,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 239,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "337",
@@ -5334,6 +6344,11 @@
    {
     "page": 239,
     "type": "description"
+   },
+   {
+    "page": 240,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "335",
@@ -5353,6 +6368,11 @@
    {
     "page": 240,
     "type": "description"
+   },
+   {
+    "page": 241,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "338-339-340-341-342",
@@ -5391,6 +6411,16 @@
    {
     "page": 241,
     "type": "description"
+   },
+   {
+    "page": 242,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 243,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "344",
@@ -5410,6 +6440,16 @@
    {
     "page": 243,
     "type": "description"
+   },
+   {
+    "page": 244,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 245,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5465,6 +6505,11 @@
    {
     "page": 245,
     "type": "description"
+   },
+   {
+    "page": 246,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5483,6 +6528,11 @@
    {
     "page": 246,
     "type": "description"
+   },
+   {
+    "page": 247,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5539,6 +6589,11 @@
    {
     "page": 247,
     "type": "description"
+   },
+   {
+    "page": 248,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5557,6 +6612,11 @@
    {
     "page": 248,
     "type": "description"
+   },
+   {
+    "page": 249,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5593,6 +6653,16 @@
    {
     "page": 249,
     "type": "description"
+   },
+   {
+    "page": 250,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 251,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5648,6 +6718,11 @@
    {
     "page": 251,
     "type": "description"
+   },
+   {
+    "page": 252,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "320",
@@ -5705,6 +6780,11 @@
    {
     "page": 252,
     "type": "description"
+   },
+   {
+    "page": 253,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "323",
@@ -5778,6 +6858,11 @@
    {
     "page": 253,
     "type": "description"
+   },
+   {
+    "page": 254,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5796,6 +6881,16 @@
    {
     "page": 254,
     "type": "description"
+   },
+   {
+    "page": 255,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 256,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5850,6 +6945,11 @@
    {
     "page": 260,
     "type": "description"
+   },
+   {
+    "page": 261,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "480-481",
@@ -5925,6 +7025,16 @@
    {
     "page": 261,
     "type": "description"
+   },
+   {
+    "page": 262,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 263,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5943,6 +7053,11 @@
    {
     "page": 263,
     "type": "description"
+   },
+   {
+    "page": 264,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5961,6 +7076,11 @@
    {
     "page": 264,
     "type": "description"
+   },
+   {
+    "page": 265,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -5979,6 +7099,16 @@
    {
     "page": 265,
     "type": "description"
+   },
+   {
+    "page": 266,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 267,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6015,6 +7145,11 @@
    {
     "page": 267,
     "type": "description"
+   },
+   {
+    "page": 268,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "457-458-459-460-461",
@@ -6053,6 +7188,11 @@
    {
     "page": 268,
     "type": "description"
+   },
+   {
+    "page": 269,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6090,6 +7230,11 @@
    {
     "page": 269,
     "type": "description"
+   },
+   {
+    "page": 270,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "438",
@@ -6128,6 +7273,11 @@
    {
     "page": 270,
     "type": "description"
+   },
+   {
+    "page": 271,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "439",
@@ -6147,6 +7297,11 @@
    {
     "page": 271,
     "type": "description"
+   },
+   {
+    "page": 272,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6165,6 +7320,16 @@
    {
     "page": 272,
     "type": "description"
+   },
+   {
+    "page": 273,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 274,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "4415",
@@ -6203,6 +7368,11 @@
    {
     "page": 274,
     "type": "description"
+   },
+   {
+    "page": 275,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "423-424",
@@ -6222,6 +7392,11 @@
    {
     "page": 275,
     "type": "description"
+   },
+   {
+    "page": 276,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "425",
@@ -6260,6 +7435,11 @@
    {
     "page": 276,
     "type": "description"
+   },
+   {
+    "page": 277,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "435",
@@ -6279,6 +7459,11 @@
    {
     "page": 277,
     "type": "description"
+   },
+   {
+    "page": 278,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "472-472A",
@@ -6317,6 +7502,11 @@
    {
     "page": 278,
     "type": "description"
+   },
+   {
+    "page": 279,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "427-428",
@@ -6355,6 +7545,11 @@
    {
     "page": 279,
     "type": "description"
+   },
+   {
+    "page": 280,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "452",
@@ -6393,6 +7588,11 @@
    {
     "page": 280,
     "type": "description"
+   },
+   {
+    "page": 281,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "449",
@@ -6431,6 +7631,11 @@
    {
     "page": 281,
     "type": "description"
+   },
+   {
+    "page": 282,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "467",
@@ -6450,6 +7655,11 @@
    {
     "page": 282,
     "type": "description"
+   },
+   {
+    "page": 283,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6487,6 +7697,11 @@
    {
     "page": 283,
     "type": "description"
+   },
+   {
+    "page": 284,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "470",
@@ -6525,6 +7740,16 @@
    {
     "page": 284,
     "type": "description"
+   },
+   {
+    "page": 285,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 286,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "478",
@@ -6544,6 +7769,11 @@
    {
     "page": 287,
     "type": "description"
+   },
+   {
+    "page": 288,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6635,6 +7865,11 @@
    {
     "page": 288,
     "type": "description"
+   },
+   {
+    "page": 289,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6653,6 +7888,11 @@
    {
     "page": 289,
     "type": "description"
+   },
+   {
+    "page": 290,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6689,6 +7929,11 @@
    {
     "page": 290,
     "type": "description"
+   },
+   {
+    "page": 291,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6761,6 +8006,11 @@
    {
     "page": 291,
     "type": "description"
+   },
+   {
+    "page": 292,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6797,6 +8047,11 @@
    {
     "page": 292,
     "type": "description"
+   },
+   {
+    "page": 293,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6834,6 +8089,16 @@
    {
     "page": 293,
     "type": "description"
+   },
+   {
+    "page": 294,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 295,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "490",
@@ -6853,6 +8118,16 @@
    {
     "page": 295,
     "type": "description"
+   },
+   {
+    "page": 296,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 297,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -6871,6 +8146,16 @@
    {
     "page": 297,
     "type": "description"
+   },
+   {
+    "page": 298,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 299,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "401",
@@ -6890,6 +8175,16 @@
    {
     "page": 299,
     "type": "description"
+   },
+   {
+    "page": 300,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 301,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "402",
@@ -6928,6 +8223,11 @@
    {
     "page": 301,
     "type": "description"
+   },
+   {
+    "page": 302,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "405",
@@ -6947,6 +8247,11 @@
    {
     "page": 302,
     "type": "description"
+   },
+   {
+    "page": 303,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "406",
@@ -6985,6 +8290,16 @@
    {
     "page": 303,
     "type": "description"
+   },
+   {
+    "page": 304,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 305,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7021,6 +8336,11 @@
    {
     "page": 305,
     "type": "description"
+   },
+   {
+    "page": 306,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7075,6 +8395,11 @@
    {
     "page": 306,
     "type": "description"
+   },
+   {
+    "page": 307,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7130,6 +8455,11 @@
    {
     "page": 307,
     "type": "description"
+   },
+   {
+    "page": 308,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7148,6 +8478,11 @@
    {
     "page": 308,
     "type": "description"
+   },
+   {
+    "page": 309,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7184,6 +8519,16 @@
    {
     "page": 309,
     "type": "description"
+   },
+   {
+    "page": 310,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 311,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7238,6 +8583,11 @@
    {
     "page": 311,
     "type": "description"
+   },
+   {
+    "page": 312,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7292,6 +8642,11 @@
    {
     "page": 312,
     "type": "description"
+   },
+   {
+    "page": 313,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7328,6 +8683,16 @@
    {
     "page": 313,
     "type": "description"
+   },
+   {
+    "page": 314,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 315,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7346,6 +8711,16 @@
    {
     "page": 317,
     "type": "description"
+   },
+   {
+    "page": 318,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 319,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7364,6 +8739,11 @@
    {
     "page": 320,
     "type": "description"
+   },
+   {
+    "page": 321,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7382,6 +8762,16 @@
    {
     "page": 321,
     "type": "description"
+   },
+   {
+    "page": 322,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 323,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7419,6 +8809,11 @@
    {
     "page": 323,
     "type": "description"
+   },
+   {
+    "page": 324,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7473,6 +8868,16 @@
    {
     "page": 324,
     "type": "description"
+   },
+   {
+    "page": 325,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 326,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7491,6 +8896,11 @@
    {
     "page": 327,
     "type": "description"
+   },
+   {
+    "page": 328,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "492",
@@ -7528,6 +8938,11 @@
    {
     "page": 328,
     "type": "description"
+   },
+   {
+    "page": 329,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7564,6 +8979,11 @@
    {
     "page": 329,
     "type": "description"
+   },
+   {
+    "page": 330,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "484-485-486",
@@ -7583,6 +9003,16 @@
    {
     "page": 330,
     "type": "description"
+   },
+   {
+    "page": 331,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 332,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "487",
@@ -7639,6 +9069,11 @@
    {
     "page": 332,
     "type": "description"
+   },
+   {
+    "page": 333,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7657,6 +9092,16 @@
    {
     "page": 333,
     "type": "description"
+   },
+   {
+    "page": 334,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 335,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7693,6 +9138,11 @@
    {
     "page": 337,
     "type": "description"
+   },
+   {
+    "page": 338,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "581",
@@ -7731,6 +9181,11 @@
    {
     "page": 338,
     "type": "description"
+   },
+   {
+    "page": 339,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "583",
@@ -7768,6 +9223,11 @@
    {
     "page": 339,
     "type": "description"
+   },
+   {
+    "page": 340,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "A",
@@ -7823,6 +9283,11 @@
    {
     "page": 340,
     "type": "description"
+   },
+   {
+    "page": 341,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "584",
@@ -7842,6 +9307,11 @@
    {
     "page": 341,
     "type": "description"
+   },
+   {
+    "page": 342,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7860,6 +9330,11 @@
    {
     "page": 342,
     "type": "description"
+   },
+   {
+    "page": 343,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -7915,6 +9390,11 @@
    {
     "page": 343,
     "type": "description"
+   },
+   {
+    "page": 344,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "594",
@@ -7971,6 +9451,16 @@
    {
     "page": 344,
     "type": "description"
+   },
+   {
+    "page": 345,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 346,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "522",
@@ -7990,6 +9480,11 @@
    {
     "page": 347,
     "type": "description"
+   },
+   {
+    "page": 348,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "516",
@@ -8028,6 +9523,16 @@
    {
     "page": 348,
     "type": "description"
+   },
+   {
+    "page": 349,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 350,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "512",
@@ -8047,6 +9552,11 @@
    {
     "page": 350,
     "type": "description"
+   },
+   {
+    "page": 351,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "513",
@@ -8085,6 +9595,16 @@
    {
     "page": 351,
     "type": "description"
+   },
+   {
+    "page": 352,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 353,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "591",
@@ -8142,6 +9662,16 @@
    {
     "page": 353,
     "type": "description"
+   },
+   {
+    "page": 354,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 355,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "502",
@@ -8161,6 +9691,16 @@
    {
     "page": 355,
     "type": "description"
+   },
+   {
+    "page": 356,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 357,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "509",
@@ -8180,6 +9720,11 @@
    {
     "page": 357,
     "type": "description"
+   },
+   {
+    "page": 358,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "510",
@@ -8199,6 +9744,11 @@
    {
     "page": 358,
     "type": "description"
+   },
+   {
+    "page": 359,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "515",
@@ -8218,6 +9768,16 @@
    {
     "page": 359,
     "type": "description"
+   },
+   {
+    "page": 360,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 361,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8255,6 +9815,11 @@
    {
     "page": 361,
     "type": "description"
+   },
+   {
+    "page": 362,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "586",
@@ -8274,6 +9839,11 @@
    {
     "page": 362,
     "type": "description"
+   },
+   {
+    "page": 363,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "587",
@@ -8311,6 +9881,16 @@
    {
     "page": 363,
     "type": "description"
+   },
+   {
+    "page": 364,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 365,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "588",
@@ -8349,6 +9929,11 @@
    {
     "page": 365,
     "type": "description"
+   },
+   {
+    "page": 366,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8367,6 +9952,11 @@
    {
     "page": 366,
     "type": "description"
+   },
+   {
+    "page": 367,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8385,6 +9975,16 @@
    {
     "page": 367,
     "type": "description"
+   },
+   {
+    "page": 368,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 369,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "504",
@@ -8423,6 +10023,16 @@
    {
     "page": 369,
     "type": "description"
+   },
+   {
+    "page": 370,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 371,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "535",
@@ -8480,6 +10090,11 @@
    {
     "page": 371,
     "type": "description"
+   },
+   {
+    "page": 372,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "536",
@@ -8518,6 +10133,16 @@
    {
     "page": 372,
     "type": "description"
+   },
+   {
+    "page": 373,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 374,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "538",
@@ -8556,6 +10181,11 @@
    {
     "page": 374,
     "type": "description"
+   },
+   {
+    "page": 375,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "531",
@@ -8575,6 +10205,11 @@
    {
     "page": 375,
     "type": "description"
+   },
+   {
+    "page": 376,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "532",
@@ -8632,6 +10267,11 @@
    {
     "page": 376,
     "type": "description"
+   },
+   {
+    "page": 377,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8724,6 +10364,11 @@
    {
     "page": 377,
     "type": "description"
+   },
+   {
+    "page": 378,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8742,6 +10387,11 @@
    {
     "page": 378,
     "type": "description"
+   },
+   {
+    "page": 379,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8779,6 +10429,16 @@
    {
     "page": 379,
     "type": "description"
+   },
+   {
+    "page": 380,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 381,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8815,6 +10475,11 @@
    {
     "page": 381,
     "type": "description"
+   },
+   {
+    "page": 382,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "564",
@@ -8872,6 +10537,11 @@
    {
     "page": 382,
     "type": "description"
+   },
+   {
+    "page": 383,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "578",
@@ -8910,6 +10580,11 @@
    {
     "page": 383,
     "type": "description"
+   },
+   {
+    "page": 384,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "551-552-553",
@@ -8948,6 +10623,16 @@
    {
     "page": 384,
     "type": "description"
+   },
+   {
+    "page": 385,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
+   },
+   {
+    "page": 386,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "metadata": {
@@ -8985,6 +10670,11 @@
    {
     "page": 386,
     "type": "description"
+   },
+   {
+    "page": 387,
+    "type": "description",
+    "note": "pàgina següent (estimada: el text pot continuar aquí)"
    }
   ],
   "semirRef": "570",

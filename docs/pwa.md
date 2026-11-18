@@ -6,7 +6,7 @@
   - Needle pages are cached when visited, or all at once from `/offline/` ("Descarrega totes les fitxes").
   - Navigation is network-first with a 3.5 s timeout, then cache, then the SPA fallback shell (`404.html`, re-served as 200). Because the dataset is bundled
     in the JS, even never-visited needle pages render offline.
-  - Images are cached on first view, capped at 80. Third-party requests (map tiles) are never cached (provider licensing); offline the map shows markers on an empty background.
+  - Images are cached on first view, capped at 150. Third-party requests (map tiles) are never cached (provider licensing); offline the map shows markers on an empty background.
   - Caches are versioned per deployment (`shell-<v>`, `pages-<v>`); old ones are deleted on activation.
 - **Feedback:** an offline banner in the layout and the `/offline/` page (status, what works, storage used, clear, install button).
 - **Testing:** `npm run test:e2e` builds the site and serves `build/` with `scripts/serve-static.mjs`, which mimics GitHub Pages (404 status with `404.html` for unknown paths);

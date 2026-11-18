@@ -22,3 +22,11 @@ blockquote.original { margin: .5rem 0; padding: .5rem 1rem; border-left: 4px sol
 .offline-banner { background: #5a4300; color: #fff; padding: .5rem 1rem; font-size: .9rem; } .offline-banner a { color: #fff; }
 progress { width: min(20rem, 70%); vertical-align: middle; }
 button { font: inherit; min-height: 2.5rem; padding: 0 .9rem; }
+
+.needle-grid { display: grid; gap: 1.5rem; }
+.needle-pages { order: -1; }
+@media (min-width: 62rem) {
+	main:has(.needle-grid) { max-width: 78rem; }
+	.needle-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); align-items: start; }
+	.needle-pages { order: 0; position: sticky; top: .5rem; max-height: 100vh; overflow-y: auto; }
+}

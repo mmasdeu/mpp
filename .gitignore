@@ -7,3 +7,5 @@ static/generated
 test-results
 playwright-report
 *.tar.gz
+static/images/book/
+.env.local

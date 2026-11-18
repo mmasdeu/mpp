@@ -16,5 +16,5 @@ export const needlePagePaths = (ids: string[], base = ''): string[] => ids.map((
 export const SHELL = (v: string) => `shell-${v}`;
 export const PAGES = (v: string) => `pages-${v}`;
 export const IMAGES = 'images-v1'; // images are immutable per filename; keep across deployments, capped below
-export const MAX_IMAGES = 80;
+export const MAX_IMAGES = 150; // ~3 book pages per needle at ~65 kB each
 export const NETWORK_TIMEOUT_MS = 3500; // on a mountain connection, fall back to cache rather than hang

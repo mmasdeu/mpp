@@ -34,6 +34,11 @@ export function validate(d: Dataset): Issue[] {
 		}
 		if ((owners.get(n.id) ?? 0) > 1) err(`needle ${n.id}: listed in more than one section`);
 		if (!n.bookReferences?.length) err(`needle ${n.id}: missing book reference`);
+		else {
+			const pg = n.bookReferences.map((b) => b.page);
+			if (pg.some((p) => !Number.isInteger(p) || p < 1)) err(`needle ${n.id}: invalid book page`);
+			else if (pg.some((p, i) => i > 0 && p !== pg[i - 1] + 1)) warn(`needle ${n.id}: book pages are not consecutive (${pg.join(', ')})`);
+		}
 		const l = n.location;
 		if (l) {
 			if (!(l.latitude >= -90 && l.latitude <= 90 && l.longitude >= -180 && l.longitude <= 180)) err(`needle ${n.id}: coordinates out of range`);

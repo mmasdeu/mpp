@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import BookPages from '$lib/components/Book/BookPages.svelte';
 	import { dataset, getSection, needlesOf, panoramasFor } from '$lib/data/loader';
 	let { data } = $props();
 	const n = $derived(data.needle);
@@ -17,11 +18,13 @@
 <nav aria-label="Camí"><a href="{base}/">Regions</a> › <a href="{base}/regions/{region.slug}/">{region.name}</a> › <a href="{base}/sections/{section.id}/">Secció {section.order}: {section.name}</a></nav>
 <h1>{n.name}</h1>
 {#if n.metadata.extractionStatus === 'unreviewed'}
-	<p><span class="badge">Fitxa sense revisar</span> {n.metadata.extractionNote}</p>
+	<p><span class="badge">Fitxa sense revisar</span> Extreta automàticament del llibre: el nom i el número poden contenir errors d'OCR.</p>
 {:else}
 	<p><span class="badge ok">{n.metadata.extractionStatus === 'verified' ? 'Verificada' : 'Revisada'}</span>{#if n.metadata.lastUpdated} {n.metadata.lastUpdated}{/if}</p>
 {/if}
 
+<div class="needle-grid">
+<div class="needle-info">
 <section aria-labelledby="h-loc">
 	<h2 id="h-loc">Localització</h2>
 	{#if n.location}
@@ -37,11 +40,11 @@
 	{#if n.description}
 		<blockquote class="original">{n.description}</blockquote>
 	{:else}
-		<p>Encara no s'ha extret el text original d'aquesta fitxa.</p>
+		<p>La transcripció del text original encara no està disponible: consulteu la pàgina del llibre.</p>
 	{/if}
 	{#if n.normalRoute}<h3>Via normal</h3><blockquote class="original">{n.normalRoute}</blockquote>{/if}
 	{#if n.otherRoutes?.length}<h3>Altres vies</h3><ul>{#each n.otherRoutes as r}<li>{r}</li>{/each}</ul>{/if}
-	<p class="muted">Font: <em>Montserrat pam a pam</em>, {n.bookReferences.map((b) => `p. ${b.page} (${b.type})`).join(', ')}.</p>
+	<p class="muted">Font: <em>Montserrat pam a pam</em>, {n.bookReferences.map((b) => `p. ${b.page}`).join(', ')}.</p>
 </section>
 
 <section aria-labelledby="h-meta">
@@ -54,6 +57,9 @@
 	</dl>
 	{#if n.historicalNotes?.length}<h3>Notes històriques</h3><ul>{#each n.historicalNotes as h}<li>{h}</li>{/each}</ul>{/if}
 </section>
+</div>
+<div class="needle-pages"><BookPages needle={n} /></div>
+</div>
 
 {#if panos.length}
 	<section aria-labelledby="h-pano">

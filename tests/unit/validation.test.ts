@@ -37,3 +37,15 @@ describe('GeoJSON', () => {
 		expect(fc.features[0].properties?.id).toBe(d.needles[0].id);
 	});
 });
+
+describe('book pages', () => {
+	it('every needle has consecutive page references, at most 3', () => {
+		const d = real();
+		for (const n of d.needles) {
+			const p = n.bookReferences.map((b) => b.page);
+			expect(p.length).toBeGreaterThan(0);
+			expect(p.length).toBeLessThanOrEqual(3);
+			p.forEach((x, i) => i && expect(x).toBe(p[i - 1] + 1));
+		}
+	});
+});

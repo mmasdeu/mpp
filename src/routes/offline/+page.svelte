@@ -50,7 +50,7 @@
 <h2>Què funciona sense connexió</h2>
 <ul>
 	<li>Regions, seccions, cerca i fitxes que ja heu visitat (o que descarregueu a sota).</li>
-	<li>Les fotografies i panorames que ja heu vist (fins a 80 imatges).</li>
+	<li>Les fotografies i panorames que ja heu vist (fins a 150 imatges, incloses les pàgines del llibre).</li>
 	<li>Les fitxes no visitades també s'obren, perquè el contingut viatja amb l'aplicació.</li>
 </ul>
 <p><strong>Limitació:</strong> el mapa de fons (les rajoles topogràfiques) no es desa; sense connexió només es veuran els marcadors de les agulles sobre un fons buit.</p>
