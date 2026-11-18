@@ -9,3 +9,4 @@ playwright-report
 *.tar.gz
 static/images/book/
 .env.local
+_sync/
