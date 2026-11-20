@@ -26,10 +26,12 @@ describe('hand edits of data/textos.json', () => {
 		expect(entry(rd('textos.json'), 'n0001')).toMatchObject({ estat: 'revisat', text: 'Text corregit a mà.' });
 	});
 	it('setting «estat» to "revisat" marks the text as reviewed as it is', () => {
-		const before = entry(rd('textos.json'), 'n0002');
-		edit((t) => { entry(t, 'n0002').estat = 'revisat'; });
+		// any needle whose text is still the unreviewed OCR (none in a checkout without the OCR files)
+		const before = (rd('textos.json') as TextEntry[]).find((e) => e.tipus === 'agulla' && e.estat === 'ocr');
+		if (!before) return;
+		edit((t) => { entry(t, before.id).estat = 'revisat'; });
 		syncTexts(root);
-		expect(rd('review/decisions.json').find((d: any) => d.needleId === 'n0002').description).toBe(before.text);
+		expect(rd('review/decisions.json').find((d: any) => d.needleId === before.id).description).toBe(before.text);
 	});
 	it('changes made meanwhile in the web editor are not undone by a stale file', () => {
 		const dec = rd('review/decisions.json');
@@ -38,10 +40,17 @@ describe('hand edits of data/textos.json', () => {
 		expect(rd('review/decisions.json').find((d: any) => d.needleId === 'n0003').description).toBe('Des de l\'editor web');
 	});
 	it('section introductions and biographies go to their own review files', () => {
-		edit((t) => { entry(t, 's01').text = 'Introducció revisada.'; entry(t, 'anglada-josep-manuel').text = 'Biografia revisada.'; });
+		// a section introduction is listed only where its text exists (OCR or reviewed): add a reviewed one when the checkout has none
+		const t0 = rd('textos.json') as TextEntry[];
+		if (!t0.some((e) => e.id === 's01')) {
+			writeFileSync(join(root, 'data/review/intros.json'), JSON.stringify({ sections: { s01: { text: 'Inicial.', pages: [10] } }, regions: {} }));
+			exportTexts(root);
+		}
+		const bio = (rd('textos.json') as TextEntry[]).find((e) => e.tipus === 'escalador')!;
+		edit((t) => { entry(t, 's01').text = 'Introducció revisada.'; entry(t, bio.id).text = 'Biografia revisada.'; });
 		syncTexts(root);
 		expect(rd('review/intros.json').sections.s01).toMatchObject({ text: 'Introducció revisada.', status: 'reviewed' });
-		expect(rd('review/biographies.json').find((b: any) => b.id === 'anglada-josep-manuel').text).toBe('Biografia revisada.');
+		expect(rd('review/biographies.json').find((b: any) => b.id === bio.id).text).toBe('Biografia revisada.');
 	});
 	it('invalid JSON: an error, and nothing is touched', () => {
 		const dec = readFileSync(join(root, 'data/review/decisions.json'), 'utf8');
