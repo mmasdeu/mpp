@@ -1,0 +1,20 @@
+{
+	// data/ocr/ and data/textos.json hold the book's text and are git-ignored (copyright), so VS Code would skip them in searches:
+	// search ignored files too, but leave out the heavy generated folders.
+	"search.useIgnoreFiles": false,
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/.svelte-kit": true,
+		"build": true,
+		"_sync": true,
+		"_to_delete": true,
+		"test-results": true,
+		"playwright-report": true,
+		"static/images": true,
+		"static/generated": true,
+		"src/lib/generated": true,
+		"data/ocr/pages": true,
+		"data/ocr/textos-base.json": true,
+		"**/*.tar.gz": true
+	}
+}

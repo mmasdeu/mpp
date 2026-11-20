@@ -1,0 +1,4 @@
+[
+ { "id": "advertiment", "title": "Advertiment", "pages": [5, 6], "author": "Josep Barberà" },
+ { "id": "mapa-general", "title": "Montserrat en 35 seccions", "pages": [7], "kind": "map" }
+]

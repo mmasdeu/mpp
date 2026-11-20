@@ -4,6 +4,7 @@
 /// <reference lib="webworker" />
 import { base, build, files, prerendered, version } from '$service-worker';
 import { IMAGES, MAX_IMAGES, NETWORK_TIMEOUT_MS, PAGES, SHELL, isImage, isNeedlePage, precachePages } from '$lib/pwa/policy';
+import { TILES, isStorable, isTileHost } from '$lib/pwa/tiles';
 
 const sw = self as unknown as ServiceWorkerGlobalScope;
 const FALLBACK = `${base}/404.html`; // SPA shell: boots the client router, which can render any route from the bundled data
@@ -21,7 +22,7 @@ sw.addEventListener('install', (event) => {
 
 sw.addEventListener('activate', (event) => {
 	event.waitUntil((async () => {
-		for (const k of await caches.keys()) if (k !== IMAGES && k !== SHELL(version) && k !== PAGES(version)) await caches.delete(k);
+		for (const k of await caches.keys()) if (k !== IMAGES && k !== TILES && k !== SHELL(version) && k !== PAGES(version)) await caches.delete(k);
 		await sw.clients.claim();
 	})());
 });
@@ -51,11 +52,25 @@ async function navigate(req: Request): Promise<Response> {
 	}
 }
 
+async function tile(event: FetchEvent, req: Request): Promise<Response> {
+	const c = await caches.open(TILES);
+	const hit = await c.match(req.url, { ignoreVary: true });
+	if (hit) return hit;
+	const res = await fetch(req);
+	if (res.ok && isStorable(req.url)) event.waitUntil(c.put(req.url, res.clone()));
+	return res;
+}
+
 sw.addEventListener('fetch', (event) => {
 	const req = event.request;
 	if (req.method !== 'GET') return;
 	const url = new URL(req.url);
-	if (url.origin !== location.origin) return; // map tiles and other third-party content are never cached (licensing)
+	if (url.origin !== location.origin) {
+		// ICGC map tiles (CC BY 4.0) and label glyphs: cache first, store new ones inside the Montserrat box (src/lib/pwa/tiles.ts).
+		// Every other third-party request (OpenTopoMap, Mapterhorn…) goes straight to the network and is never stored.
+		if (isTileHost(req.url)) event.respondWith(tile(event, req));
+		return;
+	}
 	if (req.mode === 'navigate') return void event.respondWith(navigate(req));
 	if (isImage(url.pathname, base)) {
 		return void event.respondWith((async () => {

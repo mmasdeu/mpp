@@ -1,0 +1,45 @@
+[
+ {
+  "id": "advertiment",
+  "title": "Advertiment",
+  "pages": [
+   5,
+   6
+  ],
+  "author": "Josep Barberà"
+ },
+ {
+  "id": "mapa-general",
+  "title": "Montserrat en 35 seccions",
+  "pages": [
+   7
+  ],
+  "kind": "map"
+ },
+ {
+  "id": "nomenclator",
+  "title": "Nomenclàtor",
+  "pages": [
+   398,
+   399,
+   400,
+   401,
+   402,
+   403,
+   404,
+   405
+  ],
+  "kind": "index",
+  "note": "Comprovat amb les fitxes: data/ocr/nomenclator-informe.csv"
+ },
+ {
+  "id": "index-seccions",
+  "title": "Índex",
+  "pages": [
+   407,
+   408
+  ],
+  "kind": "index",
+  "note": "Índex de seccions: no és contingut"
+ }
+]

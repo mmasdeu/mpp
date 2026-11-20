@@ -45,3 +45,8 @@ A coordinate with unknown provenance is allowed only when it is marked as such. 
 - Section to Region, Needle to Region and Section, and similar links are stored by ID.
 - Each ImageReference and BookReference points to its owning entity by ID.
 - GeographicalFeature links to Needles and Regions by ID.
+
+## Agulles afegides a mà (`data/review/additions.json`)
+Quan l'extracció automàtica no detecta una agulla, es pot afegir aquí (objecte `Needle` complet, estat `unreviewed`). Entra a les dades abans de les
+decisions de revisió (`raw → additions → review → structure → locations`); els scripts Python la veuen via `scripts/needles_lib.py`.
+Migracions (idempotents, editen les dades en lloc): `001-cavall-bernat.mjs`, `002-lluernes-morral.mjs` i `003-missing-needles.mjs` (82 agulles que l'extracció havia perdut, curades a partir de `data/ocr/missing-needles.csv`; cadascuna porta `after`, l'agulla que la precedeix en ordre de llibre, i algunes un dibuix).

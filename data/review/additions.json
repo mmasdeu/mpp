@@ -1,0 +1,3501 @@
+[
+ {
+  "id": "n0485",
+  "name": "El Cavall Bernat",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "548",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 389,
+    "type": "description"
+   },
+   {
+    "page": 390,
+    "type": "description"
+   },
+   {
+    "page": 391,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: l'extracció automàtica no va detectar la capçalera «EL CAVALL BERNAT (548)» (p. 389); la darrera roca de la secció XXXV."
+  }
+ },
+ {
+  "id": "n0486",
+  "name": "Serra de les Lluernes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "576-544-545-546-547",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 387,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: l'extracció automàtica no va detectar la capçalera «SERRA DE LES LLUERNES (576-544-545-546-547)» (p. 387)."
+  }
+ },
+ {
+  "id": "n0487",
+  "name": "Morral del Cavall",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "549",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 387,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: l'extracció automàtica no va detectar la capçalera «MORRAL DEL CAVALL (549)» (p. 387)."
+  }
+ },
+ {
+  "id": "n0488",
+  "name": "Serrat de Guirló",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s01",
+  "semirRef": "99",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 12,
+    "type": "description"
+   }
+  ],
+  "after": "n0002",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «SERRAT DE GUIRLÓ (99)» detectada a l'OCR (p. 12) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0489",
+  "name": "Serrat de Moixerigues",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s02",
+  "semirRef": "99 A i B",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 28,
+    "type": "description"
+   }
+  ],
+  "after": "n0025",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «SERRAL DE MOIXERIGUES (99 A i B)» detectada a l'OCR (p. 28) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0490",
+  "name": "La Bandereta",
+  "alternativeNames": [
+   "Agulla Ven-Suri-Ven"
+  ],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "semirRef": "37",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 39,
+    "type": "description"
+   }
+  ],
+  "after": "n0042",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «LA BANDERETA (37) O AGULLA VEN-SURI-VEN» detectada a l'OCR (p. 39) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0491",
+  "name": "El Carbassó",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "semirRef": "42",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 44,
+    "type": "description"
+   }
+  ],
+  "after": "n0049",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «EL CARBASSÓ (42)» detectada a l'OCR (p. 44) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0492",
+  "name": "El Pingoí",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "semirRef": "79",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 55,
+    "type": "description"
+   }
+  ],
+  "after": "n0063",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «EL PINGOÍ (79)» detectada a l'OCR (p. 55) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0493",
+  "name": "Roca del Cirerer",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "semirRef": "83",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 56,
+    "type": "description"
+   }
+  ],
+  "after": "n0492",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DEL CIRERER (83)» detectada a l'OCR (p. 56) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0494",
+  "name": "Roca dels Cinc Passos",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s03",
+  "semirRef": "82",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 56,
+    "type": "description"
+   }
+  ],
+  "after": "n0493",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DELS CINC PASSOS (82)» detectada a l'OCR (p. 56) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0495",
+  "name": "Roca veïna del Cap de Guerrer",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "59",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 61,
+    "type": "description"
+   }
+  ],
+  "after": "n0065",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA (59) VEINA DEL CAP DE GUERRER» detectada a l'OCR (p. 61) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0496",
+  "name": "Roques 95 i 94",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "95-94",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 71,
+    "type": "description"
+   }
+  ],
+  "after": "n0079",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 95 i 94» detectada a l'OCR (p. 71) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0497",
+  "name": "Agulla de la Foradada",
+  "alternativeNames": [
+   "Agulla dels Apòstols"
+  ],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "69",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 76,
+    "type": "description"
+   }
+  ],
+  "after": "n0089",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DE LA FORADADA (69) O DELS APÒSTOLS» detectada a l'OCR (p. 76) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0498",
+  "name": "Agulleta d'en Llaudó",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 78,
+    "type": "description"
+   }
+  ],
+  "after": "n0091",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLETA D'EN LLAUDÓ» detectada a l'OCR (p. 78) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0499",
+  "name": "El Caputxó",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "126",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 87,
+    "type": "description"
+   }
+  ],
+  "after": "n0100",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «EL CAPUTXÓ (126)» detectada a l'OCR (p. 87) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0500",
+  "name": "Cotes 107-108-109",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "107-108-109",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 88,
+    "type": "description"
+   }
+  ],
+  "after": "n0103",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 107-108-109» detectada a l'OCR (p. 88) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0501",
+  "name": "L'Escut",
+  "alternativeNames": [
+   "Miranda de la Nina"
+  ],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "111",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 93,
+    "type": "description"
+   }
+  ],
+  "after": "n0109",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «L'ESCUT (111) (MIRANDA DE LA NINA)» detectada a l'OCR (p. 93) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0502",
+  "name": "Roca 113",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "113",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 94,
+    "type": "description"
+   }
+  ],
+  "after": "n0111",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 113» detectada a l'OCR (p. 94) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0503",
+  "name": "Roca de la Grip",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "114",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 94,
+    "type": "description"
+   }
+  ],
+  "after": "n0502",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE LA GRIP (114)» detectada a l'OCR (p. 94) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0504",
+  "name": "Roca de les Balmes",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "128",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 95,
+    "type": "description"
+   }
+  ],
+  "after": "n0113",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE LES BALMES (128)» detectada a l'OCR (p. 95) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0505",
+  "name": "Punta 167",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "167",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 95,
+    "type": "description"
+   }
+  ],
+  "after": "n0504",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «PUNTA 167» detectada a l'OCR (p. 95) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0506",
+  "name": "Roques 135 i 168",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "135-168",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 96,
+    "type": "description"
+   }
+  ],
+  "after": "n0505",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 135 Il 168» detectada a l'OCR (p. 96) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0507",
+  "name": "Cotes 175 i 178",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "175-178",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 97,
+    "type": "description"
+   }
+  ],
+  "after": "n0115",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 175 I 178» detectada a l'OCR (p. 97) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0508",
+  "name": "Miranda del Lloro",
+  "alternativeNames": [
+   "L'Escolanet"
+  ],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "137",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 105,
+    "type": "description"
+   }
+  ],
+  "after": "n0122",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «MIRANDA DEL LLORO (137) O L'ESCOLANET» detectada a l'OCR (p. 105) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0509",
+  "name": "Roca Contrafort de la 173",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "173",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 113,
+    "type": "description"
+   }
+  ],
+  "after": "n0130",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA CONTRAFORT DE LA 173» detectada a l'OCR (p. 113) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0510",
+  "name": "Roques 133 i 134",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "semirRef": "133-134",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 127,
+    "type": "description"
+   }
+  ],
+  "after": "n0149",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 133 i 134» detectada a l'OCR (p. 127) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0511",
+  "name": "Roca 250",
+  "alternativeNames": [
+   "Serrat del Cabrit"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "250",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 149,
+    "type": "description"
+   }
+  ],
+  "after": "n0180",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 250 (SERRAT DEL CABRIT)» detectada a l'OCR (p. 149) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0512",
+  "name": "Roca 251",
+  "alternativeNames": [
+   "Serrat del Cabrit"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "251",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 149,
+    "type": "description"
+   }
+  ],
+  "after": "n0511",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 251 (SERRAT DEL CABRIT)» detectada a l'OCR (p. 149) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0513",
+  "name": "Roca 272",
+  "alternativeNames": [
+   "Serrat del Cabrit"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "272",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 149,
+    "type": "description"
+   }
+  ],
+  "after": "n0512",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 272 (SERRAT DEL CABRIT)» detectada a l'OCR (p. 149) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0514",
+  "name": "Roca 270",
+  "alternativeNames": [
+   "Serrat del Cabrit"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "270",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 150,
+    "type": "description"
+   }
+  ],
+  "after": "n0181",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 270 (SERRAT DEL CABRIT)» detectada a l'OCR (p. 150) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0515",
+  "name": "Roca 273",
+  "alternativeNames": [
+   "Serrat del Cabrit"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "273",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 150,
+    "type": "description"
+   }
+  ],
+  "after": "n0514",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 273 (SERRAT DEL CABRIT)» detectada a l'OCR (p. 150) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0516",
+  "name": "Roques 276-277-278",
+  "alternativeNames": [
+   "Carena descendent al Cavall dels Brucs"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "276-277-278",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 150,
+    "type": "description"
+   }
+  ],
+  "after": "n0515",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 276-277-278 (CARENA DESCENDENT AL CAVALL DELS BRUCS)» detectada a l'OCR (p. 150) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0517",
+  "name": "Cavall dels Brucs",
+  "alternativeNames": [
+   "Pupa del Bruc"
+  ],
+  "regionId": "r03",
+  "sectionId": "s09",
+  "semirRef": "279",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 151,
+    "type": "description"
+   }
+  ],
+  "after": "n0516",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «CAVALL DELS BRUCS (279) (PUPA DEL BRUC)» detectada a l'OCR (p. 151) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0518",
+  "name": "Veïna del Musclet",
+  "alternativeNames": [
+   "Formigues"
+  ],
+  "regionId": "r03",
+  "sectionId": "s10",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 154,
+    "type": "description"
+   }
+  ],
+  "after": "n0184",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «VEINA DEL MUSCLET (FORMIGUES)» detectada a l'OCR (p. 154) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0519",
+  "name": "Pou de l'Estevet",
+  "alternativeNames": [
+   "Avenc del Senglar"
+  ],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 161,
+    "type": "description"
+   }
+  ],
+  "after": "n0195",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «POU DE L'ESTEVET (O AVENC DEL SENGLAR)» detectada a l'OCR (p. 161) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0520",
+  "name": "Agulla del Pilot",
+  "alternativeNames": [
+   "Àngel"
+  ],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 161,
+    "type": "description"
+   }
+  ],
+  "after": "n0196",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DEL PILOT (ÀNGEL)» detectada a l'OCR (p. 161) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0521",
+  "name": "Agulla de Can Jorba",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s11",
+  "semirRef": "266",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 165,
+    "type": "description"
+   }
+  ],
+  "after": "n0203",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DE CAN JORBA (266)» detectada a l'OCR (p. 165) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0522",
+  "name": "Els Ous del Faraó",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "semirRef": "289",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 168,
+    "type": "description"
+   }
+  ],
+  "after": "n0206",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ELS OUS DEL FARAÓ (289)» detectada a l'OCR (p. 168) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0523",
+  "name": "Agulleta del Serrat del Faraó",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "semirRef": "290",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 170,
+    "type": "description"
+   }
+  ],
+  "after": "n0210",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLETA DEL SERRAT DEL FARAÓ (290)» detectada a l'OCR (p. 170) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0524",
+  "name": "El Faraó",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s12",
+  "semirRef": "258",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 171,
+    "type": "description"
+   }
+  ],
+  "after": "n0523",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «EL FARAÓ -258-» detectada a l'OCR (p. 171) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0525",
+  "name": "Roca 238",
+  "alternativeNames": [
+   "Roca del Grau"
+  ],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "semirRef": "238",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 176,
+    "type": "description"
+   }
+  ],
+  "after": "n0218",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 238 (ROCA DEL GRAU)» detectada a l'OCR (p. 176) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0526",
+  "name": "Turó del Montgròs",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "semirRef": "217",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 178,
+    "type": "description"
+   }
+  ],
+  "after": "n0222",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «TURÓ DEL MONTGRÒS (217)» detectada a l'OCR (p. 178) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0527",
+  "name": "Roca Plana dels Llamps",
+  "alternativeNames": [
+   "Cap del Montgròs"
+  ],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "semirRef": "247-216",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 178,
+    "type": "description"
+   }
+  ],
+  "after": "n0526",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA PLANA DELS LLAMPS (247-216) (CAP DEL MONTGRÒS)» detectada a l'OCR (p. 178) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0528",
+  "name": "Roca de sota la cota 209",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s14",
+  "semirRef": "209",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 182,
+    "type": "description"
+   }
+  ],
+  "after": "n0226",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE SOTA LA COTA 209» detectada a l'OCR (p. 182) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0529",
+  "name": "Roques 310-311-312 i del Teix",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "310-311-312",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 197,
+    "type": "description"
+   }
+  ],
+  "after": "n0244",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 310-311-312 I DEL TEIX» detectada a l'OCR (p. 197) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0530",
+  "name": "Roca del Torrent de Migdia",
+  "alternativeNames": [
+   "L'Oliva"
+  ],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "392",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 204,
+    "type": "description"
+   }
+  ],
+  "after": "n0262",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DEL TORRENT DE MIGDIA (392) (L'OLIVA)» detectada a l'OCR (p. 204) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0531",
+  "name": "Talaieta d'en Barbé",
+  "alternativeNames": [
+   "La Talaieta"
+  ],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "308",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 209,
+    "type": "description"
+   }
+  ],
+  "after": "n0263",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Talaieta d'en Barbé (308)» detectada a l'OCR (p. 209) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0532",
+  "name": "Roques 374-375-376-377",
+  "alternativeNames": [
+   "Roca del Pas",
+   "Roques 385-386 i 387"
+  ],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "semirRef": "374-375-376-377",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 212,
+    "type": "description"
+   }
+  ],
+  "after": "n0264",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES 374-375-376-377 —ROCA DEL PAS— 385-386 Il 387» detectada a l'OCR (p. 212) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0533",
+  "name": "Serrat del Duc",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "363-362-361",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 226,
+    "type": "description"
+   }
+  ],
+  "after": "n0273",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «SERRAT DEL DUC (963-362-361)» detectada a l'OCR (p. 226) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0534",
+  "name": "Roca del Ninot",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "379",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 226,
+    "type": "description"
+   }
+  ],
+  "after": "n0533",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DEL NINOT (379)» detectada a l'OCR (p. 226) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0535",
+  "name": "Serrat de les Onze",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "357-351-391",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 230,
+    "type": "description"
+   }
+  ],
+  "after": "n0278",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «SERRAT DE LES ONZE (357 351 i 391)» detectada a l'OCR (p. 230) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0536",
+  "name": "Miranda de Sant Antoni",
+  "alternativeNames": [
+   "Pot"
+  ],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "348",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 235,
+    "type": "description"
+   }
+  ],
+  "after": "n0283",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «MIRANDA DE SANT ANTONI (348) (POT)» detectada a l'OCR (p. 235) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0537",
+  "name": "L'Albarda Castellana",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "semirRef": "333-334",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 237,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «L'ALBARDA CASTELLANA (333 i 334)» detectada a l'OCR (p. 237) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0538",
+  "name": "Roca 345",
+  "alternativeNames": [
+   "Serrat de la Vinya Nova"
+  ],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "semirRef": "345",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 246,
+    "type": "description"
+   }
+  ],
+  "after": "n0293",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 345 (SERRAT DE LA VINYA NOVA)» detectada a l'OCR (p. 246) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0539",
+  "name": "Roca 381",
+  "alternativeNames": [
+   "Serrat de la Vinya Nova"
+  ],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "semirRef": "381",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 246,
+    "type": "description"
+   }
+  ],
+  "after": "n0538",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 381 (SERRAT DE LA VINYA NOVA)» detectada a l'OCR (p. 246) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0540",
+  "name": "Roca 380",
+  "alternativeNames": [
+   "Sobre el coll de Muset"
+  ],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "semirRef": "380",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 252,
+    "type": "description"
+   }
+  ],
+  "after": "n0306",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 380 (SOBRE EL COLL DE MUSET)» detectada a l'OCR (p. 252) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0541",
+  "name": "Turó del Torrent del Pont",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 260,
+    "type": "description"
+   }
+  ],
+  "after": "n0312",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «TURÓ DEL TORRENT DEL PONT» detectada a l'OCR (p. 260) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0542",
+  "name": "Cotes 418-416-417",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "418-416-417",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 273,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 418-416-417» detectada a l'OCR (p. 273) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0543",
+  "name": "Roca del Porró",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "469",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 277,
+    "type": "description"
+   }
+  ],
+  "after": "n0337",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DEL PORRÓ (469)» detectada a l'OCR (p. 277) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0544",
+  "name": "Cotes 453-454-455",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "453-454-455",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 280,
+    "type": "description"
+   }
+  ],
+  "after": "n0341",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 453-454-455» detectada a l'OCR (p. 280) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0545",
+  "name": "Punxó de la Pau i Justícia",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 282,
+    "type": "description"
+   }
+  ],
+  "after": "n0346",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «PUNXÓ DE LA PAU I JUSTÍCIA» detectada a l'OCR (p. 282) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0546",
+  "name": "La Mamella",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "425",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 285,
+    "type": "description"
+   }
+  ],
+  "after": "n0350",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «LA MAMELLA -425-» detectada a l'OCR (p. 285) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0547",
+  "name": "Serrat d'en Muntaner",
+  "alternativeNames": [
+   "Superior i inferior"
+  ],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 290,
+    "type": "description"
+   }
+  ],
+  "after": "n0357",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «SERRAT D'EN MUNTANER (SUPERIOR I INFERIOR)» detectada a l'OCR (p. 290) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0548",
+  "name": "El Trencabarrals",
+  "alternativeNames": [
+   "Cigar"
+  ],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "semirRef": "412",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 295,
+    "type": "description"
+   }
+  ],
+  "after": "n0368",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «EL TRENCABARRALS (412) (CIGAR)» detectada a l'OCR (p. 295) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0549",
+  "name": "Roques dels Escolans",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s27",
+  "semirRef": "474C",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 315,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROQUES DELS ESCOLANS (474 C)» detectada a l'OCR (p. 315) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0550",
+  "name": "Orella de Llebre",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s28",
+  "semirRef": "499 A i B",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 319,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ORELLA DE LLEBRE (499 A i B)» detectada a l'OCR (p. 319) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0551",
+  "name": "Punxó del Tatet",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s29",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 324,
+    "type": "description"
+   }
+  ],
+  "after": "n0400",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «PUNXÓ DEL TATET» detectada a l'OCR (p. 324) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0552",
+  "name": "Miranda de Sant Miquel",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "semirRef": "482",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 329,
+    "type": "description"
+   }
+  ],
+  "after": "n0405",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «MIRANDA DE SANT MIQUEL (482)» detectada a l'OCR (p. 329) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0553",
+  "name": "Torre de Sant Miquel",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 329,
+    "type": "description"
+   }
+  ],
+  "after": "n0552",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «TORRE DE SANT MIQUEL» detectada a l'OCR (p. 329) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0554",
+  "name": "Agulla de la Creu",
+  "alternativeNames": [
+   "Agulla Baixa"
+  ],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "semirRef": "488-489",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 330,
+    "type": "description"
+   }
+  ],
+  "after": "n0408",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DE LA CREU (488 i 489 —AGULLA BAIXA—)» detectada a l'OCR (p. 330) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0555",
+  "name": "Agulla del Germà Paulí",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "semirRef": "497 A i B",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 331,
+    "type": "description"
+   }
+  ],
+  "after": "n0554",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DEL GERMÀ PAULÍ (497 A i B)» detectada a l'OCR (p. 331) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0556",
+  "name": "La Panxa del Bisbe",
+  "alternativeNames": [
+   "L'Antipàtica"
+  ],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "520",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 344,
+    "type": "description"
+   }
+  ],
+  "after": "n0429",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «LA PANXA DEL BISBE (520) (L'ANTIPÀTICA)» detectada a l'OCR (p. 344) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0557",
+  "name": "Cotes 514 i 524",
+  "alternativeNames": [
+   "Roques de Sant Benet"
+  ],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "514-524",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 347,
+    "type": "description"
+   }
+  ],
+  "after": "n0556",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 514 I 524 (ROQUES DE SANT BENET)» detectada a l'OCR (p. 347) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0558",
+  "name": "Roca de l'Avortó",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "511",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 351,
+    "type": "description"
+   }
+  ],
+  "after": "n0435",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE L'AVORTÓ (511)» detectada a l'OCR (p. 351) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0559",
+  "name": "Roca de sobre l'Agulla del Camí",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "542",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 358,
+    "type": "description"
+   }
+  ],
+  "after": "n0440",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE SOBRE L'AGULLA DEL CAMÍ (542)» detectada a l'OCR (p. 358) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0560",
+  "name": "Roca de les Aigües",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 362,
+    "type": "description"
+   }
+  ],
+  "after": "n0445",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE LES AIGÚUES» detectada a l'OCR (p. 362) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0561",
+  "name": "Roca de la Mitjatarda",
+  "alternativeNames": [
+   "Bombers"
+  ],
+  "regionId": "r06",
+  "sectionId": "s33",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 365,
+    "type": "description"
+   }
+  ],
+  "after": "n0449",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DE LA MITJATARDA (BOMBERS)» detectada a l'OCR (p. 365) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0562",
+  "name": "Roca del Moro Joan",
+  "alternativeNames": [
+   "Fesolet Inferior"
+  ],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "semirRef": "503",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 367,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA DEL MORO JOAN (503) (FESOLET INFERIOR)» detectada a l'OCR (p. 367) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0563",
+  "name": "Cadireta del Diable",
+  "alternativeNames": [
+   "Flautats",
+   "La Cadireta dels Flautats"
+  ],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "semirRef": "508",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 369,
+    "type": "description"
+   }
+  ],
+  "after": "n0452",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «CADIRETA DEL DIABLE (508) (FLAUTATS)» detectada a l'OCR (p. 369) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0564",
+  "name": "Cotes 540-541",
+  "alternativeNames": [
+   "Roques de sobre les Trinitats"
+  ],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "semirRef": "540-541",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 372,
+    "type": "description"
+   }
+  ],
+  "after": "n0458",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 540-541 (ROQUES DE SOBRE LES TRINITATS)» detectada a l'OCR (p. 372) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0565",
+  "name": "Cotes 558 i 559",
+  "alternativeNames": [
+   "Carena descendent de la Punxa"
+  ],
+  "regionId": "r06",
+  "sectionId": "s34",
+  "semirRef": "558-559",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 375,
+    "type": "description"
+   }
+  ],
+  "after": "n0461",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 558 I 559 (CARENA DESCENDENT DE LA PUNXA)» detectada a l'OCR (p. 375) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0566",
+  "name": "Agulla del Llapis i Turó",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "562-563",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 381,
+    "type": "description"
+   }
+  ],
+  "after": "n0473",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «AGULLA DEL LLAPIS I TURÓ (562-563)» detectada a l'OCR (p. 381) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0567",
+  "name": "Barretina Gran",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "566",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 384,
+    "type": "description"
+   }
+  ],
+  "after": "n0480",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «BARRETINA GRAN (566)» detectada a l'OCR (p. 384) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0568",
+  "name": "Barretina Petita",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "567",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 384,
+    "type": "description"
+   }
+  ],
+  "after": "n0567",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «PETITA (567)» detectada a l'OCR (p. 384) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0569",
+  "name": "Cotes 568 i 572",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "568-572",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 384,
+    "type": "description"
+   }
+  ],
+  "after": "n0568",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 568 I 572» detectada a l'OCR (p. 384) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0570",
+  "name": "La Talaia Gran",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "304",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 206,
+    "type": "description"
+   }
+  ],
+  "after": "n0263",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Talaia Gran (304)» (p. 206) dins del grup «Les Talaies»; làmina a la p. 205."
+  }
+ },
+ {
+  "id": "n0571",
+  "name": "La Talaia Petita",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "306",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 208,
+    "type": "description"
+   }
+  ],
+  "after": "n0575",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Talaia Petita (306)» (p. 208) dins del grup «Les Talaies»"
+  }
+ },
+ {
+  "id": "n0572",
+  "name": "La Petxina",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "305",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 207,
+    "type": "description"
+   }
+  ],
+  "after": "n0570",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «La Petxina (305)» (p. 207) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0573",
+  "name": "Roca 393",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "393",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 207,
+    "type": "description"
+   }
+  ],
+  "after": "n0572",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca 393» (p. 207) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0574",
+  "name": "Roca 314",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "314",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 208,
+    "type": "description"
+   }
+  ],
+  "after": "n0573",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca 314» (p. 208) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0575",
+  "name": "Roca del Coll del Llum",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "313",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 208,
+    "type": "description"
+   }
+  ],
+  "after": "n0574",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca del Coll del Llum (313)» (p. 208) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0576",
+  "name": "Roca 307",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "307",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 208,
+    "type": "description"
+   }
+  ],
+  "after": "n0571",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca 307» (p. 208) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0577",
+  "name": "Roca de l'Esperança",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "443",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 262,
+    "type": "description"
+   }
+  ],
+  "after": "n0318",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca de l'Esperança (443)» (p. 262) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0578",
+  "name": "Roca d'en Carles Roig",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "444",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 262,
+    "type": "description"
+   }
+  ],
+  "after": "n0577",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Roca d'en Carles Roig (444)» (p. 262) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0579",
+  "name": "Cota 445",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "445",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 263,
+    "type": "description"
+   }
+  ],
+  "after": "n0578",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Cota 445» (p. 263) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0580",
+  "name": "Cota 446",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "446",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 263,
+    "type": "description"
+   }
+  ],
+  "after": "n0579",
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Cota 446» (p. 263) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0581",
+  "name": "Cota 89",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "89",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 63,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 89» detectada a l'OCR (p. 63) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0582",
+  "name": "Roca 77",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "77",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 63,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 77» detectada a l'OCR (p. 63) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0583",
+  "name": "Roca 87",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "87",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 65,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 87» detectada a l'OCR (p. 65) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0584",
+  "name": "Roca 92",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "92",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 66,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 92» detectada a l'OCR (p. 66) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0585",
+  "name": "Roca 86",
+  "alternativeNames": [],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "86",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 67,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 86» detectada a l'OCR (p. 67) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0586",
+  "name": "Roca 118",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "118",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 95,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 118» detectada a l'OCR (p. 95) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0587",
+  "name": "Roca 180",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "180",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 96,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 180» detectada a l'OCR (p. 96) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0588",
+  "name": "Roca 155",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "155",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 96,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 155» detectada a l'OCR (p. 96) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0589",
+  "name": "Roca 174",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "174",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 97,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 174» detectada a l'OCR (p. 97) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0590",
+  "name": "Roca 181",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "181",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 98,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 181» detectada a l'OCR (p. 98) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0591",
+  "name": "Roca 119",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s05",
+  "semirRef": "119",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 98,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 119» detectada a l'OCR (p. 98) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0592",
+  "name": "Roca 193",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "193",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 105,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 193» detectada a l'OCR (p. 105) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0593",
+  "name": "Roca 188",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "188",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 108,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 188» detectada a l'OCR (p. 108) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0594",
+  "name": "Roca 142",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "142",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 112,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 142» detectada a l'OCR (p. 112) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0595",
+  "name": "Roca 165",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "165",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 112,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 165» detectada a l'OCR (p. 112) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0596",
+  "name": "Roca 164",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "164",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 112,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 164» detectada a l'OCR (p. 112) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0597",
+  "name": "Roca 182",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "182",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 113,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 182» detectada a l'OCR (p. 113) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0598",
+  "name": "Roca 144",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "144",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 113,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 144» detectada a l'OCR (p. 113) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0599",
+  "name": "Roca 151",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "151",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 114,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 151» detectada a l'OCR (p. 114) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0600",
+  "name": "Roca 152",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "152",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 114,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 152» detectada a l'OCR (p. 114) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0601",
+  "name": "Roca 145",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "145",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 114,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 145» detectada a l'OCR (p. 114) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0602",
+  "name": "Roca 194",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "194",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 114,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 194» detectada a l'OCR (p. 114) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0603",
+  "name": "Roca 157",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "157",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 120,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 157» detectada a l'OCR (p. 120) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0604",
+  "name": "Roca 161",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "semirRef": "161",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 125,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 161» detectada a l'OCR (p. 125) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0605",
+  "name": "Roca 191",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s07",
+  "semirRef": "191",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 128,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 191» detectada a l'OCR (p. 128) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0606",
+  "name": "Roca 211",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "semirRef": "211",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 138,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 211» detectada a l'OCR (p. 138) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0607",
+  "name": "Roca 226",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "semirRef": "226",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 138,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 226» detectada a l'OCR (p. 138) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0608",
+  "name": "Roca 228",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "semirRef": "228",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 139,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 228» detectada a l'OCR (p. 139) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0609",
+  "name": "Roca 229",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "semirRef": "229",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 139,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 229» detectada a l'OCR (p. 139) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0610",
+  "name": "Roca 232",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s08",
+  "semirRef": "232",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 142,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 232» detectada a l'OCR (p. 142) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0611",
+  "name": "Roca 253",
+  "alternativeNames": [],
+  "regionId": "r03",
+  "sectionId": "s13",
+  "semirRef": "253",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 173,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 253» detectada a l'OCR (p. 173) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0612",
+  "name": "Roca 309",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s15",
+  "semirRef": "309",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 197,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 309» detectada a l'OCR (p. 197) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0613",
+  "name": "Roca 326",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "semirRef": "326",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 214,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 326» detectada a l'OCR (p. 214) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0614",
+  "name": "Roca 324",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "semirRef": "324",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 216,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 324» detectada a l'OCR (p. 216) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0615",
+  "name": "Roca 332",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "332",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 226,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 332» detectada a l'OCR (p. 226) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0616",
+  "name": "Roca 349",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "349",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 234,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 349» detectada a l'OCR (p. 234) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0617",
+  "name": "Roca 347",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s18",
+  "semirRef": "347",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 241,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 347» detectada a l'OCR (p. 241) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0618",
+  "name": "Roca 384",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s19",
+  "semirRef": "384",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 247,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «ROCA 384» detectada a l'OCR (p. 247) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0619",
+  "name": "Cotes 462 i 462 A",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "462-462A",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 263,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Cotes 462 i 462 A» detectada a l'OCR (p. 263) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0620",
+  "name": "Cota 462 B",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "462B",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 264,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Cota 462 B» detectada a l'OCR (p. 264) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0621",
+  "name": "Cota 413",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "semirRef": "413",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 268,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 413» detectada a l'OCR (p. 268) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0622",
+  "name": "Cota 414",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s21",
+  "semirRef": "414",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 268,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 414» detectada a l'OCR (p. 268) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0623",
+  "name": "Cota 419",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "419",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 274,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 419» detectada a l'OCR (p. 274) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0624",
+  "name": "Cota 420",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "420",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 274,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 420» detectada a l'OCR (p. 274) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0625",
+  "name": "Cota 433",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "433",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 276,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 433» detectada a l'OCR (p. 276) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0626",
+  "name": "Cota 436",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "436",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 276,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 436» detectada a l'OCR (p. 276) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0627",
+  "name": "Cota 471",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "471",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 277,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 471» detectada a l'OCR (p. 277) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0628",
+  "name": "Cota 429",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "429",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 278,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 429» detectada a l'OCR (p. 278) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0629",
+  "name": "Cota 447",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "447",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 278,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 447» detectada a l'OCR (p. 278) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0630",
+  "name": "Cotes 450 i 451",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "450-451",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 279,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 450 i 451» detectada a l'OCR (p. 279) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0631",
+  "name": "Cota 463",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "463",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 281,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 463» detectada a l'OCR (p. 281) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0632",
+  "name": "Cota 409",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "409",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 283,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 409» detectada a l'OCR (p. 283) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0633",
+  "name": "Cotes 475 i 476",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "475-476",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 283,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 475 i 476» detectada a l'OCR (p. 283) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0634",
+  "name": "Cota 464",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s23",
+  "semirRef": "464",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 287,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 464» detectada a l'OCR (p. 287) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0635",
+  "name": "Cota 495",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "semirRef": "495",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 295,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 495» detectada a l'OCR (p. 295) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0636",
+  "name": "Cotes 411 i 410",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "semirRef": "411-410",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 297,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTES 411 i 410» detectada a l'OCR (p. 297) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0637",
+  "name": "Cota 407",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "semirRef": "407",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 303,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 407» detectada a l'OCR (p. 303) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0638",
+  "name": "Cota 408",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s24",
+  "semirRef": "408",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 303,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 408» detectada a l'OCR (p. 303) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0639",
+  "name": "Cota 466",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "semirRef": "466",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 305,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 466» detectada a l'OCR (p. 305) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0640",
+  "name": "Tossal de la Boirafua",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "semirRef": "499H",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 312,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Tossal de la Boirafua (499 H)» detectada a l'OCR (p. 312) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0641",
+  "name": "Cota 449 I",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s26",
+  "semirRef": "449",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 312,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «Cota 449 I» detectada a l'OCR (p. 312) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0642",
+  "name": "Cota 493 (Carena de la dreta del funicular)",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "semirRef": "493",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 327,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 493 (CARENA DE LA DRETA DEL FUNICULAR)» detectada a l'OCR (p. 327) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0643",
+  "name": "Cota 494 (Carena de la dreta del funicular)",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s30",
+  "semirRef": "494",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 328,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 494 (CARENA DE LA DRETA DEL FUNICULAR)» detectada a l'OCR (p. 328) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0644",
+  "name": "Cota 527",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "527",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 342,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 527» detectada a l'OCR (p. 342) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0645",
+  "name": "Cota 519",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "519",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 346,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 519» detectada a l'OCR (p. 346) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0646",
+  "name": "Cota 518",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "518",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 346,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 518» detectada a l'OCR (p. 346) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0647",
+  "name": "Cota 517",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "517",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 347,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 517» detectada a l'OCR (p. 347) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0648",
+  "name": "Cota 529 (Camí de Sant Salvador)",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "529",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 355,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 529 (CAMÍ DE SANT SALVADOR)» detectada a l'OCR (p. 355) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0649",
+  "name": "Cota 590",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "semirRef": "590",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 359,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 590» detectada a l'OCR (p. 359) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0650",
+  "name": "Cota 575 (Serra de les Lluernes)",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "575",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 382,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 575 (SERRA DE LES LLUERNES)» detectada a l'OCR (p. 382) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0651",
+  "name": "Cota 574",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "574",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 383,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 574» detectada a l'OCR (p. 383) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0652",
+  "name": "Cota 571",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s35",
+  "semirRef": "571",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 386,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: capçalera «COTA 571» detectada a l'OCR (p. 386) i no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0653",
+  "name": "Els Pouetons",
+  "alternativeNames": [],
+  "kind": "avenc",
+  "regionId": "r01",
+  "sectionId": "s03",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 56,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «ELS POUETONS (Avenc)» (p. 56) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0654",
+  "name": "Pou de l'Enclusa",
+  "alternativeNames": [],
+  "kind": "avenc",
+  "regionId": "r02",
+  "sectionId": "s06",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 119,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «POU DE L'ENCLUSA (Avenc)» (p. 119) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0655",
+  "name": "Pou de la Sajolida",
+  "alternativeNames": [],
+  "kind": "avenc",
+  "regionId": "r04",
+  "sectionId": "s18",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 241,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «POU DE LA SAJOLIDA (Avenc)» (p. 241) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0656",
+  "name": "Pou de la Costa Dreta",
+  "alternativeNames": [],
+  "kind": "avenc",
+  "regionId": "r05",
+  "sectionId": "s23",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 292,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «POU DE LA COSTA DRETA (Avenc)» (p. 292) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0657",
+  "name": "Coves del Salnitre",
+  "alternativeNames": [],
+  "kind": "cova",
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 313,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «Coves del Salnitre» (p. 313) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0658",
+  "name": "Cova Freda",
+  "alternativeNames": [],
+  "kind": "cova",
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 313,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «Cova Freda» (p. 313) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0659",
+  "name": "Cova Gran",
+  "alternativeNames": [
+   "Cova Vella"
+  ],
+  "kind": "cova",
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 313,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «Cova Gran» (p. 313) no recollida per l'extracció automàtica."
+  }
+ },
+ {
+  "id": "n0660",
+  "name": "Cova de les Abelles",
+  "alternativeNames": [],
+  "kind": "cova",
+  "regionId": "r05",
+  "sectionId": "s26",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 314,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «Cova de les Abelles» (p. 314) no recollida per l'extracció automàtica."
+  }
+ }
+]

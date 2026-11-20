@@ -9,6 +9,32 @@
   "note": "node/14360188655"
  },
  {
+  "needleId": "n0002",
+  "latitude": 41.6072981,
+  "longitude": 1.7741892,
+  "accuracy": "approximate",
+  "source": "Editor: Marc, 2026-11-19",
+  "matchedBy": "id"
+ },
+ {
+  "needleId": "n0003",
+  "latitude": 41.606387,
+  "longitude": 1.775796,
+  "elevation": 785,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0004",
+  "latitude": 41.608088,
+  "longitude": 1.781632,
+  "elevation": 972,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0005",
   "latitude": 41.6066578,
   "longitude": 1.7805707,
@@ -16,6 +42,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/14360188658]",
   "matchedBy": "name",
   "note": "node/14360188658"
+ },
+ {
+  "needleId": "n0006",
+  "latitude": 41.6061565,
+  "longitude": 1.779339,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14360155885]",
+  "matchedBy": "name",
+  "note": "Les Tres Maries — nom semblant (0.91); a 117 m de la secció · node/14360155885"
+ },
+ {
+  "needleId": "n0007",
+  "latitude": 41.608088,
+  "longitude": 1.781632,
+  "elevation": 972,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0008",
@@ -98,6 +142,15 @@
   "note": "node/1928273129"
  },
  {
+  "needleId": "n0016",
+  "latitude": 41.600519,
+  "longitude": 1.782135,
+  "elevation": 782,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0017",
   "latitude": 41.6001741,
   "longitude": 1.7822546,
@@ -138,6 +191,15 @@
   "note": "node/10815302818"
  },
  {
+  "needleId": "n0021",
+  "latitude": 41.597534,
+  "longitude": 1.781831,
+  "elevation": 711,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0022",
   "latitude": 41.5971529,
   "longitude": 1.7825734,
@@ -146,6 +208,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/2784027018]",
   "matchedBy": "name",
   "note": "node/2784027018"
+ },
+ {
+  "needleId": "n0023",
+  "latitude": 41.597526,
+  "longitude": 1.782815,
+  "elevation": 742,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0026",
+  "latitude": 41.607473,
+  "longitude": 1.783072,
+  "elevation": 939,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0027",
@@ -188,6 +268,15 @@
   "note": "node/2783395397"
  },
  {
+  "needleId": "n0031",
+  "latitude": 41.6070041,
+  "longitude": 1.7808267,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "les Savines — nom exacte; a 2 m de la secció"
+ },
+ {
   "needleId": "n0032",
   "latitude": 41.6077258,
   "longitude": 1.7813878,
@@ -196,6 +285,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741252]",
   "matchedBy": "name",
   "note": "node/1928741252"
+ },
+ {
+  "needleId": "n0033",
+  "latitude": 41.607633,
+  "longitude": 1.7816761,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "els Merlets — nom exacte; a 26 m de la secció"
+ },
+ {
+  "needleId": "n0034",
+  "latitude": 41.607596,
+  "longitude": 1.781918,
+  "elevation": 978,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0035",
@@ -218,6 +325,24 @@
   "note": "node/1928741251"
  },
  {
+  "needleId": "n0038",
+  "latitude": 41.6080466,
+  "longitude": 1.781738,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783395395]",
+  "matchedBy": "name",
+  "note": "la Peluda — nom (sense «roca/agulla…»); a 18 m de la secció · node/2783395395"
+ },
+ {
+  "needleId": "n0039",
+  "latitude": 41.608243,
+  "longitude": 1.781785,
+  "elevation": 970,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0040",
   "latitude": 41.6080617,
   "longitude": 1.7819554,
@@ -226,6 +351,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741253]",
   "matchedBy": "name",
   "note": "node/1928741253"
+ },
+ {
+  "needleId": "n0041",
+  "latitude": 41.608497,
+  "longitude": 1.781973,
+  "elevation": 1008,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0042",
+  "latitude": 41.608641,
+  "longitude": 1.78197,
+  "elevation": 1012,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0044",
@@ -238,6 +381,15 @@
   "note": "node/2783405255"
  },
  {
+  "needleId": "n0045",
+  "latitude": 41.6089706,
+  "longitude": 1.7821091,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741259]",
+  "matchedBy": "name",
+  "note": "Agulla dels Espeleòlegs — nom exacte; a 14 m de la secció · node/1928741259"
+ },
+ {
   "needleId": "n0046",
   "latitude": 41.6091264,
   "longitude": 1.7825474,
@@ -246,6 +398,42 @@
   "source": "OpenStreetMap contributors (ODbL), manually matched [node/1928741262]",
   "matchedBy": "id",
   "note": "node/1928741262"
+ },
+ {
+  "needleId": "n0047",
+  "latitude": 41.6091348,
+  "longitude": 1.7825441,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Saca Gran — nom exacte; a 1 m de la secció"
+ },
+ {
+  "needleId": "n0048",
+  "latitude": 41.608719,
+  "longitude": 1.7825461,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Martell — nom (sense «roca/agulla…»); a 45 m de la secció"
+ },
+ {
+  "needleId": "n0049",
+  "latitude": 41.608719,
+  "longitude": 1.7825461,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Martell — nom exacte; a 45 m de la secció"
+ },
+ {
+  "needleId": "n0051",
+  "latitude": 41.6088693,
+  "longitude": 1.783213,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca de les Heures — nom exacte; a 2 m de la secció"
  },
  {
   "needleId": "n0052",
@@ -258,6 +446,15 @@
   "note": "node/1928741260"
  },
  {
+  "needleId": "n0053",
+  "latitude": 41.609733,
+  "longitude": 1.783846,
+  "elevation": 1045,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0054",
   "latitude": 41.6097399,
   "longitude": 1.7841042,
@@ -266,6 +463,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/3822950685]",
   "matchedBy": "name",
   "note": "node/3822950685"
+ },
+ {
+  "needleId": "n0055",
+  "latitude": 41.6097676,
+  "longitude": 1.7841056,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Arbret — nom (sense «roca/agulla…»); a 3 m de la secció"
+ },
+ {
+  "needleId": "n0056",
+  "latitude": 41.610108,
+  "longitude": 1.784391,
+  "elevation": 1067,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0057",
@@ -306,6 +521,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928184950]",
   "matchedBy": "name",
   "note": "node/1928184950"
+ },
+ {
+  "needleId": "n0062",
+  "latitude": 41.6081913,
+  "longitude": 1.7840585,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Esquèlet — nom (sense «roca/agulla…»); a 48 m de la secció"
  },
  {
   "needleId": "n0063",
@@ -396,6 +620,15 @@
   "note": "node/13955402966"
  },
  {
+  "needleId": "n0072",
+  "latitude": 41.60991,
+  "longitude": 1.785222,
+  "elevation": 1068,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0073",
   "latitude": 41.6100733,
   "longitude": 1.7855151,
@@ -454,6 +687,24 @@
   "note": "node/13955426114"
  },
  {
+  "needleId": "n0079",
+  "latitude": 41.6089245,
+  "longitude": 1.7866544,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783357361]",
+  "matchedBy": "name",
+  "note": "el Dumbo — nom (sense «roca/agulla…»); a 48 m de la secció · node/2783357361"
+ },
+ {
+  "needleId": "n0080",
+  "latitude": 41.609994,
+  "longitude": 1.787249,
+  "elevation": 1035,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0081",
   "latitude": 41.6105163,
   "longitude": 1.7869327,
@@ -493,6 +744,33 @@
   "note": "node/1928741278"
  },
  {
+  "needleId": "n0085",
+  "latitude": 41.609834,
+  "longitude": 1.78664,
+  "elevation": 1060,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0086",
+  "latitude": 41.610881,
+  "longitude": 1.786776,
+  "elevation": 1013,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0087",
+  "latitude": 41.610824,
+  "longitude": 1.78739,
+  "elevation": 1072,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0088",
   "latitude": 41.6109967,
   "longitude": 1.7873198,
@@ -519,6 +797,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928223208]",
   "matchedBy": "name",
   "note": "node/1928223208"
+ },
+ {
+  "needleId": "n0092",
+  "latitude": 41.614285,
+  "longitude": 1.786713,
+  "elevation": 780,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0093",
+  "latitude": 41.615749,
+  "longitude": 1.785533,
+  "elevation": 765,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0094",
@@ -559,6 +855,15 @@
   "note": "node/1928741286"
  },
  {
+  "needleId": "n0098",
+  "latitude": 41.6100982,
+  "longitude": 1.7887669,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741281]",
+  "matchedBy": "name",
+  "note": "la Sense Nom — nom semblant (0.94); a 42 m de la secció · node/1928741281"
+ },
+ {
   "needleId": "n0099",
   "latitude": 41.6107531,
   "longitude": 1.7893392,
@@ -568,6 +873,24 @@
   "note": "node/13924343216"
  },
  {
+  "needleId": "n0101",
+  "latitude": 41.6099142,
+  "longitude": 1.7895594,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343217]",
+  "matchedBy": "name",
+  "note": "El Queixal — nom exacte; a 50 m de la secció · node/13924343217"
+ },
+ {
+  "needleId": "n0102",
+  "latitude": 41.6104798,
+  "longitude": 1.7902973,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343219]",
+  "matchedBy": "name",
+  "note": "El Carquinyoli — nom exacte; a 33 m de la secció · node/13924343219"
+ },
+ {
   "needleId": "n0103",
   "latitude": 41.6098112,
   "longitude": 1.7901431,
@@ -575,6 +898,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/13924343221]",
   "matchedBy": "name",
   "note": "node/13924343221"
+ },
+ {
+  "needleId": "n0104",
+  "latitude": 41.6106292,
+  "longitude": 1.7906564,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat del Centenar — nom exacte; a 1 m de la secció"
  },
  {
   "needleId": "n0105",
@@ -597,6 +929,15 @@
   "note": "node/1928741292"
  },
  {
+  "needleId": "n0108",
+  "latitude": 41.610665,
+  "longitude": 1.791053,
+  "elevation": 1080,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0109",
   "latitude": 41.6104915,
   "longitude": 1.7912231,
@@ -605,6 +946,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741288]",
   "matchedBy": "name",
   "note": "node/1928741288"
+ },
+ {
+  "needleId": "n0110",
+  "latitude": 41.610033,
+  "longitude": 1.790945,
+  "elevation": 1071,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0111",
@@ -625,6 +975,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/6866602076]",
   "matchedBy": "name",
   "note": "node/6866602076"
+ },
+ {
+  "needleId": "n0113",
+  "latitude": 41.608521,
+  "longitude": 1.790193,
+  "elevation": 1027,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0114",
+  "latitude": 41.6060977,
+  "longitude": 1.7895682,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594614369]",
+  "matchedBy": "name",
+  "note": "Roca 169 — número de Semir 169; a 164 m de la secció · node/10594614369"
  },
  {
   "needleId": "n0115",
@@ -717,6 +1085,24 @@
   "note": "node/1928741293"
  },
  {
+  "needleId": "n0125",
+  "latitude": 41.609761,
+  "longitude": 1.792474,
+  "elevation": 1050,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0126",
+  "latitude": 41.6098354,
+  "longitude": 1.7920471,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Talp — nom exacte; a 58 m de la secció"
+ },
+ {
   "needleId": "n0127",
   "latitude": 41.6091638,
   "longitude": 1.7923958,
@@ -725,6 +1111,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741268]",
   "matchedBy": "name",
   "note": "node/1928741268"
+ },
+ {
+  "needleId": "n0128",
+  "latitude": 41.609109,
+  "longitude": 1.792198,
+  "elevation": 1051,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0129",
+  "latitude": 41.608862,
+  "longitude": 1.792611,
+  "elevation": 1040,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0130",
@@ -737,6 +1141,15 @@
   "note": "node/1928741264"
  },
  {
+  "needleId": "n0131",
+  "latitude": 41.609272,
+  "longitude": 1.793119,
+  "elevation": 1075,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0132",
   "latitude": 41.6105302,
   "longitude": 1.7930259,
@@ -745,6 +1158,42 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741289]",
   "matchedBy": "name",
   "note": "node/1928741289"
+ },
+ {
+  "needleId": "n0133",
+  "latitude": 41.610099,
+  "longitude": 1.793848,
+  "elevation": 1144,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0135",
+  "latitude": 41.6090297,
+  "longitude": 1.7911823,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "els Frares Encantats — nom exacte; a 102 m de la secció"
+ },
+ {
+  "needleId": "n0136",
+  "latitude": 41.609553,
+  "longitude": 1.794962,
+  "elevation": 1047,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0137",
+  "latitude": 41.609348,
+  "longitude": 1.795194,
+  "elevation": 1004,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0138",
@@ -757,6 +1206,42 @@
   "note": "node/1928223213"
  },
  {
+  "needleId": "n0140",
+  "latitude": 41.608301,
+  "longitude": 1.794985,
+  "elevation": 1030,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0141",
+  "latitude": 41.608333,
+  "longitude": 1.794577,
+  "elevation": 1067,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0142",
+  "latitude": 41.607628,
+  "longitude": 1.79435,
+  "elevation": 1060,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0143",
+  "latitude": 41.607006,
+  "longitude": 1.793473,
+  "elevation": 1046,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0144",
   "latitude": 41.6067473,
   "longitude": 1.7933623,
@@ -765,6 +1250,33 @@
   "source": "OpenStreetMap contributors (ODbL) [node/6884593560]",
   "matchedBy": "name",
   "note": "node/6884593560"
+ },
+ {
+  "needleId": "n0145",
+  "latitude": 41.606776,
+  "longitude": 1.79385,
+  "elevation": 1053,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0146",
+  "latitude": 41.607001,
+  "longitude": 1.79381,
+  "elevation": 1048,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0147",
+  "latitude": 41.6058972,
+  "longitude": 1.793202,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10799709708]",
+  "matchedBy": "name",
+  "note": "Agulla Inferior del Pas del Príncep — nom (sense «roca/agulla…»); a 43 m de la secció · node/10799709708"
  },
  {
   "needleId": "n0148",
@@ -795,6 +1307,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/3439479364]",
   "matchedBy": "name",
   "note": "node/3439479364"
+ },
+ {
+  "needleId": "n0152",
+  "latitude": 41.5999283,
+  "longitude": 1.7872416,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Desdentegada — nom (sense «roca/agulla…»); a 0 m de la secció"
+ },
+ {
+  "needleId": "n0153",
+  "latitude": 41.5999283,
+  "longitude": 1.7872416,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Desdentegada — nom exacte; a 2 m de la secció"
  },
  {
   "needleId": "n0154",
@@ -995,6 +1525,24 @@
   "note": "node/13825944733"
  },
  {
+  "needleId": "n0175",
+  "latitude": 41.6002854,
+  "longitude": 1.7941399,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Bonys dels Naps — nom exacte; a 119 m de la secció"
+ },
+ {
+  "needleId": "n0176",
+  "latitude": 41.602013,
+  "longitude": 1.794023,
+  "elevation": 878,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0177",
   "latitude": 41.6021526,
   "longitude": 1.7938635,
@@ -1023,6 +1571,33 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10712826562]",
   "matchedBy": "name",
   "note": "node/10712826562"
+ },
+ {
+  "needleId": "n0180",
+  "latitude": 41.601141,
+  "longitude": 1.793331,
+  "elevation": 873,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0181",
+  "latitude": 41.5994805,
+  "longitude": 1.7948484,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141673]",
+  "matchedBy": "name",
+  "note": "la Foca — nom (sense «roca/agulla…»); a 107 m de la secció · node/2470141673"
+ },
+ {
+  "needleId": "n0182",
+  "latitude": 41.599413,
+  "longitude": 1.792607,
+  "elevation": 871,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0183",
@@ -1055,6 +1630,24 @@
   "note": "node/3452073436"
  },
  {
+  "needleId": "n0186",
+  "latitude": 41.598469,
+  "longitude": 1.79452,
+  "elevation": 835,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0187",
+  "latitude": 41.5980923,
+  "longitude": 1.7918267,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca Vella — nom (sense «roca/agulla…»); a 19 m de la secció"
+ },
+ {
   "needleId": "n0189",
   "latitude": 41.5981368,
   "longitude": 1.7929955,
@@ -1075,6 +1668,24 @@
   "note": "node/10580388999"
  },
  {
+  "needleId": "n0192",
+  "latitude": 41.5980389,
+  "longitude": 1.7889118,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Agulla del Castell — nom exacte; a 237 m de la secció"
+ },
+ {
+  "needleId": "n0193",
+  "latitude": 41.5983203,
+  "longitude": 1.7892732,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca del Tambor — nom exacte; a 211 m de la secció"
+ },
+ {
   "needleId": "n0194",
   "latitude": 41.589087,
   "longitude": 1.7958995,
@@ -1085,6 +1696,15 @@
   "note": "node/10656398970"
  },
  {
+  "needleId": "n0195",
+  "latitude": 41.593068,
+  "longitude": 1.792245,
+  "elevation": 624,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0197",
   "latitude": 41.5930795,
   "longitude": 1.7955409,
@@ -1093,6 +1713,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10652368526]",
   "matchedBy": "name",
   "note": "node/10652368526"
+ },
+ {
+  "needleId": "n0198",
+  "latitude": 41.5970474,
+  "longitude": 1.7976751,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Agulla Zanini — nom exacte; a 1 m de la secció"
  },
  {
   "needleId": "n0199",
@@ -1113,6 +1742,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10594632539]",
   "matchedBy": "name",
   "note": "node/10594632539"
+ },
+ {
+  "needleId": "n0202",
+  "latitude": 41.5934462,
+  "longitude": 1.7996295,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Palomera — nom (sense «roca/agulla…»); a 179 m de la secció"
  },
  {
   "needleId": "n0203",
@@ -1155,6 +1793,24 @@
   "note": "node/2470141651"
  },
  {
+  "needleId": "n0209",
+  "latitude": 41.5973945,
+  "longitude": 1.79733,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580457117]",
+  "matchedBy": "name",
+  "note": "Roca del Serrat del Faraó Occidental (Roca 259) — número de Semir 259; a 129 m de la secció · node/10580457117"
+ },
+ {
+  "needleId": "n0210",
+  "latitude": 41.598069,
+  "longitude": 1.7998854,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat del Faraó — nom exacte; a 12 m de la secció"
+ },
+ {
   "needleId": "n0211",
   "latitude": 41.6000095,
   "longitude": 1.8039193,
@@ -1175,6 +1831,60 @@
   "note": "node/10594632536"
  },
  {
+  "needleId": "n0213",
+  "latitude": 41.598317,
+  "longitude": 1.805767,
+  "elevation": 1050,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0214",
+  "latitude": 41.598193,
+  "longitude": 1.806021,
+  "elevation": 1041,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0215",
+  "latitude": 41.598384,
+  "longitude": 1.806221,
+  "elevation": 995,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0216",
+  "latitude": 41.597083,
+  "longitude": 1.806641,
+  "elevation": 886,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0217",
+  "latitude": 41.5962289,
+  "longitude": 1.8060494,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6080369842]",
+  "matchedBy": "name",
+  "note": "Cajoleta — nom (sense «roca/agulla…»); a 457 m de la secció · node/6080369842"
+ },
+ {
+  "needleId": "n0220",
+  "latitude": 41.6021444,
+  "longitude": 1.8071701,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658700]",
+  "matchedBy": "name",
+  "note": "Veïna a la dreta de la Salamandra — nom semblant (0.98); a 45 m de la secció · node/11058658700"
+ },
+ {
   "needleId": "n0221",
   "latitude": 41.6021302,
   "longitude": 1.8066255,
@@ -1183,6 +1893,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741224]",
   "matchedBy": "name",
   "note": "node/1928741224"
+ },
+ {
+  "needleId": "n0222",
+  "latitude": 41.6022567,
+  "longitude": 1.8064512,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658699]",
+  "matchedBy": "name",
+  "note": "Veïna de l'esquerra de la Salamandra — nom semblant (0.98); a 20 m de la secció · node/11058658699"
  },
  {
   "needleId": "n0223",
@@ -1215,6 +1934,15 @@
   "note": "node/1928226081"
  },
  {
+  "needleId": "n0226",
+  "latitude": 41.6061451,
+  "longitude": 1.8049574,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741241]",
+  "matchedBy": "name",
+  "note": "Roca TIM (208) — número de Semir 208; a 55 m de la secció · node/1928741241"
+ },
+ {
   "needleId": "n0227",
   "latitude": 41.6066189,
   "longitude": 1.8046046,
@@ -1223,6 +1951,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741245]",
   "matchedBy": "name",
   "note": "node/1928741245"
+ },
+ {
+  "needleId": "n0228",
+  "latitude": 41.6060755,
+  "longitude": 1.8017018,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "els Ecos — nom exacte; a 249 m de la secció"
  },
  {
   "needleId": "n0229",
@@ -1245,6 +1982,15 @@
   "note": "node/1928741237"
  },
  {
+  "needleId": "n0231",
+  "latitude": 41.6076026,
+  "longitude": 1.8012499,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Paret dels Ecos — nom exacte; a 300 m de la secció"
+ },
+ {
   "needleId": "n0232",
   "latitude": 41.6051408,
   "longitude": 1.8067409,
@@ -1252,6 +1998,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11058658697]",
   "matchedBy": "name",
   "note": "node/11058658697"
+ },
+ {
+  "needleId": "n0233",
+  "latitude": 41.6057017,
+  "longitude": 1.8073693,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Camell dels Ecos — nom exacte; a 81 m de la secció"
  },
  {
   "needleId": "n0234",
@@ -1262,6 +2017,42 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1928741236]",
   "matchedBy": "name",
   "note": "node/1928741236"
+ },
+ {
+  "needleId": "n0235",
+  "latitude": 41.605674,
+  "longitude": 1.807371,
+  "elevation": 1186,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0236",
+  "latitude": 41.6037233,
+  "longitude": 1.8070553,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741231]",
+  "matchedBy": "name",
+  "note": "Cota 288 — número de Semir 288; a 139 m de la secció · node/1928741231"
+ },
+ {
+  "needleId": "n0237",
+  "latitude": 41.60453,
+  "longitude": 1.807368,
+  "elevation": 1107,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0238",
+  "latitude": 41.605551,
+  "longitude": 1.807661,
+  "elevation": 1082,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0246",
@@ -1294,6 +2085,24 @@
   "note": "node/11879141549"
  },
  {
+  "needleId": "n0252",
+  "latitude": 41.6022019,
+  "longitude": 1.8114523,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Sentinelleta — nom exacte; a 123 m de la secció"
+ },
+ {
+  "needleId": "n0253",
+  "latitude": 41.59931,
+  "longitude": 1.810344,
+  "elevation": 1092,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0254",
   "latitude": 41.5994346,
   "longitude": 1.8105734,
@@ -1302,6 +2111,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11305488674]",
   "matchedBy": "name",
   "note": "node/11305488674"
+ },
+ {
+  "needleId": "n0255",
+  "latitude": 41.599181,
+  "longitude": 1.810118,
+  "elevation": 1085,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0257",
@@ -1314,6 +2132,33 @@
   "note": "node/14058555049"
  },
  {
+  "needleId": "n0260",
+  "latitude": 41.603555,
+  "longitude": 1.809774,
+  "elevation": 1042,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0263",
+  "latitude": 41.6046819,
+  "longitude": 1.8090319,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "les Talaies — nom exacte; a 214 m de la secció"
+ },
+ {
+  "needleId": "n0265",
+  "latitude": 41.608119,
+  "longitude": 1.813843,
+  "elevation": 932,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0267",
   "latitude": 41.6067062,
   "longitude": 1.8139116,
@@ -1321,6 +2166,51 @@
   "source": "OpenStreetMap contributors (ODbL) [node/14133488314]",
   "matchedBy": "name",
   "note": "node/14133488314"
+ },
+ {
+  "needleId": "n0269",
+  "latitude": 41.60576,
+  "longitude": 1.813094,
+  "elevation": 1111,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0271",
+  "latitude": 41.604625,
+  "longitude": 1.815683,
+  "elevation": 1200,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0272",
+  "latitude": 41.603897,
+  "longitude": 1.81674,
+  "elevation": 1120,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0273",
+  "latitude": 41.6035536,
+  "longitude": 1.8157264,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Montcau — nom exacte; a 323 m de la secció"
+ },
+ {
+  "needleId": "n0274",
+  "latitude": 41.602287,
+  "longitude": 1.818641,
+  "elevation": 1146,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0275",
@@ -1353,6 +2243,24 @@
   "note": "node/1882825853"
  },
  {
+  "needleId": "n0280",
+  "latitude": 41.6023721,
+  "longitude": 1.8207013,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Paret dels Diables — nom exacte; a 96 m de la secció"
+ },
+ {
+  "needleId": "n0281",
+  "latitude": 41.603251,
+  "longitude": 1.820496,
+  "elevation": 982,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0282",
   "latitude": 41.6009561,
   "longitude": 1.820985,
@@ -1373,6 +2281,15 @@
   "note": "node/11361458852"
  },
  {
+  "needleId": "n0284",
+  "latitude": 41.600739,
+  "longitude": 1.814434,
+  "elevation": 1154,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0286",
   "latitude": 41.5998025,
   "longitude": 1.8134909,
@@ -1381,6 +2298,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/13236375272]",
   "matchedBy": "name",
   "note": "node/13236375272"
+ },
+ {
+  "needleId": "n0287",
+  "latitude": 41.599973,
+  "longitude": 1.816152,
+  "elevation": 1100,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0288",
+  "latitude": 41.599017,
+  "longitude": 1.815989,
+  "elevation": 1033,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0289",
@@ -1401,6 +2336,60 @@
   "source": "OpenStreetMap contributors (ODbL) [node/2470141661]",
   "matchedBy": "name",
   "note": "node/2470141661"
+ },
+ {
+  "needleId": "n0294",
+  "latitude": 41.592814,
+  "longitude": 1.811963,
+  "elevation": 905,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0295",
+  "latitude": 41.593015,
+  "longitude": 1.812199,
+  "elevation": 897,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0296",
+  "latitude": 41.5937957,
+  "longitude": 1.8118227,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Castellet — nom (sense «roca/agulla…»); a 544 m de la secció"
+ },
+ {
+  "needleId": "n0298",
+  "latitude": 41.5901969,
+  "longitude": 1.802552,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat dels Tudons — nom exacte; a 321 m de la secció"
+ },
+ {
+  "needleId": "n0301",
+  "latitude": 41.5906793,
+  "longitude": 1.8065931,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Socarrada — nom (sense «roca/agulla…»); a 334 m de la secció"
+ },
+ {
+  "needleId": "n0302",
+  "latitude": 41.593132,
+  "longitude": 1.80441,
+  "elevation": 860,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0303",
@@ -1501,6 +2490,33 @@
   "note": "node/10594716668"
  },
  {
+  "needleId": "n0318",
+  "latitude": 41.5909967,
+  "longitude": 1.8190192,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "els Pollegons — nom (sense «roca/agulla…»); a 472 m de la secció"
+ },
+ {
+  "needleId": "n0319",
+  "latitude": 41.587697,
+  "longitude": 1.8166769,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat dels Pollegons — nom exacte; a 274 m de la secció"
+ },
+ {
+  "needleId": "n0321",
+  "latitude": 41.5868464,
+  "longitude": 1.8182825,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Artiga Alta — nom (sense «roca/agulla…»); a 401 m de la secció"
+ },
+ {
   "needleId": "n0322",
   "latitude": 41.5952056,
   "longitude": 1.8171774,
@@ -1509,6 +2525,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10892856993]",
   "matchedBy": "name",
   "note": "node/10892856993"
+ },
+ {
+  "needleId": "n0323",
+  "latitude": 41.595757,
+  "longitude": 1.821352,
+  "elevation": 1032,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0324",
@@ -1551,6 +2576,15 @@
   "note": "node/2470141671"
  },
  {
+  "needleId": "n0328",
+  "latitude": 41.591284,
+  "longitude": 1.82165,
+  "elevation": 920,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0329",
   "latitude": 41.5911757,
   "longitude": 1.8215654,
@@ -1559,6 +2593,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1882825943]",
   "matchedBy": "name",
   "note": "node/1882825943"
+ },
+ {
+  "needleId": "n0332",
+  "latitude": 41.5887759,
+  "longitude": 1.8213868,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Processó dels Monjos — nom exacte; a 64 m de la secció"
+ },
+ {
+  "needleId": "n0333",
+  "latitude": 41.589421,
+  "longitude": 1.8239986,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893615743]",
+  "matchedBy": "name",
+  "note": "La Doble (Roca 423) — número de Semir 423; a 52 m de la secció · node/10893615743"
  },
  {
   "needleId": "n0334",
@@ -1589,6 +2641,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11184134567]",
   "matchedBy": "name",
   "note": "node/11184134567"
+ },
+ {
+  "needleId": "n0337",
+  "latitude": 41.5882162,
+  "longitude": 1.8217792,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134568]",
+  "matchedBy": "name",
+  "note": "Roca dels Col·leccionistes — nom exacte; a 82 m de la secció · node/11184134568"
  },
  {
   "needleId": "n0338",
@@ -1631,6 +2692,24 @@
   "note": "node/11201036923"
  },
  {
+  "needleId": "n0342",
+  "latitude": 41.589666,
+  "longitude": 1.822831,
+  "elevation": 1016,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0343",
+  "latitude": 41.5895628,
+  "longitude": 1.8224496,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201036921]",
+  "matchedBy": "name",
+  "note": "Agulla d'en Torres Homet — nom semblant (0.92); a 62 m de la secció · node/11201036921"
+ },
+ {
   "needleId": "n0344",
   "latitude": 41.5896281,
   "longitude": 1.8217097,
@@ -1649,6 +2728,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11184416194]",
   "matchedBy": "name",
   "note": "node/11184416194"
+ },
+ {
+  "needleId": "n0346",
+  "latitude": 41.5892071,
+  "longitude": 1.8213022,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14108511937]",
+  "matchedBy": "name",
+  "note": "L'Esglai — nom (sense «roca/agulla…»); a 19 m de la secció · node/14108511937"
  },
  {
   "needleId": "n0347",
@@ -1671,6 +2759,78 @@
   "note": "node/11184134569"
  },
  {
+  "needleId": "n0349",
+  "latitude": 41.5868171,
+  "longitude": 1.8226864,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134576]",
+  "matchedBy": "name",
+  "note": "La Cantelluda — nom (sense «roca/agulla…»); a 168 m de la secció · node/11184134576"
+ },
+ {
+  "needleId": "n0350",
+  "latitude": 41.5868653,
+  "longitude": 1.8219462,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134574]",
+  "matchedBy": "name",
+  "note": "La Presidenta — nom (sense «roca/agulla…»); a 142 m de la secció · node/11184134574"
+ },
+ {
+  "needleId": "n0352",
+  "latitude": 41.585558,
+  "longitude": 1.8212332,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11186769855]",
+  "matchedBy": "name",
+  "note": "Roca d'en Marcel — nom exacte; a 347 m de la secció · node/11186769855"
+ },
+ {
+  "needleId": "n0353",
+  "latitude": 41.5862236,
+  "longitude": 1.82128,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14113711845]",
+  "matchedBy": "name",
+  "note": "El Rellotge — nom (sense «roca/agulla…»); a 367 m de la secció · node/14113711845"
+ },
+ {
+  "needleId": "n0354",
+  "latitude": 41.586131,
+  "longitude": 1.8209473,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14113711844]",
+  "matchedBy": "name",
+  "note": "L'Esquerda — nom (sense «roca/agulla…»); a 388 m de la secció · node/14113711844"
+ },
+ {
+  "needleId": "n0356",
+  "latitude": 41.5849603,
+  "longitude": 1.8186258,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Artiga Baixa — nom (sense «roca/agulla…»); a 556 m de la secció"
+ },
+ {
+  "needleId": "n0360",
+  "latitude": 41.583321,
+  "longitude": 1.821602,
+  "elevation": 810,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0361",
+  "latitude": 41.582666,
+  "longitude": 1.820043,
+  "elevation": 780,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0362",
   "latitude": 41.5848787,
   "longitude": 1.8252983,
@@ -1679,6 +2839,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10594725089]",
   "matchedBy": "name",
   "note": "node/10594725089"
+ },
+ {
+  "needleId": "n0364",
+  "latitude": 41.581075,
+  "longitude": 1.8268282,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serra del Penitent — nom exacte; a 442 m de la secció"
+ },
+ {
+  "needleId": "n0366",
+  "latitude": 41.59125,
+  "longitude": 1.835088,
+  "elevation": 815,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0367",
@@ -1711,6 +2889,15 @@
   "note": "node/1882825789"
  },
  {
+  "needleId": "n0371",
+  "latitude": 41.5891744,
+  "longitude": 1.8268933,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594725088]",
+  "matchedBy": "name",
+  "note": "Ullal de la Magdalena — nom semblant (0.90); a 48 m de la secció · node/10594725088"
+ },
+ {
   "needleId": "n0372",
   "latitude": 41.5890697,
   "longitude": 1.827778,
@@ -1741,6 +2928,24 @@
   "note": "node/1882825792"
  },
  {
+  "needleId": "n0377",
+  "latitude": 41.582107,
+  "longitude": 1.82881,
+  "elevation": 853,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0378",
+  "latitude": 41.5814798,
+  "longitude": 1.8318443,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serra de Sant Joan — nom exacte; a 22 m de la secció"
+ },
+ {
   "needleId": "n0380",
   "latitude": 41.5818243,
   "longitude": 1.8314035,
@@ -1761,6 +2966,60 @@
   "note": "node/5418563005"
  },
  {
+  "needleId": "n0382",
+  "latitude": 41.584562,
+  "longitude": 1.831957,
+  "elevation": 870,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0385",
+  "latitude": 41.5784315,
+  "longitude": 1.8232868,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serra de la Guàrdia — nom exacte; a 737 m de la regió"
+ },
+ {
+  "needleId": "n0388",
+  "latitude": 41.5785565,
+  "longitude": 1.8334998,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "les Bateries — nom (sense «roca/agulla…»); a 337 m de la regió"
+ },
+ {
+  "needleId": "n0389",
+  "latitude": 41.5751864,
+  "longitude": 1.8351648,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat de les Garrigoses — nom exacte; a 736 m de la regió"
+ },
+ {
+  "needleId": "n0395",
+  "latitude": 41.577972,
+  "longitude": 1.843915,
+  "elevation": 755,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0398",
+  "latitude": 41.586729,
+  "longitude": 1.83878,
+  "elevation": 916,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0399",
   "latitude": 41.5843977,
   "longitude": 1.8398679,
@@ -1769,6 +3028,42 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11728717360]",
   "matchedBy": "name",
   "note": "node/11728717360"
+ },
+ {
+  "needleId": "n0403",
+  "latitude": 41.590949,
+  "longitude": 1.836533,
+  "elevation": 886,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0407",
+  "latitude": 41.589674,
+  "longitude": 1.842243,
+  "elevation": 669,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0408",
+  "latitude": 41.59026,
+  "longitude": 1.842316,
+  "elevation": 632,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0409",
+  "latitude": 41.587998,
+  "longitude": 1.843976,
+  "elevation": 635,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0414",
@@ -1781,6 +3076,42 @@
   "note": "node/14059323134"
  },
  {
+  "needleId": "n0415",
+  "latitude": 41.591313,
+  "longitude": 1.831547,
+  "elevation": 855,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0416",
+  "latitude": 41.5930849,
+  "longitude": 1.8337328,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Elefantet — nom (sense «roca/agulla…»); a 152 m de la secció"
+ },
+ {
+  "needleId": "n0417",
+  "latitude": 41.5936682,
+  "longitude": 1.8353665,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Agulla de la Verge — nom (sense «roca/agulla…»); a 3 m de la secció"
+ },
+ {
+  "needleId": "n0420",
+  "latitude": 41.595206,
+  "longitude": 1.836181,
+  "elevation": 906,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0421",
   "latitude": 41.5936602,
   "longitude": 1.8353946,
@@ -1789,6 +3120,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/5032382092]",
   "matchedBy": "name",
   "note": "node/5032382092"
+ },
+ {
+  "needleId": "n0423",
+  "latitude": 41.592872,
+  "longitude": 1.835239,
+  "elevation": 772,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0427",
@@ -1831,6 +3171,24 @@
   "note": "node/11738634615"
  },
  {
+  "needleId": "n0431",
+  "latitude": 41.593814,
+  "longitude": 1.830362,
+  "elevation": 1042,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0432",
+  "latitude": 41.594386,
+  "longitude": 1.8297511,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Prenyada — nom (sense «roca/agulla…»); a 44 m de la secció"
+ },
+ {
   "needleId": "n0433",
   "latitude": 41.5942109,
   "longitude": 1.8302292,
@@ -1841,6 +3199,33 @@
   "note": "node/11738634616"
  },
  {
+  "needleId": "n0434",
+  "latitude": 41.594091,
+  "longitude": 1.829289,
+  "elevation": 1051,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0435",
+  "latitude": 41.5939538,
+  "longitude": 1.8290682,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11738634613]",
+  "matchedBy": "name",
+  "note": "Agulla d'en Marcus Kamen — nom semblant (0.92); a 101 m de la secció · node/11738634613"
+ },
+ {
+  "needleId": "n0436",
+  "latitude": 41.5948817,
+  "longitude": 1.8311629,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Trumfa — nom (sense «roca/agulla…»); a 92 m de la secció"
+ },
+ {
   "needleId": "n0437",
   "latitude": 41.5957835,
   "longitude": 1.8297385,
@@ -1849,6 +3234,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/1882825849]",
   "matchedBy": "name",
   "note": "node/1882825849"
+ },
+ {
+  "needleId": "n0438",
+  "latitude": 41.595585,
+  "longitude": 1.830054,
+  "elevation": 1053,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0439",
@@ -1869,6 +3263,24 @@
   "source": "OpenStreetMap contributors (ODbL) [node/7878364873]",
   "matchedBy": "name",
   "note": "node/7878364873"
+ },
+ {
+  "needleId": "n0441",
+  "latitude": 41.595352,
+  "longitude": 1.832818,
+  "elevation": 987,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0442",
+  "latitude": 41.594054,
+  "longitude": 1.842488,
+  "elevation": 640,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0443",
@@ -1901,6 +3313,15 @@
   "note": "node/7618023475"
  },
  {
+  "needleId": "n0446",
+  "latitude": 41.597388,
+  "longitude": 1.839117,
+  "elevation": 652,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
   "needleId": "n0449",
   "latitude": 41.6099501,
   "longitude": 1.8232893,
@@ -1908,6 +3329,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/7631695437]",
   "matchedBy": "name",
   "note": "node/7631695437"
+ },
+ {
+  "needleId": "n0450",
+  "latitude": 41.601693,
+  "longitude": 1.840816,
+  "elevation": 320,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0451",
@@ -1920,6 +3350,15 @@
   "note": "node/1882825922"
  },
  {
+  "needleId": "n0452",
+  "latitude": 41.59668,
+  "longitude": 1.830539,
+  "elevation": 1130,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0453",
   "latitude": 41.5962962,
   "longitude": 1.8327488,
@@ -1928,6 +3367,15 @@
   "source": "OpenStreetMap contributors (ODbL) [node/10613031763]",
   "matchedBy": "name",
   "note": "node/10613031763"
+ },
+ {
+  "needleId": "n0454",
+  "latitude": 41.596411,
+  "longitude": 1.832427,
+  "elevation": 1036,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  },
  {
   "needleId": "n0455",
@@ -1940,6 +3388,33 @@
   "note": "node/1882825932"
  },
  {
+  "needleId": "n0456",
+  "latitude": 41.596655,
+  "longitude": 1.832483,
+  "elevation": 1046,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0457",
+  "latitude": 41.596629,
+  "longitude": 1.832663,
+  "elevation": 1036,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0458",
+  "latitude": 41.5964787,
+  "longitude": 1.833647,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Trinitat — nom semblant (0.94); a 77 m de la secció"
+ },
+ {
   "needleId": "n0459",
   "latitude": 41.5970432,
   "longitude": 1.8309246,
@@ -1948,6 +3423,78 @@
   "source": "OpenStreetMap contributors (ODbL) [node/11916807938]",
   "matchedBy": "name",
   "note": "node/11916807938"
+ },
+ {
+  "needleId": "n0460",
+  "latitude": 41.597125,
+  "longitude": 1.830963,
+  "elevation": 1096,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0461",
+  "latitude": 41.597155,
+  "longitude": 1.831178,
+  "elevation": 1060,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0462",
+  "latitude": 41.597525,
+  "longitude": 1.830391,
+  "elevation": 996,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0463",
+  "latitude": 41.597762,
+  "longitude": 1.8301798,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Nansa — nom (sense «roca/agulla…»); a 101 m de la secció"
+ },
+ {
+  "needleId": "n0468",
+  "latitude": 41.600497,
+  "longitude": 1.831262,
+  "elevation": 800,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0471",
+  "latitude": 41.596495,
+  "longitude": 1.830062,
+  "elevation": 1090,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0472",
+  "latitude": 41.597387,
+  "longitude": 1.829194,
+  "elevation": 981,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0473",
+  "latitude": 41.597559,
+  "longitude": 1.829323,
+  "elevation": 981,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
  },
  {
   "needleId": "n0474",
@@ -1960,6 +3507,24 @@
   "note": "node/10613031764"
  },
  {
+  "needleId": "n0475",
+  "latitude": 41.597777,
+  "longitude": 1.826883,
+  "elevation": 1057,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0476",
+  "latitude": 41.59899,
+  "longitude": 1.827425,
+  "elevation": 1032,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
   "needleId": "n0478",
   "latitude": 41.5977857,
   "longitude": 1.8259304,
@@ -1970,6 +3535,24 @@
   "note": "node/1928741215"
  },
  {
+  "needleId": "n0479",
+  "latitude": 41.598181,
+  "longitude": 1.825808,
+  "elevation": 1057,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0480",
+  "latitude": 41.6002302,
+  "longitude": 1.8261279,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat de les Barretines — nom exacte; a 97 m de la secció"
+ },
+ {
   "needleId": "n0481",
   "latitude": 41.5995827,
   "longitude": 1.8253425,
@@ -1978,5 +3561,1391 @@
   "source": "OpenStreetMap contributors (ODbL) [node/2159652063]",
   "matchedBy": "name",
   "note": "node/2159652063"
+ },
+ {
+  "needleId": "n0482",
+  "latitude": 41.599893,
+  "longitude": 1.825933,
+  "elevation": 911,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0483",
+  "latitude": 41.600029,
+  "longitude": 1.826014,
+  "elevation": 919,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0485",
+  "latitude": 41.6006987,
+  "longitude": 1.8227238,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Cavall Bernat — nom exacte; a 251 m de la secció"
+ },
+ {
+  "needleId": "n0486",
+  "latitude": 41.5987998,
+  "longitude": 1.8235265,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serra de les Lluernes — nom exacte; a 174 m de la secció"
+ },
+ {
+  "needleId": "n0487",
+  "latitude": 41.601307,
+  "longitude": 1.823267,
+  "elevation": 897,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0488",
+  "latitude": 41.6078706,
+  "longitude": 1.7761916,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat de Guirló — nom exacte; a 207 m de la secció"
+ },
+ {
+  "needleId": "n0490",
+  "latitude": 41.608848,
+  "longitude": 1.781954,
+  "elevation": 1032,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0491",
+  "latitude": 41.6089974,
+  "longitude": 1.7828834,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783409448]",
+  "matchedBy": "name",
+  "note": "el Carbassó — nom exacte; a 31 m de la secció · node/2783409448"
+ },
+ {
+  "needleId": "n0492",
+  "latitude": 41.608628,
+  "longitude": 1.784082,
+  "elevation": 1002,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0493",
+  "latitude": 41.6085934,
+  "longitude": 1.783623,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2783409450]",
+  "matchedBy": "name",
+  "note": "Agulla del Cirerer — tipus diferent (roca / agulla); a 44 m de la secció · node/2783409450"
+ },
+ {
+  "needleId": "n0494",
+  "latitude": 41.607814,
+  "longitude": 1.783834,
+  "elevation": 936,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0495",
+  "latitude": 41.6075645,
+  "longitude": 1.7851295,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955426117]",
+  "matchedBy": "name",
+  "note": "Roca Veïna del Cap del Guerrer — nom exacte; a 71 m de la secció · node/13955426117"
+ },
+ {
+  "needleId": "n0496",
+  "latitude": 41.609489,
+  "longitude": 1.78637,
+  "elevation": 1036,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0497",
+  "latitude": 41.6116906,
+  "longitude": 1.7871856,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13955402961]",
+  "matchedBy": "name",
+  "note": "Agulla de la Foradada — nom exacte; a 22 m de la secció · node/13955402961"
+ },
+ {
+  "needleId": "n0499",
+  "latitude": 41.610253,
+  "longitude": 1.789633,
+  "elevation": 1044,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0500",
+  "latitude": 41.6100329,
+  "longitude": 1.7909207,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343223]",
+  "matchedBy": "name",
+  "note": "Roca 107 — número de Semir 107; a 57 m de la secció · node/13924343223"
+ },
+ {
+  "needleId": "n0501",
+  "latitude": 41.609936,
+  "longitude": 1.791163,
+  "elevation": 1060,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0502",
+  "latitude": 41.6090701,
+  "longitude": 1.7904532,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343225]",
+  "matchedBy": "name",
+  "note": "Roca 113 — nom exacte + número de Semir 113; a 40 m de la secció · node/13924343225"
+ },
+ {
+  "needleId": "n0503",
+  "latitude": 41.6090472,
+  "longitude": 1.7906145,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602077]",
+  "matchedBy": "name",
+  "note": "Roca de la Grip — nom exacte; a 45 m de la secció · node/6866602077"
+ },
+ {
+  "needleId": "n0504",
+  "latitude": 41.6072501,
+  "longitude": 1.7898117,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10594659785]",
+  "matchedBy": "name",
+  "note": "Roca de les Balmes — nom exacte; a 171 m de la secció · node/10594659785"
+ },
+ {
+  "needleId": "n0505",
+  "latitude": 41.6073842,
+  "longitude": 1.7898336,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343226]",
+  "matchedBy": "name",
+  "note": "Punta 167 — nom exacte; a 156 m de la secció · node/13924343226"
+ },
+ {
+  "needleId": "n0506",
+  "latitude": 41.606208,
+  "longitude": 1.789516,
+  "elevation": 952,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0507",
+  "latitude": 41.6071219,
+  "longitude": 1.7880113,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/6866602069]",
+  "matchedBy": "name",
+  "note": "Roca 178 — número de Semir 178; a 36 m de la secció · node/6866602069"
+ },
+ {
+  "needleId": "n0508",
+  "latitude": 41.611063,
+  "longitude": 1.7926093,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Miranda del Lloro — nom exacte; a 31 m de la secció"
+ },
+ {
+  "needleId": "n0509",
+  "latitude": 41.60952,
+  "longitude": 1.793583,
+  "elevation": 1101,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0510",
+  "latitude": 41.6055359,
+  "longitude": 1.789251,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928276376]",
+  "matchedBy": "name",
+  "note": "Miranda Petita. Roca 133 — número de Semir 133; a 303 m de la secció · node/1928276376"
+ },
+ {
+  "needleId": "n0513",
+  "latitude": 41.599564,
+  "longitude": 1.795004,
+  "elevation": 902,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0515",
+  "latitude": 41.599693,
+  "longitude": 1.7933,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826558]",
+  "matchedBy": "name",
+  "note": "Roca 273 — nom exacte + número de Semir 273; a 177 m de la secció · node/10712826558"
+ },
+ {
+  "needleId": "n0516",
+  "latitude": 41.599962,
+  "longitude": 1.792597,
+  "elevation": 892,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0517",
+  "latitude": 41.6002834,
+  "longitude": 1.7923465,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10712826553]",
+  "matchedBy": "name",
+  "note": "Cavall dels Brucs — nom exacte; a 151 m de la secció · node/10712826553"
+ },
+ {
+  "needleId": "n0519",
+  "latitude": 41.5911983,
+  "longitude": 1.7921886,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Pou de l'Estevet — nom exacte; a 349 m de la secció"
+ },
+ {
+  "needleId": "n0520",
+  "latitude": 41.591471,
+  "longitude": 1.792827,
+  "elevation": 613,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0521",
+  "latitude": 41.5922915,
+  "longitude": 1.8019487,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Agulla de Can Jorba — nom exacte; a 83 m de la secció"
+ },
+ {
+  "needleId": "n0522",
+  "latitude": 41.5975157,
+  "longitude": 1.7991783,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/2470141663]",
+  "matchedBy": "name",
+  "note": "els Ous del Faraó — nom exacte; a 55 m de la secció · node/2470141663"
+ },
+ {
+  "needleId": "n0523",
+  "latitude": 41.598323,
+  "longitude": 1.800307,
+  "elevation": 985,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0524",
+  "latitude": 41.5972163,
+  "longitude": 1.7986049,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "el Faraó — nom exacte; a 79 m de la secció"
+ },
+ {
+  "needleId": "n0525",
+  "latitude": 41.601964,
+  "longitude": 1.8076042,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca del Grau — nom exacte; a 84 m de la secció"
+ },
+ {
+  "needleId": "n0526",
+  "latitude": 41.6000147,
+  "longitude": 1.8051022,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Montgròs — nom (sense «roca/agulla…»); a 75 m de la secció"
+ },
+ {
+  "needleId": "n0527",
+  "latitude": 41.6013819,
+  "longitude": 1.8048277,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca Plana dels Llamps — nom exacte; a 128 m de la secció"
+ },
+ {
+  "needleId": "n0528",
+  "latitude": 41.606467,
+  "longitude": 1.804764,
+  "elevation": 1186,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0529",
+  "latitude": 41.6039919,
+  "longitude": 1.8109965,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741233]",
+  "matchedBy": "name",
+  "note": "Roca 312 — número de Semir 312; a 79 m de la secció · node/1928741233"
+ },
+ {
+  "needleId": "n0531",
+  "latitude": 41.6058233,
+  "longitude": 1.8094076,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Talaieta — nom exacte; a 309 m de la secció"
+ },
+ {
+  "needleId": "n0532",
+  "latitude": 41.606319,
+  "longitude": 1.812291,
+  "elevation": 1212,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0534",
+  "latitude": 41.604871,
+  "longitude": 1.818594,
+  "elevation": 935,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0535",
+  "latitude": 41.6015557,
+  "longitude": 1.8204235,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat de les Onze — nom exacte; a 3 m de la secció"
+ },
+ {
+  "needleId": "n0536",
+  "latitude": 41.600547,
+  "longitude": 1.8215128,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Miranda de Sant Antoni — nom exacte; a 63 m de la secció"
+ },
+ {
+  "needleId": "n0537",
+  "latitude": 41.6010429,
+  "longitude": 1.8133887,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Albarda Castellana — nom exacte; a 138 m de la secció"
+ },
+ {
+  "needleId": "n0538",
+  "latitude": 41.5913597,
+  "longitude": 1.8108366,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14360188650]",
+  "matchedBy": "name",
+  "note": "Roca 345 — nom exacte + número de Semir 345; a 406 m de la secció · node/14360188650"
+ },
+ {
+  "needleId": "n0540",
+  "latitude": 41.5940702,
+  "longitude": 1.806575,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10914224459]",
+  "matchedBy": "name",
+  "note": "Roca 380 — nom exacte + número de Semir 380; a 217 m de la secció · node/10914224459"
+ },
+ {
+  "needleId": "n0542",
+  "latitude": 41.590026,
+  "longitude": 1.824636,
+  "elevation": 1058,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0543",
+  "latitude": 41.5887542,
+  "longitude": 1.82138,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1882826006]",
+  "matchedBy": "name",
+  "note": "El Porró — nom (sense «roca/agulla…»); a 67 m de la secció · node/1882826006"
+ },
+ {
+  "needleId": "n0544",
+  "latitude": 41.5894753,
+  "longitude": 1.8222181,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201036917]",
+  "matchedBy": "name",
+  "note": "Roca 453 — número de Semir 453; a 46 m de la secció · node/11201036917"
+ },
+ {
+  "needleId": "n0545",
+  "latitude": 41.5874832,
+  "longitude": 1.8208947,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184150253]",
+  "matchedBy": "name",
+  "note": "Punxó de la Pau i Justícia — nom exacte; a 57 m de la secció · node/11184150253"
+ },
+ {
+  "needleId": "n0546",
+  "latitude": 41.589058,
+  "longitude": 1.823334,
+  "elevation": 1029,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0547",
+  "latitude": 41.581603,
+  "longitude": 1.8161816,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Serrat d'en Muntaner — nom exacte; a 426 m de la secció"
+ },
+ {
+  "needleId": "n0548",
+  "latitude": 41.5911962,
+  "longitude": 1.827459,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Trencabarrals — nom exacte; a 183 m de la secció"
+ },
+ {
+  "needleId": "n0549",
+  "latitude": 41.580357,
+  "longitude": 1.838331,
+  "elevation": 783,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0550",
+  "latitude": 41.581916,
+  "longitude": 1.8485644,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Orella de Llebre — nom exacte; a 775 m de la regió"
+ },
+ {
+  "needleId": "n0551",
+  "latitude": 41.583101,
+  "longitude": 1.836242,
+  "elevation": 883,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0552",
+  "latitude": 41.588836,
+  "longitude": 1.842282,
+  "elevation": 779,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0553",
+  "latitude": 41.589214,
+  "longitude": 1.842251,
+  "elevation": 752,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0554",
+  "latitude": 41.590489,
+  "longitude": 1.8423658,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "l'Agulla de la Creu — nom exacte; a 375 m de la regió"
+ },
+ {
+  "needleId": "n0555",
+  "latitude": 41.588848,
+  "longitude": 1.843385,
+  "elevation": 620,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0556",
+  "latitude": 41.5935309,
+  "longitude": 1.827256,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "la Panxa del Bisbe — nom exacte; a 68 m de la secció"
+ },
+ {
+  "needleId": "n0558",
+  "latitude": 41.5947662,
+  "longitude": 1.8293524,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11738653436]",
+  "matchedBy": "name",
+  "note": "Roca de l'Avortó — nom exacte; a 96 m de la secció · node/11738653436"
+ },
+ {
+  "needleId": "n0559",
+  "latitude": 41.595466,
+  "longitude": 1.832504,
+  "elevation": 1013,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0560",
+  "latitude": 41.5946624,
+  "longitude": 1.8463527,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Roca de les Aigües — nom exacte; a 92 m de la secció"
+ },
+ {
+  "needleId": "n0562",
+  "latitude": 41.5961386,
+  "longitude": 1.8300287,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11916807934]",
+  "matchedBy": "name",
+  "note": "Roca del Moro Joan — nom exacte; a 19 m de la secció · node/11916807934"
+ },
+ {
+  "needleId": "n0563",
+  "latitude": 41.596856,
+  "longitude": 1.830991,
+  "elevation": 1130,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0564",
+  "latitude": 41.5967305,
+  "longitude": 1.8330404,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10613006659]",
+  "matchedBy": "name",
+  "note": "Roca 541 — número de Semir 541; a 54 m de la secció · node/10613006659"
+ },
+ {
+  "needleId": "n0565",
+  "latitude": 41.5973752,
+  "longitude": 1.8304837,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/7878365251]",
+  "matchedBy": "name",
+  "note": "Roca 559 — número de Semir 559; a 52 m de la secció · node/7878365251"
+ },
+ {
+  "needleId": "n0566",
+  "latitude": 41.595509,
+  "longitude": 1.828748,
+  "elevation": 1092,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0567",
+  "latitude": 41.599397,
+  "longitude": 1.82587,
+  "elevation": 968,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0568",
+  "latitude": 41.59957,
+  "longitude": 1.825987,
+  "elevation": 930,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0569",
+  "latitude": 41.599794,
+  "longitude": 1.825863,
+  "elevation": 912,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0570",
+  "latitude": 41.6046602,
+  "longitude": 1.8090157,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928226083]",
+  "matchedBy": "name",
+  "note": "Talaia Gran — nom exacte; a 3 m de la secció · node/1928226083"
+ },
+ {
+  "needleId": "n0571",
+  "latitude": 41.6049883,
+  "longitude": 1.8091506,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741238]",
+  "matchedBy": "name",
+  "note": "Talaia Petita — nom exacte; a 36 m de la secció · node/1928741238"
+ },
+ {
+  "needleId": "n0572",
+  "latitude": 41.6048283,
+  "longitude": 1.809347,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11879141548]",
+  "matchedBy": "name",
+  "note": "La Petxina — nom exacte; a 31 m de la secció · node/11879141548"
+ },
+ {
+  "needleId": "n0573",
+  "latitude": 41.6038346,
+  "longitude": 1.8085967,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10914282046]",
+  "matchedBy": "name",
+  "note": "Roca 393 — nom exacte + número de Semir 393; a 101 m de la secció · node/10914282046"
+ },
+ {
+  "needleId": "n0574",
+  "latitude": 41.6043019,
+  "longitude": 1.8084921,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10914282045]",
+  "matchedBy": "name",
+  "note": "Roca 314 — nom exacte + número de Semir 314; a 62 m de la secció · node/10914282045"
+ },
+ {
+  "needleId": "n0575",
+  "latitude": 41.6048947,
+  "longitude": 1.8087118,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11877481550]",
+  "matchedBy": "name",
+  "note": "Roca del Coll de la Llum — nom exacte; a 36 m de la secció · node/11877481550"
+ },
+ {
+  "needleId": "n0576",
+  "latitude": 41.6056153,
+  "longitude": 1.8093712,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741240]",
+  "matchedBy": "name",
+  "note": "Punta Solitud (Roca 307) — número de Semir 307; a 23 m de la secció · node/1928741240"
+ },
+ {
+  "needleId": "n0577",
+  "latitude": 41.590766,
+  "longitude": 1.818599,
+  "elevation": 918,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0578",
+  "latitude": 41.590619,
+  "longitude": 1.818326,
+  "elevation": 907,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0579",
+  "latitude": 41.5905,
+  "longitude": 1.818148,
+  "elevation": 895,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0580",
+  "latitude": 41.590471,
+  "longitude": 1.817957,
+  "elevation": 886,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0581",
+  "latitude": 41.608195,
+  "longitude": 1.784907,
+  "elevation": 970,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0582",
+  "latitude": 41.608292,
+  "longitude": 1.784737,
+  "elevation": 971,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0583",
+  "latitude": 41.609428,
+  "longitude": 1.784823,
+  "elevation": 1001,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0584",
+  "latitude": 41.610149,
+  "longitude": 1.784894,
+  "elevation": 1045,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0585",
+  "latitude": 41.609709,
+  "longitude": 1.785862,
+  "elevation": 1047,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0586",
+  "latitude": 41.608096,
+  "longitude": 1.790069,
+  "elevation": 1022,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0587",
+  "latitude": 41.606941,
+  "longitude": 1.789826,
+  "elevation": 953,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0588",
+  "latitude": 41.6067044,
+  "longitude": 1.789751,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13924343228]",
+  "matchedBy": "name",
+  "note": "Roca 155 — nom exacte + número de Semir 155; a 61 m de la secció · node/13924343228"
+ },
+ {
+  "needleId": "n0589",
+  "latitude": 41.608168,
+  "longitude": 1.788351,
+  "elevation": 1043,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0590",
+  "latitude": 41.608245,
+  "longitude": 1.787918,
+  "elevation": 1023,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0591",
+  "latitude": 41.60822,
+  "longitude": 1.78901,
+  "elevation": 1035,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0592",
+  "latitude": 41.610276,
+  "longitude": 1.791756,
+  "elevation": 1072,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0593",
+  "latitude": 41.610149,
+  "longitude": 1.792575,
+  "elevation": 1062,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0594",
+  "latitude": 41.60874,
+  "longitude": 1.792145,
+  "elevation": 1005,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0597",
+  "latitude": 41.609311,
+  "longitude": 1.793371,
+  "elevation": 1082,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0598",
+  "latitude": 41.609278,
+  "longitude": 1.792795,
+  "elevation": 1066,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0599",
+  "latitude": 41.609559,
+  "longitude": 1.79381,
+  "elevation": 1111,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0600",
+  "latitude": 41.60966,
+  "longitude": 1.794012,
+  "elevation": 1112,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0601",
+  "latitude": 41.610069,
+  "longitude": 1.793548,
+  "elevation": 1125,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0602",
+  "latitude": 41.61013,
+  "longitude": 1.793367,
+  "elevation": 1106,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0604",
+  "latitude": 41.605698,
+  "longitude": 1.793318,
+  "elevation": 985,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0605",
+  "latitude": 41.59971,
+  "longitude": 1.786566,
+  "elevation": 826,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0606",
+  "latitude": 41.606679,
+  "longitude": 1.8034712,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11058658696]",
+  "matchedBy": "name",
+  "note": "Roca dels Enamorats (Roca 211) — número de Semir 211; a 50 m de la secció · node/11058658696"
+ },
+ {
+  "needleId": "n0607",
+  "latitude": 41.605914,
+  "longitude": 1.802722,
+  "elevation": 1167,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0608",
+  "latitude": 41.60484,
+  "longitude": 1.803366,
+  "elevation": 1127,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0609",
+  "latitude": 41.604073,
+  "longitude": 1.803236,
+  "elevation": 1107,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0610",
+  "latitude": 41.6058243,
+  "longitude": 1.8022718,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/13810758611]",
+  "matchedBy": "name",
+  "note": "Roca 232 — nom exacte + número de Semir 232; a 72 m de la secció · node/13810758611"
+ },
+ {
+  "needleId": "n0611",
+  "latitude": 41.6002323,
+  "longitude": 1.8019959,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10609286690]",
+  "matchedBy": "name",
+  "note": "Mirador del Serrat del Cabrit (Roca 253) — número de Semir 253; a 162 m de la secció · node/10609286690"
+ },
+ {
+  "needleId": "n0614",
+  "latitude": 41.605425,
+  "longitude": 1.812872,
+  "elevation": 1194,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0615",
+  "latitude": 41.6033124,
+  "longitude": 1.8166381,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11361427845]",
+  "matchedBy": "name",
+  "note": "Roca 332 — nom exacte + número de Semir 332; a 81 m de la secció · node/11361427845"
+ },
+ {
+  "needleId": "n0616",
+  "latitude": 41.601308,
+  "longitude": 1.820723,
+  "elevation": 1110,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0617",
+  "latitude": 41.59927,
+  "longitude": 1.8181223,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10924070551]",
+  "matchedBy": "name",
+  "note": "Roca 347 — nom exacte + número de Semir 347; a 27 m de la secció · node/10924070551"
+ },
+ {
+  "needleId": "n0618",
+  "latitude": 41.593391,
+  "longitude": 1.812864,
+  "elevation": 902,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0619",
+  "latitude": 41.58991,
+  "longitude": 1.818579,
+  "elevation": 876,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0620",
+  "latitude": 41.587687,
+  "longitude": 1.816076,
+  "elevation": 820,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0621",
+  "latitude": 41.592998,
+  "longitude": 1.824522,
+  "elevation": 985,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0622",
+  "latitude": 41.5910262,
+  "longitude": 1.8249349,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893124671]",
+  "matchedBy": "name",
+  "note": "Roca 414 — número de Semir 414; a 25 m de la secció · node/10893124671"
+ },
+ {
+  "needleId": "n0623",
+  "latitude": 41.5897971,
+  "longitude": 1.8246317,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14112698546]",
+  "matchedBy": "name",
+  "note": "Roca 419 — número de Semir 419; a 67 m de la secció · node/14112698546"
+ },
+ {
+  "needleId": "n0624",
+  "latitude": 41.5897165,
+  "longitude": 1.8243697,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14108511943]",
+  "matchedBy": "name",
+  "note": "Roca 420 — número de Semir 420; a 45 m de la secció · node/14108511943"
+ },
+ {
+  "needleId": "n0625",
+  "latitude": 41.5887218,
+  "longitude": 1.8231616,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134572]",
+  "matchedBy": "name",
+  "note": "Roca 433 — número de Semir 433; a 20 m de la secció · node/11184134572"
+ },
+ {
+  "needleId": "n0626",
+  "latitude": 41.5881169,
+  "longitude": 1.8224372,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11184134566]",
+  "matchedBy": "name",
+  "note": "Roca de Sant Martí (Roca 436) — número de Semir 436; a 35 m de la secció · node/11184134566"
+ },
+ {
+  "needleId": "n0627",
+  "latitude": 41.5885208,
+  "longitude": 1.8210723,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10893081632]",
+  "matchedBy": "name",
+  "note": "Els Estalvis del Porró (Roca 471) — número de Semir 471; a 36 m de la secció · node/10893081632"
+ },
+ {
+  "needleId": "n0628",
+  "latitude": 41.5898578,
+  "longitude": 1.8228752,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201038136]",
+  "matchedBy": "name",
+  "note": "Roca 429 — número de Semir 429; a 25 m de la secció · node/11201038136"
+ },
+ {
+  "needleId": "n0629",
+  "latitude": 41.5899931,
+  "longitude": 1.8229263,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14108511932]",
+  "matchedBy": "name",
+  "note": "Roca 447 — número de Semir 447; a 10 m de la secció · node/14108511932"
+ },
+ {
+  "needleId": "n0630",
+  "latitude": 41.5898677,
+  "longitude": 1.821971,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/11201026263]",
+  "matchedBy": "name",
+  "note": "Roca 451 — número de Semir 451; a 13 m de la secció · node/11201026263"
+ },
+ {
+  "needleId": "n0631",
+  "latitude": 41.589422,
+  "longitude": 1.821036,
+  "elevation": 912,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0632",
+  "latitude": 41.586615,
+  "longitude": 1.825777,
+  "elevation": 1050,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0633",
+  "latitude": 41.5877007,
+  "longitude": 1.8232862,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14112970865]",
+  "matchedBy": "name",
+  "note": "Roca 475 — número de Semir 475; a 59 m de la secció · node/14112970865"
+ },
+ {
+  "needleId": "n0634",
+  "latitude": 41.5854718,
+  "longitude": 1.8222355,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/14113711846]",
+  "matchedBy": "name",
+  "note": "Roca 464 — número de Semir 464; a 84 m de la secció · node/14113711846"
+ },
+ {
+  "needleId": "n0635",
+  "latitude": 41.59078,
+  "longitude": 1.833153,
+  "elevation": 925,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0636",
+  "latitude": 41.591165,
+  "longitude": 1.826763,
+  "elevation": 1012,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0637",
+  "latitude": 41.5883937,
+  "longitude": 1.8278303,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/1928741213]",
+  "matchedBy": "name",
+  "note": "Roca 407 — número de Semir 407; a 75 m de la secció · node/1928741213"
+ },
+ {
+  "needleId": "n0638",
+  "latitude": 41.5878229,
+  "longitude": 1.8270238,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/5216073457]",
+  "matchedBy": "name",
+  "note": "Roca 408 — número de Semir 408; a 78 m de la secció · node/5216073457"
+ },
+ {
+  "needleId": "n0640",
+  "latitude": 41.5762276,
+  "longitude": 1.8341897,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10580494878]",
+  "matchedBy": "name",
+  "note": "Tossal de la Boirafua — nom exacte; a 142 m de la secció · node/10580494878"
+ },
+ {
+  "needleId": "n0642",
+  "latitude": 41.590499,
+  "longitude": 1.835677,
+  "elevation": 927,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0643",
+  "latitude": 41.591021,
+  "longitude": 1.836532,
+  "elevation": 876,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0645",
+  "latitude": 41.5937785,
+  "longitude": 1.8274623,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193485]",
+  "matchedBy": "name",
+  "note": "Roca 519 — número de Semir 519; a 32 m de la secció · node/10964193485"
+ },
+ {
+  "needleId": "n0646",
+  "latitude": 41.5942269,
+  "longitude": 1.8276599,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193486]",
+  "matchedBy": "name",
+  "note": "Roca 518 — número de Semir 518; a 84 m de la secció · node/10964193486"
+ },
+ {
+  "needleId": "n0647",
+  "latitude": 41.5946181,
+  "longitude": 1.8280216,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10964193487]",
+  "matchedBy": "name",
+  "note": "Roca 517 — número de Semir 517; a 112 m de la secció · node/10964193487"
+ },
+ {
+  "needleId": "n0649",
+  "latitude": 41.594069,
+  "longitude": 1.842236,
+  "elevation": 661,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0650",
+  "latitude": 41.5973064,
+  "longitude": 1.8264158,
+  "accuracy": "approximate",
+  "source": "OpenStreetMap contributors (ODbL) [node/10962302473]",
+  "matchedBy": "name",
+  "note": "Roca 575 — número de Semir 575; a 67 m de la secció · node/10962302473"
+ },
+ {
+  "needleId": "n0651",
+  "latitude": 41.597561,
+  "longitude": 1.826023,
+  "elevation": 1058,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0652",
+  "latitude": 41.599801,
+  "longitude": 1.825742,
+  "elevation": 905,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0655",
+  "latitude": 41.5949918,
+  "longitude": 1.8151089,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Pou de la Sajolida — nom exacte; a 552 m de la secció"
+ },
+ {
+  "needleId": "n0656",
+  "latitude": 41.5810364,
+  "longitude": 1.8246392,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Avenc de la Costa Dreta — mateix indret (el llibre: «Pou … (Avenc)»); a 182 m del serrat del Penitent"
+ },
+ {
+  "needleId": "n0657",
+  "latitude": 41.573644,
+  "longitude": 1.8348182,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Coves del Salnitre — nom exacte; a 174 m de la secció"
+ },
+ {
+  "needleId": "n0658",
+  "latitude": 41.573684,
+  "longitude": 1.8321812,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Cova Freda — nom exacte; a 300 m de la secció"
+ },
+ {
+  "needleId": "n0659",
+  "latitude": 41.5746356,
+  "longitude": 1.8307202,
+  "accuracy": "approximate",
+  "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+  "matchedBy": "name",
+  "note": "Cova Gran — nom exacte; a 375 m de la secció"
  }
 ]

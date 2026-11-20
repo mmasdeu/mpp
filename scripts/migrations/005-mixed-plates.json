@@ -1,0 +1,128 @@
+[
+ {
+  "page": 15,
+  "needle": "n0004",
+  "action": "add",
+  "reason": "Drawing \"EL SABRE – Via Normal\" under the paragraph of Les Tres Maries"
+ },
+ {
+  "page": 28,
+  "needle": "n0011",
+  "action": "add",
+  "reason": "Title \"EL DAUET D'AGULLES -16-\"; needle El Dau has Semir 16"
+ },
+ {
+  "page": 79,
+  "needle": "n0091",
+  "action": "add",
+  "reason": "Title \"LA CADIRETA -70-\"; Semir 70"
+ },
+ {
+  "page": 141,
+  "needle": "n0166",
+  "action": "add",
+  "reason": "Title \"EL CILINDRE O EL CABRIT -239-\"; Semir 239"
+ },
+ {
+  "page": 144,
+  "needle": "n0165",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 151,
+  "needle": "n0517",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 171,
+  "needle": "n0524",
+  "action": "add",
+  "reason": "Title \"EL FARAÓ -258-\"; Semir 258"
+ },
+ {
+  "page": 179,
+  "needle": "n0213",
+  "action": "add",
+  "reason": "Title \"ELS PLECS DE LLIBRE -218 al 223-\"; Semir 218-222"
+ },
+ {
+  "page": 187,
+  "needle": "n0231",
+  "action": "add",
+  "reason": "Title \"PARET DELS ECOS\"; Paret dels Ecos, cara N."
+ },
+ {
+  "page": 209,
+  "needle": "n0531",
+  "action": "add",
+  "reason": "Title \"LA TALAIETA -308-\"; Semir 308"
+ },
+ {
+  "page": 236,
+  "needle": "n0278",
+  "action": "add",
+  "reason": "Title \"EL CAP DE MORT -350-\"; Semir 350"
+ },
+ {
+  "page": 242,
+  "needle": "n0287",
+  "action": "add",
+  "reason": "Title \"EL PUNTAL DE L'ALBARDA -342-\"; Semir 338-342"
+ },
+ {
+  "page": 271,
+  "needle": "n0329",
+  "action": "add",
+  "reason": "Title \"EL RAVE -439-\"; Semir 439"
+ },
+ {
+  "page": 285,
+  "needle": "n0334",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 308,
+  "needle": "n0384",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 314,
+  "needle": "n0386",
+  "action": "add",
+  "reason": "Title \"ROCA LLISA\"; Agulla Llisa"
+ },
+ {
+  "page": 321,
+  "needle": "n0396",
+  "action": "add",
+  "reason": "Title \"SERRA LLARGA -499 E-\""
+ },
+ {
+  "page": 333,
+  "needle": "n0554",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 366,
+  "needle": "n0447",
+  "action": "add",
+  "reason": "Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+ },
+ {
+  "page": 378,
+  "needle": "n0563",
+  "action": "add",
+  "reason": "Title \"LA CADIRETA DELS FLAUTATS -508-\"; Semir 508"
+ },
+ {
+  "page": 15,
+  "needle": "n0007",
+  "action": "remove",
+  "reason": "Mixed page: the drawing is \"EL SABRE – Via Normal\" of n0004 (El Sabre o el Bodu); n0007 was a false heading (reported by the reviewer)"
+ }
+]

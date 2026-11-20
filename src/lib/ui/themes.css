@@ -1,0 +1,114 @@
+/* Five visual styles, chosen with the «Estil» menu (<html data-theme>). Fonts are bundled (@fontsource, OFL) so they work offline.
+   Every theme only overrides the design tokens of app.css plus a few signature touches; «classic» is app.css as is (it follows the system dark mode). */
+@import '@fontsource/anton/latin';
+@import '@fontsource/anton/latin-ext';
+@import '@fontsource/special-elite/latin';
+@import '@fontsource/permanent-marker/latin';
+@import '@fontsource/big-shoulders-stencil-display/latin-800';
+@import '@fontsource/big-shoulders-stencil-display/latin-ext-800';
+@import '@fontsource/ibm-plex-mono/latin-400';
+@import '@fontsource/ibm-plex-mono/latin-ext-400';
+@import '@fontsource/ibm-plex-mono/latin-700';
+@import '@fontsource/ibm-plex-mono/latin-ext-700';
+@import '@fontsource/space-mono/latin-400';
+@import '@fontsource/space-mono/latin-ext-400';
+@import '@fontsource/space-mono/latin-700';
+@import '@fontsource/space-mono/latin-ext-700';
+@import '@fontsource/rubik/latin-400';
+@import '@fontsource/rubik/latin-ext-400';
+@import '@fontsource/rubik/latin-600';
+@import '@fontsource/rubik/latin-ext-600';
+@import '@fontsource/barlow/latin-400';
+@import '@fontsource/barlow/latin-ext-400';
+@import '@fontsource/barlow/latin-600';
+@import '@fontsource/barlow/latin-ext-600';
+@import '@fontsource/courier-prime/latin-400';
+@import '@fontsource/courier-prime/latin-ext-400';
+@import '@fontsource/courier-prime/latin-700';
+@import '@fontsource/courier-prime/latin-ext-700';
+@import '@fontsource/source-sans-3/latin-400';
+@import '@fontsource/source-sans-3/latin-ext-400';
+@import '@fontsource/source-sans-3/latin-600';
+@import '@fontsource/source-sans-3/latin-ext-600';
+@import '@fontsource/source-serif-4/latin-400';
+@import '@fontsource/source-serif-4/latin-ext-400';
+@import '@fontsource/source-serif-4/latin-600';
+@import '@fontsource/source-serif-4/latin-ext-600';
+@import '@fontsource/source-serif-4/latin-400-italic';
+@import '@fontsource/source-serif-4/latin-ext-400-italic';
+
+.theme-picker { display: inline-flex; align-items: center; gap: .4rem; font-size: .8rem; color: var(--muted); }
+.theme-picker select { min-height: 2rem; padding: .15rem .4rem; font-size: .85rem; }
+
+/* 1 · Fanzine — xerox punk: paper white, ink black, fluorescent pink and yellow, condensed poster headlines, typewriter quotes */
+html[data-theme='fanzine'] {
+	--font-ui: 'Space Mono', 'Courier New', monospace;
+	--font-display: 'Anton', Impact, 'Arial Narrow', sans-serif;
+	--font-quote: 'Special Elite', 'Courier New', monospace;
+	--bg: #f2f0ea; --surface: #fffdf7; --surface-2: #e9e5da; --paper: #fbf8f1; --fg: #0d0d0d; --muted: #4a4742; --line: #0d0d0d;
+	--accent: #e6007e; --accent-strong: #a8005c; --accent-soft: #ffe3f1; --on-accent: #fff;
+	--warn: #0d0d0d; --warn-soft: #fff200; --focus: #e6007e;
+	--radius-s: 0; --radius: 0; --radius-l: 0;
+	--shadow-1: 3px 3px 0 #0d0d0d; --shadow-2: 5px 5px 0 #0d0d0d; --shadow-3: 8px 8px 0 #0d0d0d;
+}
+html[data-theme='fanzine'] h1, html[data-theme='fanzine'] h2, html[data-theme='fanzine'] h3 { font-weight: 400; text-transform: uppercase; letter-spacing: .01em; }
+html[data-theme='fanzine'] h1 { display: inline; background: #fff200; box-shadow: .3em 0 0 #fff200, -.3em 0 0 #fff200; line-height: 1.35; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+html[data-theme='fanzine'] h1::after { content: ''; display: block; margin-bottom: .6rem; }
+html[data-theme='fanzine'] .card { border: 2px solid var(--line); }
+html[data-theme='fanzine'] a.card:hover { transform: translate(-2px, -2px) rotate(-.4deg); }
+html[data-theme='fanzine'] .eyebrow { background: var(--fg); color: var(--bg); display: inline-block; padding: .1rem .4rem; transform: rotate(-1deg); }
+html[data-theme='fanzine'] .btn, html[data-theme='fanzine'] button, html[data-theme='fanzine'] .chip { border-radius: 0; border: 2px solid var(--line); }
+
+/* 2 · Grafit — night bouldering with spray paint: asphalt black, acid green and hot magenta, marker headlines */
+html[data-theme='grafit'] {
+	color-scheme: dark;
+	--font-ui: 'Rubik', system-ui, sans-serif;
+	--font-display: 'Permanent Marker', 'Comic Sans MS', cursive;
+	--font-quote: 'Rubik', system-ui, sans-serif;
+	--bg: #111312; --surface: #1b1e1c; --surface-2: #262a27; --paper: #fbf8f1; --fg: #f1f1ea; --muted: #a8aea7; --line: #333833;
+	--accent: #b6ff3b; --accent-strong: #d4ff85; --accent-soft: #263512; --on-accent: #0b0d0b;
+	--ok: #7fd18f; --ok-soft: #1f3524; --warn: #ff4fd8; --warn-soft: #3a1033; --danger: #ff6b6b; --focus: #ff4fd8;
+	--radius-s: .2rem; --radius: .35rem; --radius-l: .5rem;
+	--shadow-1: 0 0 0 1px #333833; --shadow-2: 0 0 0 2px #b6ff3b; --shadow-3: 0 12px 40px rgb(0 0 0 / .7);
+}
+html[data-theme='grafit'] h1 { color: var(--accent); transform: rotate(-1.2deg); text-shadow: 3px 3px 0 #ff4fd8; }
+html[data-theme='grafit'] h2 { color: #ff4fd8; }
+html[data-theme='grafit'] img.ink { filter: invert(1) hue-rotate(180deg); }   /* transparent drawings: light ink on the dark page */
+html[data-theme='grafit'] h1, html[data-theme='grafit'] h2, html[data-theme='grafit'] h3 { font-weight: 400; letter-spacing: .02em; }
+
+/* 3 · Ressenya — old club route-guide / topo: kraft paper, stencil headings, monospace data, signal orange */
+html[data-theme='ressenya'] {
+	--font-ui: 'Barlow', 'Arial Narrow', sans-serif;
+	--font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+	--font-display: 'Big Shoulders Stencil Display', 'Arial Narrow', sans-serif;
+	--font-quote: 'Barlow', 'Arial Narrow', sans-serif;
+	--bg: #e4d9c3; --surface: #efe7d6; --surface-2: #dacdb2; --paper: #fbf8f1; --fg: #22201b; --muted: #5d5546; --line: #a8987a;
+	--accent: #e2520b; --accent-strong: #a83a05; --accent-soft: #f6d8c4; --on-accent: #fff;
+	--radius-s: .15rem; --radius: .25rem; --radius-l: .4rem;
+	--shadow-1: none; --shadow-2: 0 2px 0 var(--line); --shadow-3: 0 10px 30px rgb(0 0 0 / .25);
+}
+html[data-theme='ressenya'] body { font-size: 1.02rem; }
+html[data-theme='ressenya'] .eyebrow, html[data-theme='ressenya'] .badge, html[data-theme='ressenya'] dl.facts, html[data-theme='ressenya'] .stats { font-family: var(--font-mono); }   /* data in typewritten mono, like a topo */
+html[data-theme='ressenya'] h1, html[data-theme='ressenya'] h2, html[data-theme='ressenya'] h3 { font-weight: 800; text-transform: uppercase; letter-spacing: .04em; }
+html[data-theme='ressenya'] h1 { font-size: clamp(2rem, 1.4rem + 2.6vw, 3.2rem); }
+html[data-theme='ressenya'] .card { border-style: dashed; }
+
+/* 4 · Màquina d'escriure — the 1977 typescript: off-white paper, typewriter everywhere, ink-blue links */
+html[data-theme='maquina'] {
+	--font-ui: 'Courier Prime', 'Courier New', monospace;
+	--font-display: 'Special Elite', 'Courier New', monospace;
+	--font-quote: 'Courier Prime', 'Courier New', monospace;
+	--bg: #f4efe2; --surface: #fbf7ec; --surface-2: #ece5d2; --paper: #fbf8f1; --fg: #26231d; --muted: #5f584b; --line: #d6ccb4;
+	--accent: #1f3f8f; --accent-strong: #142b66; --accent-soft: #dfe6f6; --on-accent: #fff;
+	--radius-s: .1rem; --radius: .15rem; --radius-l: .25rem;
+	--shadow-1: none; --shadow-2: 0 1px 6px rgb(0 0 0 / .12); --shadow-3: 0 10px 30px rgb(0 0 0 / .2);
+}
+html[data-theme='maquina'] h1, html[data-theme='maquina'] h2, html[data-theme='maquina'] h3 { font-weight: 400; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .2em; }
+
+/* 5 · Clàssic — book edition: serif headings and reading text, humanist sans for the interface (follows the system dark mode, see app.css) */
+html[data-theme='classic'] {
+	--font-ui: 'Source Sans 3', system-ui, sans-serif;
+	--font-display: 'Source Serif 4', Georgia, serif;
+	--font-quote: 'Source Serif 4', Georgia, serif;
+}
+html[data-theme='classic'] .reading .bio-text, html[data-theme='maquina'] .reading .bio-text, html[data-theme='fanzine'] .reading .bio-text { font-family: var(--font-quote); }

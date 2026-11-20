@@ -55,3 +55,21 @@ Source: OpenStreetMap contributors (ODbL), Overpass Turbo export of `natural=pea
 - `data/source/geolocation/unmatched-osm.csv`: the 353 OSM rows not applied, with reason and suggestions (many are not needles in the book — turons, summits, route points).
 - Checks: all coordinates fall inside the massif; the 4 OSM Semir numbers that could be compared agree with the book's.
 Remaining 284 needles have no coordinates; positions are name-matched, not field-verified. Spot-check before marking anything `verified`.
+
+### Geolocation, second pass (2026-11-19): ICGC toponymy + book structure
+The 200 of the first pass is a coincidence (188 name matches + 12 by hand, out of 541 OSM nodes); the check below found no located needle
+far from the rest of its section.
+
+`scripts/geolocate.py` proposes coordinates for the needles that still have none:
+- **Sources**: the ICGC 1:5.000 toponymy (CC BY 4.0), queried with the ICGC geocoder for every unlocated needle name
+  (`data/source/geolocation/icgc-geocoder-2026-11-19.json`, 1144 places), and the OSM export above (incl. `CodiSemir` and names such as
+  "Roca 407" or "(Roca 417)", which are Semir numbers).
+- **Names**: OCR slips fixed (Deis→dels, Esouerra→Esquerra…), articles ignored, "Serrat"≈"Serra", and a core name without the generic
+  head ("Roca de la Prenyada" ≈ "la Prenyada"). A col, canal, cova, font… named like the needle is never taken for the needle; names relative
+  to something else ("Roca de sobre…", "sota la cota 209") and names of chapels ("Agulla de Santa Cecília") only go to review.
+- **Book structure as a check**: the book walks through each section, so a candidate must lie within 650 m of a located needle of the
+  same section (1200 m of the region when the section has none). With several places of the same name, the one that fits the section wins
+  only if it is clearly the closest. One place → one needle (a "Merlet/Pedestal de X" may share X's place).
+- **Result**: 115 needles located (315/569); 56 more have candidates in `geolocate-review.csv` / `.json`, shown in the editor as
+  "Llocs possibles (a revisar)" (click one to place the pin there, adjust, save). All new records are `approximate`, with the evidence in `note`.
+- Applied with `node scripts/migrations/004-geolocate.mjs` (adds only needles without a location and whose name matches).

@@ -12,6 +12,9 @@ Human decisions are stored separately in `data/review/decisions.json` and applie
 | `reject` | removes it from the dataset (map label, non-needle). Reason required |
 | `merge` | removes it; its name becomes an alternative name of `--into` target. Reason required |
 
+## Des de la interfície
+Vegeu `docs/editor.md` (`npm run edit`).
+
 ## Commands (`npm run review -- <command>`)
 - `progress` – per-section counts and overall % done.
 - `list [--section s05] [--status unreviewed] [--limit 30]`, `show n0042` (prints the book page to check).
@@ -23,3 +26,9 @@ Human decisions are stored separately in `data/review/decisions.json` and applie
 Set `REVIEWER` or pass `--reviewer`. Every write is validated (`npm run validate` also checks decisions; CI blocks invalid ones).
 A needle should only be `accept`ed after comparing it with the book page (`pdftotext -layout -f P -l P book.pdf -`).
 Needles with no review decision keep the `unreviewed` badge and a validation warning.
+
+## Cua de revisió (`/revisio/`)
+Pàgina local que mostra una agulla cada cop, per ordre de sospita (`src/lib/review/queue.ts`: capçalera/final OCR incerts,
+confiança baixa, nom curt o estrany, sense número de Semir…), amb la imatge de la pàgina i el text OCR editable.
+Accepta / corregeix / rebutja / fusiona; les decisions es desen al navegador (localStorage) i s'exporten com a JSON.
+Incorporació: `npm run review -- import-json decisions-AAAA-MM-DD.json` (validat igual que la resta de decisions) i `npm run validate`.

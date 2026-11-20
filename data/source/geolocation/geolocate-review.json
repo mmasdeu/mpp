@@ -1,0 +1,974 @@
+{
+ "n0002": [
+  {
+   "place": "la Venta I",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5914022,
+   "longitude": 1.7723611,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 1801,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0016": [
+  {
+   "place": "l'Era dels Pallers",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6017457,
+   "longitude": 1.7816994,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 49,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "l'Era dels Pallers",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6009073,
+   "longitude": 1.7809373,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 80,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0025": [
+  {
+   "place": "el Turó",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5877416,
+   "longitude": 1.811261,
+   "match": "nom exacte",
+   "distance_m": 2608,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0090": [
+  {
+   "place": "Agulla de la Foradada",
+   "source": "osm",
+   "ref": "node/13955402961",
+   "latitude": 41.6116906,
+   "longitude": 1.7871856,
+   "match": "tipus diferent (serra / agulla)",
+   "distance_m": 22,
+   "reason": "tipus diferent (serra / agulla)"
+  },
+  {
+   "place": "Roca Foradada",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6123757,
+   "longitude": 1.7866852,
+   "match": "tipus diferent (serra / roca)",
+   "distance_m": 36,
+   "reason": "tipus diferent (serra / roca)"
+  }
+ ],
+ "n0152": [
+  {
+   "place": "la Desdentegada",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5999283,
+   "longitude": 1.7872416,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 2,
+   "reason": "el lloc és de La Desdentegada"
+  }
+ ],
+ "n0181": [
+  {
+   "place": "la Foca",
+   "source": "osm",
+   "ref": "node/2470141673",
+   "latitude": 41.5994805,
+   "longitude": 1.7948484,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 225,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "la Foca",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6003604,
+   "longitude": 1.7968119,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 279,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0195": [
+  {
+   "place": "Agulla de la Castanyada",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5930945,
+   "longitude": 1.7922692,
+   "match": "tipus diferent (roca / agulla)",
+   "distance_m": 272,
+   "reason": "tipus diferent (roca / agulla)"
+  }
+ ],
+ "n0196": [
+  {
+   "place": "les Esquerdes",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5769221,
+   "longitude": 1.8775239,
+   "match": "nom semblant (0.90)",
+   "distance_m": 6562,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0213": [
+  {
+   "place": "els Plecs del Llibre",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5982748,
+   "longitude": 1.8056871,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 243,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0235": [
+  {
+   "place": "Cap del Camell",
+   "source": "osm",
+   "ref": "node/1928223210",
+   "latitude": 41.6056803,
+   "longitude": 1.8073739,
+   "match": "nom exacte",
+   "distance_m": 80,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0240": [
+  {
+   "place": "Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6043402,
+   "longitude": 1.8134811,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 180,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6053676,
+   "longitude": 1.8114556,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 231,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Paret de Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6065105,
+   "longitude": 1.8114264,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 358,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0250": [
+  {
+   "place": "El Camelló",
+   "source": "osm",
+   "ref": "node/10913979447",
+   "latitude": 41.5999313,
+   "longitude": 1.8110054,
+   "match": "nom semblant (0.92)",
+   "distance_m": 66,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0253": [
+  {
+   "place": "El Camelló",
+   "source": "osm",
+   "ref": "node/10913979447",
+   "latitude": 41.5999313,
+   "longitude": 1.8110054,
+   "match": "nom semblant (0.92)",
+   "distance_m": 66,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0255": [
+  {
+   "place": "Cap del Camell",
+   "source": "osm",
+   "ref": "node/1928223210",
+   "latitude": 41.6056803,
+   "longitude": 1.8073739,
+   "match": "nom exacte",
+   "distance_m": 390,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0264": [
+  {
+   "place": "Paret de Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6065105,
+   "longitude": 1.8114264,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 208,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6053676,
+   "longitude": 1.8114556,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 253,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Jeroni",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6043402,
+   "longitude": 1.8134811,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 266,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0265": [
+  {
+   "place": "Santa Cecília",
+   "source": "osm",
+   "ref": "node/3042837638",
+   "latitude": 41.6080592,
+   "longitude": 1.8130956,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 165,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Santa Cecília",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo1)",
+   "latitude": 41.6116165,
+   "longitude": 1.8168312,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 598,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "la Miranda de Santa Cecília",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6137357,
+   "longitude": 1.817928,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 851,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0268": [
+  {
+   "place": "el Roser",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5950998,
+   "longitude": 1.8533361,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 3527,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0272": [
+  {
+   "place": "Paret de l'Aeri",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6065501,
+   "longitude": 1.8161019,
+   "match": "tipus diferent (roca / paret)",
+   "distance_m": 616,
+   "reason": "tipus diferent (roca / paret)"
+  }
+ ],
+ "n0274": [
+  {
+   "place": "Serrat del Patriarca",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.602497,
+   "longitude": 1.8186306,
+   "match": "tipus diferent (roques / serra)",
+   "distance_m": 155,
+   "reason": "tipus diferent (roques / serra)"
+  }
+ ],
+ "n0276": [
+  {
+   "place": "Serrat del Patriarca",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.602497,
+   "longitude": 1.8186306,
+   "match": "nom exacte",
+   "distance_m": 155,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0277": [
+  {
+   "place": "Serrat del Patriarca",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.602497,
+   "longitude": 1.8186306,
+   "match": "nom exacte",
+   "distance_m": 155,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0287": [
+  {
+   "place": "Puntal de l'Albarda",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5993851,
+   "longitude": 1.8161037,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 162,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Serrat de l'Albarda. Roca 340",
+   "source": "osm",
+   "ref": "node/10924078373",
+   "latitude": 41.6000298,
+   "longitude": 1.8161016,
+   "match": "número de Semir 340",
+   "distance_m": 172,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Serrat de l'Albarda. Roca 338",
+   "source": "osm",
+   "ref": "node/10924078375",
+   "latitude": 41.6005592,
+   "longitude": 1.8162608,
+   "match": "número de Semir 338",
+   "distance_m": 189,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0291": [
+  {
+   "place": "Sant Esteve",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6409453,
+   "longitude": 1.7896337,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 5025,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0307": [
+  {
+   "place": "els Plecs del Llibre",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5982748,
+   "longitude": 1.8056871,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 262,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0313": [
+  {
+   "place": "el Pessebre",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5679976,
+   "longitude": 1.884398,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 6277,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0320": [
+  {
+   "place": "Serrat dels Pollegons",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.587697,
+   "longitude": 1.8166769,
+   "match": "nom semblant (0.90)",
+   "distance_m": 274,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "els Pollegons",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5909967,
+   "longitude": 1.8190192,
+   "match": "nom semblant (0.90)",
+   "distance_m": 472,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0323": [
+  {
+   "place": "Roca 461",
+   "source": "osm",
+   "ref": "node/10892854771",
+   "latitude": 41.596753,
+   "longitude": 1.8206127,
+   "match": "número de Semir 461",
+   "distance_m": 334,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 460",
+   "source": "osm",
+   "ref": "node/10892854772",
+   "latitude": 41.596187,
+   "longitude": 1.8210143,
+   "match": "número de Semir 460",
+   "distance_m": 338,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 459",
+   "source": "osm",
+   "ref": "node/10892854773",
+   "latitude": 41.5955983,
+   "longitude": 1.8213125,
+   "match": "número de Semir 459",
+   "distance_m": 347,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 457",
+   "source": "osm",
+   "ref": "node/10892854775",
+   "latitude": 41.5948928,
+   "longitude": 1.8220693,
+   "match": "número de Semir 457",
+   "distance_m": 375,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0351": [
+  {
+   "place": "Mirador de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5866356,
+   "longitude": 1.8256787,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 198,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5869968,
+   "longitude": 1.8277664,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 313,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Serra de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5814798,
+   "longitude": 1.8318443,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 664,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Agulla de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5909521,
+   "longitude": 1.8347425,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 1037,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0363": [
+  {
+   "place": "Sant Pere",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6106561,
+   "longitude": 1.8442614,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 3275,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0386": [
+  {
+   "place": "Roca Llisa",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5767156,
+   "longitude": 1.8261462,
+   "match": "tipus diferent (agulla / roca)",
+   "distance_m": 692,
+   "reason": "tipus diferent (agulla / roca)"
+  }
+ ],
+ "n0396": [
+  {
+   "place": "Serra Llarga",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5792825,
+   "longitude": 1.8419422,
+   "match": "tipus diferent (agulla / serra)",
+   "distance_m": 595,
+   "reason": "tipus diferent (agulla / serra)"
+  }
+ ],
+ "n0401": [
+  {
+   "place": "Serra de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5814798,
+   "longitude": 1.8318443,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 743,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Agulla de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5909521,
+   "longitude": 1.8347425,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 845,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5869968,
+   "longitude": 1.8277664,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 1048,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Mirador de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5866356,
+   "longitude": 1.8256787,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 1207,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0402": [
+  {
+   "place": "Serra de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5814798,
+   "longitude": 1.8318443,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 743,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Agulla de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5909521,
+   "longitude": 1.8347425,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 845,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5869968,
+   "longitude": 1.8277664,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 1048,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Mirador de Sant Joan",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5866356,
+   "longitude": 1.8256787,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 1207,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0404": [
+  {
+   "place": "Mirador de Fra Garí",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5749684,
+   "longitude": 1.8270952,
+   "match": "tipus diferent (roca / mirador)",
+   "distance_m": 1962,
+   "reason": "tipus diferent (roca / mirador)"
+  }
+ ],
+ "n0405": [
+  {
+   "place": "l'Àngel",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6124984,
+   "longitude": 1.84139,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 1533,
+   "reason": "lluny de la regió"
+  }
+ ],
+ "n0420": [
+  {
+   "place": "Santa Creu",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5950557,
+   "longitude": 1.8362652,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 171,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0424": [
+  {
+   "place": "Sant Dimes",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5950249,
+   "longitude": 1.8375425,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 235,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0426": [
+  {
+   "place": "Paret dels Diables",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6023721,
+   "longitude": 1.8207013,
+   "match": "nom semblant (0.92)",
+   "distance_m": 1051,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0446": [
+  {
+   "place": "Roca Fantasma",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5974614,
+   "longitude": 1.8389704,
+   "match": "nom exacte",
+   "distance_m": 1907,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0452": [
+  {
+   "place": "els Flautats",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5968186,
+   "longitude": 1.8306221,
+   "match": "nom exacte",
+   "distance_m": 35,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0489": [
+  {
+   "place": "Serrat de les Muixerigues",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5794981,
+   "longitude": 1.7883087,
+   "match": "nom semblant (0.91)",
+   "distance_m": 2023,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0506": [
+  {
+   "place": "Roca 168",
+   "source": "osm",
+   "ref": "node/13924343227",
+   "latitude": 41.6059641,
+   "longitude": 1.7893075,
+   "match": "número de Semir 168",
+   "distance_m": 140,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 135",
+   "source": "osm",
+   "ref": "node/10580435884",
+   "latitude": 41.606503,
+   "longitude": 1.7896633,
+   "match": "número de Semir 135",
+   "distance_m": 187,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0511": [
+  {
+   "place": "Serrat del Cabrit",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6025805,
+   "longitude": 1.7996263,
+   "match": "nom exacte",
+   "distance_m": 296,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0512": [
+  {
+   "place": "Serrat del Cabrit",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6025805,
+   "longitude": 1.7996263,
+   "match": "nom exacte",
+   "distance_m": 296,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0513": [
+  {
+   "place": "Serrat del Cabrit",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6025805,
+   "longitude": 1.7996263,
+   "match": "nom exacte",
+   "distance_m": 296,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0514": [
+  {
+   "place": "Serrat del Cabrit",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6025805,
+   "longitude": 1.7996263,
+   "match": "nom exacte",
+   "distance_m": 296,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ],
+ "n0520": [
+  {
+   "place": "l'Àngel",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.6124984,
+   "longitude": 1.84139,
+   "match": "nom exacte",
+   "distance_m": 3952,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0523": [
+  {
+   "place": "Agulleta del Faraó",
+   "source": "osm",
+   "ref": "node/10580460581",
+   "latitude": 41.5983239,
+   "longitude": 1.8004052,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 43,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "el Faraó",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5972163,
+   "longitude": 1.7986049,
+   "match": "nom (sense «roca/agulla…»)",
+   "distance_m": 79,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0528": [
+  {
+   "place": "Roca de l'Alba (209)",
+   "source": "osm",
+   "ref": "node/1928741244",
+   "latitude": 41.6064534,
+   "longitude": 1.8047441,
+   "match": "número de Semir 209",
+   "distance_m": 22,
+   "reason": "número de Semir 209"
+  }
+ ],
+ "n0539": [
+  {
+   "place": "Roca 381",
+   "source": "osm",
+   "ref": "node/10914224460",
+   "latitude": 41.5940726,
+   "longitude": 1.8091808,
+   "match": "nom exacte + número de Semir 381",
+   "distance_m": 421,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 381",
+   "source": "osm",
+   "ref": "node/14360188651",
+   "latitude": 41.5926329,
+   "longitude": 1.8106419,
+   "match": "nom exacte + número de Semir 381",
+   "distance_m": 532,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0542": [
+  {
+   "place": "Miranda del Sentinella (Roca 417)",
+   "source": "osm",
+   "ref": "node/1882825977",
+   "latitude": 41.590251,
+   "longitude": 1.8242349,
+   "match": "número de Semir 417",
+   "distance_m": 80,
+   "reason": "diversos llocs possibles"
+  },
+  {
+   "place": "Roca 418",
+   "source": "osm",
+   "ref": "node/14108511942",
+   "latitude": 41.5897843,
+   "longitude": 1.8247674,
+   "match": "número de Semir 418",
+   "distance_m": 103,
+   "reason": "diversos llocs possibles"
+  }
+ ],
+ "n0547": [
+  {
+   "place": "Serrat d'en Muntaner",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.581603,
+   "longitude": 1.8161816,
+   "match": "nom exacte",
+   "distance_m": 842,
+   "reason": "lluny de la secció"
+  }
+ ],
+ "n0552": [
+  {
+   "place": "Sant Miquel",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5867655,
+   "longitude": 1.8415324,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 795,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Roca de Sant Miquel",
+   "source": "osm",
+   "ref": "node/10652368527",
+   "latitude": 41.5928448,
+   "longitude": 1.795498,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 2550,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0553": [
+  {
+   "place": "Sant Miquel",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5867655,
+   "longitude": 1.8415324,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 795,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  },
+  {
+   "place": "Roca de Sant Miquel",
+   "source": "osm",
+   "ref": "node/10652368527",
+   "latitude": 41.5928448,
+   "longitude": 1.795498,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 2550,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0557": [
+  {
+   "place": "Miranda de Sant Benet",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5938066,
+   "longitude": 1.8283029,
+   "match": "porta el nom d'un lloc (capella, ermita…)",
+   "distance_m": 141,
+   "reason": "porta el nom d'un lloc (capella, ermita…)"
+  }
+ ],
+ "n0563": [
+  {
+   "place": "els Flautats",
+   "source": "icgc",
+   "ref": "ICGC toponímia (topo2)",
+   "latitude": 41.5968186,
+   "longitude": 1.8306221,
+   "match": "nom exacte",
+   "distance_m": 35,
+   "reason": "el mateix lloc per a diverses agulles"
+  }
+ ]
+}

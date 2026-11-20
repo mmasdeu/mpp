@@ -1,0 +1,386 @@
+{
+ "generated": "scripts/geolocate.py",
+ "accepted": [
+  {
+   "needleId": "n0152",
+   "needleName": "Punta de la Desdentegada",
+   "latitude": 41.5999283,
+   "longitude": 1.7872416,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Desdentegada — nom (sense «roca/agulla…»); a 0 m de la secció"
+  },
+  {
+   "needleId": "n0181",
+   "needleName": "Roca de la Foca",
+   "latitude": 41.5994805,
+   "longitude": 1.7948484,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2470141673]",
+   "matchedBy": "name",
+   "note": "la Foca — nom (sense «roca/agulla…»); a 107 m de la secció · node/2470141673"
+  },
+  {
+   "needleId": "n0547",
+   "needleName": "Serrat d'en Muntaner",
+   "latitude": 41.581603,
+   "longitude": 1.8161816,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat d'en Muntaner — nom exacte; a 426 m de la secció"
+  },
+  {
+   "needleId": "n0570",
+   "needleName": "La Talaia Gran",
+   "latitude": 41.6046602,
+   "longitude": 1.8090157,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928226083]",
+   "matchedBy": "name",
+   "note": "Talaia Gran — nom exacte; a 3 m de la secció · node/1928226083"
+  },
+  {
+   "needleId": "n0571",
+   "needleName": "La Talaia Petita",
+   "latitude": 41.6049883,
+   "longitude": 1.8091506,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741238]",
+   "matchedBy": "name",
+   "note": "Talaia Petita — nom exacte; a 36 m de la secció · node/1928741238"
+  },
+  {
+   "needleId": "n0572",
+   "needleName": "La Petxina",
+   "latitude": 41.6048283,
+   "longitude": 1.809347,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11879141548]",
+   "matchedBy": "name",
+   "note": "La Petxina — nom exacte; a 31 m de la secció · node/11879141548"
+  },
+  {
+   "needleId": "n0573",
+   "needleName": "Roca 393",
+   "latitude": 41.6038346,
+   "longitude": 1.8085967,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10914282046]",
+   "matchedBy": "name",
+   "note": "Roca 393 — nom exacte + número de Semir 393; a 101 m de la secció · node/10914282046"
+  },
+  {
+   "needleId": "n0574",
+   "needleName": "Roca 314",
+   "latitude": 41.6043019,
+   "longitude": 1.8084921,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10914282045]",
+   "matchedBy": "name",
+   "note": "Roca 314 — nom exacte + número de Semir 314; a 62 m de la secció · node/10914282045"
+  },
+  {
+   "needleId": "n0575",
+   "needleName": "Roca del Coll del Llum",
+   "latitude": 41.6048947,
+   "longitude": 1.8087118,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11877481550]",
+   "matchedBy": "name",
+   "note": "Roca del Coll de la Llum — nom exacte; a 36 m de la secció · node/11877481550"
+  },
+  {
+   "needleId": "n0576",
+   "needleName": "Roca 307",
+   "latitude": 41.6056153,
+   "longitude": 1.8093712,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741240]",
+   "matchedBy": "name",
+   "note": "Punta Solitud (Roca 307) — número de Semir 307; a 23 m de la secció · node/1928741240"
+  },
+  {
+   "needleId": "n0588",
+   "needleName": "Roca 155",
+   "latitude": 41.6067044,
+   "longitude": 1.789751,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343228]",
+   "matchedBy": "name",
+   "note": "Roca 155 — nom exacte + número de Semir 155; a 61 m de la secció · node/13924343228"
+  },
+  {
+   "needleId": "n0606",
+   "needleName": "Roca 211",
+   "latitude": 41.606679,
+   "longitude": 1.8034712,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11058658696]",
+   "matchedBy": "name",
+   "note": "Roca dels Enamorats (Roca 211) — número de Semir 211; a 50 m de la secció · node/11058658696"
+  },
+  {
+   "needleId": "n0610",
+   "needleName": "Roca 232",
+   "latitude": 41.6058243,
+   "longitude": 1.8022718,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13810758611]",
+   "matchedBy": "name",
+   "note": "Roca 232 — nom exacte + número de Semir 232; a 72 m de la secció · node/13810758611"
+  },
+  {
+   "needleId": "n0611",
+   "needleName": "Roca 253",
+   "latitude": 41.6002323,
+   "longitude": 1.8019959,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10609286690]",
+   "matchedBy": "name",
+   "note": "Mirador del Serrat del Cabrit (Roca 253) — número de Semir 253; a 162 m de la secció · node/10609286690"
+  },
+  {
+   "needleId": "n0615",
+   "needleName": "Roca 332",
+   "latitude": 41.6033124,
+   "longitude": 1.8166381,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11361427845]",
+   "matchedBy": "name",
+   "note": "Roca 332 — nom exacte + número de Semir 332; a 81 m de la secció · node/11361427845"
+  },
+  {
+   "needleId": "n0617",
+   "needleName": "Roca 347",
+   "latitude": 41.59927,
+   "longitude": 1.8181223,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10924070551]",
+   "matchedBy": "name",
+   "note": "Roca 347 — nom exacte + número de Semir 347; a 27 m de la secció · node/10924070551"
+  },
+  {
+   "needleId": "n0622",
+   "needleName": "Cota 414",
+   "latitude": 41.5910262,
+   "longitude": 1.8249349,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10893124671]",
+   "matchedBy": "name",
+   "note": "Roca 414 — número de Semir 414; a 25 m de la secció · node/10893124671"
+  },
+  {
+   "needleId": "n0623",
+   "needleName": "Cota 419",
+   "latitude": 41.5897971,
+   "longitude": 1.8246317,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14112698546]",
+   "matchedBy": "name",
+   "note": "Roca 419 — número de Semir 419; a 67 m de la secció · node/14112698546"
+  },
+  {
+   "needleId": "n0624",
+   "needleName": "Cota 420",
+   "latitude": 41.5897165,
+   "longitude": 1.8243697,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14108511943]",
+   "matchedBy": "name",
+   "note": "Roca 420 — número de Semir 420; a 45 m de la secció · node/14108511943"
+  },
+  {
+   "needleId": "n0625",
+   "needleName": "Cota 433",
+   "latitude": 41.5887218,
+   "longitude": 1.8231616,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184134572]",
+   "matchedBy": "name",
+   "note": "Roca 433 — número de Semir 433; a 20 m de la secció · node/11184134572"
+  },
+  {
+   "needleId": "n0626",
+   "needleName": "Cota 436",
+   "latitude": 41.5881169,
+   "longitude": 1.8224372,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184134566]",
+   "matchedBy": "name",
+   "note": "Roca de Sant Martí (Roca 436) — número de Semir 436; a 35 m de la secció · node/11184134566"
+  },
+  {
+   "needleId": "n0627",
+   "needleName": "Cota 471",
+   "latitude": 41.5885208,
+   "longitude": 1.8210723,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10893081632]",
+   "matchedBy": "name",
+   "note": "Els Estalvis del Porró (Roca 471) — número de Semir 471; a 36 m de la secció · node/10893081632"
+  },
+  {
+   "needleId": "n0628",
+   "needleName": "Cota 429",
+   "latitude": 41.5898578,
+   "longitude": 1.8228752,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11201038136]",
+   "matchedBy": "name",
+   "note": "Roca 429 — número de Semir 429; a 25 m de la secció · node/11201038136"
+  },
+  {
+   "needleId": "n0629",
+   "needleName": "Cota 447",
+   "latitude": 41.5899931,
+   "longitude": 1.8229263,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14108511932]",
+   "matchedBy": "name",
+   "note": "Roca 447 — número de Semir 447; a 10 m de la secció · node/14108511932"
+  },
+  {
+   "needleId": "n0630",
+   "needleName": "Cotes 450 i 451",
+   "latitude": 41.5898677,
+   "longitude": 1.821971,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11201026263]",
+   "matchedBy": "name",
+   "note": "Roca 451 — número de Semir 451; a 13 m de la secció · node/11201026263"
+  },
+  {
+   "needleId": "n0633",
+   "needleName": "Cotes 475 i 476",
+   "latitude": 41.5877007,
+   "longitude": 1.8232862,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14112970865]",
+   "matchedBy": "name",
+   "note": "Roca 475 — número de Semir 475; a 59 m de la secció · node/14112970865"
+  },
+  {
+   "needleId": "n0634",
+   "needleName": "Cota 464",
+   "latitude": 41.5854718,
+   "longitude": 1.8222355,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14113711846]",
+   "matchedBy": "name",
+   "note": "Roca 464 — número de Semir 464; a 84 m de la secció · node/14113711846"
+  },
+  {
+   "needleId": "n0637",
+   "needleName": "Cota 407",
+   "latitude": 41.5883937,
+   "longitude": 1.8278303,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741213]",
+   "matchedBy": "name",
+   "note": "Roca 407 — número de Semir 407; a 75 m de la secció · node/1928741213"
+  },
+  {
+   "needleId": "n0638",
+   "needleName": "Cota 408",
+   "latitude": 41.5878229,
+   "longitude": 1.8270238,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/5216073457]",
+   "matchedBy": "name",
+   "note": "Roca 408 — número de Semir 408; a 78 m de la secció · node/5216073457"
+  },
+  {
+   "needleId": "n0640",
+   "needleName": "Tossal de la Boirafua",
+   "latitude": 41.5762276,
+   "longitude": 1.8341897,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10580494878]",
+   "matchedBy": "name",
+   "note": "Tossal de la Boirafua — nom exacte; a 142 m de la secció · node/10580494878"
+  },
+  {
+   "needleId": "n0645",
+   "needleName": "Cota 519",
+   "latitude": 41.5937785,
+   "longitude": 1.8274623,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10964193485]",
+   "matchedBy": "name",
+   "note": "Roca 519 — número de Semir 519; a 32 m de la secció · node/10964193485"
+  },
+  {
+   "needleId": "n0646",
+   "needleName": "Cota 518",
+   "latitude": 41.5942269,
+   "longitude": 1.8276599,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10964193486]",
+   "matchedBy": "name",
+   "note": "Roca 518 — número de Semir 518; a 84 m de la secció · node/10964193486"
+  },
+  {
+   "needleId": "n0647",
+   "needleName": "Cota 517",
+   "latitude": 41.5946181,
+   "longitude": 1.8280216,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10964193487]",
+   "matchedBy": "name",
+   "note": "Roca 517 — número de Semir 517; a 112 m de la secció · node/10964193487"
+  },
+  {
+   "needleId": "n0650",
+   "needleName": "Cota 575 (Serra de les Lluernes)",
+   "latitude": 41.5973064,
+   "longitude": 1.8264158,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10962302473]",
+   "matchedBy": "name",
+   "note": "Roca 575 — número de Semir 575; a 67 m de la secció · node/10962302473"
+  },
+  {
+   "needleId": "n0655",
+   "needleName": "Pou de la Sajolida",
+   "latitude": 41.5949918,
+   "longitude": 1.8151089,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Pou de la Sajolida — nom exacte; a 552 m de la secció"
+  },
+  {
+   "needleId": "n0657",
+   "needleName": "Coves del Salnitre",
+   "latitude": 41.573644,
+   "longitude": 1.8348182,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Coves del Salnitre — nom exacte; a 174 m de la secció"
+  },
+  {
+   "needleId": "n0658",
+   "needleName": "Cova Freda",
+   "latitude": 41.573684,
+   "longitude": 1.8321812,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Cova Freda — nom exacte; a 300 m de la secció"
+  },
+  {
+   "needleId": "n0659",
+   "needleName": "Cova Gran",
+   "latitude": 41.5746356,
+   "longitude": 1.8307202,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Cova Gran — nom exacte; a 375 m de la secció"
+  }
+ ],
+ "outliers": []
+}

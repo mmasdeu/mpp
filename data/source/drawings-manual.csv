@@ -1,0 +1,35 @@
+page,needle_id,action,reason
+110,n0127,add,"Title ""EL DIT -140-"" (OCR read ""M40""); needle El Dit has Semir 140"
+115,n0132,add,"Title ""ESPERÓ DE L'ASIÀTICA -185-""; needle L'Asiática has Semir 185"
+198,n0255,add,"Title ""EL CAMELL -317-318-""; needle Cap del Camell has Semir 317-318"
+317,n0395,remove,Text page of Serrat dels Monjos; the drawing is of Serrat dels Escolans -474C- (not an extracted needle)
+333,n0412,remove,Text page of Miranda del Monestir; the drawing is of Agulla de la Creu -488-489-
+388,n0485,add,"Title ""EL CAVALL BERNAT -548-""; needle added by migration 001"
+40,n0490,add,Drawing plate of La Bandereta; needle added by migration 003
+296,n0548,add,Drawing plate of El Trencabarrals; needle added by migration 003
+325,n0551,add,Drawing plate of Punxó del Tatet; needle added by migration 003
+345,n0556,add,Drawing plate of La Panxa del Bisbe; needle added by migration 003
+15,n0004,add,"Editor: Marc, 2026-11-19"
+28,n0011,add,"Title ""EL DAUET D'AGULLES -16-""; needle El Dau has Semir 16"
+79,n0091,add,"Title ""LA CADIRETA -70-""; Semir 70"
+141,n0166,add,"Title ""EL CILINDRE O EL CABRIT -239-""; Semir 239"
+144,n0165,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+151,n0517,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+171,n0524,add,"Title ""EL FARAÓ -258-""; Semir 258"
+179,n0213,add,"Title ""ELS PLECS DE LLIBRE -218 al 223-""; Semir 218-222"
+187,n0231,add,"Title ""PARET DELS ECOS""; Paret dels Ecos, cara N."
+209,n0531,add,"Title ""LA TALAIETA -308-""; Semir 308"
+236,n0278,add,"Title ""EL CAP DE MORT -350-""; Semir 350"
+242,n0287,add,"Title ""EL PUNTAL DE L'ALBARDA -342-""; Semir 338-342"
+271,n0329,add,"Title ""EL RAVE -439-""; Semir 439"
+285,n0334,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+308,n0384,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+314,n0386,add,"Title ""ROCA LLISA""; Agulla Llisa"
+321,n0396,add,"Title ""SERRA LLARGA -499 E-"""
+333,n0554,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+366,n0447,add,"Mixed page (text + drawing) found by scripts/detect-mixed-plates.py; matched by caption"
+378,n0563,add,"Title ""LA CADIRETA DELS FLAUTATS -508-""; Semir 508"
+15,n0007,remove,"Mixed page: the drawing is ""EL SABRE – Via Normal"" of n0004 (El Sabre o el Bodu); n0007 was a false heading (reported by the reviewer)"
+205,n0570,add,"Title ""LA TALAIA GRAN -304-""; needle added by migration 006"
+317,n0549,add,"Title ""SERRAT DELS ESCOLANS -474C-""; needle Roques dels Escolans has Semir 474C"
+362,n0445,add,"Drawing of the Tossal de Mullapans (route Cap del Gat) below the text"

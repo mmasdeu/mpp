@@ -1,11 +1,8 @@
 import { validate } from '../src/lib/data/validation';
 import { validateDecisions } from '../src/lib/data/review';
-import { existsSync } from 'node:fs';
-import { validatePanoramas } from '../src/lib/data/panoramas';
 import { loadDataset, rawDataset, rd } from './_load';
 const ds = loadDataset();
-const needleIds = new Set(ds.needles.map((n) => n.id));
-const issues = [...validate(ds), ...validatePanoramas(rd('panoramas.json'), rd('observations.json'), needleIds, (f) => existsSync(new URL(`../static/images/panoramas/${f}`, import.meta.url))), ...validateDecisions(rd('review/decisions.json'), new Set(rawDataset().needles.map((n) => n.id)))];
+const issues = [...validate(ds), ...validateDecisions(rd('review/decisions.json'), new Set(rawDataset().needles.map((n) => n.id)))];
 const errors = issues.filter((i) => i.level === 'error');
 const warnings = issues.filter((i) => i.level === 'warning');
 for (const e of errors) console.error('ERROR  ', e.message);

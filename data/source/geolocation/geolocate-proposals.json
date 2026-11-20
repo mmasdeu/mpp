@@ -1,0 +1,1156 @@
+{
+ "generated": "scripts/geolocate.py",
+ "accepted": [
+  {
+   "needleId": "n0006",
+   "needleName": "Les Tres Marees",
+   "latitude": 41.6061565,
+   "longitude": 1.779339,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14360155885]",
+   "matchedBy": "name",
+   "note": "Les Tres Maries — nom semblant (0.91); a 117 m de la secció · node/14360155885"
+  },
+  {
+   "needleId": "n0031",
+   "needleName": "Les Savines",
+   "latitude": 41.6070041,
+   "longitude": 1.7808267,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "les Savines — nom exacte; a 2 m de la secció"
+  },
+  {
+   "needleId": "n0033",
+   "needleName": "Els Merlets",
+   "latitude": 41.607633,
+   "longitude": 1.7816761,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "els Merlets — nom exacte; a 26 m de la secció"
+  },
+  {
+   "needleId": "n0038",
+   "needleName": "Agulla Peluda",
+   "latitude": 41.6080466,
+   "longitude": 1.781738,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2783395395]",
+   "matchedBy": "name",
+   "note": "la Peluda — nom (sense «roca/agulla…»); a 18 m de la secció · node/2783395395"
+  },
+  {
+   "needleId": "n0045",
+   "needleName": "Agulla Deis Espeledlegs",
+   "latitude": 41.6089706,
+   "longitude": 1.7821091,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741259]",
+   "matchedBy": "name",
+   "note": "Agulla dels Espeleòlegs — nom exacte; a 14 m de la secció · node/1928741259"
+  },
+  {
+   "needleId": "n0047",
+   "needleName": "Saca Gran, Aresta Brucs",
+   "latitude": 41.6091348,
+   "longitude": 1.7825441,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Saca Gran — nom exacte; a 1 m de la secció"
+  },
+  {
+   "needleId": "n0048",
+   "needleName": "Pedestal del Martell",
+   "latitude": 41.608719,
+   "longitude": 1.7825461,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Martell — nom (sense «roca/agulla…»); a 45 m de la secció"
+  },
+  {
+   "needleId": "n0049",
+   "needleName": "El Martell",
+   "latitude": 41.608719,
+   "longitude": 1.7825461,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Martell — nom exacte; a 45 m de la secció"
+  },
+  {
+   "needleId": "n0051",
+   "needleName": "Roca de les Heures",
+   "latitude": 41.6088693,
+   "longitude": 1.783213,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca de les Heures — nom exacte; a 2 m de la secció"
+  },
+  {
+   "needleId": "n0055",
+   "needleName": "Agulla de L'Arbret, Aresta Brucs",
+   "latitude": 41.6097676,
+   "longitude": 1.7841056,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Arbret — nom (sense «roca/agulla…»); a 3 m de la secció"
+  },
+  {
+   "needleId": "n0062",
+   "needleName": "Agulla de L'Esquelet",
+   "latitude": 41.6081913,
+   "longitude": 1.7840585,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Esquèlet — nom (sense «roca/agulla…»); a 48 m de la secció"
+  },
+  {
+   "needleId": "n0079",
+   "needleName": "Roca del Dumbo",
+   "latitude": 41.6089245,
+   "longitude": 1.7866544,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2783357361]",
+   "matchedBy": "name",
+   "note": "el Dumbo — nom (sense «roca/agulla…»); a 48 m de la secció · node/2783357361"
+  },
+  {
+   "needleId": "n0098",
+   "needleName": "Agulla Sens Nom",
+   "latitude": 41.6100982,
+   "longitude": 1.7887669,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741281]",
+   "matchedBy": "name",
+   "note": "la Sense Nom — nom semblant (0.94); a 42 m de la secció · node/1928741281"
+  },
+  {
+   "needleId": "n0101",
+   "needleName": "El Oueixal",
+   "latitude": 41.6099142,
+   "longitude": 1.7895594,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343217]",
+   "matchedBy": "name",
+   "note": "El Queixal — nom exacte; a 50 m de la secció · node/13924343217"
+  },
+  {
+   "needleId": "n0102",
+   "needleName": "El Carouinyoli",
+   "latitude": 41.6104798,
+   "longitude": 1.7902973,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343219]",
+   "matchedBy": "name",
+   "note": "El Carquinyoli — nom exacte; a 33 m de la secció · node/13924343219"
+  },
+  {
+   "needleId": "n0104",
+   "needleName": "Serrat del Centenar",
+   "latitude": 41.6106292,
+   "longitude": 1.7906564,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat del Centenar — nom exacte; a 1 m de la secció"
+  },
+  {
+   "needleId": "n0114",
+   "needleName": "Roca Separada",
+   "latitude": 41.6060977,
+   "longitude": 1.7895682,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10594614369]",
+   "matchedBy": "name",
+   "note": "Roca 169 — número de Semir 169; a 164 m de la secció · node/10594614369"
+  },
+  {
+   "needleId": "n0126",
+   "needleName": "El Talp",
+   "latitude": 41.6098354,
+   "longitude": 1.7920471,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Talp — nom exacte; a 58 m de la secció"
+  },
+  {
+   "needleId": "n0135",
+   "needleName": "Els Frares Encantats",
+   "latitude": 41.6090297,
+   "longitude": 1.7911823,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "els Frares Encantats — nom exacte; a 102 m de la secció"
+  },
+  {
+   "needleId": "n0147",
+   "needleName": "Roca Petita O Inferior de Pas de Príncep",
+   "latitude": 41.6058972,
+   "longitude": 1.793202,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10799709708]",
+   "matchedBy": "name",
+   "note": "Agulla Inferior del Pas del Príncep — nom (sense «roca/agulla…»); a 43 m de la secció · node/10799709708"
+  },
+  {
+   "needleId": "n0153",
+   "needleName": "La Desdentegada",
+   "latitude": 41.5999283,
+   "longitude": 1.7872416,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Desdentegada — nom exacte; a 2 m de la secció"
+  },
+  {
+   "needleId": "n0175",
+   "needleName": "Bonys Deis Naps",
+   "latitude": 41.6002854,
+   "longitude": 1.7941399,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Bonys dels Naps — nom exacte; a 119 m de la secció"
+  },
+  {
+   "needleId": "n0187",
+   "needleName": "Merlet de la Roca Vella",
+   "latitude": 41.5980923,
+   "longitude": 1.7918267,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca Vella — nom (sense «roca/agulla…»); a 19 m de la secció"
+  },
+  {
+   "needleId": "n0192",
+   "needleName": "Agulla del Castell",
+   "latitude": 41.5980389,
+   "longitude": 1.7889118,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Agulla del Castell — nom exacte; a 237 m de la secció"
+  },
+  {
+   "needleId": "n0193",
+   "needleName": "Roca del Tambor",
+   "latitude": 41.5983203,
+   "longitude": 1.7892732,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca del Tambor — nom exacte; a 211 m de la secció"
+  },
+  {
+   "needleId": "n0198",
+   "needleName": "Agulla Zanini",
+   "latitude": 41.5970474,
+   "longitude": 1.7976751,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Agulla Zanini — nom exacte; a 1 m de la secció"
+  },
+  {
+   "needleId": "n0202",
+   "needleName": "Serrat de la Palomera",
+   "latitude": 41.5934462,
+   "longitude": 1.7996295,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Palomera — nom (sense «roca/agulla…»); a 179 m de la secció"
+  },
+  {
+   "needleId": "n0209",
+   "needleName": "Serrat del Faraci Occidental",
+   "latitude": 41.5973945,
+   "longitude": 1.79733,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10580457117]",
+   "matchedBy": "name",
+   "note": "Roca del Serrat del Faraó Occidental (Roca 259) — número de Semir 259; a 129 m de la secció · node/10580457117"
+  },
+  {
+   "needleId": "n0210",
+   "needleName": "Serrat del Fara05",
+   "latitude": 41.598069,
+   "longitude": 1.7998854,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat del Faraó — nom exacte; a 12 m de la secció"
+  },
+  {
+   "needleId": "n0217",
+   "needleName": "Roca de la Cajoleta",
+   "latitude": 41.5962289,
+   "longitude": 1.8060494,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/6080369842]",
+   "matchedBy": "name",
+   "note": "Cajoleta — nom (sense «roca/agulla…»); a 457 m de la secció · node/6080369842"
+  },
+  {
+   "needleId": "n0220",
+   "needleName": "Roca Vena de la Dreta de la Salamandra",
+   "latitude": 41.6021444,
+   "longitude": 1.8071701,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11058658700]",
+   "matchedBy": "name",
+   "note": "Veïna a la dreta de la Salamandra — nom semblant (0.98); a 45 m de la secció · node/11058658700"
+  },
+  {
+   "needleId": "n0222",
+   "needleName": "Roca Vena de L'Esouerra de la Salamandra",
+   "latitude": 41.6022567,
+   "longitude": 1.8064512,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11058658699]",
+   "matchedBy": "name",
+   "note": "Veïna de l'esquerra de la Salamandra — nom semblant (0.98); a 20 m de la secció · node/11058658699"
+  },
+  {
+   "needleId": "n0226",
+   "needleName": "Roques del Salt de la Nina",
+   "latitude": 41.6061451,
+   "longitude": 1.8049574,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741241]",
+   "matchedBy": "name",
+   "note": "Roca TIM (208) — número de Semir 208; a 55 m de la secció · node/1928741241"
+  },
+  {
+   "needleId": "n0228",
+   "needleName": "Els Ecos",
+   "latitude": 41.6060755,
+   "longitude": 1.8017018,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "els Ecos — nom exacte; a 249 m de la secció"
+  },
+  {
+   "needleId": "n0231",
+   "needleName": "Paret Deis Ecos, Cara N.",
+   "latitude": 41.6076026,
+   "longitude": 1.8012499,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Paret dels Ecos — nom exacte; a 300 m de la secció"
+  },
+  {
+   "needleId": "n0233",
+   "needleName": "Camell Deis Ecos",
+   "latitude": 41.6057017,
+   "longitude": 1.8073693,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Camell dels Ecos — nom exacte; a 81 m de la secció"
+  },
+  {
+   "needleId": "n0236",
+   "needleName": "Agulla del Pas Dels Micos",
+   "latitude": 41.6037233,
+   "longitude": 1.8070553,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741231]",
+   "matchedBy": "name",
+   "note": "Cota 288 — número de Semir 288; a 139 m de la secció · node/1928741231"
+  },
+  {
+   "needleId": "n0252",
+   "needleName": "El Sentinelleta",
+   "latitude": 41.6022019,
+   "longitude": 1.8114523,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Sentinelleta — nom exacte; a 123 m de la secció"
+  },
+  {
+   "needleId": "n0263",
+   "needleName": "Les Talaies",
+   "latitude": 41.6046819,
+   "longitude": 1.8090319,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "les Talaies — nom exacte; a 214 m de la secció"
+  },
+  {
+   "needleId": "n0273",
+   "needleName": "El Montcau",
+   "latitude": 41.6035536,
+   "longitude": 1.8157264,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Montcau — nom exacte; a 323 m de la secció"
+  },
+  {
+   "needleId": "n0280",
+   "needleName": "Paret Dels Diables",
+   "latitude": 41.6023721,
+   "longitude": 1.8207013,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Paret dels Diables — nom exacte; a 96 m de la secció"
+  },
+  {
+   "needleId": "n0296",
+   "needleName": "Roca del Castellet",
+   "latitude": 41.5937957,
+   "longitude": 1.8118227,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Castellet — nom (sense «roca/agulla…»); a 544 m de la secció"
+  },
+  {
+   "needleId": "n0298",
+   "needleName": "Serrat Dels Tudons",
+   "latitude": 41.5901969,
+   "longitude": 1.802552,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat dels Tudons — nom exacte; a 321 m de la secció"
+  },
+  {
+   "needleId": "n0301",
+   "needleName": "Serrat de la Socarrada",
+   "latitude": 41.5906793,
+   "longitude": 1.8065931,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Socarrada — nom (sense «roca/agulla…»); a 334 m de la secció"
+  },
+  {
+   "needleId": "n0318",
+   "needleName": "Conjunt Dels Pollegons",
+   "latitude": 41.5909967,
+   "longitude": 1.8190192,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "els Pollegons — nom (sense «roca/agulla…»); a 472 m de la secció"
+  },
+  {
+   "needleId": "n0319",
+   "needleName": "Serrat Dels Pollegons A",
+   "latitude": 41.587697,
+   "longitude": 1.8166769,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat dels Pollegons — nom exacte; a 274 m de la secció"
+  },
+  {
+   "needleId": "n0321",
+   "needleName": "Serrat de L'Artiga Alta",
+   "latitude": 41.5868464,
+   "longitude": 1.8182825,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Artiga Alta — nom (sense «roca/agulla…»); a 401 m de la secció"
+  },
+  {
+   "needleId": "n0332",
+   "needleName": "Processo Deis Monjos",
+   "latitude": 41.5887759,
+   "longitude": 1.8213868,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Processó dels Monjos — nom exacte; a 64 m de la secció"
+  },
+  {
+   "needleId": "n0333",
+   "needleName": "La Doble",
+   "latitude": 41.589421,
+   "longitude": 1.8239986,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10893615743]",
+   "matchedBy": "name",
+   "note": "La Doble (Roca 423) — número de Semir 423; a 52 m de la secció · node/10893615743"
+  },
+  {
+   "needleId": "n0337",
+   "needleName": "Roca Dels Colleccionistes",
+   "latitude": 41.5882162,
+   "longitude": 1.8217792,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184134568]",
+   "matchedBy": "name",
+   "note": "Roca dels Col·leccionistes — nom exacte; a 82 m de la secció · node/11184134568"
+  },
+  {
+   "needleId": "n0343",
+   "needleName": "Agulla D'En Torras Homet",
+   "latitude": 41.5895628,
+   "longitude": 1.8224496,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11201036921]",
+   "matchedBy": "name",
+   "note": "Agulla d'en Torres Homet — nom semblant (0.92); a 62 m de la secció · node/11201036921"
+  },
+  {
+   "needleId": "n0346",
+   "needleName": "Agulleta de L'Esglai",
+   "latitude": 41.5892071,
+   "longitude": 1.8213022,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14108511937]",
+   "matchedBy": "name",
+   "note": "L'Esglai — nom (sense «roca/agulla…»); a 19 m de la secció · node/14108511937"
+  },
+  {
+   "needleId": "n0349",
+   "needleName": "Roca de la Cantelluda",
+   "latitude": 41.5868171,
+   "longitude": 1.8226864,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184134576]",
+   "matchedBy": "name",
+   "note": "La Cantelluda — nom (sense «roca/agulla…»); a 168 m de la secció · node/11184134576"
+  },
+  {
+   "needleId": "n0350",
+   "needleName": "Roca de la Presidenta",
+   "latitude": 41.5868653,
+   "longitude": 1.8219462,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184134574]",
+   "matchedBy": "name",
+   "note": "La Presidenta — nom (sense «roca/agulla…»); a 142 m de la secció · node/11184134574"
+  },
+  {
+   "needleId": "n0352",
+   "needleName": "Roca D'En Marcel",
+   "latitude": 41.585558,
+   "longitude": 1.8212332,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11186769855]",
+   "matchedBy": "name",
+   "note": "Roca d'en Marcel — nom exacte; a 347 m de la secció · node/11186769855"
+  },
+  {
+   "needleId": "n0353",
+   "needleName": "Roca del Rellotge",
+   "latitude": 41.5862236,
+   "longitude": 1.82128,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14113711845]",
+   "matchedBy": "name",
+   "note": "El Rellotge — nom (sense «roca/agulla…»); a 367 m de la secció · node/14113711845"
+  },
+  {
+   "needleId": "n0354",
+   "needleName": "Roca de L'Esquerda",
+   "latitude": 41.586131,
+   "longitude": 1.8209473,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14113711844]",
+   "matchedBy": "name",
+   "note": "L'Esquerda — nom (sense «roca/agulla…»); a 388 m de la secció · node/14113711844"
+  },
+  {
+   "needleId": "n0356",
+   "needleName": "Roca de L'Artiga Baixa",
+   "latitude": 41.5849603,
+   "longitude": 1.8186258,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Artiga Baixa — nom (sense «roca/agulla…»); a 556 m de la secció"
+  },
+  {
+   "needleId": "n0364",
+   "needleName": "Serrat del Penitent",
+   "latitude": 41.581075,
+   "longitude": 1.8268282,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serra del Penitent — nom exacte; a 442 m de la secció"
+  },
+  {
+   "needleId": "n0371",
+   "needleName": "Ullal de les Magdalenes",
+   "latitude": 41.5891744,
+   "longitude": 1.8268933,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10594725088]",
+   "matchedBy": "name",
+   "note": "Ullal de la Magdalena — nom semblant (0.90); a 48 m de la secció · node/10594725088"
+  },
+  {
+   "needleId": "n0378",
+   "needleName": "Serra de Sant Joan",
+   "latitude": 41.5814798,
+   "longitude": 1.8318443,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serra de Sant Joan — nom exacte; a 22 m de la secció"
+  },
+  {
+   "needleId": "n0385",
+   "needleName": "Serrat de la Guardia",
+   "latitude": 41.5784315,
+   "longitude": 1.8232868,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serra de la Guàrdia — nom exacte; a 737 m de la regió"
+  },
+  {
+   "needleId": "n0388",
+   "needleName": "Contrafort de les Bateries",
+   "latitude": 41.5785565,
+   "longitude": 1.8334998,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "les Bateries — nom (sense «roca/agulla…»); a 337 m de la regió"
+  },
+  {
+   "needleId": "n0389",
+   "needleName": "Serra de les Garrigoses",
+   "latitude": 41.5751864,
+   "longitude": 1.8351648,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat de les Garrigoses — nom exacte; a 736 m de la regió"
+  },
+  {
+   "needleId": "n0416",
+   "needleName": "Roca de L'Elefantet",
+   "latitude": 41.5930849,
+   "longitude": 1.8337328,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Elefantet — nom (sense «roca/agulla…»); a 152 m de la secció"
+  },
+  {
+   "needleId": "n0417",
+   "needleName": "Merlet de la Verge",
+   "latitude": 41.5936682,
+   "longitude": 1.8353665,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Agulla de la Verge — nom (sense «roca/agulla…»); a 3 m de la secció"
+  },
+  {
+   "needleId": "n0432",
+   "needleName": "Roca de la Prenyada",
+   "latitude": 41.594386,
+   "longitude": 1.8297511,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Prenyada — nom (sense «roca/agulla…»); a 44 m de la secció"
+  },
+  {
+   "needleId": "n0435",
+   "needleName": "Agulla D'En Markus Kamen",
+   "latitude": 41.5939538,
+   "longitude": 1.8290682,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11738634613]",
+   "matchedBy": "name",
+   "note": "Agulla d'en Marcus Kamen — nom semblant (0.92); a 101 m de la secció · node/11738634613"
+  },
+  {
+   "needleId": "n0436",
+   "needleName": "Roca de la Trumfa",
+   "latitude": 41.5948817,
+   "longitude": 1.8311629,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Trumfa — nom (sense «roca/agulla…»); a 92 m de la secció"
+  },
+  {
+   "needleId": "n0458",
+   "needleName": "Boleta de Trinitats",
+   "latitude": 41.5964787,
+   "longitude": 1.833647,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Trinitat — nom semblant (0.94); a 77 m de la secció"
+  },
+  {
+   "needleId": "n0463",
+   "needleName": "Roques de la Nansa",
+   "latitude": 41.597762,
+   "longitude": 1.8301798,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Nansa — nom (sense «roca/agulla…»); a 101 m de la secció"
+  },
+  {
+   "needleId": "n0480",
+   "needleName": "Serrat de les Barretines",
+   "latitude": 41.6002302,
+   "longitude": 1.8261279,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat de les Barretines — nom exacte; a 97 m de la secció"
+  },
+  {
+   "needleId": "n0485",
+   "needleName": "El Cavall Bernat",
+   "latitude": 41.6006987,
+   "longitude": 1.8227238,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Cavall Bernat — nom exacte; a 251 m de la secció"
+  },
+  {
+   "needleId": "n0486",
+   "needleName": "Serra de les Lluernes",
+   "latitude": 41.5987998,
+   "longitude": 1.8235265,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serra de les Lluernes — nom exacte; a 174 m de la secció"
+  },
+  {
+   "needleId": "n0488",
+   "needleName": "Serrat de Guirló",
+   "latitude": 41.6078706,
+   "longitude": 1.7761916,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat de Guirló — nom exacte; a 207 m de la secció"
+  },
+  {
+   "needleId": "n0491",
+   "needleName": "El Carbassó",
+   "latitude": 41.6089974,
+   "longitude": 1.7828834,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2783409448]",
+   "matchedBy": "name",
+   "note": "el Carbassó — nom exacte; a 31 m de la secció · node/2783409448"
+  },
+  {
+   "needleId": "n0493",
+   "needleName": "Roca del Cirerer",
+   "latitude": 41.6085934,
+   "longitude": 1.783623,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2783409450]",
+   "matchedBy": "name",
+   "note": "Agulla del Cirerer — tipus diferent (roca / agulla); a 44 m de la secció · node/2783409450"
+  },
+  {
+   "needleId": "n0495",
+   "needleName": "Roca veïna del Cap de Guerrer",
+   "latitude": 41.6075645,
+   "longitude": 1.7851295,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13955426117]",
+   "matchedBy": "name",
+   "note": "Roca Veïna del Cap del Guerrer — nom exacte; a 71 m de la secció · node/13955426117"
+  },
+  {
+   "needleId": "n0497",
+   "needleName": "Agulla de la Foradada",
+   "latitude": 41.6116906,
+   "longitude": 1.7871856,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13955402961]",
+   "matchedBy": "name",
+   "note": "Agulla de la Foradada — nom exacte; a 22 m de la secció · node/13955402961"
+  },
+  {
+   "needleId": "n0500",
+   "needleName": "Cotes 107-108-109",
+   "latitude": 41.6100329,
+   "longitude": 1.7909207,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343223]",
+   "matchedBy": "name",
+   "note": "Roca 107 — número de Semir 107; a 57 m de la secció · node/13924343223"
+  },
+  {
+   "needleId": "n0502",
+   "needleName": "Roca 113",
+   "latitude": 41.6090701,
+   "longitude": 1.7904532,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343225]",
+   "matchedBy": "name",
+   "note": "Roca 113 — nom exacte + número de Semir 113; a 40 m de la secció · node/13924343225"
+  },
+  {
+   "needleId": "n0503",
+   "needleName": "Roca de la Grip",
+   "latitude": 41.6090472,
+   "longitude": 1.7906145,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/6866602077]",
+   "matchedBy": "name",
+   "note": "Roca de la Grip — nom exacte; a 45 m de la secció · node/6866602077"
+  },
+  {
+   "needleId": "n0504",
+   "needleName": "Roca de les Balmes",
+   "latitude": 41.6072501,
+   "longitude": 1.7898117,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10594659785]",
+   "matchedBy": "name",
+   "note": "Roca de les Balmes — nom exacte; a 171 m de la secció · node/10594659785"
+  },
+  {
+   "needleId": "n0505",
+   "needleName": "Punta 167",
+   "latitude": 41.6073842,
+   "longitude": 1.7898336,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/13924343226]",
+   "matchedBy": "name",
+   "note": "Punta 167 — nom exacte; a 156 m de la secció · node/13924343226"
+  },
+  {
+   "needleId": "n0507",
+   "needleName": "Cotes 175 i 178",
+   "latitude": 41.6071219,
+   "longitude": 1.7880113,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/6866602069]",
+   "matchedBy": "name",
+   "note": "Roca 178 — número de Semir 178; a 36 m de la secció · node/6866602069"
+  },
+  {
+   "needleId": "n0508",
+   "needleName": "Miranda del Lloro",
+   "latitude": 41.611063,
+   "longitude": 1.7926093,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Miranda del Lloro — nom exacte; a 31 m de la secció"
+  },
+  {
+   "needleId": "n0510",
+   "needleName": "Roques 133 i 134",
+   "latitude": 41.6055359,
+   "longitude": 1.789251,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928276376]",
+   "matchedBy": "name",
+   "note": "Miranda Petita. Roca 133 — número de Semir 133; a 303 m de la secció · node/1928276376"
+  },
+  {
+   "needleId": "n0515",
+   "needleName": "Roca 273",
+   "latitude": 41.599693,
+   "longitude": 1.7933,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10712826558]",
+   "matchedBy": "name",
+   "note": "Roca 273 — nom exacte + número de Semir 273; a 177 m de la secció · node/10712826558"
+  },
+  {
+   "needleId": "n0517",
+   "needleName": "Cavall dels Brucs",
+   "latitude": 41.6002834,
+   "longitude": 1.7923465,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10712826553]",
+   "matchedBy": "name",
+   "note": "Cavall dels Brucs — nom exacte; a 151 m de la secció · node/10712826553"
+  },
+  {
+   "needleId": "n0519",
+   "needleName": "Pou de l'Estevet",
+   "latitude": 41.5911983,
+   "longitude": 1.7921886,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Pou de l'Estevet — nom exacte; a 349 m de la secció"
+  },
+  {
+   "needleId": "n0521",
+   "needleName": "Agulla de Can Jorba",
+   "latitude": 41.5922915,
+   "longitude": 1.8019487,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Agulla de Can Jorba — nom exacte; a 83 m de la secció"
+  },
+  {
+   "needleId": "n0522",
+   "needleName": "Els Ous del Faraó",
+   "latitude": 41.5975157,
+   "longitude": 1.7991783,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/2470141663]",
+   "matchedBy": "name",
+   "note": "els Ous del Faraó — nom exacte; a 55 m de la secció · node/2470141663"
+  },
+  {
+   "needleId": "n0524",
+   "needleName": "El Faraó",
+   "latitude": 41.5972163,
+   "longitude": 1.7986049,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "el Faraó — nom exacte; a 79 m de la secció"
+  },
+  {
+   "needleId": "n0525",
+   "needleName": "Roca 238",
+   "latitude": 41.601964,
+   "longitude": 1.8076042,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca del Grau — nom exacte; a 84 m de la secció"
+  },
+  {
+   "needleId": "n0526",
+   "needleName": "Turó del Montgròs",
+   "latitude": 41.6000147,
+   "longitude": 1.8051022,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Montgròs — nom (sense «roca/agulla…»); a 75 m de la secció"
+  },
+  {
+   "needleId": "n0527",
+   "needleName": "Roca Plana dels Llamps",
+   "latitude": 41.6013819,
+   "longitude": 1.8048277,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca Plana dels Llamps — nom exacte; a 128 m de la secció"
+  },
+  {
+   "needleId": "n0529",
+   "needleName": "Roques 310-311-312 i del Teix",
+   "latitude": 41.6039919,
+   "longitude": 1.8109965,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1928741233]",
+   "matchedBy": "name",
+   "note": "Roca 312 — número de Semir 312; a 79 m de la secció · node/1928741233"
+  },
+  {
+   "needleId": "n0531",
+   "needleName": "Talaieta d'en Barbé",
+   "latitude": 41.6058233,
+   "longitude": 1.8094076,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Talaieta — nom exacte; a 309 m de la secció"
+  },
+  {
+   "needleId": "n0535",
+   "needleName": "Serrat de les Onze",
+   "latitude": 41.6015557,
+   "longitude": 1.8204235,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Serrat de les Onze — nom exacte; a 3 m de la secció"
+  },
+  {
+   "needleId": "n0536",
+   "needleName": "Miranda de Sant Antoni",
+   "latitude": 41.600547,
+   "longitude": 1.8215128,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Miranda de Sant Antoni — nom exacte; a 63 m de la secció"
+  },
+  {
+   "needleId": "n0537",
+   "needleName": "L'Albarda Castellana",
+   "latitude": 41.6010429,
+   "longitude": 1.8133887,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Albarda Castellana — nom exacte; a 138 m de la secció"
+  },
+  {
+   "needleId": "n0538",
+   "needleName": "Roca 345",
+   "latitude": 41.5913597,
+   "longitude": 1.8108366,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/14360188650]",
+   "matchedBy": "name",
+   "note": "Roca 345 — nom exacte + número de Semir 345; a 406 m de la secció · node/14360188650"
+  },
+  {
+   "needleId": "n0540",
+   "needleName": "Roca 380",
+   "latitude": 41.5940702,
+   "longitude": 1.806575,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10914224459]",
+   "matchedBy": "name",
+   "note": "Roca 380 — nom exacte + número de Semir 380; a 217 m de la secció · node/10914224459"
+  },
+  {
+   "needleId": "n0543",
+   "needleName": "Roca del Porró",
+   "latitude": 41.5887542,
+   "longitude": 1.82138,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/1882826006]",
+   "matchedBy": "name",
+   "note": "El Porró — nom (sense «roca/agulla…»); a 67 m de la secció · node/1882826006"
+  },
+  {
+   "needleId": "n0544",
+   "needleName": "Cotes 453-454-455",
+   "latitude": 41.5894753,
+   "longitude": 1.8222181,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11201036917]",
+   "matchedBy": "name",
+   "note": "Roca 453 — número de Semir 453; a 46 m de la secció · node/11201036917"
+  },
+  {
+   "needleId": "n0545",
+   "needleName": "Punxó de la Pau i Justícia",
+   "latitude": 41.5874832,
+   "longitude": 1.8208947,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11184150253]",
+   "matchedBy": "name",
+   "note": "Punxó de la Pau i Justícia — nom exacte; a 57 m de la secció · node/11184150253"
+  },
+  {
+   "needleId": "n0548",
+   "needleName": "El Trencabarrals",
+   "latitude": 41.5911962,
+   "longitude": 1.827459,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Trencabarrals — nom exacte; a 183 m de la secció"
+  },
+  {
+   "needleId": "n0550",
+   "needleName": "Orella de Llebre",
+   "latitude": 41.581916,
+   "longitude": 1.8485644,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Orella de Llebre — nom exacte; a 775 m de la regió"
+  },
+  {
+   "needleId": "n0554",
+   "needleName": "Agulla de la Creu",
+   "latitude": 41.590489,
+   "longitude": 1.8423658,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "l'Agulla de la Creu — nom exacte; a 375 m de la regió"
+  },
+  {
+   "needleId": "n0556",
+   "needleName": "La Panxa del Bisbe",
+   "latitude": 41.5935309,
+   "longitude": 1.827256,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "la Panxa del Bisbe — nom exacte; a 68 m de la secció"
+  },
+  {
+   "needleId": "n0558",
+   "needleName": "Roca de l'Avortó",
+   "latitude": 41.5947662,
+   "longitude": 1.8293524,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11738653436]",
+   "matchedBy": "name",
+   "note": "Roca de l'Avortó — nom exacte; a 96 m de la secció · node/11738653436"
+  },
+  {
+   "needleId": "n0560",
+   "needleName": "Roca de les Aigües",
+   "latitude": 41.5946624,
+   "longitude": 1.8463527,
+   "accuracy": "approximate",
+   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
+   "matchedBy": "name",
+   "note": "Roca de les Aigües — nom exacte; a 92 m de la secció"
+  },
+  {
+   "needleId": "n0562",
+   "needleName": "Roca del Moro Joan",
+   "latitude": 41.5961386,
+   "longitude": 1.8300287,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/11916807934]",
+   "matchedBy": "name",
+   "note": "Roca del Moro Joan — nom exacte; a 19 m de la secció · node/11916807934"
+  },
+  {
+   "needleId": "n0564",
+   "needleName": "Cotes 540-541",
+   "latitude": 41.5967305,
+   "longitude": 1.8330404,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/10613006659]",
+   "matchedBy": "name",
+   "note": "Roca 541 — número de Semir 541; a 54 m de la secció · node/10613006659"
+  },
+  {
+   "needleId": "n0565",
+   "needleName": "Cotes 558 i 559",
+   "latitude": 41.5973752,
+   "longitude": 1.8304837,
+   "accuracy": "approximate",
+   "source": "OpenStreetMap contributors (ODbL) [node/7878365251]",
+   "matchedBy": "name",
+   "note": "Roca 559 — número de Semir 559; a 52 m de la secció · node/7878365251"
+  }
+ ],
+ "outliers": []
+}

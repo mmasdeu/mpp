@@ -19,16 +19,18 @@ test('app works offline: visited pages, shell pages and never-visited needles', 
 	await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 	await context.setOffline(true);
 
-	await page.goto('/');
-	await expect(page.getByRole('heading', { name: /regions de Montserrat/ })).toBeVisible();
+	await page.goto('/map/');
+	await expect(page.locator('#h-list')).toHaveText('660 agulles');
 	await expect(page.getByRole('status').first()).toContainText('Sense connexió');
+	await page.goto('/');
+	await expect(page.getByRole('heading', { name: 'Les sis regions' })).toBeVisible();
 	for (const url of ['/needles/n0001/', '/sections/s05/', '/search/?q=agulla', '/offline/']) {
 		await page.goto(url);
 		await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 	}
 	// Never visited while online: served from the SPA fallback shell, rendered client-side from the bundled data.
 	await page.goto('/needles/n0300/');
-	await expect(page.getByText('Text original del llibre')).toBeVisible();
+	await expect(page.getByRole('region', { name: 'Text original del llibre' })).toBeVisible();
 	await expect(page.getByRole('heading', { level: 1 })).not.toHaveText('404');
 	await page.goto('/regions/tebaida/');
 	await expect(page.getByRole('heading', { level: 1 })).toHaveText('Regió Tebaida');
@@ -47,4 +49,27 @@ test('"download everything" stores all needle pages', async ({ page }) => {
 	expect(n).toBeGreaterThanOrEqual(484);
 	await page.getByRole('button', { name: /Esborra el contingut/ }).click();
 	await expect(page.getByText('Contingut desat esborrat.')).toBeVisible();
+});
+
+// a 1×1 PNG stands in for the ICGC tiles (the test machine has no internet)
+const PNG = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGP4z8AAAAMBAQDJ/pLvAAAAAElFTkSuQmCC', 'base64');
+
+test('offline map: download the 3D relief pack, then tiles are served without network', async ({ page, context }) => {
+	await context.route(/geoserveis\.icgc\.cat|tilemaps\.icgc\.cat|demotiles\.maplibre\.org/, (r) => r.fulfill({ status: 200, contentType: 'image/png', body: PNG, headers: { 'access-control-allow-origin': '*' } }));
+	await controlled(page);
+	await page.goto('/offline/');
+	await expect(page.getByTestId('pack-dem')).toHaveText('No desat');
+	await page.getByRole('button', { name: /Descarrega Relleu 3D/ }).click();
+	await expect(page.getByTestId('pack-dem')).toHaveText('Desat', { timeout: 30_000 });
+	const url = await page.evaluate(async () => {
+		const c = await caches.open('tiles-v1');
+		return (await c.keys()).map((r) => r.url).find((u) => u.includes('terreny') && u.includes('/14/'))!;
+	});
+	await context.unroute(/geoserveis\.icgc\.cat|tilemaps\.icgc\.cat|demotiles\.maplibre\.org/);
+	await context.setOffline(true);
+	const status = await page.evaluate(async (u) => (await fetch(u)).status, url);       // answered by the service worker from the tile cache
+	expect(status).toBe(200);
+	await context.setOffline(false);
+	await page.getByRole('button', { name: 'Esborra el mapa desat' }).click();
+	await expect(page.getByTestId('pack-dem')).toHaveText('No desat');
 });

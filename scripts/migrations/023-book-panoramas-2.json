@@ -1,0 +1,26 @@
+[
+ {
+  "id": "r02-regio-frares-encantats",
+  "regionId": "r02",
+  "title": "Regió de Frares Encantats",
+  "pages": [
+   123
+  ]
+ },
+ {
+  "id": "r05-regio-tebes",
+  "regionId": "r05",
+  "title": "Regió de Tebes",
+  "pages": [
+   257
+  ]
+ },
+ {
+  "id": "r06-regio-tebaida",
+  "regionId": "r06",
+  "title": "Regió de la Tebaida",
+  "pages": [
+   358
+  ]
+ }
+]

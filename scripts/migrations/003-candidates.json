@@ -1,0 +1,733 @@
+[
+ {
+  "page": 12,
+  "name": "Serrat de Guirló",
+  "alt": [],
+  "semir": "99",
+  "heading": "SERRAT DE GUIRLÓ (99)",
+  "after": "n0002"
+ },
+ {
+  "page": 28,
+  "name": "Serrat de Moixerigues",
+  "alt": [],
+  "semir": "99 A i B",
+  "heading": "SERRAL DE MOIXERIGUES (99 A i B)",
+  "after": "n0025"
+ },
+ {
+  "page": 39,
+  "name": "La Bandereta",
+  "alt": [
+   "Agulla Ven-Suri-Ven"
+  ],
+  "semir": "37",
+  "heading": "LA BANDERETA (37) O AGULLA VEN-SURI-VEN",
+  "after": "n0042",
+  "drawings": [
+   40
+  ]
+ },
+ {
+  "page": 44,
+  "name": "El Carbassó",
+  "alt": [],
+  "semir": "42",
+  "heading": "EL CARBASSÓ (42)",
+  "after": "n0049"
+ },
+ {
+  "page": 55,
+  "name": "El Pingoí",
+  "alt": [],
+  "semir": "79",
+  "heading": "EL PINGOÍ (79)",
+  "after": "n0063"
+ },
+ {
+  "page": 56,
+  "name": "Roca del Cirerer",
+  "alt": [],
+  "semir": "83",
+  "heading": "ROCA DEL CIRERER (83)",
+  "after": "n0492"
+ },
+ {
+  "page": 56,
+  "name": "Roca dels Cinc Passos",
+  "alt": [],
+  "semir": "82",
+  "heading": "ROCA DELS CINC PASSOS (82)",
+  "after": "n0493"
+ },
+ {
+  "page": 61,
+  "name": "Roca veïna del Cap de Guerrer",
+  "alt": [],
+  "semir": "59",
+  "heading": "ROCA (59) VEINA DEL CAP DE GUERRER",
+  "after": "n0065"
+ },
+ {
+  "page": 71,
+  "name": "Roques 95 i 94",
+  "alt": [],
+  "semir": "95-94",
+  "heading": "ROQUES 95 i 94",
+  "after": "n0079"
+ },
+ {
+  "page": 76,
+  "name": "Agulla de la Foradada",
+  "alt": [
+   "Agulla dels Apòstols"
+  ],
+  "semir": "69",
+  "heading": "AGULLA DE LA FORADADA (69) O DELS APÒSTOLS",
+  "after": "n0089"
+ },
+ {
+  "page": 78,
+  "name": "Agulleta d'en Llaudó",
+  "alt": [],
+  "semir": null,
+  "heading": "AGULLETA D'EN LLAUDÓ",
+  "after": "n0091"
+ },
+ {
+  "page": 87,
+  "name": "El Caputxó",
+  "alt": [],
+  "semir": "126",
+  "heading": "EL CAPUTXÓ (126)",
+  "after": "n0100"
+ },
+ {
+  "page": 88,
+  "name": "Cotes 107-108-109",
+  "alt": [],
+  "semir": "107-108-109",
+  "heading": "COTES 107-108-109",
+  "after": "n0103"
+ },
+ {
+  "page": 93,
+  "name": "L'Escut",
+  "alt": [
+   "Miranda de la Nina"
+  ],
+  "semir": "111",
+  "heading": "L'ESCUT (111) (MIRANDA DE LA NINA)",
+  "after": "n0109"
+ },
+ {
+  "page": 94,
+  "name": "Roca 113",
+  "alt": [],
+  "semir": "113",
+  "heading": "ROCA 113",
+  "after": "n0111"
+ },
+ {
+  "page": 94,
+  "name": "Roca de la Grip",
+  "alt": [],
+  "semir": "114",
+  "heading": "ROCA DE LA GRIP (114)",
+  "after": "n0502"
+ },
+ {
+  "page": 95,
+  "name": "Roca de les Balmes",
+  "alt": [],
+  "semir": "128",
+  "heading": "ROCA DE LES BALMES (128)",
+  "after": "n0113"
+ },
+ {
+  "page": 95,
+  "name": "Punta 167",
+  "alt": [],
+  "semir": "167",
+  "heading": "PUNTA 167",
+  "after": "n0504"
+ },
+ {
+  "page": 96,
+  "name": "Roques 135 i 168",
+  "alt": [],
+  "semir": "135-168",
+  "heading": "ROQUES 135 Il 168",
+  "after": "n0505"
+ },
+ {
+  "page": 97,
+  "name": "Cotes 175 i 178",
+  "alt": [],
+  "semir": "175-178",
+  "heading": "COTES 175 I 178",
+  "after": "n0115"
+ },
+ {
+  "page": 105,
+  "name": "Miranda del Lloro",
+  "alt": [
+   "L'Escolanet"
+  ],
+  "semir": "137",
+  "heading": "MIRANDA DEL LLORO (137) O L'ESCOLANET",
+  "after": "n0122"
+ },
+ {
+  "page": 113,
+  "name": "Roca Contrafort de la 173",
+  "alt": [],
+  "semir": "173",
+  "heading": "ROCA CONTRAFORT DE LA 173",
+  "after": "n0130"
+ },
+ {
+  "page": 127,
+  "name": "Roques 133 i 134",
+  "alt": [],
+  "semir": "133-134",
+  "heading": "ROQUES 133 i 134",
+  "after": "n0149"
+ },
+ {
+  "page": 149,
+  "name": "Roca 250",
+  "alt": [
+   "Serrat del Cabrit"
+  ],
+  "semir": "250",
+  "heading": "ROCA 250 (SERRAT DEL CABRIT)",
+  "after": "n0180"
+ },
+ {
+  "page": 149,
+  "name": "Roca 251",
+  "alt": [
+   "Serrat del Cabrit"
+  ],
+  "semir": "251",
+  "heading": "ROCA 251 (SERRAT DEL CABRIT)",
+  "after": "n0511"
+ },
+ {
+  "page": 149,
+  "name": "Roca 272",
+  "alt": [
+   "Serrat del Cabrit"
+  ],
+  "semir": "272",
+  "heading": "ROCA 272 (SERRAT DEL CABRIT)",
+  "after": "n0512"
+ },
+ {
+  "page": 150,
+  "name": "Roca 270",
+  "alt": [
+   "Serrat del Cabrit"
+  ],
+  "semir": "270",
+  "heading": "ROCA 270 (SERRAT DEL CABRIT)",
+  "after": "n0181"
+ },
+ {
+  "page": 150,
+  "name": "Roca 273",
+  "alt": [
+   "Serrat del Cabrit"
+  ],
+  "semir": "273",
+  "heading": "ROCA 273 (SERRAT DEL CABRIT)",
+  "after": "n0514"
+ },
+ {
+  "page": 150,
+  "name": "Roques 276-277-278",
+  "alt": [
+   "Carena descendent al Cavall dels Brucs"
+  ],
+  "semir": "276-277-278",
+  "heading": "ROQUES 276-277-278 (CARENA DESCENDENT AL CAVALL DELS BRUCS)",
+  "after": "n0515"
+ },
+ {
+  "page": 151,
+  "name": "Cavall dels Brucs",
+  "alt": [
+   "Pupa del Bruc"
+  ],
+  "semir": "279",
+  "heading": "CAVALL DELS BRUCS (279) (PUPA DEL BRUC)",
+  "after": "n0516"
+ },
+ {
+  "page": 154,
+  "name": "Veïna del Musclet",
+  "alt": [
+   "Formigues"
+  ],
+  "semir": null,
+  "heading": "VEINA DEL MUSCLET (FORMIGUES)",
+  "after": "n0184"
+ },
+ {
+  "page": 161,
+  "name": "Pou de l'Estevet",
+  "alt": [
+   "Avenc del Senglar"
+  ],
+  "semir": null,
+  "heading": "POU DE L'ESTEVET (O AVENC DEL SENGLAR)",
+  "after": "n0195"
+ },
+ {
+  "page": 161,
+  "name": "Agulla del Pilot",
+  "alt": [
+   "Àngel"
+  ],
+  "semir": null,
+  "heading": "AGULLA DEL PILOT (ÀNGEL)",
+  "after": "n0196"
+ },
+ {
+  "page": 165,
+  "name": "Agulla de Can Jorba",
+  "alt": [],
+  "semir": "266",
+  "heading": "AGULLA DE CAN JORBA (266)",
+  "after": "n0203"
+ },
+ {
+  "page": 168,
+  "name": "Els Ous del Faraó",
+  "alt": [],
+  "semir": "289",
+  "heading": "ELS OUS DEL FARAÓ (289)",
+  "after": "n0206"
+ },
+ {
+  "page": 170,
+  "name": "Agulleta del Serrat del Faraó",
+  "alt": [],
+  "semir": "290",
+  "heading": "AGULLETA DEL SERRAT DEL FARAÓ (290)",
+  "after": "n0210"
+ },
+ {
+  "page": 171,
+  "name": "El Faraó",
+  "alt": [],
+  "semir": "258",
+  "heading": "EL FARAÓ -258-",
+  "after": "n0523"
+ },
+ {
+  "page": 176,
+  "name": "Roca 238",
+  "alt": [
+   "Roca del Grau"
+  ],
+  "semir": "238",
+  "heading": "ROCA 238 (ROCA DEL GRAU)",
+  "after": "n0218"
+ },
+ {
+  "page": 178,
+  "name": "Turó del Montgròs",
+  "alt": [],
+  "semir": "217",
+  "heading": "TURÓ DEL MONTGRÒS (217)",
+  "after": "n0222"
+ },
+ {
+  "page": 178,
+  "name": "Roca Plana dels Llamps",
+  "alt": [
+   "Cap del Montgròs"
+  ],
+  "semir": "247-216",
+  "heading": "ROCA PLANA DELS LLAMPS (247-216) (CAP DEL MONTGRÒS)",
+  "after": "n0526"
+ },
+ {
+  "page": 182,
+  "name": "Roca de sota la cota 209",
+  "alt": [],
+  "semir": "209",
+  "heading": "ROCA DE SOTA LA COTA 209",
+  "after": "n0226"
+ },
+ {
+  "page": 197,
+  "name": "Roques 310-311-312 i del Teix",
+  "alt": [],
+  "semir": "310-311-312",
+  "heading": "ROQUES 310-311-312 I DEL TEIX",
+  "after": "n0244"
+ },
+ {
+  "page": 204,
+  "name": "Roca del Torrent de Migdia",
+  "alt": [
+   "L'Oliva"
+  ],
+  "semir": "392",
+  "heading": "ROCA DEL TORRENT DE MIGDIA (392) (L'OLIVA)",
+  "after": "n0262"
+ },
+ {
+  "page": 209,
+  "name": "Talaieta d'en Barbé",
+  "alt": [
+   "La Talaieta"
+  ],
+  "semir": "308",
+  "heading": "Talaieta d'en Barbé (308)",
+  "after": "n0263"
+ },
+ {
+  "page": 212,
+  "name": "Roques 374-375-376-377",
+  "alt": [
+   "Roca del Pas",
+   "Roques 385-386 i 387"
+  ],
+  "semir": "374-375-376-377",
+  "heading": "ROQUES 374-375-376-377 —ROCA DEL PAS— 385-386 Il 387",
+  "after": "n0264"
+ },
+ {
+  "page": 226,
+  "name": "Serrat del Duc",
+  "alt": [],
+  "semir": "363-362-361",
+  "heading": "SERRAT DEL DUC (963-362-361)",
+  "after": "n0273"
+ },
+ {
+  "page": 226,
+  "name": "Roca del Ninot",
+  "alt": [],
+  "semir": "379",
+  "heading": "ROCA DEL NINOT (379)",
+  "after": "n0533"
+ },
+ {
+  "page": 230,
+  "name": "Serrat de les Onze",
+  "alt": [],
+  "semir": "357-351-391",
+  "heading": "SERRAT DE LES ONZE (357 351 i 391)",
+  "after": "n0278"
+ },
+ {
+  "page": 235,
+  "name": "Miranda de Sant Antoni",
+  "alt": [
+   "Pot"
+  ],
+  "semir": "348",
+  "heading": "MIRANDA DE SANT ANTONI (348) (POT)",
+  "after": "n0283"
+ },
+ {
+  "page": 237,
+  "name": "L'Albarda Castellana",
+  "alt": [],
+  "semir": "333-334",
+  "heading": "L'ALBARDA CASTELLANA (333 i 334)"
+ },
+ {
+  "page": 246,
+  "name": "Roca 345",
+  "alt": [
+   "Serrat de la Vinya Nova"
+  ],
+  "semir": "345",
+  "heading": "ROCA 345 (SERRAT DE LA VINYA NOVA)",
+  "after": "n0293"
+ },
+ {
+  "page": 246,
+  "name": "Roca 381",
+  "alt": [
+   "Serrat de la Vinya Nova"
+  ],
+  "semir": "381",
+  "heading": "ROCA 381 (SERRAT DE LA VINYA NOVA)",
+  "after": "n0538"
+ },
+ {
+  "page": 252,
+  "name": "Roca 380",
+  "alt": [
+   "Sobre el coll de Muset"
+  ],
+  "semir": "380",
+  "heading": "ROCA 380 (SOBRE EL COLL DE MUSET)",
+  "after": "n0306"
+ },
+ {
+  "page": 260,
+  "name": "Turó del Torrent del Pont",
+  "alt": [],
+  "semir": null,
+  "heading": "TURÓ DEL TORRENT DEL PONT",
+  "after": "n0312"
+ },
+ {
+  "page": 273,
+  "name": "Cotes 418-416-417",
+  "alt": [],
+  "semir": "418-416-417",
+  "heading": "COTES 418-416-417"
+ },
+ {
+  "page": 277,
+  "name": "Roca del Porró",
+  "alt": [],
+  "semir": "469",
+  "heading": "ROCA DEL PORRÓ (469)",
+  "after": "n0337"
+ },
+ {
+  "page": 280,
+  "name": "Cotes 453-454-455",
+  "alt": [],
+  "semir": "453-454-455",
+  "heading": "COTES 453-454-455",
+  "after": "n0341"
+ },
+ {
+  "page": 282,
+  "name": "Punxó de la Pau i Justícia",
+  "alt": [],
+  "semir": null,
+  "heading": "PUNXÓ DE LA PAU I JUSTÍCIA",
+  "after": "n0346"
+ },
+ {
+  "page": 285,
+  "name": "La Mamella",
+  "alt": [],
+  "semir": "425",
+  "heading": "LA MAMELLA -425-",
+  "after": "n0350"
+ },
+ {
+  "page": 290,
+  "name": "Serrat d'en Muntaner",
+  "alt": [
+   "Superior i inferior"
+  ],
+  "semir": null,
+  "heading": "SERRAT D'EN MUNTANER (SUPERIOR I INFERIOR)",
+  "after": "n0357"
+ },
+ {
+  "page": 295,
+  "name": "El Trencabarrals",
+  "alt": [
+   "Cigar"
+  ],
+  "semir": "412",
+  "heading": "EL TRENCABARRALS (412) (CIGAR)",
+  "after": "n0368",
+  "drawings": [
+   296
+  ]
+ },
+ {
+  "page": 315,
+  "name": "Roques dels Escolans",
+  "alt": [],
+  "semir": "474C",
+  "heading": "ROQUES DELS ESCOLANS (474 C)"
+ },
+ {
+  "page": 319,
+  "name": "Orella de Llebre",
+  "alt": [],
+  "semir": "499 A i B",
+  "heading": "ORELLA DE LLEBRE (499 A i B)"
+ },
+ {
+  "page": 324,
+  "name": "Punxó del Tatet",
+  "alt": [],
+  "semir": null,
+  "heading": "PUNXÓ DEL TATET",
+  "after": "n0400",
+  "drawings": [
+   325
+  ]
+ },
+ {
+  "page": 329,
+  "name": "Miranda de Sant Miquel",
+  "alt": [],
+  "semir": "482",
+  "heading": "MIRANDA DE SANT MIQUEL (482)",
+  "after": "n0405"
+ },
+ {
+  "page": 329,
+  "name": "Torre de Sant Miquel",
+  "alt": [],
+  "semir": null,
+  "heading": "TORRE DE SANT MIQUEL",
+  "after": "n0552"
+ },
+ {
+  "page": 330,
+  "name": "Agulla de la Creu",
+  "alt": [
+   "Agulla Baixa"
+  ],
+  "semir": "488-489",
+  "heading": "AGULLA DE LA CREU (488 i 489 —AGULLA BAIXA—)",
+  "after": "n0408"
+ },
+ {
+  "page": 331,
+  "name": "Agulla del Germà Paulí",
+  "alt": [],
+  "semir": "497 A i B",
+  "heading": "AGULLA DEL GERMÀ PAULÍ (497 A i B)",
+  "after": "n0554"
+ },
+ {
+  "page": 344,
+  "name": "La Panxa del Bisbe",
+  "alt": [
+   "L'Antipàtica"
+  ],
+  "semir": "520",
+  "heading": "LA PANXA DEL BISBE (520) (L'ANTIPÀTICA)",
+  "after": "n0429",
+  "drawings": [
+   345
+  ]
+ },
+ {
+  "page": 347,
+  "name": "Cotes 514 i 524",
+  "alt": [
+   "Roques de Sant Benet"
+  ],
+  "semir": "514-524",
+  "heading": "COTES 514 I 524 (ROQUES DE SANT BENET)",
+  "after": "n0556"
+ },
+ {
+  "page": 351,
+  "name": "Roca de l'Avortó",
+  "alt": [],
+  "semir": "511",
+  "heading": "ROCA DE L'AVORTÓ (511)",
+  "after": "n0435"
+ },
+ {
+  "page": 358,
+  "name": "Roca de sobre l'Agulla del Camí",
+  "alt": [],
+  "semir": "542",
+  "heading": "ROCA DE SOBRE L'AGULLA DEL CAMÍ (542)",
+  "after": "n0440"
+ },
+ {
+  "page": 362,
+  "name": "Roca de les Aigües",
+  "alt": [],
+  "semir": null,
+  "heading": "ROCA DE LES AIGÚUES",
+  "after": "n0445"
+ },
+ {
+  "page": 365,
+  "name": "Roca de la Mitjatarda",
+  "alt": [
+   "Bombers"
+  ],
+  "semir": null,
+  "heading": "ROCA DE LA MITJATARDA (BOMBERS)",
+  "after": "n0449"
+ },
+ {
+  "page": 367,
+  "name": "Roca del Moro Joan",
+  "alt": [
+   "Fesolet Inferior"
+  ],
+  "semir": "503",
+  "heading": "ROCA DEL MORO JOAN (503) (FESOLET INFERIOR)"
+ },
+ {
+  "page": 369,
+  "name": "Cadireta del Diable",
+  "alt": [
+   "Flautats",
+   "La Cadireta dels Flautats"
+  ],
+  "semir": "508",
+  "heading": "CADIRETA DEL DIABLE (508) (FLAUTATS)",
+  "after": "n0452"
+ },
+ {
+  "page": 372,
+  "name": "Cotes 540-541",
+  "alt": [
+   "Roques de sobre les Trinitats"
+  ],
+  "semir": "540-541",
+  "heading": "COTES 540-541 (ROQUES DE SOBRE LES TRINITATS)",
+  "after": "n0458"
+ },
+ {
+  "page": 375,
+  "name": "Cotes 558 i 559",
+  "alt": [
+   "Carena descendent de la Punxa"
+  ],
+  "semir": "558-559",
+  "heading": "COTES 558 I 559 (CARENA DESCENDENT DE LA PUNXA)",
+  "after": "n0461"
+ },
+ {
+  "page": 381,
+  "name": "Agulla del Llapis i Turó",
+  "alt": [],
+  "semir": "562-563",
+  "heading": "AGULLA DEL LLAPIS I TURÓ (562-563)",
+  "after": "n0473"
+ },
+ {
+  "page": 384,
+  "name": "Barretina Gran",
+  "alt": [],
+  "semir": "566",
+  "heading": "BARRETINA GRAN (566)",
+  "after": "n0480"
+ },
+ {
+  "page": 384,
+  "name": "Barretina Petita",
+  "alt": [],
+  "semir": "567",
+  "heading": "PETITA (567)",
+  "after": "n0567"
+ },
+ {
+  "page": 384,
+  "name": "Cotes 568 i 572",
+  "alt": [],
+  "semir": "568-572",
+  "heading": "COTES 568 I 572",
+  "after": "n0568"
+ }
+]

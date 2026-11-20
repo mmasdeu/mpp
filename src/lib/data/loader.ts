@@ -5,19 +5,20 @@ import decisions from '../../../data/review/decisions.json';
 import { applyReview, type Decision } from './review';
 import locations from '../../../data/locations.json';
 import { applyLocations, type LocationRecord } from './merge';
-import panoramaData from '../../../data/panoramas.json';
-import observationData from '../../../data/observations.json';
-import type { ObservationPoint, Panorama } from './types';
+import structure from '../../../data/review/structure.json';
+import additions from '../../../data/review/additions.json';
+import kinds from '../../../data/review/kinds.json';
+import { applyKinds } from './kinds';
+import altNames from '../../../data/review/alt-names.json';
+import { applyAltNames } from './alt-names';
+import { applyAdditions } from './additions';
+import { applyStructure, type Structure } from './structure';
 import type { Dataset, Needle, Region, Section } from './types';
 
-export const dataset = applyLocations(applyReview({ regions, sections, needles } as unknown as Dataset, decisions as Decision[]), locations as LocationRecord[]);
+export const dataset = applyAltNames(applyKinds(applyLocations(applyStructure(applyReview(applyAdditions({ regions, sections, needles } as unknown as Dataset, additions as unknown as Needle[]), decisions as Decision[]), structure as Structure), locations as LocationRecord[]), kinds as Record<string, string>), altNames as Record<string, string[]>);
 export const getRegion = (slug: string): Region | undefined => dataset.regions.find((r) => r.slug === slug);
 export const getSection = (id: string): Section | undefined => dataset.sections.find((s) => s.id === id);
 export const getNeedle = (id: string): Needle | undefined => dataset.needles.find((n) => n.id === id);
 export const needlesOf = (s: Section): Needle[] => s.needleIds.map((id) => getNeedle(id)!).filter(Boolean);
 export const needleCount = (r: Region): number => r.sectionIds.reduce((t, id) => t + (getSection(id)?.needleIds.length ?? 0), 0);
 
-export const panoramas = panoramaData as unknown as Panorama[];
-export const observations = observationData as unknown as ObservationPoint[];
-export const getPanorama = (id: string): Panorama | undefined => panoramas.find((p) => p.id === id);
-export const panoramasFor = (needleId: string): Panorama[] => panoramas.filter((p) => p.annotations.some((a) => a.needleId === needleId));

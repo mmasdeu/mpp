@@ -1,0 +1,51 @@
+[
+ {
+  "id": "r01-cadireta-portella",
+  "regionId": "r01",
+  "title": "De la Cadireta a la Portella",
+  "pages": [
+   32,
+   33
+  ]
+ },
+ {
+  "id": "r04-aeri-serrat-del-moro",
+  "regionId": "r04",
+  "title": "Sant Jeroni: paret de l'Aeri i serrat del Moro",
+  "pages": [
+   217
+  ]
+ },
+ {
+  "id": "r04-regio-sant-jeroni",
+  "regionId": "r04",
+  "title": "Regió de Sant Jeroni",
+  "pages": [
+   223
+  ]
+ },
+ {
+  "id": "r02-regio-frares-encantats",
+  "regionId": "r02",
+  "title": "Regió de Frares Encantats",
+  "pages": [
+   123
+  ]
+ },
+ {
+  "id": "r05-regio-tebes",
+  "regionId": "r05",
+  "title": "Regió de Tebes",
+  "pages": [
+   257
+  ]
+ },
+ {
+  "id": "r06-regio-tebaida",
+  "regionId": "r06",
+  "title": "Regió de la Tebaida",
+  "pages": [
+   358
+  ]
+ }
+]

@@ -5,11 +5,12 @@
  *   tsx scripts/review.ts list [--section s05] [--status unreviewed|reviewed] [--limit 30]
  *   tsx scripts/review.ts show n0042
  *   tsx scripts/review.ts accept n0042 n0043 ... --reviewer "Name"
- *   tsx scripts/review.ts correct n0042 [--name "..."] [--alt "a;b"] [--semir 12] --reviewer "Name"
+ *   tsx scripts/review.ts correct n0042 [--name "..."] [--alt "a;b"] [--semir 12] [--description-file text.txt] --reviewer "Name"
  *   tsx scripts/review.ts reject n0042 --reason "map label" --reviewer "Name"
  *   tsx scripts/review.ts merge n0042 --into n0010 --reason "same rock" --reviewer "Name"
  *   tsx scripts/review.ts undo n0042
  *   tsx scripts/review.ts export out.csv [--section s05]    (unreviewed rows, for offline review)
+ *   tsx scripts/review.ts import-json decisions.json         (export from the /revisio/ page)
  *   tsx scripts/review.ts import in.csv --reviewer "Name"   (rows with a filled "action" column)
  */
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -87,7 +88,7 @@ switch (cmd) {
 	case 'accept': pos.forEach(need); pos.forEach((id) => put({ needleId: id, action: 'accept', reviewer: reviewer(), date: today })); save(); console.log(`accepted ${pos.length}`); break;
 	case 'correct': {
 		const id = pos[0]; need(id);
-		put({ needleId: id, action: 'correct', name: opt('--name'), alternativeNames: opt('--alt')?.split(';').map((s) => s.trim()).filter(Boolean), semirRef: opt('--semir'), reviewer: reviewer(), date: today });
+		put({ needleId: id, action: 'correct', name: opt('--name'), alternativeNames: opt('--alt')?.split(';').map((s) => s.trim()).filter(Boolean), semirRef: opt('--semir'), description: opt('--description-file') ? readFileSync(opt('--description-file')!, 'utf8').trim() : undefined, reviewer: reviewer(), date: today });
 		save(); console.log(`corrected ${id}`); break;
 	}
 	case 'reject': { const id = pos[0]; need(id); put({ needleId: id, action: 'reject', reason: opt('--reason'), reviewer: reviewer(), date: today }); save(); console.log(`rejected ${id}`); break; }
@@ -114,6 +115,11 @@ switch (cmd) {
 			n++;
 		}
 		save(); console.log(`imported ${n} decisions`); break;
+	}
+	case 'import-json': {
+		const incoming: Decision[] = JSON.parse(readFileSync(pos[0], 'utf8'));
+		for (const d of incoming) { need(d.needleId); put(d); }
+		save(); console.log(`imported ${incoming.length} decisions`); break;
 	}
 	default: console.error(readFileSync(new URL(import.meta.url), 'utf8').split('*/')[0]); process.exit(2);
 }

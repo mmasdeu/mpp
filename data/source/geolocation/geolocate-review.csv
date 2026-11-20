@@ -1,0 +1,87 @@
+needle_id,needle,section,place,source,ref,latitude,longitude,match,distance_m,reason
+n0002,Agulla de la Venta,s01,la Venta I,icgc,ICGC toponímia (topo2),41.5914022,1.7723611,nom (sense «roca/agulla…»),1801,lluny de la secció
+n0016,Agulles de L'Era Deis Pallers,s02,l'Era dels Pallers,icgc,ICGC toponímia (topo2),41.6009073,1.7809373,nom (sense «roca/agulla…»),80,diversos llocs possibles
+n0016,Agulles de L'Era Deis Pallers,s02,l'Era dels Pallers,icgc,ICGC toponímia (topo2),41.6017457,1.7816994,nom (sense «roca/agulla…»),49,diversos llocs possibles
+n0025,Turó,s02,el Turó,icgc,ICGC toponímia (topo2),41.5877416,1.811261,nom exacte,2608,lluny de la secció
+n0090,Serrat de la Foradada,s04,Agulla de la Foradada,osm,node/13955402961,41.6116906,1.7871856,tipus diferent (serra / agulla),22,tipus diferent (serra / agulla)
+n0090,Serrat de la Foradada,s04,Roca Foradada,icgc,ICGC toponímia (topo2),41.6123757,1.7866852,tipus diferent (serra / roca),36,tipus diferent (serra / roca)
+n0152,Punta de la Desdentegada,s07,la Desdentegada,icgc,ICGC toponímia (topo2),41.5999283,1.7872416,nom (sense «roca/agulla…»),2,el lloc és de La Desdentegada
+n0181,Roca de la Foca,s09,la Foca,icgc,ICGC toponímia (topo2),41.6003604,1.7968119,nom (sense «roca/agulla…»),279,diversos llocs possibles
+n0181,Roca de la Foca,s09,la Foca,osm,node/2470141673,41.5994805,1.7948484,nom (sense «roca/agulla…»),225,diversos llocs possibles
+n0195,Roca de la Castanyada,s11,Agulla de la Castanyada,icgc,ICGC toponímia (topo2),41.5930945,1.7922692,tipus diferent (roca / agulla),272,tipus diferent (roca / agulla)
+n0196,Les Esouerdades,s11,les Esquerdes,icgc,ICGC toponímia (topo2),41.5769221,1.8775239,nom semblant (0.90),6562,lluny de la secció
+n0213,Roques Deis Plecs de Llibre,s13,els Plecs del Llibre,icgc,ICGC toponímia (topo2),41.5982748,1.8056871,nom (sense «roca/agulla…»),243,el mateix lloc per a diverses agulles
+n0235,Cap del Camell,s14,Cap del Camell,osm,node/1928223210,41.6056803,1.8073739,nom exacte,80,el mateix lloc per a diverses agulles
+n0240,Paret No. de la Miranda de Sant Jeroni,s15,Paret de Sant Jeroni,icgc,ICGC toponímia (topo2),41.6065105,1.8114264,"porta el nom d'un lloc (capella, ermita…)",358,"porta el nom d'un lloc (capella, ermita…)"
+n0240,Paret No. de la Miranda de Sant Jeroni,s15,Sant Jeroni,icgc,ICGC toponímia (topo2),41.6053676,1.8114556,"porta el nom d'un lloc (capella, ermita…)",231,"porta el nom d'un lloc (capella, ermita…)"
+n0240,Paret No. de la Miranda de Sant Jeroni,s15,Sant Jeroni,icgc,ICGC toponímia (topo2),41.6043402,1.8134811,"porta el nom d'un lloc (capella, ermita…)",180,"porta el nom d'un lloc (capella, ermita…)"
+n0250,Roca de la Miranda del Camell,s15,El Camelló,osm,node/10913979447,41.5999313,1.8110054,nom semblant (0.92),66,el mateix lloc per a diverses agulles
+n0253,Roques del Camell,s15,El Camelló,osm,node/10913979447,41.5999313,1.8110054,nom semblant (0.92),66,el mateix lloc per a diverses agulles
+n0255,Cap del Camell,s15,Cap del Camell,osm,node/1928223210,41.6056803,1.8073739,nom exacte,390,el mateix lloc per a diverses agulles
+n0264,Serrat de Sant Jeroni,s16,Paret de Sant Jeroni,icgc,ICGC toponímia (topo2),41.6065105,1.8114264,"porta el nom d'un lloc (capella, ermita…)",208,"porta el nom d'un lloc (capella, ermita…)"
+n0264,Serrat de Sant Jeroni,s16,Sant Jeroni,icgc,ICGC toponímia (topo2),41.6053676,1.8114556,"porta el nom d'un lloc (capella, ermita…)",253,"porta el nom d'un lloc (capella, ermita…)"
+n0264,Serrat de Sant Jeroni,s16,Sant Jeroni,icgc,ICGC toponímia (topo2),41.6043402,1.8134811,"porta el nom d'un lloc (capella, ermita…)",266,"porta el nom d'un lloc (capella, ermita…)"
+n0265,Agulla de Santa Cecilia,s16,Santa Cecília,icgc,ICGC toponímia (topo1),41.6116165,1.8168312,"porta el nom d'un lloc (capella, ermita…)",598,"porta el nom d'un lloc (capella, ermita…)"
+n0265,Agulla de Santa Cecilia,s16,Santa Cecília,osm,node/3042837638,41.6080592,1.8130956,"porta el nom d'un lloc (capella, ermita…)",165,"porta el nom d'un lloc (capella, ermita…)"
+n0265,Agulla de Santa Cecilia,s16,la Miranda de Santa Cecília,icgc,ICGC toponímia (topo2),41.6137357,1.817928,"porta el nom d'un lloc (capella, ermita…)",851,"porta el nom d'un lloc (capella, ermita…)"
+n0268,Agulla de la Roser,s16,el Roser,icgc,ICGC toponímia (topo2),41.5950998,1.8533361,nom (sense «roca/agulla…»),3527,lluny de la secció
+n0272,Roca de la Paret de L'Aeri,s17,Paret de l'Aeri,icgc,ICGC toponímia (topo2),41.6065501,1.8161019,tipus diferent (roca / paret),616,tipus diferent (roca / paret)
+n0274,Roques del Patriarca,s17,Serrat del Patriarca,icgc,ICGC toponímia (topo2),41.602497,1.8186306,tipus diferent (roques / serra),155,tipus diferent (roques / serra)
+n0276,Paret N. del Serrat del Patriarca,s17,Serrat del Patriarca,icgc,ICGC toponímia (topo2),41.602497,1.8186306,nom exacte,155,el mateix lloc per a diverses agulles
+n0277,Serrat del Patriarca,s17,Serrat del Patriarca,icgc,ICGC toponímia (topo2),41.602497,1.8186306,nom exacte,155,el mateix lloc per a diverses agulles
+n0287,Carena I Puntal de L'Albarda,s18,Puntal de l'Albarda,icgc,ICGC toponímia (topo2),41.5993851,1.8161037,nom (sense «roca/agulla…»),162,diversos llocs possibles
+n0287,Carena I Puntal de L'Albarda,s18,Serrat de l'Albarda. Roca 338,osm,node/10924078375,41.6005592,1.8162608,número de Semir 338,189,diversos llocs possibles
+n0287,Carena I Puntal de L'Albarda,s18,Serrat de l'Albarda. Roca 340,osm,node/10924078373,41.6000298,1.8161016,número de Semir 340,172,diversos llocs possibles
+n0291,Roca de Sant Esteve,s19,Sant Esteve,icgc,ICGC toponímia (topo2),41.6409453,1.7896337,"porta el nom d'un lloc (capella, ermita…)",5025,"porta el nom d'un lloc (capella, ermita…)"
+n0307,Mirador Deis Plecs de Llibre,s19,els Plecs del Llibre,icgc,ICGC toponímia (topo2),41.5982748,1.8056871,nom (sense «roca/agulla…»),262,el mateix lloc per a diverses agulles
+n0313,Agulla del Pessebre,s20,el Pessebre,icgc,ICGC toponímia (topo2),41.5679976,1.884398,nom (sense «roca/agulla…»),6277,lluny de la secció
+n0320,Serrat Dels Pollegons B,s20,Serrat dels Pollegons,icgc,ICGC toponímia (topo2),41.587697,1.8166769,nom semblant (0.90),274,diversos llocs possibles
+n0320,Serrat Dels Pollegons B,s20,els Pollegons,icgc,ICGC toponímia (topo2),41.5909967,1.8190192,nom semblant (0.90),472,diversos llocs possibles
+n0323,Serrat de Bellavista,s21,Roca 457,osm,node/10892854775,41.5948928,1.8220693,número de Semir 457,375,diversos llocs possibles
+n0323,Serrat de Bellavista,s21,Roca 459,osm,node/10892854773,41.5955983,1.8213125,número de Semir 459,347,diversos llocs possibles
+n0323,Serrat de Bellavista,s21,Roca 460,osm,node/10892854772,41.596187,1.8210143,número de Semir 460,338,diversos llocs possibles
+n0323,Serrat de Bellavista,s21,Roca 461,osm,node/10892854771,41.596753,1.8206127,número de Semir 461,334,diversos llocs possibles
+n0351,Agulleta I Miranda de Sant Joan,s23,Agulla de Sant Joan,icgc,ICGC toponímia (topo2),41.5909521,1.8347425,"porta el nom d'un lloc (capella, ermita…)",1037,"porta el nom d'un lloc (capella, ermita…)"
+n0351,Agulleta I Miranda de Sant Joan,s23,Mirador de Sant Joan,icgc,ICGC toponímia (topo2),41.5866356,1.8256787,"porta el nom d'un lloc (capella, ermita…)",198,"porta el nom d'un lloc (capella, ermita…)"
+n0351,Agulleta I Miranda de Sant Joan,s23,Sant Joan,icgc,ICGC toponímia (topo2),41.5869968,1.8277664,"porta el nom d'un lloc (capella, ermita…)",313,"porta el nom d'un lloc (capella, ermita…)"
+n0351,Agulleta I Miranda de Sant Joan,s23,Serra de Sant Joan,icgc,ICGC toponímia (topo2),41.5814798,1.8318443,"porta el nom d'un lloc (capella, ermita…)",664,"porta el nom d'un lloc (capella, ermita…)"
+n0363,Agulla de Sant Pere,s23,Sant Pere,icgc,ICGC toponímia (topo2),41.6106561,1.8442614,"porta el nom d'un lloc (capella, ermita…)",3275,"porta el nom d'un lloc (capella, ermita…)"
+n0386,Agulla Llisa,s26,Roca Llisa,icgc,ICGC toponímia (topo2),41.5767156,1.8261462,tipus diferent (agulla / roca),692,tipus diferent (agulla / roca)
+n0396,Agulla de Serra Llarga,s28,Serra Llarga,icgc,ICGC toponímia (topo2),41.5792825,1.8419422,tipus diferent (agulla / serra),595,tipus diferent (agulla / serra)
+n0401,Roca del Cap de Sant Joan,s29,Agulla de Sant Joan,icgc,ICGC toponímia (topo2),41.5909521,1.8347425,"porta el nom d'un lloc (capella, ermita…)",845,"porta el nom d'un lloc (capella, ermita…)"
+n0401,Roca del Cap de Sant Joan,s29,Mirador de Sant Joan,icgc,ICGC toponímia (topo2),41.5866356,1.8256787,"porta el nom d'un lloc (capella, ermita…)",1207,"porta el nom d'un lloc (capella, ermita…)"
+n0401,Roca del Cap de Sant Joan,s29,Sant Joan,icgc,ICGC toponímia (topo2),41.5869968,1.8277664,"porta el nom d'un lloc (capella, ermita…)",1048,"porta el nom d'un lloc (capella, ermita…)"
+n0401,Roca del Cap de Sant Joan,s29,Serra de Sant Joan,icgc,ICGC toponímia (topo2),41.5814798,1.8318443,"porta el nom d'un lloc (capella, ermita…)",743,"porta el nom d'un lloc (capella, ermita…)"
+n0402,Carena del Cap de Sant Joan,s29,Agulla de Sant Joan,icgc,ICGC toponímia (topo2),41.5909521,1.8347425,"porta el nom d'un lloc (capella, ermita…)",845,"porta el nom d'un lloc (capella, ermita…)"
+n0402,Carena del Cap de Sant Joan,s29,Mirador de Sant Joan,icgc,ICGC toponímia (topo2),41.5866356,1.8256787,"porta el nom d'un lloc (capella, ermita…)",1207,"porta el nom d'un lloc (capella, ermita…)"
+n0402,Carena del Cap de Sant Joan,s29,Sant Joan,icgc,ICGC toponímia (topo2),41.5869968,1.8277664,"porta el nom d'un lloc (capella, ermita…)",1048,"porta el nom d'un lloc (capella, ermita…)"
+n0402,Carena del Cap de Sant Joan,s29,Serra de Sant Joan,icgc,ICGC toponímia (topo2),41.5814798,1.8318443,"porta el nom d'un lloc (capella, ermita…)",743,"porta el nom d'un lloc (capella, ermita…)"
+n0404,Roca de Fra Gari,s30,Mirador de Fra Garí,icgc,ICGC toponímia (topo2),41.5749684,1.8270952,tipus diferent (roca / mirador),1962,tipus diferent (roca / mirador)
+n0405,Roca de L'Angel,s30,l'Àngel,icgc,ICGC toponímia (topo2),41.6124984,1.84139,nom (sense «roca/agulla…»),1533,lluny de la regió
+n0420,Roca de la Santa Creu,s31,Santa Creu,icgc,ICGC toponímia (topo2),41.5950557,1.8362652,"porta el nom d'un lloc (capella, ermita…)",171,"porta el nom d'un lloc (capella, ermita…)"
+n0424,Agulla del Contrafort de Sant Dimes,s31,Sant Dimes,icgc,ICGC toponímia (topo2),41.5950249,1.8375425,"porta el nom d'un lloc (capella, ermita…)",235,"porta el nom d'un lloc (capella, ermita…)"
+n0426,Esperó del Diable,s31,Paret dels Diables,icgc,ICGC toponímia (topo2),41.6023721,1.8207013,nom semblant (0.92),1051,lluny de la secció
+n0446,Roca Fantasma,s33,Roca Fantasma,icgc,ICGC toponímia (topo2),41.5974614,1.8389704,nom exacte,1907,lluny de la secció
+n0452,Els Flautats,s34,els Flautats,icgc,ICGC toponímia (topo2),41.5968186,1.8306221,nom exacte,35,el mateix lloc per a diverses agulles
+n0489,Serrat de Moixerigues,s02,Serrat de les Muixerigues,icgc,ICGC toponímia (topo2),41.5794981,1.7883087,nom semblant (0.91),2023,lluny de la secció
+n0506,Roques 135 i 168,s05,Roca 135,osm,node/10580435884,41.606503,1.7896633,número de Semir 135,187,diversos llocs possibles
+n0506,Roques 135 i 168,s05,Roca 168,osm,node/13924343227,41.6059641,1.7893075,número de Semir 168,140,diversos llocs possibles
+n0511,Roca 250,s09,Serrat del Cabrit,icgc,ICGC toponímia (topo2),41.6025805,1.7996263,nom exacte,296,el mateix lloc per a diverses agulles
+n0512,Roca 251,s09,Serrat del Cabrit,icgc,ICGC toponímia (topo2),41.6025805,1.7996263,nom exacte,296,el mateix lloc per a diverses agulles
+n0513,Roca 272,s09,Serrat del Cabrit,icgc,ICGC toponímia (topo2),41.6025805,1.7996263,nom exacte,296,el mateix lloc per a diverses agulles
+n0514,Roca 270,s09,Serrat del Cabrit,icgc,ICGC toponímia (topo2),41.6025805,1.7996263,nom exacte,296,el mateix lloc per a diverses agulles
+n0520,Agulla del Pilot,s11,l'Àngel,icgc,ICGC toponímia (topo2),41.6124984,1.84139,nom exacte,3952,lluny de la secció
+n0523,Agulleta del Serrat del Faraó,s12,Agulleta del Faraó,osm,node/10580460581,41.5983239,1.8004052,nom (sense «roca/agulla…»),43,diversos llocs possibles
+n0523,Agulleta del Serrat del Faraó,s12,el Faraó,icgc,ICGC toponímia (topo2),41.5972163,1.7986049,nom (sense «roca/agulla…»),79,diversos llocs possibles
+n0528,Roca de sota la cota 209,s14,Roca de l'Alba (209),osm,node/1928741244,41.6064534,1.8047441,número de Semir 209,22,número de Semir 209
+n0539,Roca 381,s19,Roca 381,osm,node/10914224460,41.5940726,1.8091808,nom exacte + número de Semir 381,421,diversos llocs possibles
+n0539,Roca 381,s19,Roca 381,osm,node/14360188651,41.5926329,1.8106419,nom exacte + número de Semir 381,532,diversos llocs possibles
+n0542,Cotes 418-416-417,s22,Miranda del Sentinella (Roca 417),osm,node/1882825977,41.590251,1.8242349,número de Semir 417,80,diversos llocs possibles
+n0542,Cotes 418-416-417,s22,Roca 418,osm,node/14108511942,41.5897843,1.8247674,número de Semir 418,103,diversos llocs possibles
+n0547,Serrat d'en Muntaner,s23,Serrat d'en Muntaner,icgc,ICGC toponímia (topo2),41.581603,1.8161816,nom exacte,842,lluny de la secció
+n0552,Miranda de Sant Miquel,s30,Roca de Sant Miquel,osm,node/10652368527,41.5928448,1.795498,"porta el nom d'un lloc (capella, ermita…)",2550,"porta el nom d'un lloc (capella, ermita…)"
+n0552,Miranda de Sant Miquel,s30,Sant Miquel,icgc,ICGC toponímia (topo2),41.5867655,1.8415324,"porta el nom d'un lloc (capella, ermita…)",795,"porta el nom d'un lloc (capella, ermita…)"
+n0553,Torre de Sant Miquel,s30,Roca de Sant Miquel,osm,node/10652368527,41.5928448,1.795498,"porta el nom d'un lloc (capella, ermita…)",2550,"porta el nom d'un lloc (capella, ermita…)"
+n0553,Torre de Sant Miquel,s30,Sant Miquel,icgc,ICGC toponímia (topo2),41.5867655,1.8415324,"porta el nom d'un lloc (capella, ermita…)",795,"porta el nom d'un lloc (capella, ermita…)"
+n0557,Cotes 514 i 524,s31,Miranda de Sant Benet,icgc,ICGC toponímia (topo2),41.5938066,1.8283029,"porta el nom d'un lloc (capella, ermita…)",141,"porta el nom d'un lloc (capella, ermita…)"
+n0563,Cadireta del Diable,s34,els Flautats,icgc,ICGC toponímia (topo2),41.5968186,1.8306221,nom exacte,35,el mateix lloc per a diverses agulles

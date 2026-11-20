@@ -20,6 +20,18 @@ describe('applyReview', () => {
 		expect(d.needles).toHaveLength(4);
 		expect(d.needles[1].name).toBe('B');
 	});
+	it('a merge keeps the merged entry\'s pages and text as parts of the target, in book order', () => {
+		const d = base();
+		d.needles[0] = { ...d.needles[0], bookReferences: [{ page: 5, type: 'description' }] };
+		d.needles[3] = { ...d.needles[3], bookReferences: [{ page: 3, type: 'description' }, { page: 4, type: 'description' }], description: 'Text de D' };
+		const out = applyReview(d, [D({ needleId: 'd', action: 'merge', mergeInto: 'a', reason: 'via' })]);
+		const a = out.needles.find((n) => n.id === 'a')!;
+		expect(a.bookReferences.map((b) => b.page)).toEqual([3, 4, 5]);
+		expect(a.mergedParts).toEqual([{ id: 'd', name: 'D', page: 3, description: 'Text de D' }]);
+		expect(a.descriptionIncludesMerged).toBeUndefined();
+		const after = applyReview(d, [D({ needleId: 'd', action: 'merge', mergeInto: 'a', reason: 'via' }), D({ needleId: 'a', action: 'correct', description: 'Tot', mergedText: true })]);
+		expect(after.needles.find((n) => n.id === 'a')).toMatchObject({ description: 'Tot', descriptionIncludesMerged: true });
+	});
 });
 describe('validateDecisions', () => {
 	const ids = new Set(['a', 'b', 'c']);
@@ -32,5 +44,14 @@ describe('validateDecisions', () => {
 		expect(msgs([D({ needleId: 'a', action: 'merge', reason: 'x', mergeInto: 'b' }), D({ needleId: 'b', action: 'reject', reason: 'y' })])).toMatch(/itself removed/);
 		expect(msgs([D({ needleId: 'a', action: 'correct' })])).toMatch(/without any change/);
 		expect(msgs([D({ needleId: 'a', action: 'accept' })])).toBe('');
+	});
+});
+describe('alternative names from the index', () => {
+	it('adds names without duplicates and ignores unknown ids', async () => {
+		const { applyAltNames } = await import('../../src/lib/data/alt-names');
+		const d = base();
+		const out = applyAltNames(d, { a: ['Correcavalls', 'A', 'correcavalls'], zz: ['X'] });
+		expect(out.needles[0].alternativeNames).toEqual(['Correcavalls']);
+		expect(d.needles[0].alternativeNames).toEqual([]);
 	});
 });

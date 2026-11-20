@@ -1,0 +1,366 @@
+needle_id,name,latitude,longitude,elevation,osm_id,suggestions
+,Turó de les Coixes,41.6262523,1.8502427,252.6,node/1241565584,n0025 Turó (0.5)
+,Turó de la Salindanga,41.6192724,1.8620349,212.2,node/1241566080,n0025 Turó (0.5)
+,la Gorra Frígia,41.5899891,1.825969,1152,node/1882825729,n0369 Roca de la Gorra Frígia (0.8); n0184 La Gorra (0.5)
+,Miranda de Sant Antoni,41.6006136,1.8215184,1093.2,node/1882825780,n0240 Paret No. de la Miranda de Sant Jeroni (0.53); n0282 Merlet de Sota L'Ermita de Sant Antoni (0.53); n0351 Agulleta I Miranda de Sant Joan (0.53)
+,Magdalena Inferior,41.5890697,1.827778,1118.4,node/1882825784,n0372 Roca de la Magdalena Inferior (0.8)
+,Magdalena Superior,41.589397,1.8263987,1152.9,node/1882825789,n0370 Roca de la Magdalena Superior (0.8)
+,la Panxa del Bisbe,41.5935132,1.8272605,1046.5,node/1882825805,n0121 El Bisbe (0.5)
+,Roc d'en Barberà,41.5940855,1.8292883,1051.3,node/1882825845,
+,Serrat del Moro,41.6072106,1.8154039,1056,node/1882825858,n0271 Serrat del Moro I Mirador (0.8)
+,Trencabarrals,41.5911734,1.8274405,1016.5,node/1882825866,
+,el Cavall Bernat,41.6006818,1.8227221,1110.7,node/1882825913,
+,Puntal de l'Albarda o el Bisbe (Roca 341),41.5996826,1.8160529,1103.6,node/1882825918,
+,el Gat,41.5938169,1.8303862,1041.6,node/1882825926,n0431 Agulla del Gat (0.5)
+,el Rave,41.5911757,1.8215654,933.7,node/1882825943,n0329 El Rave O la Baldufa (0.5)
+,Miranda del Sentinella (Roca 417),41.590251,1.8242349,1042.5,node/1882825977,
+,Flautat Occidental (Roca 507),41.5968055,1.8306226,1136.3,node/1882825984,
+,l'Elefantet,41.5930652,1.8337234,905.9,node/1882825988,n0416 Roca de L'Elefantet (0.5)
+,la Prenyada,41.594365,1.8297504,1112.4,node/1882825998,n0432 Roca de la Prenyada (0.5); n0433 Contrafort de la Prenyada (0.5)
+,El Porró,41.5887542,1.82138,940,node/1882826006,
+,la Trumfa,41.5948595,1.8311647,1023.9,node/1882826033,n0436 Roca de la Trumfa (0.5)
+,Turó de l'Ermità,41.6202579,1.8150247,594.8,node/1886787903,n0025 Turó (0.5)
+,Turó de Comellats,41.629488,1.821555,575.8,node/1886822865,n0025 Turó (0.5)
+,Turó de Morrolius,41.6317484,1.8313548,437.6,node/1886822869,n0025 Turó (0.5)
+,el Moro,41.6035375,1.8157421,1206.2,node/1927266213,
+,l'Escorpí,41.6108313,1.7873849,1072.3,node/1928184990,
+,la Cadireta,41.6126502,1.7864625,898.7,node/1928223208,
+,el Camell de Sant Jeroni,41.5991845,1.8101117,1089.3,node/1928223209,n0240 Paret No. de la Miranda de Sant Jeroni (0.53); n0264 Serrat de Sant Jeroni (0.53)
+,Cap del Camell,41.6056803,1.8073739,1186.4,node/1928223210,n0235 Cap del Camell (1); n0255 Cap del Camell (1)
+,l'Enclusa o el Bacallà,41.6091647,1.7943153,1126.5,node/1928223213,n0138 L'Enclusa Deis Frares O el Bacalla (0.8)
+,Talaia Gran,41.6046602,1.8090157,1146.3,node/1928226083,
+,Roca Plana dels Llamps,41.6013562,1.8048207,1162.4,node/1928226084,
+,Cap de Mort,41.6005892,1.8194447,1140,node/1928240085,n0278 Roca del Cap de Mort (0.8)
+,Agulles dels Pallers,41.6003651,1.7821932,780,node/1928273128,n0016 Agulles de L'Era Deis Pallers (0.8)
+,Roca de l'Era dels Pallers,41.601307,1.781737,785,node/1928273129,n0015 Roca de L'Era Deis Pallers (0.8); n0016 Agulles de L'Era Deis Pallers (0.53)
+,Miranda Petita. Roca 133,41.6055359,1.789251,922.1,node/1928276376,
+,Agulla Superior del Pas del Príncep,41.6067726,1.7938475,1054.9,node/1928741210,n0145 Agulla Gran de Pas de Príncep (0.6)
+,Roca 407,41.5883937,1.8278303,1081.8,node/1928741213,
+,Roques dels Falcons - Roca 552,41.5982097,1.8257741,1054.1,node/1928741216,n0479 Roques Dels Falcons (0.5)
+,l'Albarda Castellana,41.6010154,1.813363,1178,node/1928741220,
+,Roca 5 del Serrat del Patriarca,41.6017023,1.8184961,1131.5,node/1928741222,n0277 Serrat del Patriarca (0.5)
+,Roca 4 del Serrat del Patriarca,41.6019521,1.8185816,1140.3,node/1928741223,n0277 Serrat del Patriarca (0.5)
+,Roca 3 del Serrat del Patriarca,41.6021631,1.8187521,1146.1,node/1928741225,n0277 Serrat del Patriarca (0.5)
+,Roca 1 del Serrat del Patriarca,41.602908,1.8188022,1146.8,node/1928741227,n0277 Serrat del Patriarca (0.5)
+,el Cilindre,41.6031102,1.8018606,1100.5,node/1928741228,n0166 El Cabrit O el Cilindre (0.5)
+,Cota 288,41.6037233,1.8070553,1107.8,node/1928741231,
+,l'Eco Inferior,41.603869,1.8066005,1151.7,node/1928741232,
+,Roca 312,41.6039919,1.8109965,1190.9,node/1928741233,
+,Roca 311,41.604143,1.8110457,1197.5,node/1928741234,
+,Talaia Petita,41.6049883,1.8091506,1127.3,node/1928741238,
+,Punta Solitud (Roca 307),41.6056153,1.8093712,1089.6,node/1928741240,
+,Roca TIM (208),41.6061451,1.8049574,1195.7,node/1928741241,
+,Roca de l'Alba (209),41.6064534,1.8047441,1182.8,node/1928741244,
+,Agulla Petita o Contrafort de la Pelada,41.6066886,1.7807706,929.4,node/1928741246,n0030 Agulla Pelada (0.5)
+,Savina Superior,41.6073692,1.7810737,977.1,node/1928741248,
+,l'Esquèlet,41.6081612,1.7840647,988.4,node/1928741254,n0062 Agulla de L'Esquelet (0.5)
+,Agulla d'en Tagore,41.608504,1.7906403,1028.4,node/1928741257,
+,Agulla dels Espeleòlegs,41.6089706,1.7821091,1036,node/1928741259,
+,la Saca Gran,41.6091264,1.7825474,1032.1,node/1928741262,"n0046 La Saca Gran, Agulla D'En Dionis O el Triptic (0.8); n0047 Saca Gran, Aresta Brucs (0.8)"
+,la Filigrana,41.609022,1.7836957,1054.9,node/1928741263,n0058 La Filigrana O Faluga (0.5)
+,Agulla de la Carnavalada,41.6092321,1.7848323,1021.2,node/1928741270,n0068 Agulla de la Carnavalada O Agulla Dels Set (0.8)
+,la Corona de la Reina,41.6094221,1.7854097,1041.9,node/1928741273,n0070 Agulla de la Corona de Reina (0.8); n0069 La Reina (0.5)
+,Agulla Gis-Taus,41.6098749,1.7904802,1089.4,node/1928741276,
+,l'Escut - Miranda de la Nina,41.6099294,1.7911512,1060.9,node/1928741277,
+,Agulla Xica de la Miranda (Petitona),41.6100419,1.7864244,1083.7,node/1928741278,n0084 Agulla Xica de la Miranda (0.75)
+,el Frare,41.6100877,1.7938295,1144.1,node/1928741280,n0133 El Frare Gros (0.5)
+,la Sense Nom,41.6100982,1.7887669,1058.6,node/1928741281,
+,Cota 103,41.610154,1.7901532,1103.2,node/1928741283,
+,Cota 102,41.6104277,1.7904553,1103.3,node/1928741285,
+,Castell de la Guàrdia,41.6089891,1.7737329,856.8,node/1928885817,
+,Serrat de Guirló,41.6078545,1.7761945,828.7,node/2159556562,
+,Miranda de Santa Caterina,41.5860913,1.8254469,1034,node/2280489115,n0374 Miranda de Santa Magdalena (0.53)
+,Miranda de Sant Joan o Miranda Xica,41.5865595,1.8256812,1050.2,node/2280489236,n0351 Agulleta I Miranda de Sant Joan (0.6)
+,Contrafort de la Miranda de Sta Magdalena,41.5870343,1.8253103,1072.7,node/2280489283,
+,Turó del Tron de l'Espasa,41.581485,1.8475681,657.8,node/2288520777,
+,Cap de les Canals,41.5807133,1.8502654,635,node/2288536496,
+,Agulla de Can Jorba,41.5922702,1.8019819,788.4,node/2470141649,
+,Montgròs,41.5999823,1.8050998,1133.2,node/2470141657,n0212 L'Esfinx del Montgros (0.5)
+,el Faraó,41.5971991,1.7986338,946.1,node/2470141660,
+,Roca del Truc,41.587731,1.811298,738.5,node/2470141661,n0292 Roca del Truc O de la Vinya Nova (0.8)
+,els Ous del Faraó,41.5975157,1.7991783,943.2,node/2470141663,
+,els Pollegons,41.5909781,1.8190094,950.3,node/2470141666,n0318 Conjunt Dels Pollegons (0.5); n0322 Miranda Dels Pollegons (0.5)
+,l'Agulla Fina,41.5984798,1.7944957,834.1,node/2470141668,n0186 Agulla Fina Dels Naps de Baix (0.8)
+,Agulla Ajaguda,41.5932578,1.8044029,863,node/2470141669,n0302 Agulla Ajaguda del Coll de Muset (0.8)
+,la Foca,41.5994805,1.7948484,948.5,node/2470141673,n0181 Roca de la Foca (0.5)
+,la Palomera,41.5934275,1.7996442,849.7,node/2470141675,n0202 Serrat de la Palomera (0.5)
+,Plec de l'Ignasi,41.5982236,1.8058553,1037.5,node/2470142038,
+,Plec d'en Ballart,41.5982632,1.8056964,1042.2,node/2470142039,
+,Plec d'en Manolo,41.5983944,1.805579,1050.4,node/2470142041,
+,Plec de la Martina,41.5985756,1.8053488,1054,node/2470142043,
+,Plec Superior,41.5981803,1.8060191,1041.5,node/2470142047,n0214 Plec de Llibre Superior (0.8)
+,el Gerro,41.5975518,1.7818382,711.2,node/2470183427,
+,el Timbaler,41.5975304,1.7828161,739.4,node/2470183431,n0023 El Timbaler del Bruc (0.5)
+,Tossal Rodó,41.5799345,1.8685942,396.4,node/2609331161,
+,Cul de Portadora,41.5923512,1.8633301,461.1,node/2609403455,
+,el Broc del Setrill,41.6080986,1.7861916,997.8,node/2783347250,n0076 El Broc Petit O Broc del Setrill (0.8); n0077 El Setrill (0.5)
+,el Pingüí,41.6086203,1.7840864,1002.1,node/2783352180,
+,el Dumbo,41.6089245,1.7866544,1028.5,node/2783357361,n0079 Roca del Dumbo (0.5)
+,Mirador de la Miranda de les Boïgues,41.6079664,1.7824903,995.8,node/2783390567,n0037 Miranda de les Boigues (0.67); n0036 Mirador de la Miranda de les Migues (0.53)
+,la Peluda,41.6080466,1.781738,972.1,node/2783395395,n0038 Agulla Peluda (0.5)
+,Savina Inferior,41.6072473,1.7810705,972.4,node/2783395396,
+,Agulla dels Tres o CNT,41.6042567,1.7807777,872.8,node/2783395399,n0013 Agulla Dels Tres (0.67)
+,la Saca Petita,41.6092122,1.7823672,1056.7,node/2783405261,
+,el Carbassó,41.6089974,1.7828834,1008.7,node/2783409448,
+,Agulla de les Heures,41.6091941,1.7832355,1023.8,node/2783409449,
+,Agulla del Cirerer,41.6085934,1.783623,965.3,node/2783409450,
+,Pom de la Barana,41.6060763,1.7838935,882.3,node/2783426445,
+,la Roca de les Vuit,41.6043305,1.7803086,896,node/2783426446,n0009 Roca de les Vuit O Llastra del Dau (0.8)
+,Agulla d'en Dalmau,41.6041191,1.7809955,876,node/2783426448,
+,la Torta,41.6105163,1.7869327,1098,node/2784067932,n0080 El Merlet de la Torta (0.5); n0081 La Torta O la Ma (0.5)
+,Santa Cecília,41.6080592,1.8130956,1078.8,node/3042837638,n0265 Agulla de Santa Cecilia (0.8)
+,Mirador de Cirers,41.6062602,1.7977825,978.1,node/3439397837,
+,La Desapercebuda,41.602859,1.8012984,1073.1,node/3439479366,
+,Roca dels Nuvis,41.6029743,1.8009734,1036.1,node/3439479376,n0169 Roca Deis Nuvis (0.8)
+,Roca del Bassal dels Ferros,41.603532,1.803531,1057.4,node/3439489310,n0164 Roca del Bassal Deis Ferros (0.8)
+,Roca del Sol (roca 229),41.6040955,1.8032555,1108,node/3439489354,
+,Sant Jeroni,41.605372,1.8115033,1237.6,node/3451961521,n0240 Paret No. de la Miranda de Sant Jeroni (0.8); n0264 Serrat de Sant Jeroni (0.8)
+,Roca Vella o La Proa,41.5979266,1.7917521,841.7,node/3452073436,n0185 Roca Vella (0.67); n0187 Merlet de la Roca Vella (0.53); n0461 Roca de la Cara de la Vella (0.53)
+,l'Enclusa,41.6141611,1.7867236,781.1,node/3824095961,n0092 L'Enclusa D'Agulles (0.5)
+,Malgraó,41.6146172,1.7724756,683.5,node/3824163576,
+,Puigllobí,41.6262206,1.7741487,559.8,node/3824163577,
+,Turó de Cal Llobet,41.6310109,1.7575184,584.1,node/3824163579,
+,l'Agulla de la Creu,41.5905087,1.8423398,624.5,node/4160829795,
+,Turó del Vilar,41.6342173,1.8595027,239.6,node/4382266838,n0025 Turó (0.5)
+,Turó de les Casetes,41.6366887,1.8656271,295.5,node/4382284932,n0025 Turó (0.5)
+,Miranda dels Ecos,41.6044111,1.8061968,1222.7,node/5109588866,n0228 Els Ecos (0.5)
+,Castellferran,41.6082946,1.7640735,791,node/5124480650,
+,Roca 408,41.5878229,1.8270238,1096,node/5216073457,
+,Torre Alta,41.6112098,1.7632861,842.2,node/5300862085,
+,Roca Foradada,41.6123528,1.7867062,928.2,node/5300929361,
+,Roca 474B,41.5800879,1.8330044,859.4,node/5418563007,
+,Agulla Tranquil·la,41.5921712,1.8256531,988.3,node/5888450444,
+,el Fusell,41.5913561,1.8236644,974.1,node/5888450445,
+,Turó de les Goteres,41.5907715,1.8331583,925.8,node/5890531669,n0025 Turó (0.5)
+,Cajoleta,41.5962289,1.8060494,908.4,node/6080369842,n0217 Roca de la Cajoleta (0.5)
+,Roca d'en Sanhida,41.6068813,1.8070391,1025,node/6080443530,
+,Agulla d'en Charly,41.608166,1.7883464,1044.5,node/6866602067,
+,Miranda de l'Alba,41.608333,1.7890043,1038.5,node/6866602068,
+,Roca 178,41.6071219,1.7880113,1009.1,node/6866602069,
+,la Piràmide,41.6082387,1.7879161,1023.3,node/6866602070,
+,el Gallífol,41.6080997,1.7900849,1024.7,node/6866602075,
+,Roca de la Grip,41.6090472,1.7906145,1062,node/6866602077,
+,els Degotalls,41.6004941,1.8312649,800.1,node/6866614372,n0468 Agulla Dels Degotalls (0.5)
+,Agulla de l'Arítjol,41.5969857,1.7946009,837,node/6866614564,
+,El Senglar,41.5976944,1.7925145,804.8,node/6866614565,
+,la Tonsura,41.5972119,1.7914419,759,node/6866614566,
+,El Gat,41.5755803,1.8348178,,node/7277727167,n0431 Agulla del Gat (0.5)
+,el Pujol,41.572122,1.8256934,440.3,node/7444953212,
+,Quarta de la Trinitat,41.5965818,1.8330199,1023.4,node/7878364869,
+,Roca 559,41.5973752,1.8304837,1021.8,node/7878365251,
+,la Miranda del Lloro o l'Escolanet,41.6110356,1.7926011,1114,node/8857706128,
+,Miranda de les Bessones,41.6094627,1.7848882,1007.7,node/8865222405,
+,la Bestorre,41.6087322,1.8447446,196.7,node/9221450212,
+,Turó del Colomer,41.6339013,1.8388794,431.9,node/9465303915,n0025 Turó (0.5)
+,Roca 134,41.6050334,1.7891928,922.6,node/10580419309,
+,Punta central del Serrat del Faraó (Roca 256),41.5987391,1.8008732,1002.8,node/10580423332,
+,Roca 135,41.606503,1.7896633,952,node/10580435884,
+,Roca del Serrat del Faraó Occidental (Roca 259),41.5973945,1.79733,919.6,node/10580457117,n0201 Serrat del Farao Occidental (0.6)
+,Punxeta del Serrat del Faraó,41.5992906,1.8020043,1008.9,node/10580458356,n0201 Serrat del Farao Occidental (0.53)
+,Agulleta del Faraó,41.5983239,1.8004052,985,node/10580460581,
+,Punta est del Serrat del Faraó (Roca 254),41.5990411,1.801437,1011.2,node/10580475928,
+,Tossal de la Boirafua,41.5762276,1.8341897,776.5,node/10580494878,
+,Roca 499G,41.5766481,1.8332226,775.4,node/10580502475,
+,Roca 499I,41.5753289,1.8350752,773.1,node/10582737920,
+,Agulla Mestres o Punta Oest del Serrat del Faraó,41.5983151,1.8002474,987,node/10585409894,
+,Roca 169,41.6060977,1.7895682,944.1,node/10594614369,
+,Roca de les Balmes,41.6072501,1.7898117,983.8,node/10594659785,
+,Roca Mala II,41.5924237,1.8135072,882.4,node/10594716665,n0314 Roca Mala (0.67)
+,Ullal de la Magdalena,41.5891744,1.8268933,1127.8,node/10594725088,
+,Punta Pam a Pam o Mirador de la Plantació,41.5869895,1.8245225,1020.5,node/10594725090,
+,Mirador superior del serrat del Cabrit (Roca 252a),41.6000178,1.8028857,1048.9,node/10609275344,
+,Mirador del Serrat del Cabrit (Roca 253),41.6002323,1.8019959,1026.5,node/10609286690,
+,Roca 541,41.5967305,1.8330404,1006.9,node/10613006659,
+,La Xirimoia,41.5949227,1.8305923,1040.2,node/10613031765,
+,Roca de Sant Miquel,41.5928448,1.795498,680,node/10652368527,n0398 Roca Alta de la Canal de Sant Miquel (0.8); n0291 Roca de Sant Esteve (0.53); n0336 Roca de Sant Cugat (0.53)
+,Roca de la Joaneta,41.5930334,1.795168,685,node/10652368528,
+,Pas de la Llastra,41.5933686,1.796205,,node/10656449831,
+,Mirador del Coll de Mosset,41.5942327,1.8031365,818.7,node/10656470493,
+,Cavall dels Brucs,41.6002834,1.7923465,862.6,node/10712826553,
+,Agulla de les Formigues o Veïna del Musclet,41.5985553,1.7920653,873.2,node/10712826556,
+,Roca 273,41.599693,1.7933,929.3,node/10712826558,
+,Agulla Inferior del Pas del Príncep,41.6058972,1.793202,991,node/10799709708,n0145 Agulla Gran de Pas de Príncep (0.6); n0147 Roca Petita O Inferior de Pas de Príncep (0.6)
+,El Cap Gros,41.6078734,1.7961858,964.8,node/10799858283,
+,Veïna Est de la Roca d'en Guillot,41.6071461,1.8014719,1088.3,node/10799966076,n0158 Roca D'En Guillot (0.5)
+,El Soldat,41.6006598,1.7971164,952.3,node/10874630621,
+,Contrafort Superior de la Falsa Foca,41.5991667,1.7961359,853.1,node/10874630623,
+,Falsa Foca,41.5998864,1.7964862,915.4,node/10874630624,
+,Punta Central de la Canal del Conill,41.5992664,1.795767,852.8,node/10874630625,
+,Roca Superior de la Canal del Conill,41.6000231,1.7960878,908.9,node/10874630626,
+,Roca 461,41.596753,1.8206127,1046.3,node/10892854771,
+,Roca 460,41.596187,1.8210143,1035.1,node/10892854772,
+,Roca 459,41.5955983,1.8213125,1036.3,node/10892854773,
+,Roca 458,41.5952808,1.8217669,1028.4,node/10892854774,
+,Roca 457,41.5948928,1.8220693,1031.6,node/10892854775,
+,Els Estalvis del Porró (Roca 471),41.5885208,1.8210723,910.3,node/10893081632,
+,Roca 414,41.5910262,1.8249349,1047.7,node/10893124671,
+,Miranda del Rave,41.5918688,1.8214803,951,node/10893253551,
+,La Doble (Roca 423),41.589421,1.8239986,1044.1,node/10893615743,
+,Roca 416,41.5900482,1.8247951,1055.7,node/10893615744,
+,Processó dels Monjos (Roca 421),41.5896722,1.8240491,1057.7,node/10893615746,
+,La Doble (Roca 424),41.5891149,1.8238184,1040.8,node/10893615747,
+,El Camelló,41.5999313,1.8110054,1078.7,node/10913979447,
+,Roca 380,41.5940702,1.806575,881.7,node/10914224459,
+,Roca 381,41.5940726,1.8091808,957.3,node/10914224460,
+,Roca 314,41.6043019,1.8084921,1055.7,node/10914282045,
+,Roca 393,41.6038346,1.8085967,1013.4,node/10914282046,
+,Roca 347,41.59927,1.8181223,1054.8,node/10924070551,
+,Roca 357,41.6008518,1.8197446,1122.2,node/10924076671,
+,Serrat de l'Albarda. Roca 340,41.6000298,1.8161016,1103,node/10924078373,
+,Serrat de l'Albarda. Roca 339,41.6003291,1.8162291,1101.3,node/10924078374,
+,Serrat de l'Albarda. Roca 338,41.6005592,1.8162608,1100.3,node/10924078375,
+,Roques dels Falcons - Roca 551,41.5979061,1.8258875,1058.8,node/10962302471,n0479 Roques Dels Falcons (0.5)
+,Roques dels Falcons - Roca 574,41.5975558,1.8259337,1058.8,node/10962302472,n0479 Roques Dels Falcons (0.5)
+,Roca 575,41.5973064,1.8264158,1063.2,node/10962302473,
+,Roca 519,41.5937785,1.8274623,1039.3,node/10964193485,
+,Roca 518,41.5942269,1.8276599,1068.8,node/10964193486,
+,Roca 517,41.5946181,1.8280216,1068.5,node/10964193487,
+,Merlet del Pla dels Ocells (Roca 521),41.5937161,1.8263427,1004.4,node/10964193488,n0427 Merlet del Pla Dels Ocells (0.6); n0428 Carena del Merlet del Pla Dels Ocells (0.5)
+,Carena del Merlet del Pla dels Ocells (Roca 521),41.5938957,1.8266083,1010.4,node/10964193490,n0428 Carena del Merlet del Pla Dels Ocells (0.67); n0427 Merlet del Pla Dels Ocells (0.5)
+,Miranda de Sant Benet,41.5937943,1.8283072,1044.2,node/10964257744,n0240 Paret No. de la Miranda de Sant Jeroni (0.53); n0351 Agulleta I Miranda de Sant Joan (0.53); n0362 Miranda de Sant Pere (0.53)
+,Trompa de l'Elefant,41.5955987,1.8300254,1153.1,node/10964258329,n0438 L'Elefant (0.5)
+,Roca 226 - Roca de la Cantonada,41.6058768,1.8027713,1165.4,node/11058658694,
+,Roca de la Lluna (roca 228),41.6048299,1.8033559,1128,node/11058658695,
+,Roca dels Enamorats (Roca 211),41.606679,1.8034712,1160.3,node/11058658696,
+,Veïna de l'esquerra de la Salamandra,41.6022567,1.8064512,1140.4,node/11058658699,
+,Veïna a la dreta de la Salamandra,41.6021444,1.8071701,1097.7,node/11058658700,
+,Eco d'en Nubiola,41.6043826,1.8059597,1219.3,node/11058658701,
+,Eco Occidental,41.6046013,1.8055359,1200.2,node/11058658703,
+,Pujol de les Moixerigues,41.5806801,1.7900429,536,node/11071782908,
+,Roca de Sant Martí (Roca 436),41.5881169,1.8224372,919,node/11184134566,
+,Roca de Sant Cugat (Roca 435),41.5883252,1.8227508,927.7,node/11184134567,n0336 Roca de Sant Cugat (0.75)
+,Roca dels Col·leccionistes,41.5882162,1.8217792,912.5,node/11184134568,
+,Roca 424A,41.588733,1.8235759,989,node/11184134570,
+,Roca 433,41.5887218,1.8231616,986.5,node/11184134572,
+,Fals Ou,41.5876016,1.8223672,876.8,node/11184134573,
+,La Presidenta,41.5868653,1.8219462,889.6,node/11184134574,n0350 Roca de la Presidenta (0.5)
+,La Cantelluda,41.5868171,1.8226864,903.5,node/11184134576,n0349 Roca de la Cantelluda (0.5)
+,Punxó de la Pau i Justícia,41.5874832,1.8208947,833.1,node/11184150253,
+,La Triple - Roca 431,41.589627,1.8227861,1016,node/11184416191,
+,La Triple - Roca 432,41.5896959,1.8228659,1001.6,node/11184416192,
+,Fals Punxó,41.5874564,1.8211369,830.1,node/11186769133,
+,Contrafort de la Roca de Sant Martí,41.5878149,1.8220194,867.3,node/11186769134,n0005 Roca del Contrafort (0.5)
+,Roca 451,41.5898677,1.821971,952.8,node/11201026263,
+,Roca 453,41.5894753,1.8222181,984.2,node/11201036917,
+,Agulla d'en Torres Homet,41.5895628,1.8224496,991.9,node/11201036921,n0343 Agulla D'En Torras Homet (0.53)
+,Agulla del Capdavall,41.5894078,1.8210385,914.7,node/11201036924,
+,Roca 429,41.5898578,1.8228752,1001.7,node/11201038136,
+,Roca 334,41.6006197,1.8139548,1172.9,node/11310850425,
+,Roca 332,41.6033124,1.8166381,1144.4,node/11361427845,
+,Roca 2 del Serrat del Patriarca,41.6024717,1.8186296,1135.3,node/11361458853,n0277 Serrat del Patriarca (0.5)
+,Creu Inferior de Sant Antoni,41.6004179,1.8204047,1063.9,node/11361510060,
+,Contrafort de la Momieta,41.5954253,1.8324935,1019.8,node/11361526039,n0440 La Momieta (0.5)
+,La Panxuda,41.6002646,1.801295,975.6,node/11391979006,
+,El Panxut,41.5992578,1.8000958,930.5,node/11391979007,
+,La Llesca,41.5988506,1.7998393,939.8,node/11391979008,
+,Roques Veïnes de la Vella - Punta Central,41.6053201,1.8008839,1093.9,node/11394595664,
+,El Guardià de l'Esfinx,41.6056402,1.8030529,1157.5,node/11394595665,
+,Miranda de la Campana,41.5919051,1.8220385,980.3,node/11405640170,n0327 La Campana (0.5)
+,Roca Veïna de la Cova del Tambor,41.598447,1.7895421,666,node/11405640171,n0193 Roca del Tambor (0.5); n0409 Roca de la Cova (0.5)
+,Roca Falsa del Tambor,41.5978425,1.7887777,622.1,node/11405640172,n0193 Roca del Tambor (0.67)
+,Roques dels Falcons - Roca 553,41.5983575,1.825642,1041.9,node/11405685270,n0479 Roques Dels Falcons (0.5)
+,Mirador del Castell,41.5914442,1.7928366,610.6,node/11433218348,
+,El Pilot,41.5921685,1.7952393,627.1,node/11433218353,
+,Agulla de la Castanyada,41.5930803,1.7922391,622.9,node/11483890124,
+,Roca 263,41.5938524,1.799691,845.2,node/11483920679,
+,Roca 368,41.6065122,1.8154121,1088.4,node/11606186257,
+,Roca 367,41.6061372,1.8154389,1116.5,node/11606186258,
+,Roca 366,41.6058052,1.8158385,1141.8,node/11606186259,
+,Roca 364,41.6050646,1.8159672,1196.9,node/11606186260,
+,Agulla d'en Marcus Kamen,41.5939538,1.8290682,1019.3,node/11738634613,n0435 Agulla D'En Markus Kamen (0.53)
+,Agulla del Guarda,41.5934855,1.8308237,986.9,node/11738634614,
+,Roca de l'Avortó,41.5947662,1.8293524,1084.6,node/11738653436,
+,Agulla del Camí,41.5953625,1.8327966,999.4,node/11738653437,
+,Punta de les Cabres,41.607108,1.8024203,1126.7,node/11822967524,
+,Roca del Coll de la Llum,41.6048947,1.8087118,1096.3,node/11877481550,n0137 Roca de Coll de Porc (0.53); n0239 Roca de la Font del Llum (0.53)
+,la Talaieta d'en Barbé,41.6058021,1.8094193,1089.5,node/11877486212,
+,La Petxina,41.6048283,1.809347,1118.4,node/11879141548,
+,Roca del Moro Joan,41.5961386,1.8300287,1108,node/11916807934,n0368 Roca Alta de Sant Joan (0.53); n0375 Roca de Sobre L'Estació Superior de Sant Joan (0.53); n0377 Roca del Pas de la Drecera de Sant Joan (0.53)
+,Flautat Gran (Roca 505),41.5965899,1.8303479,1132.2,node/11916807935,
+,Cadireta del Diable,41.5968907,1.8308978,1134.5,node/11916807937,
+,Roca de Sota la 209,41.6052198,1.8041451,1129.2,node/12118189306,n0113 Roca Sota la Punta D'En Campanilles (0.53)
+,Agulla de l'Oblit,41.6012162,1.803746,1076.4,node/12166739145,
+,Roca del Collet de la Creu,41.6014169,1.8044391,1122.4,node/12166739146,n0420 Roca de la Santa Creu (0.53)
+,Roca Ignorada,41.6070901,1.8018608,,node/13810672985,
+,Roques Veïnes de la Vella - Punta Oest,41.605159,1.8001329,,node/13810758609,
+,Roques Veïnes de la Vella - Punta Est,41.6056863,1.8016133,,node/13810758610,
+,Roca 232,41.6058243,1.8022718,,node/13810758611,
+,El Pedestal de la Vella,41.6038117,1.7997613,,node/13810758612,n0165 La Vella (0.5)
+,Serradet dels Amics del Sol,41.6022213,1.8043969,,node/13810828913,
+,Roca de l'Amistat,41.602218,1.8040092,,node/13810828914,
+,El Globus,41.6021301,1.8051,1133.2,node/13811314542,
+,Roca de la Canal del Ninet,41.6099687,1.7813383,892.9,node/13822316792,n0398 Roca Alta de la Canal de Sant Miquel (0.53)
+,El Rovelló,41.6029849,1.7942686,,node/13825944732,
+,Roca de les Esgarrinxades,41.6042975,1.7949231,,node/13825944734,
+,Agulla Índia,41.6043621,1.7945686,,node/13825944735,
+,Roca Manuela,41.6041106,1.7944092,,node/13825944736,
+,Sisè Bony,41.6022527,1.7934667,,node/13825964349,
+,Cinquè Bony,41.6021263,1.7934064,,node/13825964350,
+,Quart Bony,41.602167,1.7932615,,node/13825964351,
+,Tercer Bony,41.6018696,1.7927754,,node/13825964352,
+,Segon Bony,41.6018641,1.7926192,,node/13825964353,
+,Agulla Altiva (Primer Bony),41.6017182,1.7925702,,node/13825964354,
+,Roca del Llençol,41.6030222,1.7941044,,node/13825972923,
+,Agulla del Tobi,41.6031713,1.7938485,873.3,node/13825972924,
+,Mirador del Vent,41.6079725,1.7998302,,node/13917483380,
+,Contrafort de l'Ànec,41.6106415,1.7889847,,node/13924343213,n0096 L'Anec (0.5)
+,El Queixal,41.6099142,1.7895594,,node/13924343217,
+,Roca 129,41.6094219,1.78994,,node/13924343218,
+,El Carquinyoli,41.6104798,1.7902973,,node/13924343219,
+,El Caputxó d'en Semir,41.610417,1.7896201,,node/13924343220,
+,Elefant Petit,41.6098112,1.7901431,,node/13924343221,n0103 L'Elefant Petit O Agulla de les Tramperes (0.8); n0438 L'Elefant (0.5)
+,Agulla Bífida,41.6100277,1.7902389,,node/13924343222,
+,Roca 107,41.6100329,1.7909207,,node/13924343223,
+,Roca 108,41.6099945,1.7904724,,node/13924343224,
+,Roca 113,41.6090701,1.7904532,,node/13924343225,
+,Punta 167,41.6073842,1.7898336,,node/13924343226,
+,Roca 168,41.6059641,1.7893075,934.1,node/13924343227,
+,Roca 155,41.6067044,1.789751,,node/13924343228,
+,Rcoa 180,41.6069371,1.7898403,,node/13924343229,
+,La Badada,41.6109867,1.7883175,,node/13955402959,
+,Agulla de la Foradada,41.6116906,1.7871856,,node/13955402961,
+,Veïna de l'Escorpí,41.6107982,1.7877382,,node/13955402963,
+,Agulla Encantada,41.6099514,1.7872786,,node/13955402967,
+,Agulla Manolito García,41.6097878,1.7865977,,node/13955402968,
+,El Cap del Guerrer,41.6073917,1.7851511,971.3,node/13955426116,
+,Roca Veïna del Cap del Guerrer,41.6075645,1.7851295,,node/13955426117,
+,Roca 447,41.5899931,1.8229263,,node/14108511932,
+,Roca 450,41.5897802,1.8221457,,node/14108511933,
+,Roca 455,41.589572,1.8218957,,node/14108511934,
+,Roca 454,41.5895613,1.8220878,,node/14108511935,
+,Roca del Capdemunt,41.5892846,1.8218978,,node/14108511936,
+,L'Esglai,41.5892071,1.8213022,,node/14108511937,n0346 Agulleta de L'Esglai (0.5)
+,La Triple - Roca 430,41.5894534,1.8225665,,node/14108511938,
+,Serrat dels Col·leccionistes,41.5888437,1.8221803,,node/14108511939,
+,Serrat de l'Oblidada,41.5875364,1.8204999,,node/14108511940,n0347 L'Oblidada (0.5)
+,Roca 418,41.5897843,1.8247674,,node/14108511942,
+,Roca 420,41.5897165,1.8243697,,node/14108511943,
+,Roca 422,41.5896664,1.8238757,,node/14108511944,
+,Patchwork,41.5882769,1.8231004,,node/14108511945,
+,La Vicepresidenta,41.5870344,1.8221148,,node/14108511946,
+,La Filla Baixa,41.5869725,1.8211712,,node/14108511947,
+,La Filla Alta,41.5869845,1.8216432,,node/14108511948,
+,El Gendre,41.5869746,1.8214293,,node/14108511949,
+,Roca 419,41.5897971,1.8246317,,node/14112698546,
+,Roca 475,41.5877007,1.8232862,,node/14112970865,
+,Roques inferiors de la Roca de Sant Martí,41.587642,1.821805,,node/14113563306,
+,L'Esquerda,41.586131,1.8209473,,node/14113711844,n0354 Roca de L'Esquerda (0.5)
+,El Rellotge,41.5862236,1.82128,,node/14113711845,n0353 Roca del Rellotge (0.5)
+,Roca 464,41.5854718,1.8222355,,node/14113711846,
+,Serrat del Punxó,41.5878149,1.8209594,,node/14113711847,
+,Serrat del Fals Punxó,41.5878813,1.8213143,,node/14113711848,
+,Roca del Migdia,41.6034381,1.8060124,,node/14133340993,
+,Agulla Alta de la Coma dels Naps de Baix,41.6020497,1.8021175,,node/14353478975,n0168 Agulla Alta de la Coma Deis Naps de Baix (0.83); n0186 Agulla Fina Dels Naps de Baix (0.5)
+,Les Tres Maries,41.6061565,1.779339,,node/14360155885,
+,Turó de la Vinya Nova,41.5909317,1.811267,,node/14360188649,n0292 Roca del Truc O de la Vinya Nova (0.53)
+,Roca 345,41.5913597,1.8108366,,node/14360188650,
+,Roca 381,41.5926329,1.8106419,,node/14360188651,
+,Serrat de la Vinya Nova,41.5919526,1.8109251,,node/14360188652,n0292 Roca del Truc O de la Vinya Nova (0.53)
+,Gaites de Guirló,41.6071102,1.7758076,,node/14360188654,
+,Sant Pau Vell,41.6075517,1.7737448,,node/14360188655,"n0001 Sant Pau Vell, Runes 1 Turó (0.8)"
+,Serrat d'en Pujadé,41.6156184,1.7854019,,node/14360188659,n0093 Agulleta 1 Serrat D'En Pujadé (0.8)
+,Agulla Gris,41.5891683,1.8152024,,node/14360188660,
+,Roca Ponent,41.5886215,1.8158932,,node/14360188661,
+,Agulla de la Clàudia,41.5884454,1.815219,,node/14360188662,
+,Roca de la Palleta,41.5866813,1.8159883,,node/14360188663,
+,Miranda dels Pallers,41.6024658,1.7815399,,node/14360188664,
