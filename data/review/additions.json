@@ -3497,5 +3497,354 @@
    "extractionStatus": "unreviewed",
    "extractionNote": "Afegida a mà: entrada «Cova de les Abelles» (p. 314) no recollida per l'extracció automàtica."
   }
+ },
+ {
+  "id": "n0661",
+  "name": "Roca 173",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "173",
+  "after": "n0598",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 114,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «ROCA 173» (p. 114), llegida com a part del text d'una altra agulla."
+  }
+ },
+ {
+  "id": "n0662",
+  "name": "El Tub de la Patata",
+  "alternativeNames": [],
+  "regionId": "r02",
+  "sectionId": "s06",
+  "semirRef": "172a",
+  "after": "n0125",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 109,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «EL TUB DE LA PATATA (172/a)» (p. 109), llegida com a part del text de n0125."
+  }
+ },
+ {
+  "id": "n0663",
+  "name": "Serradet de Sant Jeroni",
+  "alternativeNames": [
+   "Agulleta del Serradet de Sant Jeroni",
+   "Agulla Carles Carol"
+  ],
+  "regionId": "r04",
+  "sectionId": "s16",
+  "semirRef": "328-329",
+  "after": "n0270",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 216,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «SERRADET DE SANT JERONI (ROQUES 328 i 329)» (p. 216), llegida com a part del text de n0270."
+  }
+ },
+ {
+  "id": "n0664",
+  "name": "Paret NE. del Serrat del Patriarca",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "after": "n0277",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 229,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «SERRAT DEL PATRIARCA (PARET NE.)» (p. 229), llegida com a part del text de n0277."
+  }
+ },
+ {
+  "id": "n0665",
+  "name": "Roca 391",
+  "alternativeNames": [],
+  "regionId": "r04",
+  "sectionId": "s17",
+  "semirRef": "391",
+  "after": "n0279",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 232,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «ROCA 391» (p. 232), llegida com a part del text de n0279."
+  }
+ },
+ {
+  "id": "n0666",
+  "name": "Cota 424 A",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "424A",
+  "after": "n0334",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 275,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «COTA 424 A» (p. 275), llegida com a part del text de n0334."
+  }
+ },
+ {
+  "id": "n0667",
+  "name": "Roques de la Filla Alta i de la Filla Baixa de la Presidenta",
+  "alternativeNames": [
+   "Filla Alta de la Presidenta",
+   "Filla Baixa de la Presidenta"
+  ],
+  "regionId": "r05",
+  "sectionId": "s22",
+  "semirRef": "468-479",
+  "after": "n0350",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 284,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «ROQUES DE LA FILLA ALTA (468) I DE LA FILLA BAIXA (479) DE LA PRESIDENTA» (p. 284), llegida com a part del text de n0350."
+  }
+ },
+ {
+  "id": "n0668",
+  "name": "Cota 474",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "semirRef": "474",
+  "after": "n0380",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 307,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «COTA 474» (p. 307), llegida com a part del text de n0380."
+  }
+ },
+ {
+  "id": "n0669",
+  "name": "Cota 474 B",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s25",
+  "semirRef": "474B",
+  "after": "n0381",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 307,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «COTA 474 B» (p. 307), llegida com a part del text de n0381."
+  }
+ },
+ {
+  "id": "n0670",
+  "name": "Cota 499 C",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s28",
+  "semirRef": "499C",
+  "after": "n0550",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 320,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «COTA 499 C» (p. 320), llegida com a part del text de n0550."
+  }
+ },
+ {
+  "id": "n0671",
+  "name": "Serra Llarga",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s28",
+  "semirRef": "499 D-E-F",
+  "after": "n0396",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 320,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «SERRA LLARGA (499 D-E-F)» (p. 320), llegida com a part del text de n0396."
+  }
+ },
+ {
+  "id": "n0672",
+  "name": "Roques de sobre l'Agulla de la Verge (B i C)",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "after": "n0417",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 339,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «ROQUES DE SOBRE L'AGULLA DE LA VERGE (B-C)» (p. 339), llegida com a part del text de n0417."
+  }
+ },
+ {
+  "id": "n0673",
+  "name": "Turó de Sant Dimes",
+  "alternativeNames": [],
+  "regionId": "r06",
+  "sectionId": "s31",
+  "semirRef": "523",
+  "after": "n0422",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 342,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «TURÓ DE SANT DIMES (523)» (p. 342), llegida com a part del text de n0422."
+  }
+ },
+ {
+  "id": "n0674",
+  "name": "Agulla del Riu",
+  "alternativeNames": [
+   "Petit Gat"
+  ],
+  "regionId": "r06",
+  "sectionId": "s32",
+  "after": "n0442",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 359,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «AGULLA DEL RIU (PETIT GAT)» (p. 359), llegida com a part del text de n0442."
+  }
+ },
+ {
+  "id": "n0675",
+  "name": "Camí del Joc de l'Oca",
+  "alternativeNames": [
+   "Torrent de Migdia"
+  ],
+  "kind": "itinerari",
+  "regionId": "r04",
+  "sectionId": "s19",
+  "after": "n0297",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 248,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «CAMÍ DEL JOC DE L'OCA (TORRENT DE MIGDIA)» (p. 248), llegida com a part del text de n0297."
+  }
+ },
+ {
+  "id": "n0676",
+  "name": "El Cap de Guerrer",
+  "alternativeNames": [
+   "Bola de la Bitlla"
+  ],
+  "regionId": "r01",
+  "sectionId": "s04",
+  "semirRef": "60",
+  "after": "n0065",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 61,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «EL CAP DE GUERRER (60) (Bola de la Bitlla)» (p. 61), llegida com a part del text de n0065."
+  }
+ },
+ {
+  "id": "n0677",
+  "name": "Roca del Tinter",
+  "alternativeNames": [],
+  "regionId": "r05",
+  "sectionId": "s20",
+  "semirRef": "467A",
+  "after": "n0321",
+  "images": [],
+  "bookReferences": [
+   {
+    "page": 265,
+    "type": "description"
+   }
+  ],
+  "metadata": {
+   "extractionStatus": "unreviewed",
+   "extractionNote": "Afegida a mà: entrada «Roca del Tinter (467 A)» (p. 265), llegida com a part del text de n0321."
+  }
  }
 ]

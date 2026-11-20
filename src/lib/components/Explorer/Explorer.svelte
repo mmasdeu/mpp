@@ -17,7 +17,7 @@
 	let section = $state('');
 	let q = $state('');
 	let geo = $state<'all' | 'yes' | 'no'>('all');
-	let kind = $state<'all' | 'needle' | 'cova' | 'avenc'>('all');   // needles/rocks, caves, pits
+	let kind = $state<'all' | 'needle' | 'cova' | 'avenc' | 'itinerari'>('all');   // needles/rocks, caves, pits, routes
 	let selected = $state<string | null>(null);
 	let basemapId = $state<BasemapId>('topo');
 	let terrain = $state(false);
@@ -228,7 +228,7 @@
 				<form class="filters" onsubmit={(e) => e.preventDefault()} aria-label="Filtres del mapa">
 					<label>Secció<select bind:value={section}><option value="">Totes</option>{#each sections as s}<option value={s.id}>{s.order}. {s.name}</option>{/each}</select></label>
 					<label>Geolocalització<select bind:value={geo}><option value="all">Totes</option><option value="yes">Geolocalitzades</option><option value="no">Sense coordenades</option></select></label>
-					<label>Tipus<select bind:value={kind}><option value="all">Tots</option><option value="needle">Agulles i roques</option><option value="cova">Coves</option><option value="avenc">Avencs</option></select></label>
+					<label>Tipus<select bind:value={kind}><option value="all">Tots</option><option value="needle">Agulles i roques</option><option value="cova">Coves</option><option value="avenc">Avencs</option><option value="itinerari">Itineraris</option></select></label>
 				</form>
 			</details>
 
@@ -243,7 +243,7 @@
 					{#if section}<span class="badge neutral">Secció: {getSection(section)?.name}</span>{/if}
 					{#if q}<span class="badge neutral">Cerca: {q}</span>{/if}
 					{#if geo !== 'all'}<span class="badge neutral">{geo === 'yes' ? 'Geolocalitzades' : 'Sense coordenades'}</span>{/if}
-					{#if kind !== 'all'}<span class="badge neutral">{kind === 'needle' ? 'Agulles i roques' : kind === 'cova' ? 'Coves' : 'Avencs'}</span>{/if}
+					{#if kind !== 'all'}<span class="badge neutral">{kind === 'needle' ? 'Agulles i roques' : kind === 'cova' ? 'Coves' : kind === 'avenc' ? 'Avencs' : 'Itineraris'}</span>{/if}
 				</div>
 			{/if}
 			<ul class="results" aria-labelledby="h-list">

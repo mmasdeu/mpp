@@ -20,7 +20,7 @@ test('app works offline: visited pages, shell pages and never-visited needles', 
 	await context.setOffline(true);
 
 	await page.goto('/map/');
-	await expect(page.locator('#h-list')).toHaveText('660 agulles');
+	await expect(page.locator('#h-list')).toHaveText('675 agulles');
 	await expect(page.getByRole('status').first()).toContainText('Sense connexió');
 	await page.goto('/');
 	await expect(page.getByRole('heading', { name: 'Les sis regions' })).toBeVisible();

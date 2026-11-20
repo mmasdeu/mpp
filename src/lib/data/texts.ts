@@ -15,6 +15,7 @@ import { dirname, join } from 'node:path';
 import { applyAdditions } from './additions';
 import { applyReview, validateDecisions, type Decision } from './review';
 import { applyStructure } from './structure';
+import { applyFixes } from './fixes';
 import type { Dataset, Needle } from './types';
 
 export interface TextEntry {
@@ -35,7 +36,7 @@ export interface TextEntry {
 
 export function buildTexts(root: string): TextEntry[] {
 	const rd = <T>(f: string, fallback: T): T => { const p = join(root, 'data', f); return existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : fallback; };
-	const raw: Dataset = applyAdditions({ regions: rd('regions.json', []), sections: rd('sections.json', []), needles: rd('needles.json', []) }, rd('review/additions.json', []));
+	const raw: Dataset = applyFixes(applyAdditions({ regions: rd('regions.json', []), sections: rd('sections.json', []), needles: rd('needles.json', []) }, rd('review/additions.json', [])), rd('review/fixes.json', {}));
 	const d = applyReview(applyStructure(raw, rd('review/structure.json', undefined)), rd<Decision[]>('review/decisions.json', []));
 	const ocr = rd<Record<string, { text: string; pages: number[] }>>('ocr/descriptions.json', {});
 	const ocrIntros = rd<Record<string, Record<string, { text: string; pages: number[] }>>>('ocr/intros.json', { sections: {}, regions: {} });

@@ -3779,15 +3779,6 @@
   "note": "la Miranda del Lloro — nom exacte; a 31 m de la secció"
  },
  {
-  "needleId": "n0509",
-  "latitude": 41.60952,
-  "longitude": 1.793583,
-  "elevation": 1101,
-  "accuracy": "approximate",
-  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
-  "matchedBy": "semir"
- },
- {
   "needleId": "n0510",
   "latitude": 41.6055359,
   "longitude": 1.789251,
@@ -4947,5 +4938,14 @@
   "source": "Institut Cartogràfic i Geològic de Catalunya, toponímia 1:5.000 (CC BY 4.0)",
   "matchedBy": "name",
   "note": "Cova Gran — nom exacte; a 375 m de la secció"
+ },
+ {
+  "needleId": "n0661",
+  "latitude": 41.60952,
+  "longitude": 1.793583,
+  "elevation": 1101,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
  }
 ]

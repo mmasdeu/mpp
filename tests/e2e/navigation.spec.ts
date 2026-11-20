@@ -32,27 +32,29 @@ test('search finds needles ignoring accents and case', async ({ page }) => {
 test('map filters narrow the list, show chips and reset', async ({ page }) => {
 	await page.goto('/map/', { waitUntil: 'networkidle' });
 	const heading = page.locator('#h-list');
-	await expect(heading).toHaveText('660 agulles');
+	await expect(heading).toHaveText('675 agulles');
 	await expect(async () => {
 		await page.getByRole('group', { name: 'Regió' }).getByRole('button', { name: 'Tebaida' }).click();
-		await expect(heading).not.toHaveText('660 agulles', { timeout: 1000 });
+		await expect(heading).not.toHaveText('675 agulles', { timeout: 1000 });
 	}).toPass({ timeout: 15000 });
 	await expect(page.getByLabel('Filtres actius')).toContainText('Tebaida');
 	await page.getByRole('button', { name: /Esborra/ }).click();
 	await page.getByText('Més filtres').click();
 	await page.getByLabel('Geolocalització').selectOption('yes');
-	await expect(heading).toHaveText('529 agulles');
+	await expect(heading).toHaveText('528 agulles');
 	await page.getByLabel('Geolocalització').selectOption('no');
-	await expect(heading).toHaveText('131 agulles');
+	await expect(heading).toHaveText('147 agulles');
 	await page.getByRole('button', { name: /Esborra/ }).click();
-	await expect(heading).toHaveText('660 agulles');
+	await expect(heading).toHaveText('675 agulles');
 	await page.locator('details.more-filters').evaluate((d: HTMLDetailsElement) => (d.open = true));
 	await page.getByLabel('Tipus').selectOption('avenc');
 	await expect(heading).toHaveText('6 agulles');
 	await page.getByLabel('Tipus').selectOption('cova');
 	await expect(heading).toHaveText('4 agulles');
+	await page.getByLabel('Tipus').selectOption('itinerari');
+	await expect(heading).toHaveText('1 agulles');
 	await page.getByLabel('Tipus').selectOption('needle');
-	await expect(heading).toHaveText('650 agulles');
+	await expect(heading).toHaveText('664 agulles');
 });
 
 test('a cave has its type badge on the needle page', async ({ page }) => {
@@ -64,7 +66,7 @@ test('a cave has its type badge on the needle page', async ({ page }) => {
 test('map page honours ?section= URL parameter', async ({ page }) => {
 	await page.goto('/map/?section=s26');
 	await expect(page.getByLabel('Secció')).toHaveValue('s26');
-	await expect(page.locator('#h-list')).toHaveText('16 agulles');
+	await expect(page.locator('#h-list')).toHaveText('15 agulles');
 });
 
 test('map page is the explorer: picking a needle shows its preview card; 3D and basemap state go to the URL', async ({ page }) => {

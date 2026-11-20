@@ -1,0 +1,15 @@
+[
+ { "id": "n0662", "name": "El Tub de la Patata", "semirRef": "172a", "page": 109, "after": "n0125", "heading": "EL TUB DE LA PATATA (172/a)" },
+ { "id": "n0663", "name": "Serradet de Sant Jeroni", "semirRef": "328-329", "page": 216, "after": "n0270", "heading": "SERRADET DE SANT JERONI (ROQUES 328 i 329)", "alternativeNames": ["Agulleta del Serradet de Sant Jeroni", "Agulla Carles Carol"] },
+ { "id": "n0664", "name": "Paret NE. del Serrat del Patriarca", "page": 229, "after": "n0277", "heading": "SERRAT DEL PATRIARCA (PARET NE.)" },
+ { "id": "n0665", "name": "Roca 391", "semirRef": "391", "page": 232, "after": "n0279", "heading": "ROCA 391" },
+ { "id": "n0666", "name": "Cota 424 A", "semirRef": "424A", "page": 275, "after": "n0334", "heading": "COTA 424 A" },
+ { "id": "n0667", "name": "Roques de la Filla Alta i de la Filla Baixa de la Presidenta", "semirRef": "468-479", "page": 284, "after": "n0350", "heading": "ROQUES DE LA FILLA ALTA (468) I DE LA FILLA BAIXA (479) DE LA PRESIDENTA", "alternativeNames": ["Filla Alta de la Presidenta", "Filla Baixa de la Presidenta"] },
+ { "id": "n0668", "name": "Cota 474", "semirRef": "474", "page": 307, "after": "n0380", "heading": "COTA 474" },
+ { "id": "n0669", "name": "Cota 474 B", "semirRef": "474B", "page": 307, "after": "n0381", "heading": "COTA 474 B" },
+ { "id": "n0670", "name": "Cota 499 C", "semirRef": "499C", "page": 320, "after": "n0550", "heading": "COTA 499 C" },
+ { "id": "n0671", "name": "Serra Llarga", "semirRef": "499 D-E-F", "page": 320, "after": "n0396", "heading": "SERRA LLARGA (499 D-E-F)" },
+ { "id": "n0672", "name": "Roques de sobre l'Agulla de la Verge (B i C)", "page": 339, "after": "n0417", "heading": "ROQUES DE SOBRE L'AGULLA DE LA VERGE (B-C)" },
+ { "id": "n0673", "name": "Turó de Sant Dimes", "semirRef": "523", "page": 342, "after": "n0422", "heading": "TURÓ DE SANT DIMES (523)" },
+ { "id": "n0674", "name": "Agulla del Riu", "page": 359, "after": "n0442", "heading": "AGULLA DEL RIU (PETIT GAT)", "alternativeNames": ["Petit Gat"] }
+]

@@ -55,3 +55,12 @@ describe('alternative names from the index', () => {
 		expect(d.needles[0].alternativeNames).toEqual([]);
 	});
 });
+describe('automatic fixes', () => {
+	it('clean names before review; a reviewer name wins; Semir only when missing', async () => {
+		const { applyFixes } = await import('../../src/lib/data/fixes');
+		const d = applyFixes(base(), { a: { name: 'A bo', semirRef: '9' }, b: { name: 'B bo' } });
+		expect(d.needles[0]).toMatchObject({ name: 'A bo', semirRef: '9' });
+		const out = applyReview(d, [D({ needleId: 'b', action: 'correct', name: 'B del revisor' })]);
+		expect(out.needles[1].name).toBe('B del revisor');
+	});
+});

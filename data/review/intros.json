@@ -132,13 +132,13 @@
    "date": "2026-11-20"
   },
   "s25": {
-   "text": "Aquesta secció comprèn la serra de Sant Joan, que no presenta roques de gaire importància. L'afronten a cada costat els torrents de Santa Caterina i de Sant Joan.\n\ns'hi troba l'ermita nova de Sant Joan, col·locada dalt un turonet.\n\nAquesta roca es troba a la part baixa de la serra de Sant Joan, direcció al torrent de Santa Caterina i abocada damunt el camí de la Drecera de Sant Joan. Sortint del camí i pujant per una arbrada canal que separa la cota 466 d'una altra roca que s'hi aixeca paral·lela, tenim una ruta de fàcil accés fins al cim.",
+   "text": "Aquesta secció comprèn la serra de Sant Joan, que no presenta roques de gaire importància. L'afronten a cada costat els torrents de Santa Caterina i de Sant Joan.\n\nS'hi troba l'ermita nova de Sant Joan, col·locada dalt un turonet.",
    "pages": [
     305
    ],
    "meanConf": 100,
    "status": "reviewed",
-   "reviewer": "Marc Masdeu",
+   "reviewer": "Marc (revisió punts 2-3)",
    "date": "2026-11-20"
   },
   "s26": {
@@ -189,6 +189,16 @@
    "meanConf": 100,
    "status": "reviewed",
    "reviewer": "Marc Masdeu",
+   "date": "2026-11-20"
+  },
+  "s30": {
+   "text": "La secció trentena s'aboca de forma accidentada des del Pla de les Taràntules cap a l'O., vers l'E. baixa directament a la vessant del riu Llobregat. Constitueix la darrera secció de la regió de Tebes.\n\nLa roca més important és l'agulla de la Creu. Convé de remarcar-ne també la capella de la Santa Cova, que li dóna nom.",
+   "pages": [
+    327
+   ],
+   "meanConf": 100,
+   "status": "reviewed",
+   "reviewer": "Marc (revisió punts 2-3)",
    "date": "2026-11-20"
   }
  },

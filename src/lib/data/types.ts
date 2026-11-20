@@ -10,8 +10,8 @@ export interface Needle {
 	description?: string; normalRoute?: string; otherRoutes?: string[];
 	location?: { latitude: number; longitude: number; elevation?: number; accuracy?: 'verified' | 'approximate' | 'unknown'; source?: string };
 	images: ImageReference[]; bookReferences: BookReference[]; historicalNotes?: string[];
-	/** what kind of entry this is: absent = needle/rock; 'cova' = cave, 'avenc' = pit/shaft (also listed in the book, data/review/kinds.json + additions) */
-	kind?: 'cova' | 'avenc';
+	/** what kind of entry this is: absent = needle/rock; 'cova' = cave, 'avenc' = pit/shaft, 'itinerari' = route/path (also listed in the book, data/review/kinds.json + additions) */
+	kind?: 'cova' | 'avenc' | 'itinerari';
 	/** only for reviewer-added needles (data/review/additions.json): id of the needle they follow in book order */
 	after?: string;
 	metadata: { extractionStatus: 'verified' | 'reviewed' | 'unreviewed'; extractionNote?: string; lastUpdated?: string };

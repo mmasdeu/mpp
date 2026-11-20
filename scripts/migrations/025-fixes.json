@@ -1,0 +1,396 @@
+{
+ "n0003": {
+  "name": "Roca de l'Arc de Guirló"
+ },
+ "n0009": {
+  "name": "Roca de les Vuit o Llastra del Dau"
+ },
+ "n0013": {
+  "name": "Agulla dels Tres"
+ },
+ "n0015": {
+  "name": "Roca de l'Era dels Pallers"
+ },
+ "n0016": {
+  "name": "Agulles de l'Era dels Pallers"
+ },
+ "n0022": {
+  "name": "Roca dels Cartutxos"
+ },
+ "n0027": {
+  "name": "L'Aglà"
+ },
+ "n0045": {
+  "name": "Agulla dels Espeleòlegs"
+ },
+ "n0046": {
+  "name": "La Saca Gran, Agulla d'en Dionís o el Tríptic"
+ },
+ "n0054": {
+  "name": "Agulla de l'Arbret"
+ },
+ "n0055": {
+  "name": "Agulla de l'Arbret, Aresta Brucs"
+ },
+ "n0056": {
+  "name": "La Miranda dels Ossos"
+ },
+ "n0057": {
+  "name": "Agulla dels Ossos"
+ },
+ "n0058": {
+  "name": "La Filigrana o Faluga"
+ },
+ "n0062": {
+  "name": "Agulla de l'Esquelet"
+ },
+ "n0064": {
+  "name": "Roca dels Pouetons"
+ },
+ "n0068": {
+  "name": "Agulla de la Carnavalada o Agulla dels Set"
+ },
+ "n0076": {
+  "name": "El Broc Petit o Broc del Setrill"
+ },
+ "n0081": {
+  "name": "La Torta o la Mà"
+ },
+ "n0087": {
+  "name": "L'Escorpí"
+ },
+ "n0091": {
+  "name": "La Cadireta o Roca del Centellar"
+ },
+ "n0092": {
+  "name": "L'Enclusa d'Agulles"
+ },
+ "n0095": {
+  "name": "Agulla de la Boleta o la Desconeguda"
+ },
+ "n0096": {
+  "name": "L'Ànec"
+ },
+ "n0097": {
+  "name": "Agulla d'en Passola"
+ },
+ "n0103": {
+  "name": "L'Elefant Petit o Agulla de les Tramperes"
+ },
+ "n0112": {
+  "name": "Punta d'en Campanilles"
+ },
+ "n0113": {
+  "name": "Roca sota la Punta d'en Campanilles"
+ },
+ "n0116": {
+  "name": "Cap d'en Calventus"
+ },
+ "n0120": {
+  "name": "La Caputxa o Agulla Vicenç Barbé"
+ },
+ "n0132": {
+  "name": "L'Asiàtica"
+ },
+ "n0138": {
+  "name": "L'Enclusa dels Frares o el Bacallà"
+ },
+ "n0139": {
+  "name": "Turó del Pou de l'Enclusa"
+ },
+ "n0140": {
+  "name": "Agulla dels Caporals"
+ },
+ "n0147": {
+  "name": "Roca Petita o Inferior de Pas de Príncep"
+ },
+ "n0151": {
+  "name": "Miranda d'Agulles"
+ },
+ "n0154": {
+  "name": "Miranda de l'Arcada"
+ },
+ "n0158": {
+  "name": "Roca d'en Guillot"
+ },
+ "n0159": {
+  "name": "Roca dels Aurons"
+ },
+ "n0160": {
+  "name": "Miranda dels Aurons"
+ },
+ "n0162": {
+  "name": "L'Esfinx dels Ecos"
+ },
+ "n0163": {
+  "name": "Roca de la Taula d'en Bernat"
+ },
+ "n0164": {
+  "name": "Roca del Bassal dels Ferros"
+ },
+ "n0166": {
+  "name": "El Cabrit o el Cilindre"
+ },
+ "n0167": {
+  "name": "Miranda del Cabrit o del Cilindre"
+ },
+ "n0168": {
+  "name": "Agulla Alta de la Coma dels Naps de Baix"
+ },
+ "n0169": {
+  "name": "Roca dels Nuvis"
+ },
+ "n0170": {
+  "name": "Agulla de l'Estrep"
+ },
+ "n0172": {
+  "name": "Roca dels Esperantistes"
+ },
+ "n0175": {
+  "name": "Bonys dels Naps"
+ },
+ "n0176": {
+  "name": "Roca Inferior de l'Alzina"
+ },
+ "n0177": {
+  "name": "Roca de l'Alzina"
+ },
+ "n0179": {
+  "name": "Agulla dels Naps de Dalt"
+ },
+ "n0186": {
+  "name": "Agulla Fina dels Naps de Baix"
+ },
+ "n0188": {
+  "name": "Veïna de la Roca Roja"
+ },
+ "n0194": {
+  "name": "Mirador de l'Oliverar"
+ },
+ "n0211": {
+  "name": "La Rampa de l'Esfinx"
+ },
+ "n0213": {
+  "name": "Roques dels Plecs de Llibre"
+ },
+ "n0216": {
+  "name": "Boleta dels Plecs"
+ },
+ "n0220": {
+  "name": "Roca Veïna de la Dreta de la Salamandra"
+ },
+ "n0222": {
+  "name": "Roca Veïna de l'Esquerra de la Salamandra"
+ },
+ "n0231": {
+  "name": "Paret dels Ecos, Cara N."
+ },
+ "n0233": {
+  "name": "Camell dels Ecos"
+ },
+ "n0236": {
+  "name": "Agulla del Pas dels Micos"
+ },
+ "n0249": {
+  "name": "Agulleta d'en Pany"
+ },
+ "n0251": {
+  "name": "Roca de l'Ampolla"
+ },
+ "n0256": {
+  "name": "Roca d'en Millet"
+ },
+ "n0259": {
+  "name": "Roca dels Coloms"
+ },
+ "n0271": {
+  "name": "Serrat del Moro i Mirador"
+ },
+ "n0272": {
+  "name": "Roca de la Paret de l'Aeri"
+ },
+ "n0280": {
+  "name": "Paret dels Diables"
+ },
+ "n0281": {
+  "name": "El Ganivet dels Diables"
+ },
+ "n0282": {
+  "name": "Merlet de sota l'Ermita de Sant Antoni"
+ },
+ "n0287": {
+  "name": "Carena i Puntal de l'Albarda"
+ },
+ "n0292": {
+  "name": "Roca del Truc o de la Vinya Nova"
+ },
+ "n0294": {
+  "name": "Roques dels Bugaders"
+ },
+ "n0298": {
+  "name": "Serrat dels Tudons"
+ },
+ "n0299": {
+  "name": "Agulla de l'Alícia"
+ },
+ "n0300": {
+  "name": "Agulla dels Llops"
+ },
+ "n0303": {
+  "name": "Agulla de l'Avenc"
+ },
+ "n0305": {
+  "name": "Roca de l'Ocell Mort"
+ },
+ "n0307": {
+  "name": "Mirador dels Plecs de Llibre"
+ },
+ "n0312": {
+  "name": "Roca dels Trullagons"
+ },
+ "n0315": {
+  "name": "Agulla dels Flamencs"
+ },
+ "n0318": {
+  "name": "Conjunt dels Pollegons"
+ },
+ "n0319": {
+  "name": "Serrat dels Pollegons A"
+ },
+ "n0320": {
+  "name": "Serrat dels Pollegons B"
+ },
+ "n0321": {
+  "name": "Serrat de l'Artiga Alta"
+ },
+ "n0322": {
+  "name": "Miranda dels Pollegons"
+ },
+ "n0328": {
+  "name": "Roca Veïna del Rave"
+ },
+ "n0329": {
+  "name": "El Rave o la Baldufa"
+ },
+ "n0330": {
+  "name": "Roques de sota el Rave"
+ },
+ "n0332": {
+  "name": "Processó dels Monjos"
+ },
+ "n0337": {
+  "name": "Roca dels Colleccionistes"
+ },
+ "n0346": {
+  "name": "Agulleta de l'Esglai"
+ },
+ "n0351": {
+  "name": "Agulleta i Miranda de Sant Joan"
+ },
+ "n0352": {
+  "name": "Roca d'en Marcel"
+ },
+ "n0354": {
+  "name": "Roca de l'Esquerda"
+ },
+ "n0355": {
+  "name": "Roques de sota el Rellotge"
+ },
+ "n0356": {
+  "name": "Roca de l'Artiga Baixa"
+ },
+ "n0359": {
+  "name": "Roca del Camí de l'Artiga Baixa"
+ },
+ "n0375": {
+  "name": "Roca de sobre l'Estació Superior de Sant Joan"
+ },
+ "n0380": {
+  "name": "Agulleta dels Dos Forats"
+ },
+ "n0387": {
+  "name": "Agulla de sota la Llisa"
+ },
+ "n0392": {
+  "name": "Agulla de l'Albert Iglésias"
+ },
+ "n0393": {
+  "name": "Agulleta del Pont Natural de Collbató"
+ },
+ "n0395": {
+  "name": "Serrat dels Monjos"
+ },
+ "n0397": {
+  "name": "Roca d'en Jamamoto"
+ },
+ "n0399": {
+  "name": "Roques del Camí de les Ermites"
+ },
+ "n0404": {
+  "name": "Roca de Fra Garí"
+ },
+ "n0405": {
+  "name": "Roca de l'Àngel"
+ },
+ "n0410": {
+  "name": "Roca de l'Àvia"
+ },
+ "n0414": {
+  "name": "Agulla dels Retornats"
+ },
+ "n0415": {
+  "name": "Roca del Pas dels Francesos"
+ },
+ "n0416": {
+  "name": "Roca de l'Elefantet"
+ },
+ "n0418": {
+  "name": "Roca de sobre l'Agulla de la Verge"
+ },
+ "n0423": {
+  "name": "Sostre del Castell del Diable o del Monestir"
+ },
+ "n0427": {
+  "name": "Merlet del Pla dels Ocells",
+  "semirRef": "521"
+ },
+ "n0428": {
+  "name": "Carena del Merlet del Pla dels Ocells"
+ },
+ "n0429": {
+  "name": "Agulla del Pla dels Ocells"
+ },
+ "n0434": {
+  "name": "Roca d'en Barberà"
+ },
+ "n0435": {
+  "name": "Agulla d'en Markus Kamen"
+ },
+ "n0443": {
+  "name": "Roca dels Corbs"
+ },
+ "n0448": {
+  "name": "Ressalt dels Pelegrins"
+ },
+ "n0464": {
+  "name": "Roques de sota el Camí de l'Arrel"
+ },
+ "n0468": {
+  "name": "Agulla dels Degotalls"
+ },
+ "n0469": {
+  "name": "Roca dels Àngels"
+ },
+ "n0470": {
+  "name": "Pedrís dels Bisbes"
+ },
+ "n0471": {
+  "name": "La Flama o el Didal"
+ },
+ "n0472": {
+  "name": "Roca de l'Urbain"
+ },
+ "n0479": {
+  "name": "Roques dels Falcons"
+ }
+}
