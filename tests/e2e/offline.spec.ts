@@ -1,4 +1,5 @@
 import { test, expect, type Page } from '@playwright/test';
+import { COUNT, agulles } from './counts';
 
 async function controlled(page: Page) {
 	await page.goto('/');
@@ -20,7 +21,7 @@ test('app works offline: visited pages, shell pages and never-visited needles', 
 	await context.setOffline(true);
 
 	await page.goto('/map/');
-	await expect(page.locator('#h-list')).toHaveText('675 agulles');
+	await expect(page.locator('#h-list')).toHaveText(agulles(COUNT.total));
 	await expect(page.getByRole('status').first()).toContainText('Sense connexió');
 	await page.goto('/');
 	await expect(page.getByRole('heading', { name: 'Les sis regions' })).toBeVisible();

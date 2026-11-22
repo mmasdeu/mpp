@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { COUNT, agulles } from './counts';
 
 test('home lists the six regions and navigates to a section and a needle', async ({ page }) => {
 	await page.goto('/');
@@ -32,29 +33,29 @@ test('search finds needles ignoring accents and case', async ({ page }) => {
 test('map filters narrow the list, show chips and reset', async ({ page }) => {
 	await page.goto('/map/', { waitUntil: 'networkidle' });
 	const heading = page.locator('#h-list');
-	await expect(heading).toHaveText('675 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.total));
 	await expect(async () => {
 		await page.getByRole('group', { name: 'Regió' }).getByRole('button', { name: 'Tebaida' }).click();
-		await expect(heading).not.toHaveText('675 agulles', { timeout: 1000 });
+		await expect(heading).not.toHaveText(agulles(COUNT.total), { timeout: 1000 });
 	}).toPass({ timeout: 15000 });
 	await expect(page.getByLabel('Filtres actius')).toContainText('Tebaida');
 	await page.getByRole('button', { name: /Esborra/ }).click();
 	await page.getByText('Més filtres').click();
 	await page.getByLabel('Geolocalització').selectOption('yes');
-	await expect(heading).toHaveText('528 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.located));
 	await page.getByLabel('Geolocalització').selectOption('no');
-	await expect(heading).toHaveText('147 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.unlocated));
 	await page.getByRole('button', { name: /Esborra/ }).click();
-	await expect(heading).toHaveText('675 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.total));
 	await page.locator('details.more-filters').evaluate((d: HTMLDetailsElement) => (d.open = true));
 	await page.getByLabel('Tipus').selectOption('avenc');
-	await expect(heading).toHaveText('6 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.avenc));
 	await page.getByLabel('Tipus').selectOption('cova');
-	await expect(heading).toHaveText('4 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.cova));
 	await page.getByLabel('Tipus').selectOption('itinerari');
-	await expect(heading).toHaveText('1 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.itinerari));
 	await page.getByLabel('Tipus').selectOption('needle');
-	await expect(heading).toHaveText('664 agulles');
+	await expect(heading).toHaveText(agulles(COUNT.needle));
 });
 
 test('a cave has its type badge on the needle page', async ({ page }) => {
@@ -66,7 +67,7 @@ test('a cave has its type badge on the needle page', async ({ page }) => {
 test('map page honours ?section= URL parameter', async ({ page }) => {
 	await page.goto('/map/?section=s26');
 	await expect(page.getByLabel('Secció')).toHaveValue('s26');
-	await expect(page.locator('#h-list')).toHaveText('15 agulles');
+	await expect(page.locator('#h-list')).toHaveText(agulles(COUNT.inSection('s26')));
 });
 
 test('map page is the explorer: picking a needle shows its preview card; 3D and basemap state go to the URL', async ({ page }) => {

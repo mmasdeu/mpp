@@ -4947,5 +4947,234 @@
   "accuracy": "approximate",
   "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
   "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0050",
+  "latitude": 41.609532,
+  "longitude": 1.782697,
+  "elevation": 1025,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0676",
+  "latitude": 41.607405,
+  "longitude": 1.785125,
+  "elevation": 974,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0662",
+  "latitude": 41.609661,
+  "longitude": 1.792404,
+  "elevation": 1041,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0533",
+  "latitude": 41.604626,
+  "longitude": 1.818359,
+  "elevation": 947,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir",
+  "note": "Centre de les roques 361, 362 i 363"
+ },
+ {
+  "needleId": "n0285",
+  "latitude": 41.600333,
+  "longitude": 1.813457,
+  "elevation": 1120,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir",
+  "note": "La taula dona x=4011205 (errata); s'ha llegit 401120"
+ },
+ {
+  "needleId": "n0677",
+  "latitude": 41.586573,
+  "longitude": 1.818112,
+  "elevation": 827,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0666",
+  "latitude": 41.588719,
+  "longitude": 1.823604,
+  "elevation": 986,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0667",
+  "latitude": 41.586976,
+  "longitude": 1.821428,
+  "elevation": 824,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir",
+  "note": "Centre de les roques 468 (Filla Alta) i 479 (Filla Baixa)"
+ },
+ {
+  "needleId": "n0355",
+  "latitude": 41.58648,
+  "longitude": 1.821305,
+  "elevation": 833,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Centre de les dues entrades «Roques (de) sota el Rellotge»"
+ },
+ {
+  "needleId": "n0383",
+  "latitude": 41.584771,
+  "longitude": 1.833453,
+  "elevation": 870,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Centre de les dues entrades «Roques del Triangle»"
+ },
+ {
+  "needleId": "n0668",
+  "latitude": 41.581611,
+  "longitude": 1.831422,
+  "elevation": 892,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0669",
+  "latitude": 41.580096,
+  "longitude": 1.833033,
+  "elevation": 857,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0393",
+  "latitude": 41.57589,
+  "longitude": 1.83125,
+  "elevation": 601,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Entrada «Agulla dl Pont Natural de Collbató» (errata a la taula)"
+ },
+ {
+  "needleId": "n0386",
+  "latitude": 41.576875,
+  "longitude": 1.826302,
+  "elevation": 683,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Entrada «Roca Llisa» de la taula; coincidència pel nom, no verificada"
+ },
+ {
+  "needleId": "n0391",
+  "latitude": 41.574233,
+  "longitude": 1.832155,
+  "elevation": 576,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "La taula l'etiqueta «possible»"
+ },
+ {
+  "needleId": "n0390",
+  "latitude": 41.574397,
+  "longitude": 1.831468,
+  "elevation": 585,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "La taula l'etiqueta «possible»"
+ },
+ {
+  "needleId": "n0670",
+  "latitude": 41.581694,
+  "longitude": 1.849463,
+  "elevation": 625,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0671",
+  "latitude": 41.580564,
+  "longitude": 1.850563,
+  "elevation": 626,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir",
+  "note": "Centre de les cotes 499 D, E i F"
+ },
+ {
+  "needleId": "n0673",
+  "latitude": 41.595182,
+  "longitude": 1.837357,
+  "elevation": 920,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0422",
+  "latitude": 41.592872,
+  "longitude": 1.835239,
+  "elevation": 772,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Entrada «Sostre del Castell del Diable o del Monestir»"
+ },
+ {
+  "needleId": "n0674",
+  "latitude": 41.593305,
+  "longitude": 1.84333,
+  "elevation": 634,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name"
+ },
+ {
+  "needleId": "n0406",
+  "latitude": 41.5908,
+  "longitude": 1.841347,
+  "elevation": 584,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Entrada «La Vomitada»"
+ },
+ {
+  "needleId": "n0477",
+  "latitude": 41.599444,
+  "longitude": 1.827813,
+  "elevation": 921,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "semir"
+ },
+ {
+  "needleId": "n0277",
+  "latitude": 41.602901,
+  "longitude": 1.818798,
+  "elevation": 1146,
+  "accuracy": "approximate",
+  "source": "TOT MONTSERRAT, «Agulles ordenades alfabèticament per seccions» (2015), UTM ETRS89 31N — https://totmontserrat.cat/muntanya/agulles/agulles/",
+  "matchedBy": "name",
+  "note": "Roca 354, el punt més alt del serrat"
  }
 ]
