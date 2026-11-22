@@ -15,7 +15,7 @@
 {#if __DRAWINGS__ || __BOOK_IMAGES__}
 	{@const src = __DRAWINGS__ ? `${base}/images/drawings/d007.webp` : `${base}/images/book/p007.webp`}
 	<figure class="book-map" class:cutout={__DRAWINGS__}>
-		<a href={src} target="_blank" rel="noopener"><img {src} alt="Mapa de Montserrat en 35 seccions, escala 1:28.000 (pàgina 7 del llibre)" width="1071" height="698" /></a>
+		<a href="{base}/map/" aria-label="Obre el mapa interactiu de les agulles"><img {src} alt="Mapa de Montserrat en 35 seccions, escala 1:28.000 (pàgina 7 del llibre)" width="1071" height="698" /></a>
 		<figcaption class="muted">Mapa de les 35 seccions (llibre, p. 7).</figcaption>
 	</figure>
 {/if}

@@ -198,7 +198,7 @@
 					{#if sel.alternativeNames.length}<p class="muted">També: {sel.alternativeNames.join(', ')}</p>{/if}
 					{#if !sel.location}<p class="muted"><Icon name="pin-off" size={15} /> Sense coordenades: el mapa mostra la secció {selSection?.name}.</p>{/if}
 					{#if selDrawing && __DRAWINGS__}
-						<img class="thumb ink" src="{base}/images/drawings/d{String(selDrawing).padStart(3, '0')}.webp" alt="Dibuix de {sel.name} (pàgina {selDrawing})" loading="lazy" onerror={(e) => ((e.currentTarget as HTMLElement).style.display = 'none')} />
+						<a href="{base}/needles/{sel.id}/" aria-label="Obre la fitxa de {sel.name}"><img class="thumb ink" src="{base}/images/drawings/d{String(selDrawing).padStart(3, '0')}.webp" alt="Dibuix de {sel.name} (pàgina {selDrawing})" loading="lazy" onerror={(e) => ((e.currentTarget as HTMLElement).style.display = 'none')} /></a>
 					{/if}
 					<p class="actions"><a class="btn primary" href="{base}/needles/{sel.id}/">Obre la fitxa <Icon name="arrow-right" size={16} /></a>
 						<a class="btn" href="{base}/sections/{sel.sectionId}/">Secció</a></p>

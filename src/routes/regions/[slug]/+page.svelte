@@ -28,7 +28,7 @@
 		<IntroText intro={data.intro} />
 	</div>
 	{#if data.mapPages.length && __DRAWINGS__}
-		<section aria-labelledby="h-regmap"><h2 id="h-regmap">Plànol de la regió</h2><Cutouts pages={data.mapPages} alt="la regió {data.region.name}" label="Plànol" /></section>
+		<section aria-labelledby="h-regmap"><h2 id="h-regmap">Plànol de la regió</h2><Cutouts pages={data.mapPages} alt="la regió {data.region.name}" label="Plànol" href="{base}/map/?region={data.region.id}" /></section>
 	{/if}
 </div>
 
@@ -37,7 +37,7 @@
 		<h2 id="h-pano">Panoràmiques de la regió</h2>
 		{#each data.panoramas as pa (pa.id)}
 			<figure class="pano" data-testid="book-panorama">
-				<a href="{base}/images/drawings/pano-{pa.id}.webp" target="_blank" rel="noopener" aria-label="Obre «{pa.title}» a mida completa (nova pestanya)">
+				<a href="{base}/map/?region={data.region.id}" aria-label="Mostra la regió {data.region.name} al mapa interactiu">
 					<img class="ink" src="{base}/images/drawings/pano-{pa.id}.webp" alt="Panoràmica: {pa.title} (pàgin{pa.pages.length > 1 ? 'es' : 'a'} {pa.pages.join('–')} del llibre)" loading="lazy" decoding="async" />
 				</a>
 				<figcaption>{pa.title} · pàgin{pa.pages.length > 1 ? 'es' : 'a'} {pa.pages.join('–')} · © Publicacions de l'Abadia de Montserrat, 1977</figcaption>

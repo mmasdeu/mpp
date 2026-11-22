@@ -29,7 +29,7 @@
 		<IntroText intro={data.intro} />
 	</div>
 	{#if data.mapPages.length && __DRAWINGS__}
-		<section aria-labelledby="h-secmap"><h2 id="h-secmap">Plànol de la secció</h2><Cutouts pages={data.mapPages} alt="la secció {data.section.name}" label="Plànol" /></section>
+		<section aria-labelledby="h-secmap"><h2 id="h-secmap">Plànol de la secció</h2><Cutouts pages={data.mapPages} alt="la secció {data.section.name}" label="Plànol" href="{base}/map/?section={data.section.id}" /></section>
 	{/if}
 </div>
 

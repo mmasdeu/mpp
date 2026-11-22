@@ -25,10 +25,10 @@
 		{#each plates.filter((p) => (scans && __BOOK_IMAGES__) || !cropFailed[p]) as p (p)}
 			<figure class="plate" data-testid="drawing">
 				<!-- transparent cut-out of the drawing, shown as a plain drawing; falls back to the whole scanned page if the cut-out is not deployed -->
-				<img src={cropFailed[p] ? url(p) : drawingUrl(p)} loading="lazy" decoding="async" class:ink={!cropFailed[p]}
+				<a href="{base}/sections/{needle.sectionId}/" aria-label="Mostra la secció de {needle.name}"><img src={cropFailed[p] ? url(p) : drawingUrl(p)} loading="lazy" decoding="async" class:ink={!cropFailed[p]}
 					style:width={!cropFailed[p] && plateW[p] ? `${Math.min((plateW[p] / PAGE_PX) * 100, 100)}%` : undefined}
 					onload={(e) => { if (!cropFailed[p]) plateW[p] = (e.currentTarget as HTMLImageElement).naturalWidth; }}
-					alt="Dibuix de {needle.name} amb les vies d'escalada (pàgina {p} del llibre)" onerror={() => (cropFailed[p] = true)} />
+					alt="Dibuix de {needle.name} amb les vies d'escalada (pàgina {p} del llibre)" onerror={() => (cropFailed[p] = true)} /></a>
 				<figcaption>Dibuix · pàgina {p} · © Publicacions de l'Abadia de Montserrat, 1977</figcaption>
 			</figure>
 		{/each}
@@ -38,7 +38,7 @@
 				{#if failed[p]}
 					<p class="muted">No s'ha pogut carregar la imatge de la pàgina {p} (potser no està desada per a l'ús sense connexió).</p>
 				{:else}
-					<a href={url(p)} target="_blank" rel="noopener" aria-label="Obre la pàgina {p} a mida completa (nova pestanya)">
+					<a href="{base}/llibre/?p={p}" aria-label="Obre la pàgina {p} al llibre">
 						<img src={url(p)} width="698" height="1071" loading={i === 0 ? 'eager' : 'lazy'} decoding="async"
 							alt="Pàgina {p} de «Montserrat pam a pam», amb l'entrada {needle.name}" onerror={() => (failed[p] = true)} />
 					</a>

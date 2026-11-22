@@ -247,3 +247,22 @@ test('llibre: es passa de pàgina i es veuen les fitxes de cada pàgina', async 
 	await page.getByTestId('page-items').getByRole('link').first().click();
 	await expect(page).toHaveURL(/\/$/);
 });
+
+test('clicking the book map on the home page opens the interactive map, never the bare image', async ({ page }) => {
+	await page.goto('/');
+	const fig = page.locator('figure.book-map');
+	if (!(await fig.count())) return;                      // no book images in this build
+	await expect(fig.locator('a')).toHaveAttribute('href', /\/map\/$/);
+	await expect(fig.locator('a')).not.toHaveAttribute('target', '_blank');
+	await fig.locator('a').click();
+	await expect(page).toHaveURL(/\/map\/$/);
+	await expect(page.locator('#h-list')).toBeVisible();
+});
+
+test('no image links to a bare image file', async ({ page }) => {
+	for (const url of ['/', '/regions/agulles/', '/sections/s05/', '/needles/n0004/']) {
+		await page.goto(url);
+		const bad = await page.locator('a:has(img)').evaluateAll((as) => as.map((a) => (a as HTMLAnchorElement).getAttribute('href') ?? '').filter((h) => /\.(webp|png|jpe?g|svg)(\?|$)/i.test(h)));
+		expect(bad, url).toEqual([]);
+	}
+});
